@@ -1,0 +1,38 @@
+---
+title: '[!DNL Commerce] para usuarios empresariales: atributos'
+description: Obtenga información sobre los atributos personalizados y del sistema para productos.
+topic: Commerce
+kt: 5769
+doc-type: video
+role: Admin, Leader, User
+activity: use
+exl-id: 17dca70a-bd71-4f52-b034-8f8f31b71fec
+source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 0%
+
+---
+
+# [!DNL Commerce] para usuarios empresariales: atributos
+
+En este vídeo:
+
+- Atributos del sistema
+- Atributos personalizados
+
+## ¿Para quién es este vídeo?
+
+- Usuarios empresariales
+
+## Contenido del vídeo
+
+>[!NOTE]
+>
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte las [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+
+>[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
+
+## Recursos adicionales
+
+[Atributos del producto: guía del  [!DNL Commerce] usuario](https://docs.magento.com/user-guide/catalog/product-attributes.html)
