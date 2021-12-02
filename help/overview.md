@@ -2,9 +2,9 @@
 title: '[!DNL Commerce] Vídeos y Tutorials'
 description: Una colección de vídeos y tutoriales para Adobe Commerce y Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: de19943b401343664da468d65844ec10ee8670fb
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,24 +13,25 @@ ht-degree: 0%
 
 ![](./assets/banner.png)
 
-Le damos la bienvenida a la colección de tutoriales y vídeos [!DNL Commerce]. El uso de estos recursos, junto con la [documentación](https://experienceleague.adobe.com/docs/commerce.html), le proporcionan una mejor comprensión de cómo utilizar [!DNL Commerce] para soportar su negocio de comercio electrónico.
+Bienvenido a la [!DNL Commerce] colección de vídeos y tutoriales. Uso de estos recursos junto con la variable [documentación](https://experienceleague.adobe.com/docs/commerce.html), le proporcionará una mejor comprensión de cómo usar [!DNL Commerce] para dar soporte a su negocio de comercio electrónico.
 
 - Explorar el contenido por tema y subtema en el panel de navegación izquierdo
 - Utilice el campo de búsqueda de la parte superior de la página si sabe lo que está buscando
 
 Estos recursos básicos incluyen series de vídeos que proporcionan una vista de alto nivel de los temas y vídeos individuales dirigidos a tareas y procesos específicos. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
 
-La serie de vídeos básicos de nivel de entrada para [!DNL Commerce] incluyen:
+Serie de vídeos básicos de nivel de entrada para [!DNL Commerce] incluir:
 
-- [Adobe Commerce en ](./cloud/1-overview.md) infraestructura de nube es una descripción general completa de las tecnologías clave, la estructura del proyecto, las fases de implementación y las configuraciones para Adobe Commerce en infraestructura de nube.
-- [[!DNL Commerce] para ](./developer/backend-1-1-overview.md) desarrolladores, consulte una descripción general de la plataforma para desarrolladores back-end.
-- [[!DNL Commerce] para los ](./merchant/introduction/1-1-menus.md) usuarios empresariales, cualquiera puede conocer el  [!DNL Admin] lado de  [!DNL Commerce].
+- [Adobe Commerce en infraestructura en la nube](./cloud/1-overview.md) es una descripción general completa de las tecnologías clave, la estructura del proyecto, las fases de implementación y las configuraciones para Adobe Commerce en la infraestructura de la nube.
+- [[!DNL Commerce] para desarrolladores](./developer/backend-1-1-overview.md) es una descripción general de la plataforma para desarrolladores de backend.
+- [[!DNL Commerce] para usuarios empresariales](./merchant/introduction/1-1-menus.md) ayuda a cualquier persona a conocer el [!DNL Admin] lado de [!DNL Commerce].
+- [[!DNL Business Intelligence]](./merchant/business-intelligence/1-overview.md) es una introducción de alto nivel sobre cómo impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## Serie adicional para desarrolladores
 
-- [Aplicaciones web progresivas (PWA) para desarrolladores (serie de vídeos)](./pwa/introduction/1-overview.md)  Obtenga información sobre el PWA (Progressive Web Application) y por qué el PWA Studio es la &#x200B; futura. Esta serie es una buena introducción para que los desarrolladores y los administradores de proyectos empiecen con un proyecto de PWA para [!DNL Commerce].
+- [Aplicaciones web progresivas (PWA) para desarrolladores (serie de vídeos)](./pwa/introduction/1-overview.md) Obtenga información sobre el PWA (Progressive Web Application) y por qué el PWA Studio es el &#x200B; futuro. Esta serie es una buena introducción para que los desarrolladores y los administradores de proyectos empiecen con un proyecto de PWA para [!DNL Commerce].
 
-- [Información general de Page Builder para desarrolladores (series de vídeos)](./developer/page-builder/1-intro-case-studies.md)  Obtenga información sobre cómo funciona Page Builder y formas de personalizar Page Builder para el diseño y la administración avanzados de contenido.
+- [Información general de Page Builder para desarrolladores (serie de vídeos)](./developer/page-builder/1-intro-case-studies.md) Obtenga información sobre cómo funciona el Generador de páginas y las formas de personalizarlo para el diseño y la administración avanzados del contenido.
 
 <!--
 - **[Security planning for [!DNL Commerce] (video series)](./security/summit-security/1-summit-security.md)**
@@ -42,5 +43,5 @@ La serie de vídeos básicos de nivel de entrada para [!DNL Commerce] incluyen:
 
 - [Documentación del usuario](https://docs.magento.com/)
 - [Documentación para desarrolladores](https://devdocs.magento.com/)
-- [documentación del PWA Studio](https://magento.github.io/pwa-studio/)
+- [documentación del PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)
 - [Adobe Servicios de aprendizaje digital: catálogo de cursos de Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

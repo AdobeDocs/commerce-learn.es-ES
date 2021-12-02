@@ -1,9 +1,9 @@
 ---
 user-guide-title: Vídeos y Tutorials
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Commerce y Magento Open Source.
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 0%
 + [[!DNL Commerce] Vídeos y Tutorials](overview.md)
 
 + Introducción {#getting-started}
-   + [!DNL Commerce] en la infraestructura de nube  {#cloud}
+   + [!DNL Commerce] en la infraestructura de nube {#cloud}
       + [1 - Información general](./cloud/1-overview.md)
       + [2 - Cuentas alojadas](./cloud/2-accounts.md)
       + [3 - Proyectos en la nube](./cloud/3-projects.md)
       + [4 - Implementación](./cloud/4-deployment.md)
       + [5 - Desarrollo](./cloud/5-dev-config.md)
       + [6 - Servicios y DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] para desarrolladores  {#development}
+   + [!DNL Commerce] para desarrolladores {#development}
       + [1.1 Información general](./developer/backend-1-1-overview.md)
       + [1.2: Flujo de trabajo de desarrollo](./developer/backend-1-2-workflow.md)
       + [2 - Instalación](./developer/backend-2-install.md)
@@ -30,9 +30,9 @@ ht-degree: 0%
       + [5.1: Conceptos básicos de desarrollo](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Esquema declarativo](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - Enrutamiento](./developer/backend-5-3-routing.md)
-      + [5.4: Crear una página [!DNL Admin] ](./developer/backend-5-4-admin-page.md)
+      + [5.4: Crear un [!DNL Admin] página](./developer/backend-5-4-admin-page.md)
       + [6 - Ejercicios](./developer/backend-6-practice.md)
-   + [!DNL Commerce] para usuarios empresariales  {#merchants}
+   + [!DNL Commerce] para usuarios empresariales {#merchants}
       + [1.1 - [!DNL Admin] menús](./merchant/introduction/1-1-menus.md)
       + [1.2 - Cuadrículas de datos](./merchant/introduction/1-2-data-grids.md)
       + [1.3: Ámbitos, sitios y tiendas](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -55,15 +55,28 @@ ht-degree: 0%
       + [5.1: Experiencia de tienda](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2: Administración de clientes](./merchant/introduction/5-2-customer-management.md)
       + [5.3: Comunicaciones por correo electrónico](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 - Información general](./merchant/business-intelligence/1-overview.md)
+      + [2 - Almacenamiento de datos](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3: Generar informes](./merchant/business-intelligence/3-build-reports.md)
+      + [4 - Métricas](./merchant/business-intelligence/4-metrics.md)
+      + [5: Informes estándar](./merchant/business-intelligence/5-standard-reports.md)
+      + [6. Resumen](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 - Panel de pedidos](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8: Tableros centrados en el cliente](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 - Análisis de categorías](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 - Seguimiento del rendimiento de la inversión](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 - Compartir resultados y exportar datos](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12: Casos de éxito de clientes](./merchant/business-intelligence/12-customer-success.md)
 
-+ Desarrollo del back-end {#backend-development}
++ Desarrollo back-end {#backend-development}
    + [Agregar una nueva tabla a una base de datos](./developer/add-new-db-table.md)
    + [Creación de un módulo](developer/create-module.md)
    + [Añadir un nuevo atributo de producto](./developer/add-product-attribute.md)
    + [Ejemplo de inyección de dependencias](./developer/dependency-injection.md)
 
-+ Desarrollo del front-end {#frontend-development}
-   + Creador de páginas {#page-builder}
++ Desarrollo de front-end {#frontend-development}
+   + Page Builder {#page-builder}
       + [1 - Introducción](./developer/page-builder/1-intro-case-studies.md)
       + [2 - Configuración y contenido](./developer/page-builder/2-config-create-content.md)
       + [3 - Temas](./developer/page-builder/3-themes.md)
