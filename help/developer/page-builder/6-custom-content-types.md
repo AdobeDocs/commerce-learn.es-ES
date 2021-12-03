@@ -6,9 +6,9 @@ kt: 5655
 doc-type: video
 activity: use
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 96ccb66b9bc4581d4192a4e2f0aeb5a1695c7776
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte las [notas de la versión de Creador de páginas](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte la [Notas de la versión de Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Documentación para desarrolladores de ](https://devdocs.magento.com/page-builder/docs/index.html)
-[Page BuilderDocumentación para el usuario de Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
+[Documentación para desarrolladores de Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
+
+[Documentación del usuario de Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)

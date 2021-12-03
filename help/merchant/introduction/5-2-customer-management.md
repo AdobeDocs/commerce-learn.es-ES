@@ -1,15 +1,15 @@
 ---
 title: '[!DNL Commerce] para usuarios empresariales: administración de clientes'
-description: Obtenga información sobre los permisos recomendados para el servicio al cliente, la creación de un cliente en  [!DNL Admin], la administración de la información del cliente y la creación de grupos de clientes.
+description: Obtenga información sobre los permisos recomendados para el servicio al cliente y cree un cliente en la [!DNL Admin], administrar la información del cliente y crear grupos de clientes.
 topic: Commerce
 kt: 5779
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 3e85c15d21a6c18309ac2376e4b96a6306ccadc0
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 En este vídeo:
 
 - Permisos recomendados para una CSR (representante del servicio al cliente)
-- Creación de un cliente en [!DNL Admin]
+- Creación de un cliente en la variable [!DNL Admin]
 - Administración de la información del cliente
 - Creación de grupos de clientes
 
@@ -33,6 +33,8 @@ En este vídeo:
 
 ## Recursos adicionales
 
-[Funciones de usuario:  [!DNL Commerce] guía ](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
-[de usuarioCreación de una cuenta de cliente individual:  [!DNL Commerce] guía de ](https://docs.magento.com/user-guide/customers/account-create.html)
-[usuarioGrupos de clientes:  [!DNL Commerce] guía de usuario](https://docs.magento.com/user-guide/customers/customer-groups.html)
+[Funciones de usuario - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+
+[Creación de una cuenta de cliente individual: [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/customers/account-create.html)
+
+[Grupos de clientes: [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/customers/customer-groups.html)

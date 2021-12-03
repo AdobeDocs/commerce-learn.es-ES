@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c672d2685a9f1cd3412435912508891df5b8bd87
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,6 @@ En este vídeo:
 
 ## Recursos útiles
 
-[Añadir un nuevo atributo de ](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
-[productoAtributos personalizados](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[Añadir un nuevo atributo de producto](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+
+[Atributos personalizados](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)

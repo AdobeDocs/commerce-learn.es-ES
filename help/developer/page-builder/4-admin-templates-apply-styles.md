@@ -6,9 +6,9 @@ kt: 5653
 doc-type: video
 activity: use
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 9d76bbb28e982a62ddff8b6f541299e372dfc124
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 En este vídeo:
 
 - [!DNL Admin] y tareas temáticas de la fase
-- Crear plantillas [!DNL Admin] &#x200B;
+- Crear [!DNL Admin] plantillas &#x200B;
 - Aplicar estilos a tipos de contenido en el escenario (vista previa en directo)
 
 ## ¿Para quién es este vídeo?
@@ -30,11 +30,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte las [notas de la versión de Creador de páginas](https://devdocs.magento.com/page-builder/docs/release-notes.html).
+>Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte la [Notas de la versión de Page Builder](https://devdocs.magento.com/page-builder/docs/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Documentación para desarrolladores de ](https://devdocs.magento.com/page-builder/docs/index.html)
-[Page BuilderDocumentación para el usuario de Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
+[Documentación para desarrolladores de Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
+
+[Documentación del usuario de Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)

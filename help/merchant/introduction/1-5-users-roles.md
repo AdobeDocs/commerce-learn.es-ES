@@ -1,15 +1,15 @@
 ---
 title: '[!DNL Commerce] para usuarios empresariales: usuarios y funciones'
-description: 'Conozca los conceptos básicos sobre las cuentas de usuario y las funciones de usuario que determinan los permisos. [!DNL Admin] '
+description: Conozca los conceptos básicos sobre [!DNL Admin] cuentas de usuario y funciones de usuario que determinan permisos.
 topic: Commerce
 kt: 5762
 doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c53773ff46c7af772bd07acb062010514cbad440
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte las [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Adición de usuarios:  [!DNL Commerce] guía del ](https://docs.magento.com/user-guide/system/permissions-users-all.html)
-[usuarioFunciones del usuario:  [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Adición de usuarios: [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/system/permissions-users-all.html)
+
+[Funciones de usuario - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
