@@ -1,14 +1,15 @@
 ---
 title: 'Page Builder para desarrolladores: Introducción'
 description: Introducción al creador de páginas, comprensión de las capacidades del creador de páginas
+landing-page-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo ampliarlo para crear lo mejor [!DNL Commerce] experiencias de tienda.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 4f50dfb3ab23fcc9212e7810210b15840b634c2c
+source-git-commit: 74301d48821db74c67167096ba01699181feed8a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -35,6 +36,5 @@ En este vídeo:
 
 ## Recursos útiles
 
-[Documentación para desarrolladores de Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
-
-[Documentación del usuario de Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
+- [Documentación para desarrolladores de Page Builder](https://devdocs.magento.com/page-builder/docs/index.html)
+- [Documentación del usuario de Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
