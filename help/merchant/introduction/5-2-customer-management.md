@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] para usuarios empresariales: administración de clientes'
+title: '"[!DNL Commerce] para usuarios empresariales: administración de clientes"'
 description: Obtenga información sobre los permisos recomendados para el servicio al cliente y cree un cliente en la [!DNL Admin], administrar la información del cliente y crear grupos de clientes.
 topic: Commerce
 kt: 5779
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 3e85c15d21a6c18309ac2376e4b96a6306ccadc0
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

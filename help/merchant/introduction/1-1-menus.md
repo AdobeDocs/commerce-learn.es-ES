@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] for business users - [!DNL Admin] menús'
-description: 'Descripción general de los menús funcionales en la versión 2.3 [!DNL Admin]. [!DNL Commerce] '
+title: '"[!DNL Commerce] para usuarios empresariales: [!DNL Admin] menús"'
+description: Información general sobre los menús funcionales en la [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: Vea esta serie de vídeos para empezar a usar los conceptos básicos de Adobe Commerce y trabajar en Admin.
 topic: Commerce
 kt: 5758
@@ -8,16 +8,16 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales:  [!DNL Admin] menús
+# [!DNL Commerce] para usuarios empresariales: [!DNL Admin] menús
 
-El [!DNL Commerce Admin] es el back office protegido por contraseña donde puede configurar productos y promociones, cumplir pedidos de clientes y configurar su [!DNL Commerce] tienda para adaptarla a sus necesidades comerciales.
+La variable [!DNL Commerce Admin] es el back office protegido por contraseña donde puede configurar productos y promociones, cumplir pedidos de clientes y configurar su [!DNL Commerce] almacene para adaptarlo a sus necesidades empresariales.
 
 En este vídeo:
 
@@ -31,7 +31,7 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte las [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 

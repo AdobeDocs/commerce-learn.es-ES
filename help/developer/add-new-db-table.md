@@ -1,14 +1,14 @@
 ---
 title: Agregar una tabla a una base de datos
-description: '[!DNL Commerce] tiene un mecanismo especial que le permite crear tablas de base de datos, modificar las existentes e incluso añadir algunos datos en ellas.'
+description: '"[!DNL Commerce] tiene un mecanismo especial que le permite crear tablas de base de datos, modificar las existentes e incluso añadir algunos datos en ellas."'
 topic: Development
 kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

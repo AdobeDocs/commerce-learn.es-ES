@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Commerce] para desarrolladores: ejercicios'
-description: Practique [!DNL Commerce] tareas de desarrollo con cinco ejercicios útiles.
+title: '"[!DNL Commerce] para desarrolladores: ejercicios"'
+description: Práctica [!DNL Commerce] tareas de desarrollo con cinco ejercicios útiles.
 kt: 5699
 doc-type: video
 topic: Development
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36201.jpeg
 activity: use
 exl-id: 1fcf8b82-11a0-4567-a616-8a3728a88cb9
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -25,7 +25,7 @@ En este vídeo, hay cinco ejercicios para practicar [!DNL Commerce] tareas de de
 - Actualización de la instancia
 - Corrección de un módulo dañado
 - Escritura y ejecución de pruebas PHPUnit
-- Creación de una página [!DNL Admin]
+- Creación de [!DNL Admin] página
 
 [Ejercitar la descarga de archivos](./assets/FreeIntro2.3.1.zip)
 
@@ -33,7 +33,7 @@ En este vídeo, hay cinco ejercicios para practicar [!DNL Commerce] tareas de de
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte las [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 
