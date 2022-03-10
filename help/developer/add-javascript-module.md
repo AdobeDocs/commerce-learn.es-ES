@@ -24,7 +24,7 @@ Este vídeo proporciona una explicación detallada para desarrollar un módulo J
 ## Pasos
 
 - Creación de un módulo
-- Crear un `requirejs-config.js` y un archivo de módulo JavaScript
+- Cree un `requirejs-config.js` y un archivo de módulo JavaScript
 - Crear actualización de diseño para agregar una plantilla que active el módulo JS
 - Crear archivo de plantilla
 - Añada el módulo y pruébelo

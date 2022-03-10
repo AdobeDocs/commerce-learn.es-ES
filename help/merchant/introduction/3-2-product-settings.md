@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: configuración de producto
+# [!DNL Commerce] for business users - Product settings
 
-En este vídeo:
+In this video:
 
 - Crear productos
 - Configuración completa del producto
 - Definir atributos de producto
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-- Usuarios empresariales
+- Business Users
 
 ## Contenido del vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. For information about updates in later releases, see the [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) and [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) release notes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
@@ -40,4 +40,4 @@ En este vídeo:
 
 [Configuración del producto - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/settings.html)
 
-[Atributos del producto - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+[Product attributes - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-attributes.html)

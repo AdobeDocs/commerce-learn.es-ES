@@ -5,13 +5,13 @@ kt: 5592
 doc-type: feature video
 audience: all
 activity: use
-source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
+exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
+source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # Configuración del mapa del sitio
 
@@ -33,4 +33,3 @@ Un mapa del sitio mejora la forma en que los motores de búsqueda indexan la tie
 
 - [Uso de un mapa del sitio](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
 - [Mapa del sitio XML](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
-

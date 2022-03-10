@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # [!DNL Commerce] para usuarios empresariales: tipos de producto
 
-En este vídeo:
+In this video:
 
-- Tipos de productos
+- Product types
 - Opciones para cada tipo de producto
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
 - Usuarios empresariales
 
@@ -29,10 +29,10 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>The content in the video reflects the 2.3.1 release. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Tipos de productos - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/product-types.html)
+[Product types - [!DNL Commerce] user guide](https://docs.magento.com/user-guide/catalog/product-types.html)

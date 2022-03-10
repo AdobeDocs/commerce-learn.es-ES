@@ -8,14 +8,14 @@ activity: use
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Creación de un módulo
 
-El módulo es un elemento estructural de [!DNL Commerce] - todo el sistema se basa en módulos. Normalmente, el primer paso para crear una personalización es crear un módulo.
+El módulo es un elemento estructural de [!DNL Commerce] - todo el sistema está construido sobre módulos. Normalmente, el primer paso para crear una personalización es crear un módulo.
 
 ## ¿Para quién es este vídeo?
 

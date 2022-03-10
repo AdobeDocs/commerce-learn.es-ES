@@ -1,6 +1,6 @@
 ---
-title: 'PWA Studio para desarrolladores: Configuración del proyecto'
-description: Empiece con un nuevo proyecto de PWA Studio, que incluye la generación de un certificado SSL local y los comandos CLI del paquete de compilación.
+title: PWA Studio for developers - Project setup
+description: Get started with a new PWA Studio project, including generating a local SSL certificate, and the build pack CLI commands.
 topic: Development
 kt: 5648
 doc-type: video
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio para desarrolladores: Configuración del proyecto
+# PWA Studio for developers - Project setup
 
 En este vídeo:
 
 - Introducción a PWA Studio
 - Configuración inicial del proyecto
-- Generar certificado SSL local
+- Generate local SSL certificate
 - [!DNL Buildpack] Comandos CLI
 
 ## ¿Para quién es este vídeo?
