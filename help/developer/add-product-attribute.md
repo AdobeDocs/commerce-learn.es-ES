@@ -1,6 +1,6 @@
 ---
 title: Crear un atributo de producto
-description: Create a page that returns json with one parameter.
+description: Cree una página que devuelva json con un parámetro.
 topic: Development
 kt: 5602
 doc-type: video
@@ -24,7 +24,7 @@ En este vídeo:
 - Asignarlo al conjunto de atributos predeterminado y añadir una restricción
 - Añadir el nuevo atributo
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
 - Desarrolladores
 
@@ -32,8 +32,8 @@ En este vídeo:
 
 >[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
 
-## Useful resources
+## Recursos útiles
 
-[Add a New Product Attribute](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+[Añadir un nuevo atributo de producto](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
 
 [Atributos personalizados](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
