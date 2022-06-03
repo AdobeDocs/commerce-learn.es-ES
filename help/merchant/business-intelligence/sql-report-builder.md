@@ -1,20 +1,21 @@
 ---
-title: 'Business Intelligence: Report Builder SQL'
-description: Aprenda a utilizar el Report Builder SQL de Business Intelligence para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
-landing-page-description: Vea este vídeo para aprender a utilizar el Report Builder SQL Business Intelligence para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
+title: 'MBI: Report Builder SQL'
+description: Aprenda a utilizar el Report Builder SQL de MBI para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
+landing-page-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de MBI para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence: Report Builder SQL
+# MBI: Report Builder SQL
 
 El Report Builder SQL permite consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico. La mejor parte del uso de SQL para crear informes es que no tiene que esperar en los ciclos de actualización para iterar en las columnas que cree. Si los resultados no parecen correctos, puede editar y volver a ejecutar la consulta rápidamente hasta que las cosas coincidan con sus expectativas.
 
@@ -30,7 +31,7 @@ En este vídeo:
 
 >[!TIP]
 >
->Si es nuevo en el Business Intelligence, la variable [Primeros pasos de la serie de vídeos](1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en MBI, la variable [Primeros pasos de la serie de vídeos](1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 

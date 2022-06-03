@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Almacén de datos
-description: Obtenga información sobre el Administrador de Datas Warehouse, que está disponible para los usuarios administradores en Business Intelligence.
+title: 'MBI: Data Warehouse'
+description: Obtenga información sobre el Administrador de Datas Warehouse, que está disponible para los usuarios administradores en MBI.
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Almacén de datos
+# MBI: Data Warehouse
 
 Un almacén de datos es una base de datos relacional configurada para consolidar y almacenar datos para ejecutar análisis empresariales. Los almacenes de datos permiten el acceso a los datos para desnormalizar las bases de datos de producción y organizarlas para ejecutar el análisis de forma más eficiente.
 
@@ -29,7 +29,7 @@ Con el Administrador de Datas Warehouse, los usuarios con acceso de nivel de adm
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario del Business Intelligence](https://docs.magento.com/mbi/) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://docs.magento.com/mbi/) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 

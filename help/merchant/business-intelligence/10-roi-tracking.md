@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Seguimiento del rendimiento de la inversión
-description: Obtenga información sobre las perspectivas del Business Intelligence que le ayudan a realizar un seguimiento del retorno de la inversión.
+title: 'MBI: Rentabilidad en el seguimiento de la inversión'
+description: Obtenga información sobre las perspectivas de MBI que le ayudan a realizar un seguimiento del retorno de la inversión.
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Seguimiento del rendimiento de la inversión
+# MBI: Rentabilidad en el seguimiento de la inversión
 
-Business Intelligence proporciona perspectivas que le ayudan a supervisar y administrar su retorno de la inversión. Por ejemplo, si está invirtiendo en publicidad en línea, desea realizar un seguimiento de su rendimiento en el gasto para tomar decisiones basadas en datos sobre inversiones adicionales.
+MBI proporciona perspectivas que le ayudan a supervisar y administrar su retorno de la inversión. Por ejemplo, si está invirtiendo en publicidad en línea, desea realizar un seguimiento de su rendimiento en el gasto para tomar decisiones basadas en datos sobre inversiones adicionales.
 
 ## ¿Para quién es este vídeo?
 
@@ -27,7 +27,7 @@ Business Intelligence proporciona perspectivas que le ayudan a supervisar y admi
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario del Business Intelligence](https://docs.magento.com/mbi/) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://docs.magento.com/mbi/) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 

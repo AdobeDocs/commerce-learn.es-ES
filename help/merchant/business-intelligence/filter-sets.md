@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence - Conjuntos de filtros
-description: Aprenda a utilizar la función de conjuntos de filtros de Business Intelligence para simplificar los informes de datos empresariales para Adobe Commerce y Magento Open Source.
-landing-page-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de Business Intelligence para simplificar los informes de datos empresariales.
+title: 'MBI: conjuntos de filtros'
+description: Aprenda a utilizar la función de conjuntos de filtros de IMM para simplificar los informes de datos empresariales para Adobe Commerce y Magento Open Source.
+landing-page-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de MBI para simplificar los informes de datos empresariales.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Conjuntos de filtros
+# MBI: conjuntos de filtros
 
-¿Desea analizar solo algunas partes de los datos empresariales? ¿Cansado de hacer una limpieza manual? En Business Intelligence, puede utilizar la función de conjuntos de filtros para simplificar este proceso.
+¿Desea analizar solo algunas partes de los datos empresariales? ¿Cansado de hacer una limpieza manual? En MBI, puede utilizar la función de conjuntos de filtros para simplificar este proceso.
 
 En este vídeo:
 
@@ -27,7 +28,7 @@ En este vídeo:
 
 >[!TIP]
 >
->Si es nuevo en el Business Intelligence, la variable [Primeros pasos de la serie de vídeos](1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en MBI, la variable [Primeros pasos de la serie de vídeos](1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 

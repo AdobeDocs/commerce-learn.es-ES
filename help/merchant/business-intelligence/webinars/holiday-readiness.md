@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Preparación para las vacaciones
+title: Preparación para las vacaciones con MBI
 description: Vea este seminario web para aprender a aprovechar sus datos de comercio electrónico para tener éxito durante la temporada de vacaciones.
 landing-page-description: Vea este seminario web grabado para aprender a aprovechar sus datos de comercio electrónico para tener éxito durante la temporada de vacaciones.
 kt: 10409
@@ -7,16 +7,17 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: bf28c64dd61bbf53210ca9aa17ab20d1a2a1dac5
+exl-id: 7390d8ca-494e-4fe0-a4da-a03afd2ef8e2
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Preguntar a un experto, parte 2
+# Preparación para las vacaciones con MBI
 
-Aproveche los datos de eCommerce para tener éxito durante la temporada de vacaciones. Este seminario web destaca algunos casos de uso y métodos comunes de análisis de temporada para abordarlos con funciones clave de Business Intelligence, entre las que se incluyen:
+Aproveche los datos de eCommerce para tener éxito durante la temporada de vacaciones. Este seminario web destaca algunos casos de uso y métodos comunes de análisis de temporada para abordarlos usando características clave de MBI, como:
 
 - Evite las existencias mediante la creación de un nuevo informe de seguimiento de inventario y el envío de actualizaciones diarias mediante un resumen por correo electrónico
 - Determine el impacto de los ajustes de estrategia de ventas de este año mediante la creación de un informe sobre el rendimiento año tras año en torno a una fecha clave (como Black Friday), aprovechando las columnas calculadas
@@ -24,7 +25,7 @@ Aproveche los datos de eCommerce para tener éxito durante la temporada de vacac
 
 >[!TIP]
 >
->Si es nuevo en el Business Intelligence, la variable [Primeros pasos de la serie de vídeos](./../1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en MBI, la variable [Primeros pasos de la serie de vídeos](./../1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 
@@ -37,5 +38,5 @@ Aproveche los datos de eCommerce para tener éxito durante la temporada de vacac
 
 ## Recursos útiles
 
-[Guía del usuario del Business Intelligence](https://docs.magento.com/mbi/)
-[Asistencia al Business Intelligence](https://support.magento.com/hc/en-us/articles/360016730811)s
+[Guía del usuario de MBI](https://docs.magento.com/mbi/)
+[Compatibilidad con MBI](https://support.magento.com/hc/en-us/articles/360016730811)s

@@ -1,28 +1,29 @@
 ---
-title: Introducción a Business Intelligence
-description: Vea este seminario web para obtener más información sobre las funciones principales de Business Intelligence para su tienda de Adobe Commerce o Magento Open Source.
-landing-page-description: Vea este seminario web grabado para obtener más información sobre las principales funciones de Business Intelligence para su tienda de Adobe Commerce o Magento Open Source.
+title: Introducción a MBI
+description: Vea este seminario web para obtener más información sobre las funciones principales de MBI para su tienda de Adobe Commerce o Magento Open Source.
+landing-page-description: Vea este seminario web grabado para obtener más información sobre la funcionalidad principal de MBI para su tienda de Adobe Commerce o Magento Open Source.
 kt: 10408
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: bf28c64dd61bbf53210ca9aa17ab20d1a2a1dac5
+exl-id: 4f029625-8c53-4066-ac33-b95883177df5
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-# Introducción a Business Intelligence
+# Introducción a MBI
 
-Obtenga información sobre las funciones principales de Business Intelligence (BI) directamente desde el equipo de productos de comercio, con una profunda inmersión en los paneles preconfigurados y las opciones de personalización disponibles.
+Obtenga información sobre las funciones principales de MBI directamente desde el equipo de Commerce Product, con una explicación exhaustiva de los paneles preconfigurados y las opciones de personalización disponibles.
 
 Los casos de uso se comparten en todas partes, que proporcionan ejemplos ilustrativos de cómo los comerciantes están obteniendo más perspectivas e impulsando más crecimiento en sus tiendas con BI, a partir del primer día.
 
 >[!TIP]
 >
->Si es nuevo en el Business Intelligence, la variable [Primeros pasos de la serie de vídeos](./../1-overview.md) también proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en MBI, la variable [Primeros pasos de la serie de vídeos](./../1-overview.md) también proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 
@@ -35,5 +36,5 @@ Los casos de uso se comparten en todas partes, que proporcionan ejemplos ilustra
 
 ## Recursos útiles
 
-[Introducción al Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html)
-[Asistencia al Business Intelligence](https://support.magento.com/hc/en-us/articles/360016730811)
+[Introducción a MBI](https://docs.magento.com/mbi/getting-started/getting-started.html)
+[Compatibilidad con MBI](https://support.magento.com/hc/en-us/articles/360016730811)

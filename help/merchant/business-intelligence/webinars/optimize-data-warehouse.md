@@ -1,20 +1,21 @@
 ---
-title: 'Business Intelligence: Optimice su Data Warehouse'
+title: Optimizar la Data Warehouse de MBI
 description: Vea este seminario web para obtener más información sobre el Administrador de Datas Warehouse.
-landing-page-description: 'Vea este seminario web grabado para '
+landing-page-description: Vea este seminario web grabado para
 kt: 10403
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: 022df5f9-0333-464d-a985-177071a8aa04
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence: Optimice su Data Warehouse
+# Optimizar la Data Warehouse de MBI
 
 Con el Administrador de Datas Warehouse, puede administrar la configuración de sincronización de tablas y columnas, profundizar en el esquema de una tabla y crear columnas calculadas para utilizarlas en los informes.
 
@@ -32,7 +33,7 @@ En este seminario web:
 
 >[!TIP]
 >
->Si es nuevo en el Business Intelligence, la variable [Primeros pasos de la serie de vídeos](./../1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en MBI, la variable [Primeros pasos de la serie de vídeos](./../1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 

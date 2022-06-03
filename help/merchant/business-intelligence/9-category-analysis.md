@@ -1,5 +1,5 @@
 ---
-title: 'Business Intelligence: análisis de categoría'
+title: 'IMM: análisis de categoría'
 description: Obtenga información sobre el análisis de categoría básico y el valor de duración de los clientes.
 kt: 5734
 doc-type: feature video
@@ -7,14 +7,14 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence: análisis de categoría
+# IMM: análisis de categoría
 
 El análisis de categorías está diseñado para ofrecer una visión general de alto nivel de categorías de productos seleccionadas. Destaca la combinación de categorías que compran los mismos clientes durante su vida útil.
 
@@ -27,7 +27,7 @@ El análisis de categorías está diseñado para ofrecer una visión general de 
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario del Business Intelligence](https://docs.magento.com/mbi/) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://docs.magento.com/mbi/) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
 

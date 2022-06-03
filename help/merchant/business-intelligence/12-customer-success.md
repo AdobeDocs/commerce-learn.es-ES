@@ -1,22 +1,22 @@
 ---
-title: 'Business Intelligence: Casos de éxito de clientes'
-description: Obtenga información sobre los casos de éxito de clientes que utilizan Business Intelligence.
+title: 'MBI: Casos de éxito de clientes'
+description: Obtenga información sobre los casos de éxito de clientes que utilizan MBI.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence: Casos de éxito de clientes
+# MBI: Casos de éxito de clientes
 
-Cuando esté familiarizado con algunos de los tipos de análisis más útiles que los comerciantes hacen en Business Intelligence, revise algunos casos de éxito de clientes y cómo utilizaron su análisis para obtener resultados reales.
+Cuando esté familiarizado con algunos de los tipos de análisis más útiles que los comerciantes hacen en la IMM, revise algunos casos de éxito de clientes y cómo utilizaron su análisis para obtener resultados reales.
 
 ## ¿Para quién es este vídeo?
 
