@@ -1,14 +1,14 @@
 ---
-title: Usuarios, funciones y permisos
+title: Administrar funciones y permisos de usuario
 description: Obtenga información sobre las cuentas de usuario y los permisos utilizados para controlar el acceso a [!DNL Commerce] sitio web y almacene datos en el administrador.
 kt: 5610
 doc-type: feature video
 audience: all
 activity: use
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: b1ba5497d30326e4355a6da81f33d8451362b896
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ Si hay otras personas en su equipo o proveedores de servicios que necesitan acce
 
 ## Contenido del vídeo
 
->[!NOTE]
->
->El contenido del vídeo refleja la versión 2.0. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
-
->[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## Recursos adicionales
 
