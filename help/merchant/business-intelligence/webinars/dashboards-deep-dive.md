@@ -1,15 +1,16 @@
 ---
 title: Análisis profundo de los paneles de MBI
-description: 'Vea este seminario web para obtener una visita guiada de los cuatro paneles incluidos en la configuración con cada cuenta de IMM. '
+description: Vea este seminario web para obtener una visita guiada de los cuatro paneles incluidos en la configuración con cada cuenta de IMM.
 landing-page-description: Vea este seminario web grabado para obtener una visita guiada de los cuatro paneles incluidos en la configuración con cada cuenta de IMM.
 kt: 10496
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+exl-id: 87c2728e-c187-4bd9-abd8-9b878d7d8175
+source-git-commit: 9a44a4e13cf1554fe31be28db4ab3f94261f3097
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
