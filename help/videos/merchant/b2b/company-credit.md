@@ -5,9 +5,10 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
+source-git-commit: 957eb8c6d7d429fc5579a5700fef2194662201cb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-Para empresas que tienen _[!UICONTROL Payment on Account]_activada y con crédito de la empresa disponible, pueden realizar compras en su cuenta hasta el límite de crédito concedido. Cuando está habilitado, los clientes pueden comprobar el estado del crédito de su empresa desde el panel de cuentas.
+Para empresas que tienen _[!UICONTROL Payment on Account]_activada y con crédito de la empresa disponible, pueden realizar compras en su cuenta hasta el límite de crédito concedido. Con esta función, los clientes pueden comprobar el estado del crédito de su empresa desde su panel de cuentas.
 
 Puede establecer los siguientes parámetros relacionados con el crédito para cada perfil de empresa:
 
