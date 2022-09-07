@@ -8,10 +8,10 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: a579818f2f50d4ca0eca9a529945c4f366905ef6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 19%
 
 ---
 
@@ -25,7 +25,7 @@ En este vídeo:
 - Cómo puede ayudarle a identificar rápidamente los errores y correcciones necesarios para actualizar a una versión más reciente de Adobe Commerce
 - Cómo acceder a los resultados del HTML para visualizar los módulos por gravedad y número de incompatibilidades
 
-Para obtener más información sobre cómo realizar y simplificar las actualizaciones, consulte la [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Para obtener más información sobre la herramienta, consulte la [Documentación de la herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Si desea obtener más información sobre cómo realizar y simplificar las actualizaciones, consulte la [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## ¿Para quién es este vídeo?
 
@@ -38,6 +38,7 @@ Para obtener más información sobre cómo realizar y simplificar las actualizac
 
 ## Recursos adicionales
 
+- [Documentación de la herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Versiones publicadas](https://devdocs.magento.com/release/released-versions.html)
 - [Próximas versiones](https://devdocs.magento.com/release/)
