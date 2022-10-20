@@ -1,10 +1,10 @@
 ---
 user-guide-title: Vídeos y tutoriales
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Commerce y Magento Open Source.
-source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
+source-git-commit: c6ee7f37aed4093c7752e6683a8f7a9e26b10a11
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '485'
+ht-degree: 3%
 
 ---
 
@@ -55,6 +55,8 @@ ht-degree: 0%
       + [5.1: Experiencia de tienda](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2: Administración de clientes](./merchant/introduction/5-2-customer-management.md)
       + [5.3: Comunicaciones por correo electrónico](./merchant/introduction/5-3-store-communications.md)
+
++ [Demostraciones de características](feature-demos.md)
 
 + Administración de tiendas {#admin}
    + [Administrar funciones y permisos de usuario](./merchant/users-roles-permissions.md)
