@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] para desarrolladores: información general"'
+title: "[!DNL Commerce] para desarrolladores: información general"
 description: 'Conozca los conceptos básicos de la plataforma desde la perspectiva de varias audiencias: comerciantes, desarrolladores de tiendas web e integradores.'
 landing-page-description: Vea esta serie de vídeos para empezar con su proyecto de desarrollo backend para Commerce.
 doc-type: video
