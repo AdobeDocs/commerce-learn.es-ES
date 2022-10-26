@@ -2,16 +2,18 @@
 title: "[!DNL Commerce] Vídeos y tutoriales"
 description: Una colección de vídeos y tutoriales para Adobe Commerce y Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
+source-git-commit: 5156f069f37404b852fa9d476bb8eaf5442b9182
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# <!-- use banner as heading -->![Vídeos y Tutorials de comercio](../assets/banner-videos-home.png) {#videos}
+# <!-- use banner as heading -->![Vídeos y tutoriales comerciales](../assets/banner-videos-home.png) {#videos}
 
 Bienvenido a la [!DNL Commerce] colección de vídeos y tutoriales. Uso de estos recursos junto con la variable [documentación](https://experienceleague.adobe.com/docs/commerce.html), le proporcionará una mejor comprensión sobre cómo usar Adobe Commerce y Magento Open Source para respaldar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
+
+<div id="whats-new-section">
 
 ## Novedades
 
@@ -23,6 +25,15 @@ Explore las últimas adiciones y actualizaciones:
 | **[Servicio de catálogo](./merchant/catalog-service.md)** - Nueva demostración de funciones para el servicio de catálogo para Adobe Commerce. | Nuevo | 19/9/2022 |
 
 {style=&quot;table-layout:auto&quot;}
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 >[!TIP]
 >
