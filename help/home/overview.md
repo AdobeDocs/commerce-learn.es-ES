@@ -1,29 +1,27 @@
 ---
-title: "[!DNL Commerce] Vídeos y tutoriales"
+title: '[!DNL Commerce] Vídeos y tutoriales'
 description: Una colección de vídeos y tutoriales para Adobe Commerce y Magento Open Source
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
-# <!-- use banner as heading -->![Vídeos y tutoriales comerciales](../assets/banner-videos-home.png) {#videos}
+# Tutoriales comerciales {#videos}
 
-Bienvenido a la [!DNL Commerce] colección de vídeos y tutoriales. Uso de estos recursos junto con la variable [documentación](https://experienceleague.adobe.com/docs/commerce.html), obtenga información sobre cómo utilizar Adobe Commerce y Magento Open Source para respaldar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
+Bienvenido a la [!DNL Commerce] colección de vídeos y tutoriales. Uso de estos recursos junto con la variable [documentación](https://experienceleague.adobe.com/docs/commerce.html), le ofrece la oportunidad de aprender a utilizar Adobe Commerce y Magento Open Source para respaldar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
 
 <div id="whats-new-section">
 
 ## Novedades
 
-</div>
+- [Introducción a GraphQL](../graphql-rest/intro-graphql.md)
+- [Localización de una IP maliciosa](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
