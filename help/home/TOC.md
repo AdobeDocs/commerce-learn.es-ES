@@ -1,11 +1,11 @@
 ---
 user-guide-title: Vídeos y tutoriales
-user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source mediante vídeos y tutoriales.
+user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
-source-git-commit: e44f25a9c3f113d18703761f9e958ab5244b8417
+source-git-commit: b07b6cfa1b979f8900b154e8f0d2f9ddc2651e90
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 1%
+source-wordcount: '541'
+ht-degree: 3%
 
 ---
 
@@ -61,6 +61,9 @@ ht-degree: 1%
 
 + GraphQL y REST {#graphql-rest}
    + [Introducción a GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
+
++ Adobe Developer App Builder {#adobe-developer-app-builder}
+   + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
 
 + Administración de tiendas {#admin}
    + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
