@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,6 @@ En este vídeo:
 
 ## Recursos adicionales
 
-[Funciones de usuario - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/system/permissions-user-roles.html)
+[Cree una cuenta de cliente individual: [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Creación de una cuenta de cliente individual: [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/customers/account-create.html)
-
-[Grupos de clientes: [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/customers/customer-groups.html)
+[Grupos de clientes: [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

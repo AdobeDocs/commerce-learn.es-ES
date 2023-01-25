@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Tarjetas de regalo - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/product-gift-card.html)
+[Producto de tarjeta de regalo - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
+[Compra y canje de tarjetas de regalo - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+

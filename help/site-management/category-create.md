@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ Antes de añadir productos al catálogo, debe establecer la estructura de catego
 
 ## Recursos adicionales
 
-- [Creación de categorías](https://docs.magento.com/user-guide/catalog/category-create.html)
-- [Permisos de categoría](https://docs.magento.com/user-guide/catalog/category-permissions.html)
-- [Navegación superior](https://docs.magento.com/user-guide/catalog/navigation-top.html)
+- [Crear categorías - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+- [Permisos de categoría - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+- [Navegación superior - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Cuando un cliente realiza un pedido, se crea un pedido de venta como registro te
 
 ## Recursos adicionales
 
-- [Procesamiento de un pedido](https://docs.magento.com/user-guide/sales/order-processing.html)
-- [Estado del pedido](https://docs.magento.com/user-guide/sales/order-status.html)
+- [Procesar una solicitud [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Estado del pedido - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

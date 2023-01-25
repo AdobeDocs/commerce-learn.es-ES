@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ La gestión de los métodos de envío y envío es fundamental para asegurarse de
 
 ## Recursos adicionales
 
-- [Configuración de envío](https://docs.magento.com/user-guide/shipping/shipping-settings.html)
-- [Métodos de envío básicos](https://docs.magento.com/user-guide/shipping/methods-basic.html)
-- [Operadores de transporte marítimo](https://docs.magento.com/user-guide/shipping/carriers.html)
+- [Configuración de envío - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [Métodos de envío básicos: [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Configuración del transportista de envío - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

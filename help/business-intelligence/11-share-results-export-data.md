@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ A los usuarios de MBI se les pueden otorgar niveles de permisos de solo lectura,
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://docs.magento.com/mbi/) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Exportación de datos de gráficos](https://docs.magento.com/mbi/data-user/export-data/exp-chart-dash.html)
-- [Creación de resúmenes de correo electrónico automatizados](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Exportación de datos de gráficos: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [Creación de resúmenes de correo electrónico automatizados: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

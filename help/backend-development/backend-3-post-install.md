@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >La función de base de datos dividida quedó obsoleta en la versión 2.4.2.
 
@@ -37,7 +37,7 @@ En este vídeo:
 
 ## Recursos adicionales
 
-- [Verifique la instalación](https://devdocs.magento.com/guides/v2.4/install-gde/install/verify.html)
-- [Configuración opcional de una máscara](https://devdocs.magento.com/guides/v2.4/install-gde/install/post-install-umask.html)
-- [Instalación de datos de ejemplo](https://devdocs.magento.com/guides/v2.4/install-gde/install/sample-data-after-magento.html)
-- [Acerca de los modos de aplicación](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-modes.html)
+- [Verifique la instalación](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Configuración opcional de una máscara](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Instalación de datos de ejemplo](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
+- [Acerca de los modos de aplicación](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

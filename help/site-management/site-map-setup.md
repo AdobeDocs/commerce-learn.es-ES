@@ -6,9 +6,9 @@ doc-type: feature video
 audience: all
 activity: use
 exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Un mapa del sitio mejora la forma en que los motores de búsqueda indexan la tie
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Uso de un mapa del sitio](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
-- [Mapa del sitio XML](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+- [Mapas del sitio - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [Catálogo > Mapa del sitio XML - [!DNL Commerce] Guía de referencia de configuración](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

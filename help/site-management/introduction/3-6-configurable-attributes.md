@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -28,12 +28,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Producto configurable - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/product-create-configurable.html)
+[Producto configurable - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
 
-[Conjuntos de atributos - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/stores/attribute-sets.html)
+[Conjuntos de atributos - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

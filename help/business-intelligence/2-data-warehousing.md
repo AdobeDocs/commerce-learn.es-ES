@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Con el Administrador de Datas Warehouse, los usuarios con acceso de nivel de adm
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://docs.magento.com/mbi/) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Visita al Administrador de Datas Warehouse](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/tour-dwm.html)
-- [Conectar sus datos](https://docs.magento.com/mbi/data-analyst/importing-data/connecting-data/connecting-data.html)
+- [Guía del usuario del Administrador de Datas Warehouse - MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+- [Conectar sus datos: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

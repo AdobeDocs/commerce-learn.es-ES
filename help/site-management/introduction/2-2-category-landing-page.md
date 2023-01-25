@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -30,14 +30,14 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388/?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Contenido de la categoría - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
+[Contenido de la categoría - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Configuración de visualización - [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
+[Configuración de visualización - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Configuración de diseño: [!DNL Commerce] guía del usuario](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)
+[Configuración de diseño: [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

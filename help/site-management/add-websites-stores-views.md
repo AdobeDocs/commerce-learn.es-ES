@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Cada instalación de Adobe Commerce y Magento Open Source admite una jerarquía 
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Sitios web, tiendas y vistas](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
-- [Categorías raíz](https://docs.magento.com/user-guide/catalog/category-root.html)
+- [Sitios web, tiendas y vistas: [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Categoría raíz y jerarquía - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

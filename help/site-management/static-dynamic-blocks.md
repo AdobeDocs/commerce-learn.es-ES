@@ -7,9 +7,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Un bloque es una unidad de contenido modular que puede colocarse más en cualqui
 
 ## Recursos adicionales
 
-- [Bloques](https://docs.magento.com/user-guide/cms/blocks.html)
-- [Bloques dinámicos](https://docs.magento.com/user-guide/cms/dynamic-blocks.html)
+- [Bloques - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [Bloques dinámicos - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

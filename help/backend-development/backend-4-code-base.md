@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36196.jpeg
 activity: use
 exl-id: f0c7b27d-7071-4454-9fbc-622d7d248188
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) y [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de la versión.
+>El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Acerca de la estructura de archivos de componente](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
-- [Desarrollo de componentes](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
-- [Extensibilidad y modularidad](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [[!DNL Commerce] guía de referencia del módulo](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
+- [Acerca de la estructura de archivos de componente](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
+- [Desarrollo de componentes](https://developer.adobe.com/commerce/php/development/components/)
+- [Extensibilidad y modularidad](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [[!DNL Commerce] guía de referencia del módulo](https://developer.adobe.com/commerce/php/module-reference/)

@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Las reglas fiscales incorporan una combinación de clase de producto, clase de c
 
 ## Recursos adicionales
 
-- [Reglas fiscales](https://docs.magento.com/user-guide/tax/tax-rules.html)
-- [Moneda](https://docs.magento.com/user-guide/stores/currency.html)
+- [Reglas fiscales - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Moneda - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

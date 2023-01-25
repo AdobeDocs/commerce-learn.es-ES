@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ El tablero Información general del ejecutivo proporciona perspectivas de alto n
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://docs.magento.com/mbi/) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 2.2. Consulte la [Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Resumen ejecutivo](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#executive-summary-guest-checkout-allowed)
-- [Uso compartido de tableros con otros usuarios](https://docs.magento.com/mbi/data-user/dashboards/share-dashboard-with-users.html)
+- [Resumen ejecutivo: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
+- [Compartir tableros con otros usuarios: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)
