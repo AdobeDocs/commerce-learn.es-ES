@@ -2,9 +2,9 @@
 user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
-source-git-commit: b07b6cfa1b979f8900b154e8f0d2f9ddc2651e90
+source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '556'
 ht-degree: 3%
 
 ---
@@ -64,6 +64,9 @@ ht-degree: 3%
 
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
+   + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+   + [Demostración funcional de App Builder](../app-builder/app-builder-functional-demonstration.md)
+   + [Información general técnica del creador de aplicaciones](../app-builder/app-builder-technical-overview.md)
 
 + Administración de tiendas {#admin}
    + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
