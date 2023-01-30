@@ -1,14 +1,14 @@
 ---
 title: Capacidad de extensión fuera de proceso para Adobe Commerce
 description: Obtenga información sobre Adobe de App Builder y por qué es un aspecto importante de la extensibilidad fuera de proceso.
-landing-page-description: Descubra qué es el creador de aplicaciones y cómo puede ayudarle con las estrategias de desarrollo de Adobe Commerce.
+landing-page-description: Descubra qué es App Builder y cómo puede ayudarle con las estrategias de desarrollo de Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11T00:00:00Z
-source-git-commit: ef0fa95e776b97ddbaf30e0acd1340e30f12738f
+last-substantial-update: 2023-01-24T00:00:00Z
+source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # Capacidad de extensión fuera de proceso
 
-El desarrollo de Adobe Commerce se ha realizado históricamente utilizando el mismo repositorio que la aplicación principal.  Esto se denomina en proceso.  Esta técnica es muy buena y ofrece al desarrollador un mecanismo esperado para ampliar la aplicación.  Sin embargo, esto tiene un precio.  Cada vez que añada código nuevo a la base de código, debe ser compatible con cualquier actualización.  También tiene que ser compatible con los servidores de la versión PHP así como con muchas otras aplicaciones y servicios de servidor que el comercio utilizará.  Adobe Developer App Builder cumple el mismo requisito de ampliar la funcionalidad, pero la mueve fuera del sitio.  El código y la lógica son completamente externos y este método se denomina fuera de proceso.
+Históricamente, el desarrollo de Adobe Commerce ha utilizado la extensibilidad en proceso, una característica potente, pero el modelo en proceso requiere que cualquier código nuevo sea compatible con las actualizaciones, la versión PHP del servidor y muchas otras aplicaciones y servicios esenciales de servidor que Commerce utiliza. Adobe Developer App Builder utiliza la extensibilidad fuera de proceso para evitar estos problemas de compatibilidad.
 
 ## Creador de aplicaciones para Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder proporciona un marco de extensibilidad para que los desarrolladores puedan ampliar [!DNL Adobe Commerce] para proporcionar extensibilidad fuera de proceso.
+Adobe Developer App Builder es una plataforma de extensibilidad sin servidor para integrar y crear experiencias personalizadas con el fin de ampliar las soluciones de Adobe, y ya está disponible para Adobe Commerce. Con App Builder, puede crear aplicaciones seguras y escalables que amplíen la funcionalidad nativa del comercio e integrarlas con soluciones de terceros. Como desarrollador, ahora puede utilizar la extensibilidad fuera de proceso con Adobe Commerce y que, a su vez, proporciona beneficios inmediatos y a largo plazo.
 
-App Builder proporciona un marco de extensibilidad unificado de terceros para integrar y crear aplicaciones personalizadas que se extienden [!DNL Adobe Commerce]. Dado que este marco de extensibilidad se basa en la infraestructura de Adobe, los desarrolladores pueden crear microservicios personalizados, así como ampliar e integrar [!DNL Adobe Commerce] entre soluciones de Adobe y otras integraciones de terceros.
+App Builder proporciona un marco de extensibilidad unificado de terceros para integrar y crear aplicaciones personalizadas que se extienden [!DNL Adobe Commerce]. Dado que este marco de extensibilidad se basa en la infraestructura de Adobe, los desarrolladores pueden crear microservicios personalizados y ampliarlos e integrarlos [!DNL Adobe Commerce] en otras soluciones de Adobe e integraciones de terceros.
 
 App Builder permite a los clientes ampliar [!DNL Adobe Commerce] en varios casos de uso:
 
@@ -36,13 +36,13 @@ App Builder (anteriormente conocido como Project Firefly) es una solución basad
 
 ## Por qué debería obtener más información sobre App Builder
 
-Como Adobe Commerce no es un SAAS completo, el código que desarrolle o instale puede añadir complejidad y problemas de actualización. Al utilizar la extensibilidad fuera de proceso, como el creador de aplicaciones, puede proporcionar funcionalidad personalizada y única a su tienda de Adobe Commerce sin necesidad de métodos en proceso.
+Como Adobe Commerce no es un producto SAAS completo, el código que desarrolle puede añadir complejidad y problemas de actualización. Al utilizar la extensibilidad fuera de proceso, como App Builder, puede proporcionar funcionalidad personalizada y única a su tienda de Adobe Commerce sin necesidad de métodos en proceso.
 
 Otros beneficios incluyen:
 
 * Las funciones desactivadas permiten un inicio más rápido.
 * Las actualizaciones ahora son más sencillas. Las funciones personalizadas están fuera de la base de código de comercio, lo que evita problemas de compatibilidad al actualizar.
-* Mover las funciones y la lógica fuera del comercio libera recursos que normalmente utilizan los métodos de desarrollo en proceso.
+* Mover las funciones y la lógica fuera de Commerce libera recursos que normalmente utilizan los métodos de desarrollo en proceso.
 
 ## Arquitectura {#architecture}
 
@@ -58,6 +58,14 @@ El diagrama siguiente ilustra cómo una aplicación estándar creada en App Buil
 ![Arquitectura](/help/assets/app-builder/firefly-architecture.jpeg)
 
 Para obtener más información sobre la arquitectura de App Builder, consulte la [Información general sobre la arquitectura](https://developer.adobe.com/app-builder/docs/guides/).
+
+## Extensión de Sales Channel de Amazon {#amazon-sales-channel-extension}
+
+Los siguientes tutoriales muestran cómo conectar Adobe Commerce a la Sales Channel de Amazon mediante una extensión de App Builder.
+
+* [información general técnica App Builder](../app-builder/app-builder-technical-overview.md)
+* [marco de extensibilidad](../app-builder/extensibility-framework-commerce-eventing.md)
+* [demostración funcional App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Introducción a App Builder {#additional-resources}
 
@@ -81,4 +89,3 @@ App Builder proporciona vídeos y documentación para desarrolladores, incluidas
 ## Asistencia {#support}
 
 Para las solicitudes de asistencia al desarrollador, utilice la variable [Foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) para obtener ayuda.
-
