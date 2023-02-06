@@ -6,17 +6,17 @@ kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 3cff43b65f139a7a247baacc82e92f671ab9117f
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
-# Marco de extensibilidad y eventos comerciales
+# Marco de extensibilidad para App Builder
 
-Para aprender a utilizar Adobe Commerce con Adobe Developer App Builder, vea el siguiente vídeo, que muestra cómo usar eventos de comercio con App Builder. Esta demostración funcional describe cómo funciona la integración y explora el potencial de App Builder. Esta demostración ofrece una introducción al marco de extensibilidad, Commerce Event y cómo utilizamos estas herramientas para desarrollar la extensión de Sales Channel de Amazon.
+Para aprender a utilizar Adobe Commerce con Adobe Developer App Builder, vea el siguiente vídeo, que muestra cómo usar eventos de comercio con App Builder. Esta demostración funcional describe cómo funciona la integración y explora el potencial de App Builder. Esta demostración proporciona una introducción al marco de extensibilidad, Commerce Event, y cómo se utilizó para desarrollar la extensión de Sales Channel de Amazon.
 
 ## Creador de aplicaciones para Adobe Commerce {#app-builder-extensibility}
 

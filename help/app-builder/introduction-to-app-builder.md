@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 ---
 
 
-# Capacidad de extensión fuera de proceso
+# Introducción a App Builder
 
-Históricamente, el desarrollo de Adobe Commerce ha utilizado la extensibilidad en proceso, una característica potente, pero el modelo en proceso requiere que cualquier código nuevo sea compatible con las actualizaciones, la versión PHP del servidor y muchas otras aplicaciones y servicios esenciales de servidor que Commerce utiliza. Adobe Developer App Builder utiliza la extensibilidad fuera de proceso para evitar estos problemas de compatibilidad.
+Históricamente, el desarrollo de Adobe Commerce ha utilizado la extensibilidad en proceso. El modelo en proceso requiere que cualquier código nuevo sea compatible con las actualizaciones, la versión PHP del servidor y muchas otras aplicaciones y servicios esenciales de servidor que Commerce utiliza. Adobe Developer App Builder utiliza la extensibilidad fuera de proceso para evitar estos problemas de compatibilidad.
 
 ## Creador de aplicaciones para Adobe Commerce {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder es una plataforma de extensibilidad sin servidor para integrar y crear experiencias personalizadas con el fin de ampliar las soluciones de Adobe, y ya está disponible para Adobe Commerce. Con App Builder, puede crear aplicaciones seguras y escalables que amplíen la funcionalidad nativa del comercio e integrarlas con soluciones de terceros. Como desarrollador, ahora puede utilizar la extensibilidad fuera de proceso con Adobe Commerce y que, a su vez, proporciona beneficios inmediatos y a largo plazo.
+Adobe Developer App Builder es una plataforma de extensibilidad sin servidor para integrar y crear experiencias personalizadas con el fin de ampliar las soluciones de Adobe, y ya está disponible para Adobe Commerce. Con App Builder, puede crear aplicaciones seguras y escalables que amplíen la funcionalidad nativa del comercio e integrarlas con soluciones de terceros. Como desarrollador, ahora puede aprovechar la extensibilidad fuera de proceso con Adobe Commerce y eso a su vez proporciona beneficios inmediatos y a largo plazo.
 
 App Builder proporciona un marco de extensibilidad unificado de terceros para integrar y crear aplicaciones personalizadas que se extienden [!DNL Adobe Commerce]. Dado que este marco de extensibilidad se basa en la infraestructura de Adobe, los desarrolladores pueden crear microservicios personalizados y ampliarlos e integrarlos [!DNL Adobe Commerce] en otras soluciones de Adobe e integraciones de terceros.
 
