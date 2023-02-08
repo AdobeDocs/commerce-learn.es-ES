@@ -1,18 +1,18 @@
 ---
-user-guide-title: Vídeos y tutoriales
-user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
-breadcrumb-title: Vídeos y tutoriales
-source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
+user-guide-title: Vídeos y Tutorials
+user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source mediante vídeos y tutoriales.
+breadcrumb-title: Vídeos y Tutorials
+source-git-commit: 4fa3419cbf300022277b08ebbeb8f6cab0018eb3
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 3%
+source-wordcount: '553'
+ht-degree: 0%
 
 ---
 
 
 # Vídeos y Tutorials de Adobe Commerce {#tutorials}
 
-+ [[!DNL Commerce] Vídeos, cursos y Tutorials](overview.md)
++ [[!DNL Commerce] Tutorials](overview.md)
 + Introducción {#getting-started}
    + [!DNL Commerce] Cloud{#cloud}
       + [1 - Información general](../cloud/1-overview.md)
@@ -66,7 +66,7 @@ ht-degree: 3%
    + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
    + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demostración funcional de App Builder](../app-builder/app-builder-functional-demonstration.md)
-   + [Información general técnica del creador de aplicaciones](../app-builder/app-builder-technical-overview.md)
+   + [Información general técnica de App Builder](../app-builder/app-builder-technical-overview.md)
 
 + Administración de tiendas {#admin}
    + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
