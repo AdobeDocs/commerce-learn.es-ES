@@ -5,10 +5,10 @@ landing-page-description: Obtenga información sobre Adobe Developer App Builder
 kt: 11762
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: 28c8fe6b1b2d948cf16de6e53eef0a7cdeb93ace
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,10 @@ ht-degree: 0%
 
 # Demostración funcional de App Builder
 
-Para obtener más información sobre cómo usar Adobe Commerce con App Builder, vea el siguiente vídeo que muestra cómo conectar Adobe Commerce a la Sales Channel de Amazon. Esta demostración utiliza un evento de Adobe Commerce y el observador de eventos de Adobe App Builder. Esta demostración funcional describe cómo funciona esta integración y explora el potencial de Adobe App Builder.
+Para obtener más información sobre cómo utilizar Adobe Commerce con App Builder, vea el siguiente vídeo que muestra cómo conectar Adobe Commerce a Amazon Seller Central. Esta demostración utiliza eventos de Adobe Commerce que App Builder consume para permitir la integración continua con el mercado de Amazon. Esta demostración funcional describe cómo funciona esta integración y explora el potencial de Adobe App Builder.
 
 ## Creador de aplicaciones para Adobe Commerce {#app-builder-functional-demonstration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502)
 
-
-## Tutoriales adicionales relacionados
-
-- [introducción a App Builder](../app-builder/introduction-to-app-builder.md)
-- [información general técnica App Builder](../app-builder/app-builder-technical-overview.md)
-- [marco de extensibilidad](../app-builder/extensibility-framework-commerce-eventing.md)
+{{$include /help/_includes/app-builder-related-links.md}}
