@@ -6,9 +6,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -16,30 +16,31 @@ ht-degree: 0%
 
 # Uso de proyectos y espacios de trabajo
 
-Información básica para ayudar con el concepto de creación de un proyecto y un espacio de trabajo. La mayoría de los trabajos de la interfaz de usuario se producen en [Consola de Adobe Developer](https://developer.adobe.com/console).
+Este tutorial trata la creación de un proyecto y un espacio de trabajo para contener la red. Este trabajo ocurre principalmente en la variable [Consola de Adobe Developer](https://developer.adobe.com/console) IU.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores que crean un único extremo de API con Adobe App Builder mediante un espacio de trabajo que compone varios orígenes o simplemente proxies en un origen
+* Desarrolladores que tienen acceso a una cuenta de Adobe Developer Console y desean crear un proyecto y un espacio de trabajo.
 
 ## Contenido del vídeo
 
 * Uso de proyectos y espacios de trabajo en la consola de Adobe Developer
-* Adición de la red de API al espacio de trabajo dentro de la consola de Adobe Developer
-* Inicio de sesión con la consola de Adobe Developer
-* Mostrar proyecto y espacio de trabajo desde la línea de comandos de Adobe Developer
-* Cambiar organización si ha iniciado sesión en la organización incorrecta
-* Seleccione un proyecto y un espacio de trabajo de Adobe Developer y conéctelo a ellos desde la línea de comandos de Adobe Developer
-* Prueba de comandos de red de API básicos
+* Adición de red de API al espacio de trabajo en la consola de Adobe Developer
+* Inicio de sesión en la consola de Adobe Developer en la CLI
+* Ver el proyecto y el espacio de trabajo seleccionados en la CLI
+* Cambio de la organización, proyecto o espacio de trabajo seleccionados en la CLI
+* Prueba de comandos simples de la red de API
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
 ## Obtenga información sobre la consola de Adobe Developer
 
-La consola de Adobe Developer tiene varios aspectos que debe tener en cuenta, como proyectos, espacios de trabajo y organizaciones. Para obtener información más detallada sobre Adobe App Builder, cómo iniciar sesión en la consola y algunos problemas básicos, visite [Creación de la primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+En la consola de Adobe Developer, la siguiente jerarquía representa cómo encajan sus API en su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre Adobe App Builder, iniciar sesión en la consola y la solución de problemas básica, visite [Creación de la primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
-## Introducción a Proyectos en la consola de Adobe Developer
+## Introducción a los proyectos en la consola de Adobe Developer
 
-Todo el trabajo de desarrollo en la consola de Adobe Developer se realiza como parte de un proyecto. Un proyecto puede incluir uno o varios productos y una combinación de API, eventos, tiempo de ejecución y complementos. Para obtener más información sobre los proyectos en la consola de Adobe Developer, visite [Información general sobre proyectos](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Todo el trabajo de desarrollo en la consola de Adobe Developer se realiza como parte de un proyecto. Un proyecto puede incluir uno o varios productos y una combinación de API, eventos, tiempos de ejecución y complementos. Para obtener más información sobre los proyectos en la consola de Adobe Developer, visite [Proyectos](https://developer.adobe.com/developer-console/docs/guides/projects/).
+
+Para obtener más información sobre el uso de proyectos y espacios de trabajo en el contexto de la red de API, consulte [Modificación de proyectos y espacios de trabajo](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
 
 {{$include /help/_includes/api-mesh-related-links.md}}
