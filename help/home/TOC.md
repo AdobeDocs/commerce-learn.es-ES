@@ -4,7 +4,7 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y Tutorials
 source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
