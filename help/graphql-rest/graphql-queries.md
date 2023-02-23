@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Una respuesta posible de un servidor de GraphQL para la consulta anterior podrí
 }
 ```
 
-El ejemplo anterior se basa en el esquema predeterminado de GraphQL para Magento, definido en el servidor. En esta solicitud, se consulta varios tipos de datos a la vez. La consulta expresa exactamente los campos que desea y los datos devueltos tienen un formato similar al de la propia consulta.
+El ejemplo anterior se basa en el esquema predeterminado de GraphQL para Adobe Commerce, definido en el servidor. En esta solicitud, se consulta varios tipos de datos a la vez. La consulta expresa exactamente los campos que desea y los datos devueltos tienen un formato similar al de la propia consulta.
 
 >[!NOTE]
 >
@@ -114,26 +114,26 @@ El ejemplo anterior se basa en el esquema predeterminado de GraphQL para Magento
 
 ## Consulta de qué desea
 
-`country` y `categories` en el ejemplo representan dos &quot;consultas&quot; diferentes para dos tipos diferentes de datos. A diferencia de un paradigma de API tradicional como REST, que definiría extremos separados y explícitos para cada tipo de datos, GraphQL le ofrece la flexibilidad de consultar un único extremo con una expresión que puede recuperar muchos tipos de datos a la vez.
+`country` y `categories` en el ejemplo representan dos &quot;consultas&quot; diferentes para dos tipos diferentes de datos. A diferencia de un paradigma de API tradicional como REST, que definiría puntos de conexión separados y explícitos para cada tipo de datos. GraphQL le ofrece la flexibilidad de consultar un único extremo con una expresión que pueda recuperar muchos tipos de datos a la vez.
 
 Del mismo modo, la consulta especifica exactamente los campos que se desean para ambos `country` (`id` y `full_name_english`) y `categories` (`items`, que tiene una subselección de campos), y los datos que recibe reflejan esa especificación de campo. Probablemente haya muchos campos más disponibles para estos tipos de datos, pero solo recuperará lo que solicitó.
 
 
 >[!NOTE]
 >
->Puede observar que el valor devuelto de `items` es en realidad un _matriz_ de valores, pero se seleccionan directamente subcampos para él. Cuando el tipo de campo es una lista, GraphQL entiende implícitamente las subselecciones que se deben aplicar a cada elemento de la lista.
+>Puede observar que el valor devuelto de `items` es en realidad un _matriz_ de valores, pero se están seleccionando subcampos directamente para él. Cuando el tipo de campo es una lista, GraphQL entiende implícitamente las subselecciones que se deben aplicar a cada elemento de la lista.
 
 ## Argumentos
 
 Mientras que los campos que desea que se devuelvan se especifican entre las llaves de cada tipo, los argumentos y valores asignados para ellos se especifican entre paréntesis después del nombre del tipo. Los argumentos suelen ser opcionales y a menudo afectan a la forma en que se filtran, formatean o transforman los resultados de la consulta.
 
-Está pasando un `id` argumento a `country`, especificando el país en particular que queremos consultar, y un `filters` argumento para `categories`.
+Está pasando un `id` argumento a `country`, especificando el país concreto que se va a consultar, y `filters` argumento para `categories`.
 
 ## Campos hasta abajo
 
 Mientras que puede que considere `country` y `categories` como consultas o entidades independientes, todo el árbol expresado en la consulta consiste únicamente en campos. La expresión de `products` no es sintácticamente diferente a la de `categories`. Ambos son campos, y no hay diferencia entre su construcción.
 
-Cualquier gráfico de datos de GraphQL tiene un solo tipo &quot;raíz&quot; (generalmente se hace referencia a `Query`) para iniciar el árbol, y los tipos que se consideran entidades simplemente se asignan a los campos de esta raíz. Nuestra consulta de ejemplo está realizando una consulta genérica para el tipo raíz y seleccionando los campos `country` y `categories`. A continuación, se seleccionan subcampos de esos campos, etc., que pueden tener varios niveles de profundidad. Siempre que el tipo devuelto de un campo sea un tipo complejo (por ejemplo, uno con sus propios campos, en lugar de un tipo escalar), continúe seleccionando los campos que desee.
+Cualquier gráfico de datos de GraphQL tiene un solo tipo &quot;raíz&quot; (generalmente se hace referencia a `Query`) para iniciar el árbol, y los tipos que se consideran entidades se asignan a los campos de esta raíz. La consulta de ejemplo está realizando una consulta genérica para el tipo raíz y seleccionando los campos `country` y `categories`. A continuación, se seleccionan subcampos de esos campos, etc., que pueden tener varios niveles de profundidad. Siempre que el tipo devuelto de un campo sea un tipo complejo (por ejemplo, uno con sus propios campos, en lugar de un tipo escalar), continúe seleccionando los campos que desee.
 
 Este concepto de campos anidados también explica por qué se pueden pasar argumentos para `products` (`pageSize` y `currentPage`) de la misma manera que lo hizo para el nivel superior `categories` campo .
 
@@ -169,7 +169,7 @@ Lo primero que hay que tener en cuenta es que se ha añadido la palabra clave `q
 
 En la consulta anterior, se han codificado los valores para los argumentos de los campos directamente, como cadenas o enteros. Sin embargo, la especificación de GraphQL es compatible de primera clase con la separación de los datos introducidos por el usuario de la consulta principal mediante variables.
 
-En la nueva consulta, se utilizan paréntesis antes de la llave de apertura de toda la consulta para definir una `$search` (las variables siempre usan la sintaxis del prefijo de signo de dólar) y es esta variable la que se proporciona al `search` argumento para `products`.
+En la nueva consulta, se utilizan paréntesis antes de la llave de apertura de toda la consulta para definir una `$search` (las variables siempre usan la sintaxis del prefijo del signo de dólar). Es esta variable la que se proporciona al `search` argumento para `products`.
 
 Cuando una consulta contiene variables, se espera que la solicitud de GraphQL incluya un diccionario de valores con codificación JSON independiente junto a la propia consulta. Para la consulta anterior, puede enviar el siguiente JSON de valores de variables además del cuerpo de la consulta:
 
@@ -181,7 +181,7 @@ Cuando una consulta contiene variables, se espera que la solicitud de GraphQL in
 
 >[!NOTE]
 >
->Si está probando estas consultas con el sitio de ejemplo de Venia en lugar de con su propia instancia de Magento, es probable que no obtenga ningún resultado para `related_products`.
+>Si está probando estas consultas con el sitio de ejemplo de Venia en lugar de con su propia instancia de Adobe Commerce, es probable que los resultados devueltos estén vacíos durante `related_products`.
 
 En cualquier cliente compatible con GraphQL que utilice para realizar pruebas (como Altair y GraphiQL), la interfaz de usuario permite introducir las variables JSON de forma independiente de la consulta.
 
