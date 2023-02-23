@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
+source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -91,3 +92,5 @@ Otras notas sobre el ejemplo anterior:
 
 * La variable `!` sufijo de caracteres `String` y `CartItemInput` indica que la variable es obligatoria.
 * Los corchetes (`[]`) alrededor de la variable `CartItemInput` tipo especificado para `$cartItems` indican una lista de ese tipo en lugar de un solo valor.
+
+{{$include /help/_includes/graphql-rest-related-links.md}}

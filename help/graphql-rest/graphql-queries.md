@@ -6,9 +6,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -186,5 +187,6 @@ En cualquier cliente compatible con GraphQL que utilice para realizar pruebas (c
 
 Tal como vio que la solicitud HTTP real para una consulta de GraphQL contiene &quot;consulta: `{string}`&quot; en su cuerpo, cualquier solicitud que contenga un diccionario de variables simplemente incluye &quot;variables&quot; adicionales: `{json}`&quot; en ese mismo cuerpo, donde `{json}` es la cadena JSON con los valores de las variables.
 
-La nueva consulta también utiliza un _fragmento_ (`productDetails`) para reutilizar la misma selección de campos en varios lugares. [Más información sobre fragmentos](https://graphql.org/learn/queries/#fragments) en la documentación de GraphQL.
+La nueva consulta también utiliza un _fragmento_ (`productDetails`) para reutilizar la misma selección de campos en varios lugares. [Más información sobre fragmentos](https://graphql.org/learn/queries/#fragments){target="_blank"} en la documentación de GraphQL.
 
+{{$include /help/_includes/graphql-rest-related-links.md}}

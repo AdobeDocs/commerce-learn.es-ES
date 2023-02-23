@@ -6,13 +6,13 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Idioma del esquema
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-Puede profundizar en [la documentación de GraphQL](https://graphql.org/learn/schema/) para obtener más información sobre los detalles del sistema de tipo , incluida la sintaxis para algunos conceptos no representados aquí. Sin embargo, el ejemplo anterior es autoexplicativo. (Tenga en cuenta también que la sintaxis es similar a la sintaxis de consulta). La definición de un esquema de GraphQL es simplemente una cuestión de expresar los argumentos y campos disponibles de un tipo determinado, junto con los tipos de esos campos. Cada tipo de campo complejo debe tener una definición, etc., a través del árbol, hasta que llegue a tipos escalares simples como `String`.
+Puede profundizar en [la documentación de GraphQL](https://graphql.org/learn/schema/){target="_blank"} para obtener más información sobre los detalles del sistema de tipo , incluida la sintaxis para algunos conceptos no representados aquí. Sin embargo, el ejemplo anterior es autoexplicativo. (Tenga en cuenta también que la sintaxis es similar a la sintaxis de consulta). La definición de un esquema de GraphQL es simplemente una cuestión de expresar los argumentos y campos disponibles de un tipo determinado, junto con los tipos de esos campos. Cada tipo de campo complejo debe tener una definición, etc., a través del árbol, hasta que llegue a tipos escalares simples como `String`.
 
 La variable `input` la declaración es, en todos los aspectos, como una `type` pero define un tipo que puede utilizarse como entrada para un argumento. Tenga en cuenta también que `interface` declaración. Esto sirve a una función más o menos igual que las interfaces en PHP. Otros tipos heredan de esta interfaz.
 
@@ -100,4 +100,4 @@ La sintaxis `[CartItemInput!]!` parece complicado, pero al final es bastante int
 >
 >La lógica de cómo se recuperan los datos y el formato según un esquema y cómo se asigna dicha lógica a tipos concretos depende de la implementación del tiempo de ejecución de GraphQL. Sin embargo, las implementaciones deben seguir un flujo conceptual que tenga sentido a la luz de nuestra comprensión de los campos anidados: Una operación de resolución asociada con la raíz `Query` o `Mutation` se realiza, lo que examina cada campo especificado en la solicitud. Para cada campo que se resuelve en un tipo complejo, se realiza una resolución similar para ese tipo, etc., hasta que todo se haya resuelto en valores escalares.
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}
