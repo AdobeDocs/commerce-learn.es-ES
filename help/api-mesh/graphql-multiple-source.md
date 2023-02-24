@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Crear una red con varias fuentes
 
-Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con varias fuentes en Mesh de API para Adobe Developer App Builder. Este vídeo muestra cómo crear una red con varias fuentes e identificar errores. Para obtener más información y ejemplos de código, visite [Crear una red](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con varias fuentes en Mesh de API para Adobe Developer App Builder. Este vídeo muestra cómo crear una red con varias fuentes e identificar errores. Para obtener más información y ejemplos de código, visite [Crear una red](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -24,7 +24,7 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con var
 
 ## Contenido del vídeo
 
-* Cómo usar [transforma](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) para modificar el esquema de origen predeterminado
+* Cómo usar [transforma](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar el esquema de origen predeterminado
 * Solución de problemas de errores, como conflictos de nombres, disponibilidad del esquema y otros problemas de sintaxis del esquema
 * Actualización de la red con una configuración modificada
 

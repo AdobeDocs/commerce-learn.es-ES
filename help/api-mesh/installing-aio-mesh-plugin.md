@@ -6,9 +6,9 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
+source-git-commit: f365e4cbf3f9bd8a0364acb9d28f8d9479809011
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 # Instalación de Adobe I/O Runtime CLI y del complemento de red
 
 Antes de empezar a usar la red de API para Adobe Developer App Builder, debe instalar la variable `aio` CLI y el complemento de red de API.
-Para obtener instrucciones y requisitos previos de instalación, visite la red de API [Introducción](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) página.
+Para obtener instrucciones y requisitos previos de instalación, visite la red de API [Introducción](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} página.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en API Mesh o [!DNL Adobe Commerce] con experiencia limitada mediante [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) y Mesh de API.
+* Desarrolladores nuevos en API Mesh o [!DNL Adobe Commerce] con experiencia limitada mediante [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} y Mesh de API.
 
 ## Contenido del vídeo
 

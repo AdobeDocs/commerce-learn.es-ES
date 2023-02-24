@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Crear una red con un único origen
 
-Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con una única fuente en Mesh de API para Adobe Developer App Builder. Para que este ejemplo básico funcione según lo esperado, necesita una API o un punto final de GraphQL de acceso público. El vídeo también explica cómo crear una `mesh.json` para usar con la instancia de Commerce. Para obtener más información y ejemplos de código, visite [Crear una red](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con una única fuente en Mesh de API para Adobe Developer App Builder. Para que este ejemplo básico funcione según lo esperado, necesita una API o un punto final de GraphQL de acceso público. El vídeo también explica cómo crear una `mesh.json` para usar con la instancia de Commerce. Para obtener más información y ejemplos de código, visite [Crear una red](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
