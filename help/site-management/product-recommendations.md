@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="Solo en Adobe Commerce" type="Positivo"
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: dc2e8aa92feda8f5243621a6a1febd38c7ef222f
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -32,5 +33,5 @@ En este vídeo, aprenderá a configurar recomendaciones de productos.
 
 ## Recursos adicionales
 
-- [Guía de Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
-- [Conector de Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Guía de Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [Conector de Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
