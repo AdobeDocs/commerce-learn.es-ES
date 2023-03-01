@@ -1,23 +1,23 @@
 ---
-title: Páginas relacionadas con los eventos de IO
-description: Vínculos a páginas relacionadas en eventos IO
-source-git-commit: 9402acdf9dbb8236da720ef0c0a2738e7498fade
+title: Páginas relacionadas con eventos de E/S
+description: Vínculos a páginas relacionadas en Eventos de E/S
+source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Vínculos relacionados con los eventos de IO
+# Vínculos relacionados con eventos de E/S
 
 ## Tutoriales adicionales relacionados
 
-* [Instalación de Adobe Commerce 2.4.5](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-5-installation.md)
-* [Instalación de Adobe Commerce 2.4.6](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-6-installation.md)
-* [Creación de un proyecto de App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/create-app-builder-project.md)
-* [Configuración de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/configure-commerce.md)
-* [Desarrollo de módulos Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/commerce-module-development.md)
-* [Eventos condicionales de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/conditional-events.md)
+* [Instalación de Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+* [Instalación de Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+* [Creación de un proyecto de App Builder](../io-events/create-app-builder-project.md)
+* [Configuración de Adobe Commerce](../io-events/configure-commerce.md)
+* [Desarrollo del módulo Adobe Commerce](../io-events/commerce-module-development.md)
+* [Eventos condicionales de Adobe Commerce](../io-events/conditional-events.md)
 
 ## Documentación de Adobe Developer
 
