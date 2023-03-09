@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ El diagrama siguiente ilustra cómo una aplicación estándar creada en el Gener
 
 ![Arquitectura](/help/assets/app-builder/firefly-architecture.jpeg)
 
-Para obtener más información sobre la arquitectura del Generador de aplicaciones, consulte la [Descripción general de arquitectura](https://developer.adobe.com/app-builder/docs/guides/).
+Para obtener más información sobre la arquitectura del Generador de aplicaciones, consulte la [Descripción general de arquitectura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Extensión de Sales Channel de Amazon {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ Los siguientes tutoriales muestran cómo conectar Adobe Commerce a la Sales Chan
 
 Una descripción general de la estrategia de comercio componible, que incluye la configuración inicial se puede encontrar leyendo la siguiente publicación de blog:
 
-[Cómo App Builder ayuda a impulsar la agilidad empresarial en su plataforma de comercio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[Cómo App Builder ayuda a impulsar la agilidad empresarial en su plataforma de comercio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 Para empezar a usar el Generador de aplicaciones, Adobe ha creado la siguiente documentación:
 
-* [Introducción al Generador de aplicaciones](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [Introducción al Generador de aplicaciones](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## Continuar aprendiendo con la documentación {#appbuilder-documentation}
 
 App Builder proporciona vídeos y documentación para desarrolladores de, incluidas guías y documentación de referencia para ayudarle a desarrollar sus propias aplicaciones personalizadas:
 
-* [Documentación del Generador de aplicaciones](https://developer.adobe.com/app-builder/docs/overview/)
-* [Vídeos del Generador de aplicaciones](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [Documentación del Generador de aplicaciones](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Vídeos del Generador de aplicaciones](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Pruebe una de las aplicaciones de ejemplo {#appbuilder-codesamples}
 
 ¿Listo para empezar a desarrollar? El siguiente vínculo contiene aplicaciones de ejemplo para ayudarle a empezar:
 
-* [App Builder Code Labs en el sitio web de Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/)
+* [App Builder Code Labs en el sitio web de Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Asistencia {#support}
 
-Para solicitudes de soporte de desarrolladores, utilice el [foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) para obtener asistencia.
+Para solicitudes de soporte de desarrolladores, utilice el [foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obtener asistencia.
 
 {{$include /help/_includes/app-builder-related-links.md}}
