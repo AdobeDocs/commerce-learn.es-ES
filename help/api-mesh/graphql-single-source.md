@@ -2,11 +2,12 @@
 title: Crear una red de origen única de GraphQL en red de API
 description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga un origen.
 landing-page-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga un origen.
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has one source.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%

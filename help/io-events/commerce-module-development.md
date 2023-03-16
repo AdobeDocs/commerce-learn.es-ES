@@ -2,11 +2,12 @@
 title: Aprenda a crear un módulo en Adobe Commerce para utilizar eventos.
 description: Obtenga información sobre cómo crear un módulo de comercio para utilizar eventos.
 landing-page-description: Obtenga información sobre cómo crear un módulo de Adobe Commerce para utilizar eventos.
+short-description: Learn how to create an Adobe Commerce module to use events.
 kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: f1295c93652a9a2ae40a82009a8eb6895f59b909
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

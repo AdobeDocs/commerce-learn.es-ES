@@ -2,15 +2,16 @@
 title: Información general de la herramienta de compatibilidad de actualización
 description: Vea este vídeo técnico para conocer cómo la herramienta de compatibilidad de actualización puede hacer que su próxima actualización sea más fácil, barata y rápida.
 landing-page-description: Vea este vídeo técnico para conocer cómo la herramienta de compatibilidad de actualización puede hacer que su próxima actualización sea más fácil, barata y rápida.
+short-description: Watch this technical video to learn how the Upgrade Compatibility Tool can make your next upgrade easier, cheaper, and faster.
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---

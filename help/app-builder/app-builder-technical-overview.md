@@ -2,11 +2,12 @@
 title: Información general técnica de App Builder
 description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con información general técnica
 landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con información general técnica
+short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical overview
 kt: 11763
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f593ff1158872340ea814a29b3dd0d618f3b449f
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

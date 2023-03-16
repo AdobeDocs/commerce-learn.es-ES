@@ -2,11 +2,12 @@
 title: Crear un GraphQL de origen múltiple para utilizarlo en la red de API
 description: Descubra cómo usar varias fuentes para Mesh de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre algunos errores comunes y cómo resolverlos.
 landing-page-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga varias fuentes y cómo resolver algunos errores comunes.
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%

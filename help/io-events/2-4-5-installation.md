@@ -2,12 +2,13 @@
 title: Obtenga información sobre cómo instalar eventos IO para Adobe Commerce 2.4.5
 description: Obtenga información sobre cómo instalar los módulos necesarios para los eventos de E/S en Adobe Commerce 2.4.5 para su uso en Adobe Developer App Builder
 landing-page-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.5 mediante el compositor.
+short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
 kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: "Adobe Commerce 2.4.5"
-source-git-commit: e5fe4d5408b12426f9925c6213bd0cc73b4089b6
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

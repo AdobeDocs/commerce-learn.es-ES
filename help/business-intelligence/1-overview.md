@@ -2,13 +2,14 @@
 title: 'MBI: información general'
 description: Obtenga información sobre los tres componentes principales del producto MBI que proporcionan una solución completa de inteligencia empresarial.
 landing-page-description: Vea esta serie de vídeos para conocer cómo puede obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
+short-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
