@@ -2,9 +2,9 @@
 user-guide-title: Vídeos y Tutorials
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source mediante vídeos y tutoriales.
 breadcrumb-title: Vídeos y Tutorials
-source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
+source-git-commit: ce23b8d52a027f45a1a1ba633ebd82ea3cf3e1b5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,17 @@ ht-degree: 0%
    + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demostración funcional de App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Información general técnica de App Builder](../app-builder/app-builder-technical-overview.md)
+   + Primera aplicación {#first-app}
+      + [Información general](../app-builder/first-app/overview.md)
+      + [El archivo .env](../app-builder/first-app/env-file.md)
+      + [El archivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+      + [carpeta de acciones](../app-builder/first-app/actions-folder.md)
+      + [carpeta de prueba](../app-builder/first-app/test-folder.md)
+      + [carpeta web-src](../app-builder/first-app/web-src-folder.md)
+      + [Prueba local](../app-builder/first-app/testing-locally.md)
+      + [Pruebas con la URL de App Builder](../app-builder/first-app/testing-app-builder-url.md)
+      + [Conclusión](../app-builder/first-app/conclusion.md)
+      + [Código fuente del módulo de muestra](https://github.com/magento/app-builder-samples){target="_blank"}
    + Eventos IO para Adobe Commerce {#io-events}
       + [Instalación de Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Instalación de Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
