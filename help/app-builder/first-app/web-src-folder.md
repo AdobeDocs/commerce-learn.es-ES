@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# La variable `web-src` carpeta {#web-src-folder}
+# Descubra el propósito de la carpeta web-src {#web-src-folder}
 
 La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y carpetas JavaScript. Esta carpeta se utiliza para aplicaciones que tienen una interfaz de usuario. No todas las aplicaciones utilizan esta función. Por ejemplo, una integración de comercio con un sistema de administración de inventario externo puede no requerir una interfaz de front-end y un código.
 

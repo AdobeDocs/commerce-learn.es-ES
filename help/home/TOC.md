@@ -2,9 +2,9 @@
 user-guide-title: Vídeos y Tutorials
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source mediante vídeos y tutoriales.
 breadcrumb-title: Vídeos y Tutorials
-source-git-commit: f3eb7686068d6be02816d34c08e7ebecc681df5b
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -67,13 +67,13 @@ ht-degree: 0%
    + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demostración funcional de App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Información general técnica de App Builder](../app-builder/app-builder-technical-overview.md)
-   + Creación de la primera aplicación {#first-app}
+   + Primera aplicación {#first-app}
       + [Información general](../app-builder/first-app/overview.md)
-      + [El archivo .env](../app-builder/first-app/env-file.md)
-      + [El archivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [carpeta de acciones](../app-builder/first-app/actions-folder.md)
-      + [carpeta de prueba](../app-builder/first-app/test-folder.md)
-      + [carpeta web-src](../app-builder/first-app/web-src-folder.md)
+      + [Generar y configurar el archivo .env](../app-builder/first-app/env-file.md)
+      + [Descripción y uso del archivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+      + [Obtenga información sobre la carpeta de acciones](../app-builder/first-app/actions-folder.md)
+      + [Obtenga información sobre la carpeta de prueba](../app-builder/first-app/test-folder.md)
+      + [Descubra el propósito de la carpeta web-src](../app-builder/first-app/web-src-folder.md)
       + [Prueba local](../app-builder/first-app/testing-locally.md)
       + [Pruebas con la URL de App Builder](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusión](../app-builder/first-app/conclusion.md)

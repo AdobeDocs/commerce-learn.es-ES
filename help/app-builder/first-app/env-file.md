@@ -6,15 +6,15 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 
-# La variable `.env` file {#env-file}
+# Generar y configurar el archivo .env {#env-file}
 
 La variable `.env` es un archivo especial que no forma parte del módulo de muestra, pero que es importante para su uso en la aplicación de Adobe Developer App Builder. Este archivo contiene secretos y otra información. Evite enviar este archivo a cualquier repositorio de código.
 
