@@ -7,7 +7,7 @@ kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Obtenga información sobre cómo registrar eventos, buscar eventos admitidos y c
 * Obtenga información sobre cómo registrar eventos en las instancias de comercio `app/etc/config.php`
 * Obtenga información sobre cómo cancelar la suscripción a un evento
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## Comandos útiles {#useful-commands}
 

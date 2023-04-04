@@ -6,7 +6,7 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -29,7 +29,7 @@ La variable `.env` es un archivo especial que no forma parte del módulo de mues
 * Cómo anexar el archivo para añadir nuevos secretos
 * Evite cometer este archivo porque contiene información confidencial
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## Ejemplo de código
 
