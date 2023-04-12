@@ -2,7 +2,7 @@
 title: 'MBI: preparación para el futuro'
 description: Vea esta serie de videos para aclarar su comprensión de los cambios sin precedentes que forjan el futuro del comercio digital.
 landing-page-description: Vea esta serie de videos para aclarar su comprensión de los cambios sin precedentes que forjan el futuro del comercio digital.
-short-description: Watch this series of videos to clarify your understanding of the unprecedented changes shaping the future of digital commerce.
+short-description: Vea esta serie de videos para aclarar su comprensión de los cambios sin precedentes que forjan el futuro del comercio digital.
 kt: 10411
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---

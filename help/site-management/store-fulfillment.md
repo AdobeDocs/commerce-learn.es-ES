@@ -2,7 +2,7 @@
 title: Información general sobre el cumplimiento de la tienda
 description: Obtenga información sobre el cumplimiento de la tienda para Adobe Commerce de Walmart Commerce Technologies, una avanzada solución omnicanal de cumplimiento que ofrece una experiencia de compra en línea, recogida en la tienda (BOPIS) de extremo a extremo.
 landing-page-description: Vea este vídeo para conocer cómo la solución Store Fulfillment ofrece a los clientes la comodidad de los empleados de recogida y almacenamiento en la tienda y en el lado del cursor, así como flujos de trabajo de cumplimiento más eficientes y listos para dispositivos móviles para recoger, realizar etapas y realizar pedidos de recogida en la tienda a los clientes.
-short-description: Watch this video to learn how the Store Fulfillment solution offers customers the convenience of in-store and curbside pick-up and store employees more efficient, mobile-ready fulfillment workflows to pick, stage, and hand-off store pickup orders to customers.
+short-description: Vea este vídeo para conocer cómo la solución Store Fulfillment ofrece a los clientes la comodidad de los empleados de recogida y almacenamiento en la tienda y en el lado del cursor, así como flujos de trabajo de cumplimiento más eficientes y listos para dispositivos móviles para recoger, realizar etapas y realizar pedidos de recogida en la tienda a los clientes.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -10,7 +10,7 @@ activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---

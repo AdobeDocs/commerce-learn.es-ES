@@ -2,7 +2,7 @@
 title: 'MBI: Report Builder SQL'
 description: Aprenda a utilizar el Report Builder SQL de MBI para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
 landing-page-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de MBI para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
-short-description: Watch this video to learn how use the MBI SQL Report Builder to directly query your data warehouse, view the results, and quickly transform them into a chart.
+short-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de MBI para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---

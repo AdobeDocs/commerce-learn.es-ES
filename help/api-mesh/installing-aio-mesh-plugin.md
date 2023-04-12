@@ -2,18 +2,18 @@
 title: Instalación de la interfaz de línea de comandos de Adobe I/O Runtime y del complemento de red de API
 description: Descubra cómo instalar la interfaz de línea de comandos de Adobe I/O Runtime y el complemento de red de API
 landing-page-description: Descubra cómo usar Adobe App Builder e instalar Adobe I/O Runtime con el complemento de red de API.
-short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
+short-description: Descubra cómo usar Adobe App Builder e instalar Adobe I/O Runtime con el complemento de red de API.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
-
 
 # Instalación de Adobe I/O Runtime CLI y del complemento de red
 

@@ -2,7 +2,7 @@
 title: 'Page Builder para desarrolladores: Introducción'
 description: Introducción al creador de páginas, comprensión de las capacidades del creador de páginas
 landing-page-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo ampliarlo para crear lo mejor [!DNL Commerce] experiencias de tienda.
-short-description: Watch this video series to learn about Page Builder and how you can extend it to create optimal [!DNL Commerce] storefront experiences.
+short-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo ampliarlo para crear lo mejor [!DNL Commerce] experiencias de tienda.
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -10,7 +10,7 @@ activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

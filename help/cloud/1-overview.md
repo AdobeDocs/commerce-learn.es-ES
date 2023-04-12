@@ -2,7 +2,7 @@
 title: 'Adobe Commerce en infraestructura en la nube: información general'
 description: Identifique las tecnologías clave dentro del ​ de pila de la nube. Describa la estrategia de entrega de contenido para Adobe Commerce. Comprenda el valor del sistema de archivos de solo lectura.
 landing-page-description: Vea esta serie de vídeos para empezar a usar la infraestructura de nube utilizada para implementar y administrar Adobe Commerce.
-short-description: Watch this video series to get started on the cloud infrastructure used for deploying and managing Adobe Commerce.
+short-description: Vea esta serie de vídeos para empezar a usar la infraestructura de nube utilizada para implementar y administrar Adobe Commerce.
 kt: 5656
 doc-type: video
 audience: all
@@ -10,7 +10,7 @@ activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
