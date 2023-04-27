@@ -2,9 +2,9 @@
 user-guide-title: Vídeos y Tutorials
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source mediante vídeos y tutoriales.
 breadcrumb-title: Vídeos y Tutorials
-source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
+source-git-commit: 8d183d343c6aca85d8bf490df051372ab76f77a0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 0%
    + [Configuración de Recommendations de producto](../site-management/product-recommendations.md)
    + [Introducción a Live Search](../site-management/live-search.md)
    + [Búsqueda activa de recomendaciones](../site-management/live-search-recommendations.md)
+   + [Live Search: demostración completa](../site-management/live-search-full-demonstration.md)
 + Pedidos y cumplimiento {#orders}
    + [Información general sobre el cumplimiento de la tienda](../site-management/store-fulfillment.md)
    + [Administrar estado de pedido](../site-management/order-status.md)
