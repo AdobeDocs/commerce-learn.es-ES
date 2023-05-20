@@ -1,8 +1,8 @@
 ---
-title: Marco de extensibilidad y eventos comerciales
-description: Más información sobre el marco de extensibilidad unificada y la tarde del comercio
-landing-page-description: Más información sobre el marco de extensibilidad unificada y la tarde del comercio
-short-description: Más información sobre el marco de extensibilidad unificada y la tarde del comercio
+title: Marco de extensibilidad y eventos de comercio
+description: Obtenga información sobre el marco de extensibilidad unificado y la noche de comercio
+landing-page-description: Obtenga información sobre el marco de extensibilidad unificado y la noche de comercio
+short-description: Obtenga información sobre el marco de extensibilidad unificado y la noche de comercio
 kt: 11740
 doc-type: tutorial
 audience: all
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 # Marco de extensibilidad para App Builder
 
-Para aprender a utilizar Adobe Commerce con Adobe Developer App Builder, vea el siguiente vídeo, que muestra cómo usar eventos de comercio con App Builder. Esta demostración funcional describe cómo funciona la integración y explora el potencial de App Builder. Esta demostración proporciona una introducción al marco de extensibilidad, Commerce Event y cómo se utiliza para desarrollar la extensión de Sales Channel de Amazon.
+Para aprender a utilizar Adobe Commerce con el Generador de aplicaciones de Adobe Developer, vea el siguiente vídeo, que muestra cómo utilizar eventos de Commerce con el creador de aplicaciones. Esta demostración funcional describe cómo funciona la integración y explora el potencial del App Builder. Esta demostración proporciona una introducción al marco de trabajo de extensibilidad, Commerce Eventing, y cómo se utiliza para desarrollar la extensión de Sales Channel de Amazon.
 
 >[!IMPORTANT]
 >
->La extensión de la Sales Channel de Amazon sigue en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar Adobe Developer App Builder para un caso de uso práctico.
+>La extensión de Sales Channel de Amazon aún está en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar el Generador de aplicaciones de Adobe Developer para obtener un caso de uso práctico.
 
-## Creador de aplicaciones para Adobe Commerce {#app-builder-extensibility}
+## Generador de aplicaciones para Adobe Commerce {#app-builder-extensibility}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413328?quality=12&learn=on)
 

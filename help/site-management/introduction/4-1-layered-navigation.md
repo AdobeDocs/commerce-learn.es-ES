@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuarios empresariales: navegación por capas"
-description: Habilite la navegación en capas en el [!DNL Commerce] almacene para que los clientes puedan encontrar productos de forma fácil y rápida.
+description: Habilite la navegación por capas en su [!DNL Commerce] tienda para que los clientes puedan encontrar productos de forma fácil y rápida.
 topic: Commerce
 kt: 5775
 doc-type: video
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: navegación en capas
+# [!DNL Commerce] para usuarios empresariales: navegación por niveles
 
 En este vídeo:
 
-- Habilitar la navegación en capas
+- Habilitar navegación por capas
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Navegación por capas - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)
+[Navegación por capas - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html)

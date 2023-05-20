@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para desarrolladores: conceptos básicos de desarrollo"
-description: Obtenga información sobre los conceptos básicos del desarrollo, como la creación de un módulo, la configuración de la tienda, las operaciones de ID y un ejemplo de controlador frontal.
+description: Obtenga información acerca de los conceptos básicos de desarrollo, como la creación de un módulo, la configuración de la tienda, las operaciones de ID y un ejemplo de controlador frontal.
 kt: 5695
 doc-type: video
 topic: Development
@@ -23,17 +23,17 @@ En este vídeo:
 - Creación de un módulo
 - Configuración de la tienda
 - Operaciones de ID
-- Ejemplo de controlador frontal
+- Ejemplo del controlador delantero
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36197?quality=12&learn=on)
 
 ## Recursos adicionales
 
 - [Extensibilidad y modularidad](https://developer.adobe.com/commerce/php/architecture/modules/)
-- [Información general sobre las opciones de almacenamiento y la administración de la configuración](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/overview.html)
+- [Información general sobre las opciones de tienda y la administración de configuración](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/overview.html)

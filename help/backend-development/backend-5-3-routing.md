@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para desarrolladores - Enrutamiento"
-description: Obtenga información sobre el enrutamiento, la creación de un controlador de front-end simple, objetos de resultado, clase de acción.
+title: '"[!DNL Commerce] para desarrolladores: "Enrutamiento"'
+description: Obtenga información sobre el enrutamiento, la creación de un controlador de front-end simple, los objetos de resultado y la clase de acción.
 kt: 5697
 doc-type: video
 topic: Development
@@ -21,15 +21,15 @@ ht-degree: 0%
 En este vídeo:
 
 - Enrutamiento
-- Creación de un controlador de front-end simple
+- Crear un controlador de front-end simple
 - Objetos de resultado
 - Clase de acción
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36199?quality=12&learn=on)
 

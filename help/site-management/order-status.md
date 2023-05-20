@@ -1,6 +1,6 @@
 ---
-title: Administrar estado de pedido
-description: Obtenga información sobre cómo comprobar el estado de un pedido y sus detalles, y cómo cambiar el estado de un pedido.
+title: Administrar estado de pedidos
+description: Obtenga información sobre cómo comprobar el estado de un pedido y sus detalles, y cómo cambiar este estado.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# Administrar estado de pedido
+# Administrar estado de pedidos
 
-Cuando un cliente realiza un pedido, se crea un pedido de venta como registro temporal de la transacción. El pedido de ventas tiene un estado de _Pendiente_ hasta que se reciba el pago. Mientras se encuentra en estado Pendiente, los pedidos se pueden editar o cancelar hasta que se reciba el pago y se genere una factura. En este vídeo, aprenderá a comprobar el estado del pedido y sus detalles, así como a cambiar el estado de un pedido, si es necesario.
+Cuando un cliente realiza un pedido, se crea un pedido de venta como un registro temporal de la transacción. El pedido de ventas tiene un estado de _Pendiente_ hasta recibir el pago. En estado Pendiente, los pedidos se pueden editar o cancelar hasta que se reciba el pago y se genere una factura. En este vídeo, aprenderá a comprobar el estado de un pedido y sus detalles, así como a cambiar el estado de un pedido, si es necesario.
 
 ## ¿Para quién es este vídeo?
 
 - Ventas
-- Representantes del servicio al cliente
+- Representantes de servicio al cliente
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343935?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Procesar una solicitud [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Estado del pedido - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Procesar un pedido: [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Estado del pedido - [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

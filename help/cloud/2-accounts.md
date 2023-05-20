@@ -1,6 +1,6 @@
 ---
-title: 'Adobe Commerce en infraestructura en la nube: Alojamiento y cuentas'
-description: Obtenga información sobre las soluciones de alojamiento existentes para Adobe Commerce ​. Comprender las diferencias entre las cuentas de inicio y ​.
+title: 'Adobe Commerce en la infraestructura en la nube: alojamiento y cuentas'
+description: Obtenga información acerca de las soluciones de alojamiento existentes para Adobe Commerce​. Comprender las diferencias entre las cuentas de Starter y Pro​.
 kt: 5657
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce en infraestructura en la nube: Alojamiento y cuentas
+# Adobe Commerce en la infraestructura en la nube: alojamiento y cuentas
 
 En este vídeo:
 
-- Obtenga información sobre las soluciones de alojamiento en la nube existentes &#x200B; para Adobe Commerce
-- Comprender las diferencias entre las cuentas de Starter y Pro &#x200B;
+- Obtenga información acerca de las soluciones de alojamiento en la nube existentes&#x200B; para Adobe Commerce
+- Comprender las diferencias entre las cuentas de Starter y Pro&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Arquitectura de nube [!DNL Commerce] en la Guía de infraestructura de Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)
+[Arquitectura de nube - [!DNL Commerce] Guía de infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

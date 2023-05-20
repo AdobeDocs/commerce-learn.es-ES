@@ -1,6 +1,6 @@
 ---
-title: Crear utilidades
-description: Aprenda a crear utilidades y a modificar las existentes para actualizar automáticamente el contenido de su tienda.
+title: Crear widgets
+description: Aprenda a crear widgets y modificar los existentes para actualizar automáticamente el contenido en la tienda.
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# Crear utilidades
+# Crear widgets
 
-Los widgets son componentes reutilizables que puede crear y modificar fácilmente para actualizar automáticamente el contenido en su tienda. En este vídeo, aprenderá a crear y administrar utilidades.
+Los widgets son componentes reutilizables que se pueden crear y modificar fácilmente para actualizar automáticamente el contenido de la tienda. En este vídeo, aprenderá a crear y administrar widgets.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
 - Diseñadores de contenido
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343786?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Widgets - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Crear y administrar utilidades - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widgets - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Crear y administrar widgets - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

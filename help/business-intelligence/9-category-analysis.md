@@ -1,6 +1,6 @@
 ---
-title: 'IMM: análisis de categoría'
-description: Obtenga información sobre el análisis de categoría básico y el valor de duración de los clientes.
+title: 'MBI: análisis de categoría'
+description: Obtenga información acerca del análisis de categorías básicas y el valor de duración del cliente.
 kt: 5734
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# IMM: análisis de categoría
+# MBI: análisis de categoría
 
-El análisis de categorías está diseñado para ofrecer una visión general de alto nivel de categorías de productos seleccionadas. Destaca la combinación de categorías que compran los mismos clientes durante su vida útil.
+El análisis de categorías está diseñado para ofrecer una descripción general de alto nivel de categorías de productos seleccionadas. Destaca la combinación de categorías que compran los mismos clientes a lo largo de su vida útil.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ El análisis de categorías está diseñado para ofrecer una visión general de 
 ## Recursos adicionales
 
 - [Segmentos de producto: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
-- [Análisis del rendimiento empresarial: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [Análisis de rendimiento empresarial - Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

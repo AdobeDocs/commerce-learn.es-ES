@@ -1,8 +1,8 @@
 ---
-title: Información general técnica de App Builder
-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con información general técnica
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con información general técnica
-short-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con información general técnica
+title: Resumen técnico del App Builder
+description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con información general técnica
+landing-page-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con información general técnica
+short-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con información general técnica
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# Información general técnica de App Builder
+# Información general técnica sobre App Builder
 
-El siguiente vídeo proporciona información general técnica sobre la conexión de la Sales Channel de Adobe Commerce y Amazon. Este tutorial también explora cómo puede utilizar Adobe App Builder para integraciones y funcionalidades personalizadas.
+El siguiente vídeo proporciona información general técnica sobre la conexión de Adobe Commerce y la Sales Channel de Amazon. Este tutorial también explora cómo puede utilizar el Generador de aplicaciones de Adobe para funcionalidades e integraciones personalizadas.
 
 >[!IMPORTANT]
 >
->La extensión de la Sales Channel de Amazon sigue en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar Adobe Developer App Builder para un caso de uso práctico.
+>La extensión de Sales Channel de Amazon aún está en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar el Generador de aplicaciones de Adobe Developer para obtener un caso de uso práctico.
 
 
-## Creador de aplicaciones para Adobe Commerce {#app-builder-technical-overview}
+## Generador de aplicaciones para Adobe Commerce {#app-builder-technical-overview}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 

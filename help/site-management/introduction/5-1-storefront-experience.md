@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: Tienda"
-description: Obtenga información sobre la experiencia del cliente en la tienda, incluida la creación de cuentas, listas de deseos y la adición de elementos de listas de deseos al carro de compras
+title: " [!DNL Commerce] para usuarios comerciales: escaparate"
+description: Obtenga más información sobre la experiencia del cliente en el escaparate, incluidas la creación de cuenta, las listas de deseos y la adición de elementos de lista para la carro de compras
 topic: Commerce
 kt: 5778
 doc-type: video
@@ -14,29 +14,29 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: Tienda
+# [!DNL Commerce] para usuarios comerciales: escaparate
 
 En este vídeo:
 
-- Experiencia del cliente en la tienda
-- Creación de cuenta
+- experiencia del cliente en el escaparate
+- Creación de cuentas
 - Listas de deseos
-- Adición de elementos de la lista de deseos al carro de compras
+- Adición de elementos deseados lista al carro de compras
 
-## ¿Para quién es este vídeo?
+## ¿Para qué es este vídeo?
 
-- Usuarios empresariales
+- Usuarios de Empresa
 
-## Contenido del vídeo
+## Vídeo contenido
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>La contenido en el vídeo refleja la versión 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte la [ notas de la versión ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) .
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Ámbito de la cuenta del cliente: [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Cuenta de cliente ámbito: Guía de administración de  [!DNL Commerce]  clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Experiencia de tienda de listas de deseos - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Desee lista guía de la experiencia de  [!DNL Commerce]  tienda y compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

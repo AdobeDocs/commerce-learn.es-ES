@@ -1,6 +1,6 @@
 ---
-title: 'MBI: tablero de información general ejecutivo'
-description: Consulte una demostración del tablero Información general ejecutiva proporcionada por MBI.
+title: 'MBI: tablero de información general ejecutiva'
+description: Vea una demostración del tablero Información general ejecutiva proporcionado por MBI.
 kt: 5731
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# MBI: tablero de información general ejecutivo
+# MBI: tablero de información general ejecutiva
 
-El tablero Información general del ejecutivo proporciona perspectivas de alto nivel sobre ingresos, pedidos y valores de pedido promedio. Los informes se desglosan como valores estáticos y con el tiempo. Puede compartir este tablero con otros miembros de su equipo, lo que les otorga acceso de edición para colaborar con usted o acceso de solo visualización.
+El panel Información general para ejecutivos proporciona información de alto nivel sobre ingresos, pedidos y valores de pedidos promedio. Los informes se desglosan como valores estáticos y a lo largo del tiempo. Puede compartir este tablero con otros miembros de su equipo, proporcionándoles acceso de edición para colaborar con usted o acceso de solo lectura.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >

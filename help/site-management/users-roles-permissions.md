@@ -1,6 +1,6 @@
 ---
 title: Administrar funciones y permisos de usuario
-description: Obtenga información sobre las cuentas de usuario y los permisos utilizados para controlar el acceso a [!DNL Commerce] sitio web y almacene datos en el administrador.
+description: Obtenga información sobre las cuentas de usuario y los permisos utilizados para controlar el acceso a [!DNL Commerce] y almacenar datos en el Administrador de.
 kt: 5610
 doc-type: feature video
 audience: all
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 # Usuarios, funciones y permisos
 
-Si hay otras personas en su equipo o proveedores de servicios que necesitan acceso, puede crear una cuenta de usuario independiente para cada uno y asignar el acceso restringido en función de sus necesidades comerciales. Para limitar los sitios web o las tiendas a los que pueden acceder los usuarios administradores, primero debe crear una función con ámbito limitado y solo los recursos necesarios seleccionados. A continuación, puede asignar la función a una cuenta de usuario específica. Los usuarios administradores asignados a una función restringida solo pueden ver y cambiar los datos de sitios web o tiendas asociados a la función, pero no pueden cambiar ninguna configuración global o datos.
+Si hay otros miembros de su equipo o proveedores de servicios que necesitan acceso, puede crear una cuenta de usuario independiente para cada uno y asignar un acceso restringido según sus necesidades comerciales. Para limitar los sitios web o tiendas a los que pueden acceder los usuarios administradores, primero debe crear una función con un ámbito limitado y solo los recursos necesarios seleccionados. A continuación, puede asignar la función a una cuenta de usuario específica. Los usuarios administradores asignados a una función restringida solo pueden ver y cambiar los datos de los sitios web o tiendas asociados a la función, pero no pueden cambiar la configuración global ni los datos.
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de tiendas
+- Administradores de tienda
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Administrar cuentas de usuario de administrador: [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Administrar cuentas de usuario de administrador - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
 [Funciones de usuario - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

@@ -1,18 +1,18 @@
 ---
 title: El archivo app.config.yaml
 description: Obtenga información sobre los tipos de archivos del archivo app.config.yaml para esta aplicación de ejemplo.
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y los tipos de archivos que aparecen en app.config.yaml.
+landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y los tipos de archivos que se incluyen en app.config.yaml.
 kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Descripción y uso del archivo app.config.yaml {#app-config-yaml}
 
@@ -20,12 +20,12 @@ Este archivo determina la configuración de la aplicación.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada con el Creador de aplicaciones de Adobe que están aprendiendo sobre el `app.config.yaml` en la aplicación de ejemplo.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada con el Generador de aplicaciones de Adobe que están aprendiendo sobre `app.config.yaml` en la aplicación de ejemplo.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* La variable `app.config.yaml` archivo discutido
-* ¿Cómo se vinculan las definiciones a otras `.js` files
+* El `app.config.yaml` archivo discutido
+* ¿Cómo se vinculan las definiciones a otros? `.js` archivos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -49,7 +49,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puede ver estos valores estáticos que se utilizan en el módulo de muestra en el archivo `actions/commerce.index.js`
+Puede ver estos valores estáticos en uso en el módulo de ejemplo en el archivo `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

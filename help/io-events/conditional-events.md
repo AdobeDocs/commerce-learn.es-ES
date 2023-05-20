@@ -1,8 +1,8 @@
 ---
 title: Aprenda a utilizar eventos condicionales en Adobe Commerce
-description: Aprenda a utilizar eventos condicionales para utilizarlos en Adobe Developer App Builder.
-landing-page-description: Aprenda a utilizar eventos condicionales de Adobe Commerce.
-short-description: Aprenda a utilizar eventos condicionales de Adobe Commerce.
+description: Aprenda a utilizar eventos condicionales para utilizarlos en el Generador de aplicaciones de Adobe Developer.
+landing-page-description: Aprenda a utilizar los eventos condicionales de Adobe Commerce.
+short-description: Aprenda a utilizar los eventos condicionales de Adobe Commerce.
 kt: 11890
 doc-type: tutorial
 audience: all
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 # Eventos condicionales de Adobe Commerce
 
-Obtenga información sobre los eventos condicionales en Adobe Commerce que se pueden usar en Adobe Developer App Builder. Documentación adicional encontrada en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Obtenga información sobre los eventos condicionales en Adobe Commerce que se pueden utilizar en el Generador de aplicaciones de Adobe Developer. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Los desarrolladores que utilicen nuevos eventos de E/S para Adobe Commerce y Adobe Developer App Builder deberán crear un proyecto de Adobe App Builder .
+* Desarrolladores nuevos en el Generador de aplicaciones de Adobe Commerce y Adobe Developer que utilizan eventos de E/S y que necesitan crear un proyecto de Adobe del Generador de aplicaciones.
 
-## Contenido del vídeo {#video-content}
+## Contenido de vídeo {#video-content}
 
-* Descubra más información sobre los eventos condicionales
-* Aprenda a utilizar correctamente el nuevo archivo XML io_events.xml
+* Más información sobre los eventos condicionales
+* Aprenda el uso adecuado del nuevo archivo XML io_events.xml
 * Obtenga información sobre cómo configurar eventos condicionales
 * Definición de reglas para su uso en eventos condicionales
-* Obtenga información sobre cómo registrar eventos en las instancias de comercio `app/etc/config.php`
+* Obtenga información sobre cómo registrar eventos en las instancias de Commerce `app/etc/config.php`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 

@@ -21,17 +21,17 @@ El módulo es un elemento estructural de [!DNL Commerce] - todo el sistema está
 
 - Desarrolladores
 
-## Pasos para agregar un módulo
+## Pasos para añadir un módulo
 
 - Cree la carpeta del módulo.
 - Cree el archivo etc/module.xml.
-- Cree el archivo registration.php .
+- Cree el archivo registration.php.
 - Ejecute la configuración de bin/magento.
 - Actualice el script para instalar el nuevo módulo.
-- Compruebe que el módulo funcione.
+- Compruebe que el módulo funciona.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?quality=12&learn=on)
 
 ## Recursos útiles
 
-- [Guía de referencia de módulos](https://developer.adobe.com/commerce/php/module-reference/)
+- [Guía de referencia del módulo](https://developer.adobe.com/commerce/php/module-reference/)

@@ -1,6 +1,6 @@
 ---
-title: 'Adobe Commerce en infraestructura en la nube: implementación'
-description: Obtenga información sobre las fases de implementación y las secuencias de comandos. Comprender cómo funciona el proceso de implementación desde el ​ de la infraestructura.
+title: 'Adobe Commerce en la infraestructura en la nube: implementación'
+description: Obtenga información sobre las fases y secuencias de comandos de implementación. Comprender cómo funciona el proceso de implementación desde la infraestructura​.
 kt: 5659
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce en infraestructura en la nube: implementación
+# Adobe Commerce en la infraestructura en la nube: implementación
 
 En este vídeo:
 
-- Obtenga información sobre las fases de implementación y las secuencias de comandos
-- Comprender cómo funciona el proceso de implementación desde el lado de la infraestructura &#x200B;
+- Obtenga información sobre las fases y secuencias de comandos de implementación
+- Comprender cómo funciona el proceso de implementación desde la infraestructura&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Proceso de implementación en la nube [!DNL Commerce] en la Guía de infraestructura de Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[Proceso de implementación en la nube - [!DNL Commerce] Guía de infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

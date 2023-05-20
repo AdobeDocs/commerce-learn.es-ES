@@ -1,8 +1,8 @@
 ---
-title: Demostración funcional de App Builder
-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con una demostración técnica
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con una demostración técnica
-short-description: Obtenga información sobre Adobe Developer App Builder utilizado en Adobe Commerce con una demostración técnica
+title: Demostración funcional del Generador de aplicaciones
+description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
+landing-page-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
+short-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
 kt: 11762
 doc-type: tutorial
 audience: all
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ---
 
-# Demostración funcional de App Builder
+# Demostración funcional del Generador de aplicaciones
 
-Para obtener más información sobre cómo utilizar Adobe Commerce con App Builder, vea el siguiente vídeo que muestra cómo conectar Adobe Commerce a Amazon Seller Central. Esta demostración utiliza eventos de Adobe Commerce que App Builder consume para permitir la integración continua con Amazon Marketplace. Esta demostración funcional describe cómo funciona esta integración y explora el potencial de Adobe App Builder.
+Para obtener más información sobre cómo usar Adobe Commerce con el Generador de aplicaciones, vea el siguiente vídeo que muestra cómo conectar Adobe Commerce a Amazon Seller Central. Esta demostración utiliza eventos de Adobe Commerce consumidos por el Generador de aplicaciones para permitir la integración continua con Amazon Marketplace. En esta demostración funcional se describe cómo funciona esta integración y se explora el potencial del Generador de aplicaciones de Adobe.
 
 >[!IMPORTANT]
 >
->La extensión de la Sales Channel de Amazon sigue en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar Adobe Developer App Builder para un caso de uso práctico.
+>La extensión de Sales Channel de Amazon aún está en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar el Generador de aplicaciones de Adobe Developer para obtener un caso de uso práctico.
 
-## Creador de aplicaciones para Adobe Commerce {#app-builder-functional-demonstration}
+## Generador de aplicaciones para Adobe Commerce {#app-builder-functional-demonstration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502?quality=12&learn=on)
 

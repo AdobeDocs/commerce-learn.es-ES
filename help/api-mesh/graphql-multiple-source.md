@@ -1,8 +1,8 @@
 ---
-title: Crear un GraphQL de origen múltiple para utilizarlo en la red de API
-description: Descubra cómo usar varias fuentes para Mesh de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre algunos errores comunes y cómo resolverlos.
-landing-page-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga varias fuentes y cómo resolver algunos errores comunes.
-short-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga varias fuentes y cómo resolver algunos errores comunes.
+title: Crear un GraphQL de varias fuentes para utilizarlo en la malla de API
+description: Descubra cómo utilizar varias fuentes para API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre algunos errores comunes y cómo resolverlos.
+landing-page-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
+short-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,26 +15,26 @@ ht-degree: 0%
 
 ---
 
-# Crear una red con varias fuentes
+# Creación de una malla con varias fuentes
 
-Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con varias fuentes en Mesh de API para Adobe Developer App Builder. Este vídeo muestra cómo crear una red con varias fuentes e identificar errores. Para obtener más información y ejemplos de código, visite [Crear una red](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con varias fuentes en API Mesh para Adobe Developer App Builder. Este vídeo muestra cómo crear una malla con varias fuentes e identificar errores. Para obtener más información y ejemplos de código, visite [Creación de una malla](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Cualquiera que sea nuevo en la red de API
-* Desarrolladores interesados en combinar varias fuentes de API y GraphQL
+* Cualquiera que sea nuevo en API mesh
+* Desarrolladores interesados en combinar varias fuentes de API y GraphQL.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* Cómo usar [transforma](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar el esquema de origen predeterminado
-* Solución de problemas de errores, como conflictos de nombres, disponibilidad del esquema y otros problemas de sintaxis del esquema
-* Actualización de la red con una configuración modificada
+* Cómo usar [transforms](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar el esquema de origen predeterminado
+* Solucionar errores, como conflictos de nombres, disponibilidad de esquemas y otros problemas de sintaxis de esquemas
+* Actualización de la malla con una configuración modificada
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
-## Creación del archivo de configuración json
+## Cree el archivo de configuración json.
 
-La red de API utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene un `sources` matriz que contiene los orígenes de la red. Este es un ejemplo de red con múltiples fuentes.
+API Mesh utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene un `sources` matriz que contiene los orígenes de la malla. Este es un ejemplo de una malla con varias fuentes.
 
 ```json
 {

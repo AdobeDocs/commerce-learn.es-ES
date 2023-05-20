@@ -1,6 +1,6 @@
 ---
-title: 'MBI: Generar informes'
-description: Obtenga información sobre las opciones de creación de informes disponibles en MBI.
+title: 'MBI: generación de informes'
+description: Obtenga información acerca de las opciones de creación de informes disponibles en MBI.
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# MBI: Generar informes
+# MBI: generación de informes
 
-Existen dos opciones para crear informes y análisis en MBI: el creador de informes visual y el creador de informes SQL.
+Existen dos opciones para generar informes y análisis en MBI: el Report Builder visual y el Report Builder SQL.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >

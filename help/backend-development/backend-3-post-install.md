@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para desarrolladores - Post install"
-description: Verifique y configure su instancia, establezca u mask, instale datos de ejemplo, establezca el modo de ejecución adecuado
+title: '"[!DNL Commerce] para desarrolladores: instalación posterior'
+description: Verificar y configurar la instancia, configurar la máscara, instalar datos de ejemplo, establecer el modo de ejecución adecuado
 kt: 5693
 doc-type: video
 topic: Development
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para desarrolladores: posinstalación
+# [!DNL Commerce] para desarrolladores: instalación posterior
 
 En este vídeo:
 
 - Verificar y configurar la instancia
-- Establecer máscara u
+- Establecer máscara U
 - Instalación de datos de ejemplo
-- Definir el modo de ejecución
+- Establecer el modo de ejecución
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >La función de base de datos dividida quedó obsoleta en la versión 2.4.2.
 
@@ -37,7 +37,7 @@ En este vídeo:
 
 ## Recursos adicionales
 
-- [Verifique la instalación](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
-- [Configuración opcional de una máscara](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Compruebe la instalación](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Si lo desea, puede configurar umask](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
 - [Instalación de datos de ejemplo](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
 - [Acerca de los modos de aplicación](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

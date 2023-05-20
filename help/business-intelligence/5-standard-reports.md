@@ -1,6 +1,6 @@
 ---
 title: 'MBI: informes estándar'
-description: Obtenga información sobre los informes de MBI estándar, disponibles de forma predeterminada.
+description: Obtenga información acerca de los informes de MBI estándar, disponibles de forma predeterminada.
 kt: 5733
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # MBI: informes estándar
 
-Los tableros MBI predeterminados y predeterminados contienen informes predefinidos que abarcan los informes de KPI de comercio electrónico que necesita la mayoría de los comerciantes. Los comerciantes pueden automatizar estos informes para ejecutar sus negocios de manera más eficiente y eliminar el análisis manual que pueden estar haciendo junto con consultas SQL o en Excel.
+Los paneles predeterminados de MBI contienen informes predefinidos que cubren los informes de KPI de comercio electrónico que la mayoría de los comerciantes necesitan. Los comerciantes pueden automatizar estos informes para ejecutar sus negocios de forma más eficiente, y eliminar el análisis manual que pueden estar haciendo a mano con consultas SQL o en Excel.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -33,5 +33,5 @@ Los tableros MBI predeterminados y predeterminados contienen informes predefinid
 
 ## Recursos adicionales
 
-- [Tableros predeterminados: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
-- [Usar grupos de tableros - Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)
+- [Paneles predeterminados - Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
+- [Uso de grupos de paneles: guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)

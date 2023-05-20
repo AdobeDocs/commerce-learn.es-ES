@@ -1,6 +1,6 @@
 ---
-title: 'MBI: Rentabilidad en el seguimiento de la inversión'
-description: Obtenga información sobre las perspectivas de MBI que le ayudan a realizar un seguimiento del retorno de la inversión.
+title: 'MBI: seguimiento del rendimiento de la inversión'
+description: Conozca las perspectivas de MBI que le ayudarán a rastrear su retorno de la inversión.
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# MBI: Rentabilidad en el seguimiento de la inversión
+# MBI: seguimiento del rendimiento de la inversión
 
-MBI proporciona perspectivas que le ayudan a supervisar y administrar su retorno de la inversión. Por ejemplo, si está invirtiendo en publicidad en línea, desea realizar un seguimiento de su rendimiento en el gasto para tomar decisiones basadas en datos sobre inversiones adicionales.
+MBI proporciona perspectivas que le ayudan a monitorizar y administrar el retorno de la inversión. Por ejemplo, si está invirtiendo en publicidad en línea, desea rastrear el retorno del gasto para tomar decisiones basadas en datos sobre futuras inversiones.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ MBI proporciona perspectivas que le ayudan a supervisar y administrar su retorno
 ## Recursos adicionales
 
 - [Análisis de campaña: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
-- [ROI de marketing: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)
+- [ROI de marketing: guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)

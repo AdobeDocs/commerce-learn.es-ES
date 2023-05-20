@@ -1,6 +1,6 @@
 ---
-title: 'MBI: Compartir resultados y exportar datos'
-description: Obtenga información sobre cómo compartir los resultados de MBI y exportar datos para su integración con otras herramientas empresariales.
+title: 'MBI: compartir resultados y exportar datos'
+description: Obtenga información sobre cómo compartir sus resultados de MBI y exportar datos para integrarlos con otras herramientas empresariales.
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# MBI: Compartir resultados y exportar datos
+# MBI: compartir resultados y exportar datos
 
-A los usuarios de MBI se les pueden otorgar niveles de permisos de solo lectura, estándar o de administrador para controlar quién ve partes específicas de los datos del negocio. Y las ventajas no se limitan a los usuarios de MBI: programe y envíe resúmenes de correo electrónico a tantas direcciones de correo electrónico como sea necesario. Los datos del almacén de datos se pueden exportar mediante la API de exportación.
+A los usuarios de MBI se les pueden otorgar niveles de permiso de solo lectura, estándar o de administrador para controlar quién ve partes específicas de los datos empresariales. Y las ventajas no se limitan a los usuarios de MBI: programe y envíe resúmenes de correo electrónico a tantas direcciones de correo electrónico como sea necesario. Los datos del almacén de datos se pueden exportar mediante la API Export.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -33,5 +33,5 @@ A los usuarios de MBI se les pueden otorgar niveles de permisos de solo lectura,
 
 ## Recursos adicionales
 
-- [Exportación de datos de gráficos: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [Exportar datos de gráficos: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
 - [Creación de resúmenes de correo electrónico automatizados: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

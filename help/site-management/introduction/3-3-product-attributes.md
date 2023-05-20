@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: atributos"
-description: Obtenga información sobre los atributos personalizados y del sistema para productos.
+title: '"[!DNL Commerce] para usuarios empresariales: "Atributos"'
+description: Obtenga información sobre los atributos personalizados y del sistema para los productos de.
 topic: Commerce
 kt: 5769
 doc-type: video
@@ -25,14 +25,14 @@ En este vídeo:
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Información general sobre los atributos del producto [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Resumen de atributos del producto: [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

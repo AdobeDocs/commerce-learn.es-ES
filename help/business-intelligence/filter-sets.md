@@ -1,8 +1,8 @@
 ---
 title: 'MBI: conjuntos de filtros'
-description: Aprenda a utilizar la función de conjuntos de filtros de IMM para simplificar los informes de datos empresariales para Adobe Commerce y Magento Open Source.
-landing-page-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de MBI para simplificar los informes de datos empresariales.
-short-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de MBI para simplificar los informes de datos empresariales.
+description: Aprenda a utilizar la función de conjuntos de filtros de MBI para simplificar la creación de informes de datos empresariales para Adobe Commerce y Magento Open Source.
+landing-page-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de MBI y simplificar la creación de informes de datos empresariales.
+short-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de MBI y simplificar la creación de informes de datos empresariales.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,25 +18,25 @@ ht-degree: 0%
 
 # MBI: conjuntos de filtros
 
-¿Desea analizar solo algunas partes de los datos empresariales? ¿Cansado de hacer una limpieza manual? En MBI, puede utilizar la función de conjuntos de filtros para simplificar este proceso.
+¿Desea analizar únicamente determinados fragmentos de los datos empresariales? ¿Cansado de hacer una limpieza manual? En MBI, puede utilizar la función de conjuntos de filtros para simplificar este proceso.
 
 En este vídeo:
 
-- Crear un conjunto de filtros
-- Usar operadores de filtro
-- Aplicar un filtro establecido a una métrica
-- Aplicar un conjunto de filtros a una dimensión de datos calculada
+- Creación de un conjunto de filtros
+- Uso de operadores de filtro
+- Aplicación de un conjunto de filtros a una métrica
+- Aplicación de un conjunto de filtros a una dimensión de datos calculada
 
 >[!TIP]
 >
->Si es nuevo en MBI, la variable [Primeros pasos de la serie de vídeos](1-overview.md) proporciona una descripción general completa para impulsar mejores perspectivas y resultados comerciales mediante la agregación, el análisis y la visualización de datos.
+>Si es su primera vez en MBI, la variable [Serie de vídeos de introducción](1-overview.md) proporciona información general completa para mejorar las perspectivas y los resultados empresariales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
 
@@ -44,4 +44,4 @@ En este vídeo:
 
 [Creación de conjuntos de filtros: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Dimension de datos recomendados para segmentación y filtrado: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Dimension de datos recomendados para la segmentación y el filtrado: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

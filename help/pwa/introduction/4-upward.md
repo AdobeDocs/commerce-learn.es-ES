@@ -22,8 +22,8 @@ En este vídeo:
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores de front-end
-- Administradores de proyectos
+- Jefes de proyecto
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35718?quality=12&learn=on)

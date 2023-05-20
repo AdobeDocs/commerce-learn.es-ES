@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: posicionamiento de categoría"
-description: Coloque los productos dentro de categorías para que los clientes vean los productos en la parte superior que desea que vean.
+title: "[!DNL Commerce] para usuarios empresariales: posicionamiento por categorías"
+description: Coloque los productos dentro de las categorías para que los clientes vean los productos en la parte superior que desea que vean.
 topic: Commerce
 kt: 5776
 doc-type: video
@@ -18,20 +18,20 @@ ht-degree: 0%
 
 En este vídeo:
 
-- Posición del producto de la categoría
+- Posición del producto de categoría
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Asignaciones de productos de categoría - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+[Asignaciones de productos de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)

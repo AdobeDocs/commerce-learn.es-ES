@@ -1,8 +1,8 @@
 ---
-title: Información general sobre el cumplimiento de la tienda
-description: Obtenga información sobre el cumplimiento de la tienda para Adobe Commerce de Walmart Commerce Technologies, una avanzada solución omnicanal de cumplimiento que ofrece una experiencia de compra en línea, recogida en la tienda (BOPIS) de extremo a extremo.
-landing-page-description: Vea este vídeo para conocer cómo la solución Store Fulfillment ofrece a los clientes la comodidad de los empleados de recogida y almacenamiento en la tienda y en el lado del cursor, así como flujos de trabajo de cumplimiento más eficientes y listos para dispositivos móviles para recoger, realizar etapas y realizar pedidos de recogida en la tienda a los clientes.
-short-description: Vea este vídeo para conocer cómo la solución Store Fulfillment ofrece a los clientes la comodidad de los empleados de recogida y almacenamiento en la tienda y en el lado del cursor, así como flujos de trabajo de cumplimiento más eficientes y listos para dispositivos móviles para recoger, realizar etapas y realizar pedidos de recogida en la tienda a los clientes.
+title: Información general de Store Fulfillment
+description: Obtenga información sobre la satisfacción de pedidos en la tienda para Adobe Commerce gracias a Walmart Commerce Technologies, una solución avanzada de cumplimiento omnicanal que ofrece una experiencia integral de compra en línea y recogida en la tienda (BOPIS).
+landing-page-description: Vea este vídeo para conocer cómo la solución Store Fulfillment ofrece a los clientes la comodidad de los flujos de trabajo de recogida en tienda y en la acera y de los empleados de tienda más eficientes y listos para dispositivos móviles para recoger, almacenar en zona intermedia y entregar a los clientes pedidos de recogida en la tienda.
+short-description: Vea este vídeo para conocer cómo la solución Store Fulfillment ofrece a los clientes la comodidad de los flujos de trabajo de recogida en tienda y en la acera y de los empleados de tienda más eficientes y listos para dispositivos móviles para recoger, almacenar en zona intermedia y entregar a los clientes pedidos de recogida en la tienda.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 ---
 
-# Información general sobre el cumplimiento de la tienda
+# Información general de Store Fulfillment
 
-Store Fulfillment para Adobe Commerce de Walmart Commerce Technologies ofrece una experiencia avanzada de compra en línea y recogida en la tienda (BOPIS). Maximiza la productividad de los empleados del almacén al proporcionar un flujo de trabajo completo y sin problemas de realización de canales omnicanal que está habilitado a través de un dispositivo móvil.
+La satisfacción de pedidos de la tienda para Adobe Commerce de Walmart Commerce Technologies ofrece una experiencia avanzada de compra en línea y recogida en la tienda (BOPIS) para los clientes. Maximiza la productividad de los empleados de la tienda al proporcionar un flujo de trabajo omnicanal completo y sin problemas que se activa a través de un dispositivo móvil.
 
-Este vídeo proporciona información general rápida sobre la experiencia BOPIS de extremo a extremo de la entrega de la tienda con las opciones de recogida en la tienda y en el borde de la curva.
+Este vídeo ofrece información general rápida sobre la experiencia de BOPIS de extremo a extremo con opciones de recogida en tienda y en la acera.
 
-- Vea cómo un cliente envía un pedido de recogida de tienda:
+- Observe a un cliente enviar un pedido de recogida de la tienda:
    - Examine el catálogo de tiendas en línea.
-   - Seleccionar elementos para la recogida en la tienda.
+   - Seleccione artículos para la recogida en tienda.
    - Busque y seleccione una ubicación de tienda con existencias disponibles.
-   - Consulte y personalice las opciones de recogida de tiendas.
+   - Comprueba y personaliza las opciones de recogida de la tienda.
    - Realice el pedido.
-- Vea cómo un empleado y un cliente de la tienda atraviesan el proceso de realización de pedidos de extremo a extremo mediante la aplicación móvil disponible con la solución Store Fulfillment.
+- Vea cómo un empleado y un cliente de una tienda pasan por el proceso de tramitación de pedidos de extremo a extremo mediante la aplicación móvil disponible con la solución Store Fulfillment.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de comercio electrónico
-- Administradores y administradores de operaciones de almacenamiento
+- Administradores y gestores de operaciones de almacenamiento
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 1.0 de la solución Store Fulfillment instalada en una tienda con Adobe Commerce 2.4. Consulte la [Guía del usuario sobre el cumplimiento de la tienda](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) para obtener la información más actualizada.
+>El contenido del vídeo refleja la versión 1.0 de la solución Store Fulfillment instalada en una tienda con Adobe Commerce 2.4. Consulte la [Guía del usuario de Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) para obtener la información más actualizada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Guía del usuario sobre el cumplimiento de la tienda](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Guía del usuario de Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

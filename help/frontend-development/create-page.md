@@ -21,24 +21,24 @@ Cree una página que devuelva json con un parámetro.
 
 - Desarrolladores
 
-## Pasos para agregar una página
+## Pasos para añadir una página
 
 - Creación de un módulo
-- Agregue un **route.xml** file
-- Añadir un archivo de controlador (acción)
+- Añadir un **routes.xml** archivo
+- Agregar un archivo de controlador (acción)
 
 ## Pasos para crear un módulo
 
-- Crear la carpeta del módulo
-- Cree la variable `etc/module.xml` file
-- Cree la variable `registration.php` file
-- Ejecute el `bin/magento setup:upgrade` script para instalar el nuevo módulo
-- Compruebe que el módulo funcione
+- Creación de la carpeta del módulo
+- Cree el `etc/module.xml` archivo
+- Cree el `registration.php` archivo
+- Ejecute el `bin/magento setup:upgrade` secuencia de comandos para instalar el nuevo módulo
+- Compruebe que el módulo funciona
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35816?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Guía para desarrolladores de front-end](https://developer.adobe.com/commerce/frontend-core/guide/)
+[Guía para desarrolladores de Frontend](https://developer.adobe.com/commerce/frontend-core/guide/)

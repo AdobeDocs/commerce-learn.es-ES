@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuarios empresariales: ámbitos de funciones y permisos"
-description: Obtenga información sobre cómo definir ámbitos de funciones (exclusivos de Adobe Commerce) y los permisos asociados por sitio o almacén.
+description: Obtenga información sobre cómo definir ámbitos de función (exclusivos de Adobe Commerce) y los permisos asociados por sitio o tienda.
 topic: Commerce
 kt: 5763
 doc-type: video
@@ -24,16 +24,16 @@ En este vídeo:
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Administrar cuentas de usuario de administrador: [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Administrar cuentas de usuario de administrador - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
 [Funciones de usuario - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

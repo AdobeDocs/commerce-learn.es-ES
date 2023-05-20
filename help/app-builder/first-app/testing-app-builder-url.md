@@ -1,28 +1,28 @@
 ---
-title: Pruebas con la URL de Adobe Developer App Builder
-description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la URL de App Builder proporcionada para su proyecto.
-landing-page-description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la URL proporcionada en su proyecto.
+title: Pruebas con la URL del App Builder de Adobe Developer
+description: Obtenga información sobre cómo probar la primera aplicación de App Builder de Adobe Developer desde la URL de App Builder proporcionada para su proyecto.
+landing-page-description: Obtenga información sobre cómo probar la primera aplicación del Generador de aplicaciones de Adobe Developer desde la URL proporcionada de su proyecto.
 kt: 12427
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# Pruebas mediante la URL del generador de aplicaciones {#testing-app-builder-url}
 
-# Pruebas con la URL de App Builder {#testing-app-builder-url}
-
-Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder mediante la URL de su proyecto.
+Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder con la URL del proyecto.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder que están listos para probar su primera aplicación Adobe Developer App Builder.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que están listos para probar su primera aplicación de Adobe Developer App Builder.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 * Cómo implementar la aplicación
 * Dónde encontrar la URL después de la implementación

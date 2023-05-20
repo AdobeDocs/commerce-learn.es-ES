@@ -1,8 +1,8 @@
 ---
-title: Realizar una mutación mediante GraphQL
-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice la primera mutación utilizando llamadas del POST.
-landing-page-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice la primera mutación utilizando llamadas del POST.
-short-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice la primera mutación utilizando llamadas del POST.
+title: Realización de una mutación con GraphQL
+description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
+landing-page-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
+short-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 # Mutaciones
 
-Cualquier especificación completa de API debe ofrecer la capacidad no solo de consultar datos, sino también de crearlos y actualizarlos.
+Cualquier especificación de API completa debe ofrecer la capacidad no solo de consultar datos, sino también de crearlos y actualizarlos.
 
 REST distingue entre solicitudes que cambian datos y aquellas que no lo hacen con el tipo de solicitud o &quot;verbo&quot; (GET vs. POST o PUT).
-Al utilizar GraphQL, las consultas de modificación de datos se distinguen por el `mutation` palabra clave que corresponde a un tipo raíz diferente en el esquema definido en el servidor.
+Al utilizar GraphQL, las consultas de modificación de datos se distinguen por la variable `mutation` palabra clave que corresponde a un tipo raíz diferente en el esquema definido en el servidor.
 
-Observe esta mutación de ejemplo para agregar un producto al carro de compras de un usuario. (Requiere un ID de carro de compras que se haya generado para la sesión del cliente que ha iniciado sesión o que utilice el `createEmptyCart` mutación).
+Observe este ejemplo de mutación para agregar un producto al carro de compras de un usuario. (Esto requiere un ID de carro de compras generado para la sesión del cliente que inició sesión o que usa el `createEmptyCart` mutación.)
 
 ```graphql
 mutation doAddToCart(
@@ -45,7 +45,7 @@ mutation doAddToCart(
 }
 ```
 
-Se puede imaginar que la mutación anterior se envía en una solicitud junto con el siguiente diccionario de variables:
+Puede imaginar que la mutación anterior se envíe en una solicitud junto con el siguiente diccionario de variables:
 
 ```json
 {
@@ -59,7 +59,7 @@ Se puede imaginar que la mutación anterior se envía en una solicitud junto con
 }
 ```
 
-Y finalmente, podría recibir una respuesta como esta:
+Y, finalmente, podría recibir una respuesta como esta:
 
 ```json
 {
@@ -78,20 +78,20 @@ Y finalmente, podría recibir una respuesta como esta:
 }
 ```
 
-Lo principal a tener en cuenta es que sobre el ejemplo anterior, aparte del uso de la variable `mutation` palabra clave en lugar de `query`, la sintaxis es idéntica a una consulta. Al igual que las consultas, la mutación incluye:
+Lo más importante a tener en cuenta sobre el ejemplo anterior es que, aparte del uso de la `mutation` palabra clave en lugar de `query`, la sintaxis es idéntica a una consulta. Al igual que las consultas, la mutación incluye:
 
-* Nombre de operación arbitrario (`doAddToCart`)
+* Un nombre de operación arbitrario (`doAddToCart`)
 * Una lista de variables (por ejemplo, `$cartId`)
 * Un campo inicial (`addProductsToCart`) con argumentos (por ejemplo, `cartId`, establezca en el valor de `$cartId`) entre paréntesis
 * Una subselección de campos entre llaves
 
-La subselección de campos permite definir de forma flexible los campos que desea que se devuelvan (del tipo asignado como valor devuelto de `addProductsToCart` - `AddProductsToCartOutput`) una vez finalizada la mutación.
+La subselección de campos permite definir de forma flexible los campos que desea devolver (desde el tipo asignado como valor devuelto de `addProductsToCart` - `AddProductsToCartOutput`) una vez completada la mutación.
 
-Como se ha explicado anteriormente, los campos definidos en un esquema de GraphQL comienzan en un tipo raíz para las consultas (generalmente denominados `Query`). Del mismo modo, existe otro tipo de raíz para las mutaciones (generalmente denominado `Mutation`). `addProductsToCart` es un campo de ese tipo raíz.
+Como se explicó anteriormente, los campos definidos en un esquema de GraphQL comienzan en un tipo raíz para consultas (generalmente denominado `Query`). Del mismo modo, existe otro tipo de raíz para las mutaciones (generalmente denominado `Mutation`). `addProductsToCart` es un campo de ese tipo raíz.
 
-Otras notas sobre el ejemplo anterior:
+Algunas otras notas sobre el ejemplo anterior:
 
-* La variable `!` sufijo de caracteres `String` y `CartItemInput` indica que la variable es obligatoria.
-* Los corchetes (`[]`) alrededor de la variable `CartItemInput` tipo especificado para `$cartItems` indican una lista de ese tipo en lugar de un solo valor.
+* El `!` sufijo de caracteres `String` y `CartItemInput` indica que la variable es obligatoria.
+* Los corchetes (`[]`) alrededor del `CartItemInput` tipo especificado para `$cartItems` indicar una lista de ese tipo en lugar de un valor único.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

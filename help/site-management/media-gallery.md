@@ -1,6 +1,6 @@
 ---
-title: Administrar la Galería de medios
-description: Aprenda a utilizar la nueva Galería de medios mejorada para organizar y administrar archivos de medios en el servidor.
+title: Administrar la galería de medios
+description: Aprenda a utilizar la nueva Galería multimedia mejorada para organizar y administrar archivos multimedia en el servidor.
 doc-type: feature video
 role: Admin, User
 audience: all
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# Administrar la Galería de medios
+# Administrar la galería de medios
 
-Con Adobe Commerce o Magento Open Source 2.4, los comerciantes pueden utilizar la nueva Galería de medios mejorada para organizar y administrar sus archivos de medios en el servidor.
+Con Adobe Commerce o Magento Open Source 2.4, los comerciantes pueden utilizar la nueva Galería multimedia mejorada para organizar y administrar sus archivos multimedia en el servidor.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
 - Comerciantes de comercio electrónico
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343785?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Galería de medios: [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [Almacenamiento de medios alternativo: [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [Galería de medios - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [Almacenamiento de medios alternativos: [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: Importación y exportación de productos"
+title: '"[!DNL Commerce] para usuarios empresariales: "Importar y exportar productos"'
 description: Obtenga información sobre cómo importar y exportar los productos del catálogo.
 topic: Commerce
 kt: 5773
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: Importación y exportación de productos
+# [!DNL Commerce] para usuarios empresariales: importación y exportación de productos
 
 En este vídeo:
 
@@ -25,11 +25,11 @@ En este vídeo:
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 

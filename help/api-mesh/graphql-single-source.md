@@ -1,8 +1,8 @@
 ---
-title: Crear una red de origen única de GraphQL en red de API
-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga un origen.
-landing-page-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga un origen.
-short-description: Descubra cómo usar la red de API en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una red que tenga un origen.
+title: Creación de una malla de fuente única de GraphQL en API Mesh
+description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
+landing-page-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
+short-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 ---
 
-# Crear una red con un único origen
+# Creación de una malla con un solo origen
 
-Este vídeo ayuda a los desarrolladores a comprender cómo crear una red con una única fuente en Mesh de API para Adobe Developer App Builder. Para que este ejemplo básico funcione según lo esperado, necesita una API o un punto final de GraphQL de acceso público. El vídeo también explica cómo crear una `mesh.json` para usar con la instancia de Commerce. Para obtener más información y ejemplos de código, visite [Crear una red](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con una sola fuente en API Mesh para Adobe Developer App Builder. Para que este ejemplo básico funcione según lo esperado, necesita un punto final de GraphQL o API accesible públicamente. El vídeo también explica cómo crear un `mesh.json` para utilizarlo con su instancia de Commerce. Para obtener más información y ejemplos de código, visite [Creación de una malla](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Cualquier persona nueva en la red de API
+* Cualquier persona nueva en API mesh
 * Desarrolladores interesados en combinar varias fuentes de GraphQL y API
-* Cualquier persona que necesite saber cómo filtrar la pestaña de red y filtrar por GraphQL.
+* Cualquiera que necesite saber cómo filtrar la pestaña de red y filtrar por GraphQL
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* Uso de la red de API como proxy inverso
-* Creación de una red a partir de un archivo de configuración JSON
-* Acceso al extremo de GraphQL recién creado
+* Uso de API Mesh como proxy inverso
+* Creación de una malla a partir de un archivo de configuración JSON
+* Acceder al punto de conexión de GraphQL recién creado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
-## Creación del archivo de configuración json
+## Cree el archivo de configuración json.
 
-La red de API utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene un `sources` matriz que contiene los orígenes de la red. A continuación se muestra un ejemplo de red con una única fuente.
+API Mesh utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene un `sources` matriz que contiene los orígenes de la malla. Este es un ejemplo de una malla con una sola fuente.
 
 ```json
 {

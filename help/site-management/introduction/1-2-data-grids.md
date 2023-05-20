@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuarios empresariales: cuadrículas de datos"
-description: Aprenda a trabajar con cuadrículas de datos en la [!DNL Commerce Admin].
+description: Aprenda a trabajar con cuadrículas de datos en [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
@@ -18,20 +18,20 @@ ht-degree: 0%
 
 En este vídeo:
 
-- Uso de cuadrículas de datos en la variable [!DNL Commerce Admin]
+- Uso de cuadrículas de datos en [!DNL Commerce Admin]
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Controles de cuadrícula de administración - [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Controles de cuadrícula de administración: [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

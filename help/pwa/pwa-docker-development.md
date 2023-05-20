@@ -1,6 +1,6 @@
 ---
-title: Desarrollo del PWA Docker
-description: Obtenga información sobre el desarrollo de PWA en Docker.
+title: Desarrollo de Dock PWA
+description: Obtenga más información sobre el desarrollo PWA en Docker.
 topic: Development
 kt: 5564
 doc-type: video
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Desarrollo del PWA Docker
+# Desarrollo de Dock PWA
 
-## ¿Para quién es este vídeo?
+## ¿Para qué es este vídeo?
 
 - Desarrolladores de front-end
 
-## Contenido del vídeo
+## Contenido de Vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Guía del PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)
+[Guía de PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)

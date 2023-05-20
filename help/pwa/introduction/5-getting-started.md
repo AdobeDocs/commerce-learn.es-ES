@@ -1,5 +1,5 @@
 ---
-title: 'PWA Studio para desarrolladores: Configuración del proyecto'
+title: 'PWA Studio para desarrolladores: configuración del proyecto'
 description: Empiece con un nuevo proyecto de PWA Studio, que incluye la generación de un certificado SSL local y los comandos CLI del paquete de compilación.
 topic: Development
 kt: 5648
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio para desarrolladores: Configuración del proyecto
+# PWA Studio para desarrolladores: configuración del proyecto
 
 En este vídeo:
 
@@ -25,8 +25,8 @@ En este vídeo:
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores de front-end
-- Administradores de proyectos
+- Jefes de proyecto
 
-## Contenido del vídeo:
+## Contenido de vídeo:
 
 >[!VIDEO](https://video.tv.adobe.com/v/35719?quality=12&learn=on)

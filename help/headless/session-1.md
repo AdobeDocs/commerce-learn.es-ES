@@ -1,11 +1,12 @@
 ---
-title: Sesión de arquitectura sin objetivos 1
-description: Descubra qué es arquitectura sin objetivos, comercio composable y experiencias personalizadas
+title: Sesión de arquitectura sin encabezado 1
+description: Descubra qué es la arquitectura sin encabezado, el comercio componible y las experiencias personalizadas
 kt: 13144
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-25T00:00:00Z
-source-git-commit: e5b69467c59b7814867091d69bc71349a4763166
+exl-id: 49dd1397-7b94-43d8-b8e1-96d654f68b64
+source-git-commit: 6eff6d65a70156c6ca46eae3fc435d625feb44be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -14,23 +15,23 @@ ht-degree: 0%
 
 # Arquitectura sin encabezado de Adobe Commerce
 
-Descripción general de alto nivel de la historia de Adobe Commerce y cómo las cosas han ido cambiando para admitir totalmente sin objetivos.  Las ventajas de la arquitectura sin objetivos incluyen la paridad entre puntos de contacto, la separación de las actividades de desarrollo, la mejora de la escalabilidad y mucho más.
+Información general de alto nivel sobre el historial de Adobe Commerce y cómo se han estado moviendo las cosas para admitir completamente el sin encabezado.  Las ventajas de la arquitectura sin encabezado incluyen paridad entre puntos de contacto, separación de actividades de desarrollo, escalabilidad mejorada y mucho más.
 
-## Expectativas de ver este vídeo
+## Qué cabe esperar de la visualización de este vídeo
 
-Aprenda qué es lo que no tiene objetivos y cómo admite Adobe Commerce una arquitectura totalmente incompleta.
+Descubra qué es sin encabezado y cómo admite Adobe Commerce la arquitectura sin encabezado.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores y propietarios de tiendas que son nuevos en Adobe Commerce y desean obtener más información sobre arquitectura sin objetivos y algunas estrategias básicas.
+* Los desarrolladores y propietarios de tiendas que son nuevos en Adobe Commerce y desean obtener más información sobre la arquitectura sin encabezado y algunas estrategias básicas.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* Delantero descompuesto del servidor
-* ¿Qué es una API?
-* Múltiples enfoques sin encabezado
-* Explicación del comercio composable
-* Adobe Commerce es la API primero, pero no solo la API
-* Cualificaciones a tener en cuenta antes de ir con comercio sin encabezado
+* Front-end disociado del servidor
+* Qué es una API
+* Varios enfoques sin encabezado
+* Explicación del comercio compositable
+* Adobe Commerce es API primero, pero no solo API
+* Cualificaciones que hay que tener en cuenta antes de utilizar el comercio sin encabezado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # MBI: paneles centrados en el cliente
 
-Para permitir decisiones comerciales informadas, los paneles centrados en el cliente ofrecen muchas perspectivas a sus clientes. Algunos ejemplos son los clientes nuevos frente a los registrados, el valor de duración de los clientes, los ingresos desglosados por grupos de clientes y el uso de cupones por parte de los clientes.
+Para permitir decisiones comerciales informadas, los paneles centrados en el cliente proporcionan muchas perspectivas a sus clientes. Algunos ejemplos son clientes nuevos frente a registrados, valor de duración del cliente, ingresos desglosados por grupos de clientes y uso de cupones por parte de los clientes.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -33,5 +33,5 @@ Para permitir decisiones comerciales informadas, los paneles centrados en el cli
 
 ## Recursos adicionales
 
-- [Clientes (se permite el cierre de compra de invitado): Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
-- [Clientes (no se permite el cierre de compra de invitado): Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))
+- [Clientes (se permite el pago de los huéspedes) - Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [Clientes (no se permite el cierre de compra de invitados) - Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

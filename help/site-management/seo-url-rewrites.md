@@ -1,6 +1,6 @@
 ---
-title: Administrar reescrituras de URL para SEO
-description: Obtenga información sobre el uso de la herramienta de reescritura de URL para cambiar cualquier dirección URL asociada a un producto, categoría o página de CMS.
+title: Administración de reescrituras de URL para SEO
+description: Obtenga información acerca del uso de la herramienta de reescritura de URL para cambiar cualquier dirección URL asociada a un producto, categoría o página de CMS.
 kt: 10554
 doc-type: feature video
 audience: all
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ---
 
-# Administrar reescrituras de URL para SEO
+# Administración de reescrituras de URL para SEO
 
-La herramienta de reescritura de URL permite cambiar cualquier dirección URL asociada a un producto, categoría o página de CMS. Cuando la reescritura entra en vigor, cualquier vínculo que apunte a la URL anterior se redirige a la nueva dirección.
+La herramienta de reescritura de URL permite cambiar cualquier URL asociada a un producto, categoría o página de CMS. Cuando la reescritura entra en vigor, los vínculos que apunten a la dirección URL anterior se redirigirán a la nueva dirección.
 
 ## ¿Para quién es este vídeo?
 
 - Administrador del sitio web
 - Comerciantes de comercio electrónico
-- Especialistas en mercadotecnia de comercio electrónico
+- Especialistas en marketing electrónico
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Reescrituras de URL: [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [Reescrituras de URL - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [General > Web - [!DNL Commerce] Guía de referencia de configuración](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

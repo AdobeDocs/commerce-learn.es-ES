@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para desarrolladores: ejercicios"
+title: '"[!DNL Commerce] para desarrolladores: ejercicios'
 description: Práctica [!DNL Commerce] tareas de desarrollo con cinco ejercicios útiles.
 kt: 5699
 doc-type: video
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 # [!DNL Commerce] para desarrolladores: ejercicios
 
-En este vídeo, hay cinco ejercicios para practicar [!DNL Commerce] tareas de desarrollo:
+En este vídeo, hay cinco ejercicios que practicar [!DNL Commerce] tareas de desarrollo:
 
 - [!DNL Commerce] CLI
-- Compositor PHP
+- Compositor de PHP
 - Actualización de la instancia
 - Corrección de un módulo dañado
-- Escritura y ejecución de pruebas PHPUnit
-- Creación de [!DNL Admin] página
+- Escribir y ejecutar pruebas PHPUnit
+- Creación de un [!DNL Admin] página
 
-[Ejercitar la descarga de archivos](./assets/FreeIntro2.3.1.zip)
+[Descarga de archivo de ejercicios](./assets/FreeIntro2.3.1.zip)
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)
 

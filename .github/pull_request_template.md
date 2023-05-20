@@ -22,7 +22,7 @@ ht-degree: 0%
 
 <!--- Why is this change required? What problem does it solve? -->
 
-## ¿Cómo Se Ha Probado Esto?
+## ¿Cómo Se Ha Probado?
 
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] Corrección de errores (cambio no rompible que corrige un problema)
-- [ ] Nueva función (cambio no rompible que añade funcionalidad)
-- [ ] Cambio radical (corrección o función que podría provocar el cambio de la funcionalidad existente)
+- [ ] Corrección de errores (cambio de no separación que corrige un problema)
+- [ ] Nueva función (cambio de no separación que agrega funcionalidad)
+- [ ] Cambio radical (corrección o función que haría que la funcionalidad existente cambiara)
 
 ## Lista de comprobación:
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] ¿Seguiste el [Normas de nomenclatura](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
-- [ ] La tabla de contenido y la coincidencia H1 para cada página que se esté creando o actualizando.
-- [ ] La TOC y el H1 tienen una acción asociada, por ejemplo: Obtenga información sobre cómo crear una solicitud de extracción de GutHub
-- [ ] Nada debe ser monoespaciado en H1
-- [ ] Cada título de página debe comenzar con una letra de apitol ***C**
-- [ ] He comprobado para ver si algún vídeo debería tener capítulos
-- [ ] Todos los vídeos tienen un póster asignado para representar el vídeo correctamente
+- [ ] ¿Has seguido la [Estándares de nomenclatura](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] La TDC y el H1 coinciden para cada página que se crea o actualiza.
+- [ ] La TDC y el H1 tienen una acción asociada, por ejemplo: Aprenda a crear una solicitud de extracción de GutHub
+- [ ] No se debe espaciar nada en H1
+- [ ] Cada título de página debe comenzar con una letra ***C***apitol
+- [ ] He comprobado si algún vídeo debería tener capítulos
+- [ ] Todos los vídeos tienen un póster asignado para representar correctamente el vídeo
 - [ ] ¿Utilizó [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

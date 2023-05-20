@@ -1,8 +1,8 @@
 ---
 title: Aprenda a utilizar New Relic para identificar una IP que debe bloquearse
-description: Con New Relic, identifique una dirección ip que pueda ser maliciosa por naturaleza.  Una vez determinada la IP, se utiliza en Ffront para impedir que acceda a la aplicación
-landing-page-description: Este vídeo indica a un usuario de New Relic que busque posibles direcciones IP que puedan necesitar ser bloqueadas para acceder al sitio.
-short-description: Este vídeo indica a un usuario de New Relic que busque posibles direcciones IP que puedan necesitar ser bloqueadas para acceder al sitio.
+description: Mediante New Relic, identifique una dirección IP que pueda ser maliciosa.  Una vez determinada la IP, esto se utiliza en Fastly para bloquear el acceso a la aplicación
+landing-page-description: Este vídeo indica a un usuario de New Relic que busque posibles direcciones IP que pueden necesitar ser bloqueadas para acceder al sitio.
+short-description: Este vídeo indica a un usuario de New Relic que busque posibles direcciones IP que pueden necesitar ser bloqueadas para acceder al sitio.
 kt: 11566
 doc-type: video
 audience: all
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Identifique una IP que pueda ser maliciosa y que debería ser bloqueada
+# Identificar una IP que pueda ser maliciosa y que deba bloquearse
 
 En este vídeo:
 
-- Identifique una IP potencial que sea sospechosa o maliciosa &#x200B; usar en Ffront para bloquearla
+- Identifique una IP potencial que sea sospechosa o maliciosa&#x200B; para utilizarla en Fastly para bloquearla
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)

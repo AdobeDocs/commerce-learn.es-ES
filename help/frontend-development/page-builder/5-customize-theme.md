@@ -1,6 +1,6 @@
 ---
-title: 'Generador de páginas para desarrolladores: personalización de temas'
-description: Obtenga información sobre cómo personalizar el tema de Page Builder.
+title: 'Page Builder para desarrolladores: personalización de temáticas'
+description: Aprenda a personalizar el tema de Page Builder.
 topic: Commerce, Development
 kt: 5654
 doc-type: video
@@ -13,22 +13,22 @@ ht-degree: 0%
 
 ---
 
-# Generador de páginas para desarrolladores: personalización de temas
+# Page Builder para desarrolladores: personalización de temáticas
 
 En este vídeo:
 
-- Personalización del tema de Page Builder
+- Personalizar el tema de Page Builder
 
 ## ¿Para quién es este vídeo?
 
 - Creadores de contenido
 - Desarrolladores de front-end
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte la [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este contenido refleja la versión 1.0.0 del Page Builder para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
@@ -36,4 +36,4 @@ En este vídeo:
 
 [Documentación para desarrolladores de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guía del Generador de páginas](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guía del Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

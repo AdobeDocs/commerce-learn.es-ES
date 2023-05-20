@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuarios empresariales: configuración de producto"
-description: Obtenga información sobre cómo crear productos, configurar opciones y usar atributos.
+description: Obtenga información sobre cómo crear productos, configurar opciones y utilizar atributos.
 topic: Commerce
 kt: 5768
 doc-type: video
@@ -14,30 +14,30 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: configuración de producto
+# [!DNL Commerce] para usuarios empresariales: configuración del producto
 
 En este vídeo:
 
-- Crear productos
+- Creación de productos
 - Configuración completa del producto
-- Definir atributos de producto
+- Definir atributos del producto
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Crear un producto: [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
+[Creación de un producto: [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
 
-[Configuración del producto - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
+[Configuración del producto - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
 
-[Información general sobre los atributos del producto [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Resumen de atributos del producto: [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

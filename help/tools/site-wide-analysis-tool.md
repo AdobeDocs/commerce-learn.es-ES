@@ -1,6 +1,6 @@
 ---
-title: El tablero de herramientas de análisis de todo el sitio
-description: Vea este vídeo técnico y aprenda a utilizar el panel de herramientas de análisis de todo el sitio para acceder a información y recomendaciones detalladas del sistema con el fin de garantizar la seguridad y la operabilidad de su instalación de Adobe Commerce.
+title: El panel de herramientas de análisis de todo el sitio
+description: Vea este vídeo técnico y aprenda a utilizar el panel de herramientas de análisis de todo el sitio para acceder a información detallada del sistema y a recomendaciones para garantizar la seguridad y la operabilidad de la instalación de Adobe Commerce.
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# El tablero de herramientas de análisis de todo el sitio
+# El panel de herramientas de análisis de todo el sitio
 
-La herramienta de análisis de todo el sitio es una herramienta de autoservicio proactiva y un repositorio central que incluye información detallada del sistema y recomendaciones para garantizar la seguridad y la operabilidad de su instalación de Adobe Commerce. Proporciona monitoreo del rendimiento en tiempo real, informes y asesoramiento las 24 horas del día, los 7 días de la semana, para identificar posibles problemas. Utilice esta herramienta para obtener una mejor visibilidad de las configuraciones de aplicaciones, seguridad y estado del sitio, ayudar a reducir el tiempo de resolución y mejorar la estabilidad y el rendimiento del sitio.
+La herramienta de análisis de todo el sitio es una herramienta de autoservicio proactiva y un repositorio central que incluye información detallada del sistema y recomendaciones para garantizar la seguridad y la operabilidad de la instalación de Adobe Commerce. Proporciona monitorización del rendimiento, informes y consejos en tiempo real las 24 horas del día, los 7 días de la semana para identificar posibles problemas. Utilice esta herramienta para obtener una mejor visibilidad de la salud del sitio, la seguridad y las configuraciones de aplicaciones, ayudar a reducir el tiempo de resolución y mejorar la estabilidad y el rendimiento del sitio.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
 - Desarrolladores
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/344001?quality=12&learn=on)
 
 ## Recursos adicionales
 
 - [Herramienta de análisis de todo el sitio](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Ver y administrar registros](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [Visualización y administración de registros](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

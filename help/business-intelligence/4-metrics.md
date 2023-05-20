@@ -1,6 +1,6 @@
 ---
-title: 'MBI: Métricas'
-description: Obtenga información sobre las métricas de MBI y cómo se utilizan para construir informes.
+title: 'MBI: métricas'
+description: Obtenga información acerca de las métricas de MBI y cómo se utilizan para construir informes.
 kt: 5725
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# MBI: Métricas
+# MBI: métricas
 
-Una métrica es una medición. En las estructuras SQL y de base de datos, una métrica es como una consulta almacenada durante un período de tiempo variable. Su equipo crea las métricas relevantes utilizadas para construir los informes necesarios para su negocio.
+Una métrica es una medida. En las estructuras SQL y de base de datos, una métrica es como una consulta almacenada durante un período de tiempo variable. Su equipo crea las métricas relevantes utilizadas para crear los informes necesarios para su negocio.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -33,5 +33,5 @@ Una métrica es una medición. En las estructuras SQL y de base de datos, una m�
 
 ## Recursos adicionales
 
-- [Crear métricas: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html)
+- [Creación de métricas: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-metrics.html)
 - [Creación de conjuntos de filtros: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)

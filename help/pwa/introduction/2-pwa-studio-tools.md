@@ -1,6 +1,6 @@
 ---
-title: 'PWA Studio para desarrolladores: herramientas de PWA'
-description: Obtenga información sobre el PWA Studio y la facilidad de uso de las herramientas de PWA Studio.
+title: 'PWA Studio para desarrolladores: herramientas para PWA'
+description: Obtenga información acerca de PWA Studio y la facilidad de uso de las herramientas de PWA Studio.
 topic: Development
 kt: 5645
 doc-type: video
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio para desarrolladores: herramientas de PWA
+# PWA Studio para desarrolladores: herramientas para PWA
 
 En este vídeo:
 
-- Introducción al PWA Studio
+- Introducción a PWA Studio
 - herramientas del PWA
 
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores de front-end
-- Administradores de proyectos
+- Jefes de proyecto
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35716?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Obtenga información sobre cómo instalar eventos IO para Adobe Commerce 2.4.6
-description: Obtenga información sobre cómo instalar los módulos necesarios para los eventos de E/S en Adobe Commerce 2.4.6 para su uso en Adobe Developer App Builder
+title: Obtenga información sobre cómo instalar eventos de IO para Adobe Commerce 2.4.6
+description: Obtenga información sobre cómo instalar los módulos necesarios para eventos de E/S en Adobe Commerce 2.4.6 para utilizarlos en el Generador de aplicaciones de Adobe Developer
 landing-page-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.6.
 short-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.6.
 kt: 11887
@@ -18,23 +18,23 @@ ht-degree: 0%
 
 # Instalación de Adobe Commerce 2.4.6
 
-Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce con Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce y Adobe Developer App Builder mediante eventos de E/S.
+* Desarrolladores nuevos en el Generador de aplicaciones de Adobe Commerce y Adobe Developer que utilizan eventos de I/O.
 
-## Contenido del vídeo {#video-content}
+## Contenido de vídeo {#video-content}
 
-* Comandos para ejecutar el alojamiento local
-* Comandos que se ejecutan para Adobe Commerce Cloud
-* La edición requerida para Adobe Commerce Cloud
+* Comandos para ejecutar en el alojamiento local
+* Comandos que se ejecutarán para Adobe Commerce Cloud
+* Adobe Commerce Cloud yaml edición requerida
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## Comandos útiles {#useful-commands}
 
-Hay varios comandos que difieren ligeramente, dependiendo de si se encuentra en un entorno autoalojado o si utiliza Adobe Commerce Cloud.
+Existen varios comandos que difieren ligeramente, según si se encuentra en un entorno autoalojado o utiliza Adobe Commerce Cloud.
 
 ### Alojamiento local {#on-premise}
 

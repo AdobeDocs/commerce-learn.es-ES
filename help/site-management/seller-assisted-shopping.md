@@ -1,6 +1,6 @@
 ---
-title: Compras asistidas por vendedores
-description: Aprenda a añadir puede ofrecer asistencia inmediata tanto a los clientes que se hayan registrado para una cuenta en su tienda como a los clientes que la hayan hecho.
+title: Compras asistidas por el vendedor
+description: Aprenda a añadir y a ofrecer asistencia inmediata tanto a los huéspedes como a los clientes que se hayan registrado para obtener una cuenta en su tienda.
 kt: 10548
 doc-type: feature video
 audience: all
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# Compras asistidas por vendedores
+# Compras asistidas por el vendedor
 
-Los clientes a veces necesitan asistencia para completar una compra. A algunos clientes les gusta comprar en línea, pero puede que prefieran pedir por teléfono. Puede ofrecer asistencia inmediata tanto a clientes como a clientes que se hayan registrado en una cuenta de su tienda.
+Los clientes a veces necesitan ayuda para completar una compra. A algunos clientes les gusta comprar en línea, pero es posible que prefieran hacer el pedido por teléfono. Puede ofrecer asistencia inmediata tanto a los clientes como a los clientes que se hayan registrado para obtener una cuenta en su tienda.
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de ventas
-- Representantes del servicio al cliente
+- Gerentes de ventas
+- Representantes de servicio al cliente
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343662?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Proporcionar asistencia al comprador - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Asistencia para la compra - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [Proporcionar asistencia al comprador - [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Asistencia de compras - [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

@@ -1,36 +1,36 @@
 ---
 title: La carpeta web-src
 description: Obtenga información sobre los tipos de archivos de la carpeta web-src y los archivos y carpetas anidados para esta aplicación de ejemplo.
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y los tipos de archivos que se encuentran en la carpeta web-src.
+landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y qué tipos de archivos se encuentran en la carpeta web-src.
 kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-
 # Descubra el propósito de la carpeta web-src {#web-src-folder}
 
-La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y carpetas JavaScript. Esta carpeta se utiliza para aplicaciones que tienen una interfaz de usuario. No todas las aplicaciones utilizan esta función. Por ejemplo, una integración de comercio con un sistema de administración de inventario externo puede no requerir una interfaz de front-end y un código.
+La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y carpetas JavaScript. Esta carpeta se utiliza para aplicaciones que tienen una interfaz de usuario. No todas las aplicaciones utilizan esta característica. Por ejemplo, una integración de Commerce con un sistema de administración de inventario externo puede no requerir una interfaz de front-end y código.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que están aprendiendo sobre `web-src` y su contenido.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que están aprendiendo acerca de `web-src` y su contenido.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* ¿Cuál es el propósito principal del `web-src` carpeta?
-* Archivos y carpetas normalmente incluidos
-* Cómo `web-src` y el contenido de dentro se utilizan en la aplicación de ejemplo
+* ¿Cuál es el propósito principal de? `web-src` carpeta?
+* Archivos y carpetas incluidos normalmente
+* ¿Cómo? `web-src` y el contenido dentro de se utilizan en la aplicación de ejemplo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
-## Ejemplos de código
+## Muestras de código
 
 web-src/src/components/Orders.js
 
@@ -124,7 +124,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-En el ejemplo siguiente, el ejemplo de código es `not` limitación de la solicitud. Para evitar un error 400, reduzca el tamaño de la respuesta utilizando `searchCriteria`.
+En el ejemplo siguiente, la muestra de código es `not` limitar la solicitud. Para evitar un error 400, reduzca el tamaño de la respuesta utilizando `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

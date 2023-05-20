@@ -1,6 +1,6 @@
 ---
 title: Configuración del mapa del sitio
-description: Un mapa del sitio mejora la forma en que los motores de búsqueda indexan su tienda. Aprenda a configurar un mapa del sitio para su [!DNL Commerce] almacene en Admin.
+description: Un mapa del sitio mejora la forma en que los motores de búsqueda indexan la tienda. Obtenga información sobre cómo configurar un mapa del sitio para su [!DNL Commerce] Almacenar en el administrador.
 kt: 5592
 doc-type: feature video
 audience: all
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 # Configuración del mapa del sitio
 
-Un mapa del sitio mejora la forma en que los motores de búsqueda indexan la tienda y está diseñado para encontrar páginas que podrían ser ignoradas por los rastreadores web. Aprenda a añadir fácilmente un mapa del sitio a su tienda de comercio.
+Un mapa del sitio mejora la forma en que los motores de búsqueda indizan el almacén y está diseñado para buscar páginas que los rastreadores web podrían pasar por alto. Aprenda a añadir fácilmente un mapa del sitio a su tienda de Commerce.
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de tiendas
+- Administradores de tienda
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 

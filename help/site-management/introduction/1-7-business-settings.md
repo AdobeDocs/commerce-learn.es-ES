@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuarios empresariales: configuración de la tienda"
-description: Obtenga información sobre la configuración de configuración regional, almacene información, direcciones URL seguras e inseguras, título del sitio web, logotipo, información de copyright, logotipos de correo electrónico de comunicación, direcciones de correo electrónico de tienda, opciones de moneda y tasas de moneda.
+description: Obtenga información sobre la configuración regional, la información de la tienda, las direcciones URL seguras y no seguras, el título del sitio web, el logotipo, la información de copyright, los logotipos de correo electrónico de comunicación, las direcciones de correo electrónico de la tienda, las opciones de moneda y las tarifas de moneda.
 topic: Commerce
 kt: 5764
 doc-type: video
@@ -19,12 +19,12 @@ ht-degree: 0%
 En este vídeo:
 
 - Configuración regional
-- Información del almacén
-- URL seguras y no seguras
+- Almacenar información
+- Direcciones URL seguras y no seguras
 - Título del sitio web, logotipo e información de copyright
-- Logotipos de correo electrónico de la comunicación de la tienda
+- Logotipos de correo electrónico de comunicación de tienda
 - Almacenar direcciones de correo electrónico
-- Logotipos de factura, envío y nota de crédito
+- Logotipos de factura, envío y nota de abono
 - Opciones de moneda
 - Tipos de cambio
 
@@ -32,11 +32,11 @@ En este vídeo:
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 

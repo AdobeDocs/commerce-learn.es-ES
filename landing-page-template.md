@@ -1,7 +1,7 @@
 ---
 title: título de guía
 seo-title: seo title
-description: descripción de la guía
+description: descripción de guía
 seo-description: seo-description
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Información general {#overview}
 
-Una descripción general de 1 a 2 frases del producto en el que se centra esta guía del usuario. Esta guía del usuario contiene vídeos y tutoriales sobre las muchas funciones y capacidades de *xyz*.
+Una descripción general de entre 1 y 2 frases del producto en el que se centra esta guía del usuario. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de *xyz*.
 
-## Novedades
+## Novedades de la versión
 
-* **[Un nuevo vídeo de funciones (vídeo)](README.md)**
-
-   <br>
-   *Obtenga información sobre esta nueva y genial capacidad.*
-
-* **[Un nuevo vídeo de funciones (vídeo)](README.md)**
+* **[Nuevo vídeo de funciones (vídeo)](README.md)**
 
    <br>
-   *Obtenga información sobre esta nueva y genial capacidad.*
+   *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
 
-* **[Un nuevo artículo (artículo)](README.md)**
+* **[Nuevo vídeo de funciones (vídeo)](README.md)**
+
+   <br>
+   *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
+
+* **[Un nuevo artículo (Artículo)](README.md)**
 
    <br>
    *Haga clic aquí para leer más sobre la función xyz!*
@@ -80,6 +80,6 @@ Una descripción general de 1 a 2 frases del producto en el que se centra esta g
 
 ## Recursos adicionales
 
-* [Recurso #1](README.md)
-* [Recurso n.º 2](README.md)
-* [Recurso #3](README.md)
+* [#1 de recursos](README.md)
+* [#2 de recursos](README.md)
+* [#3 de recursos](README.md)

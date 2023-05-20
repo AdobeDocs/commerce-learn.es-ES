@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: categorías de productos"
-description: Aprenda a administrar el catálogo de productos configurando categorías.
+title: "[!DNL Commerce] para usuarios empresariales: categorías de producto"
+description: Obtenga información sobre cómo administrar el catálogo de productos configurando categorías.
 topic: Commerce
 kt: 5765
 doc-type: videos
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: categorías de productos
+# [!DNL Commerce] para usuarios empresariales: categorías de producto
 
 En este vídeo:
 
@@ -24,10 +24,10 @@ En este vídeo:
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Categorías - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[Categorías - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

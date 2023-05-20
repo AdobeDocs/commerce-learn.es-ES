@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para desarrolladores: flujo de trabajo de desarrollo"
+title: '"[!DNL Commerce] para desarrolladores: flujo de trabajo de desarrollo'
 description: Obtenga información sobre el flujo de trabajo de desarrollo típico de Commerce.
 kt: 5691
 doc-type: video
@@ -22,11 +22,11 @@ En este vídeo:
 
 - Flujo de trabajo de desarrollo típico
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!IMPORTANT]
 >
->El Commerce Marketplace ya no incluye el **Descargar** botón. Debe utilizar la línea de comandos para instalar o actualizar extensiones. Consulte la [Instalación de una extensión](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) en el _Guía de instalación_ para obtener más información.
+>El Commerce Marketplace ya no incluye el **Descargar** botón. Debe utilizar la línea de comandos para instalar o actualizar extensiones. Consulte la [Instalación de una extensión](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) página en la _Guía de instalación_ para obtener más información.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: Uso de la herramienta Parche de Calidad
-description: Vea este vídeo técnico y aprenda a utilizar la herramienta Parche de Calidad para Adobe Commerce y Magento Open Source.
+title: Uso de la herramienta Parche de calidad
+description: Vea este vídeo técnico y aprenda a utilizar la herramienta Parche de calidad para Adobe Commerce y Magento Open Source.
 doc-type: technical video
 role: Developer
 audience: all
@@ -13,26 +13,26 @@ ht-degree: 0%
 
 ---
 
-# Uso de la herramienta Parche de Calidad
+# Uso de la herramienta Parche de calidad
 
-La herramienta Parche de Calidad es una herramienta de línea de comandos que proporciona parches de calidad para Adobe Commerce y el Magento Open Source. Le permite:
+La herramienta Parche de calidad es una herramienta de línea de comandos que proporciona parches de calidad para Adobe Commerce y Magento Open Source. Le permite hacer lo siguiente:
 
-- Ver información general sobre los últimos parches de calidad
+- Ver información general sobre los parches de calidad más recientes
 - Aplicar parches de calidad
 - Revertir parches aplicados
 
-El equipo de asistencia de Adobe Commerce y la comunidad de Magento Open Source desarrollan los parches de calidad.
+El equipo de asistencia de Adobe Commerce y la comunidad de Magento Open Source desarrollan parches de calidad.
 
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores back-end
-- Administradores de sitio
+- Administradores del sitio
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Herramienta Parche de Calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Herramienta de parches de calidad en GitHub](https://github.com/magento/quality-patches)
+- [Herramienta Parche de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Herramienta Parche de calidad en GitHub](https://github.com/magento/quality-patches)

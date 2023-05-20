@@ -1,5 +1,5 @@
 ---
-title: Uso de atributos de producto con el PWA Studio
+title: Uso de Atributos del producto con PWA Studio
 description: Obtenga información sobre cómo administrar atributos de producto con PWA Studio.
 doc-type: feature video
 role: Admin, User
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# Uso de atributos de producto con el PWA Studio
+# Uso de Atributos del producto con PWA Studio
 
 En este vídeo, aprenderá a administrar los atributos de producto cuando tenga una tienda creada con PWA Studio.
 
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores de front-end
-- Administradores de proyectos
+- Jefes de proyecto
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343788?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Atributos del producto - [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
-- [PWA Studio: Documentación para desarrolladores](https://developer.adobe.com/commerce/pwa-studio/)
+- [Atributos del producto: [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [PWA Studio - Documentación para desarrolladores](https://developer.adobe.com/commerce/pwa-studio/)

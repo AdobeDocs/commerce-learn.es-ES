@@ -1,8 +1,8 @@
 ---
-title: Obtenga información sobre cómo crear un proyecto de App Builder mediante eventos de comercio
-description: Obtenga información sobre cómo crear un proyecto de App Builder para utilizarlo con eventos de comercio
-landing-page-description: Obtenga información sobre cómo crear un proyecto de Adobe App Builder para utilizar eventos de Adobe Commerce
-short-description: Obtenga información sobre cómo crear un proyecto de Adobe App Builder para utilizar eventos de Adobe Commerce
+title: Obtenga información sobre cómo crear un proyecto de App Builder mediante eventos de Commerce
+description: Obtenga información sobre cómo crear un proyecto de App Builder para utilizarlo con eventos de Commerce
+landing-page-description: Obtenga información sobre cómo crear un proyecto de App Builder de Adobe para utilizar eventos de Adobe Commerce
+short-description: Obtenga información sobre cómo crear un proyecto de App Builder de Adobe para utilizar eventos de Adobe Commerce
 kt: 11888
 doc-type: tutorial
 audience: all
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 # Creación de un proyecto de App Builder
 
-Aprenda a crear un proyecto de Adobe Developer App Builder para consumir eventos de Adobe Commerce. Documentación adicional encontrada en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo crear un proyecto de App Builder de Adobe Developer para consumir eventos de Adobe Commerce. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Los desarrolladores que utilicen nuevos eventos de E/S para Adobe Commerce y Adobe Developer App Builder deberán crear un proyecto de Adobe App Builder .
+* Desarrolladores nuevos en el Generador de aplicaciones de Adobe Commerce y Adobe Developer que utilizan eventos de E/S y que necesitan crear un proyecto de Adobe del Generador de aplicaciones.
 
-## Contenido del vídeo {#video-content}
+## Contenido de vídeo {#video-content}
 
 * Creación de un proyecto de App Builder
-* Uso de la consola de Adobe Developer
+* Uso de la consola Adobe Developer
 * Uso del Adobe I/O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)

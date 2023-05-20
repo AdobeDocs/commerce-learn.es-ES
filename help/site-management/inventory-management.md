@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: Obtenga información sobre las funciones de Inventory management y cómo puede utilizarlas para trabajar desde un único almacén o una red de envío compleja.
+description: Obtenga información acerca de las funciones de Inventory management y cómo puede utilizarlas para trabajar desde un solo almacén o desde una compleja red de envío.
 kt: 10551
 doc-type: feature video
 audience: all
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # Inventory management
 
-Los comerciantes con una sola tienda a varios almacenes, tiendas, ubicaciones de recogida, cargadores y mucho más pueden utilizar las funciones de gestión de inventario para mantener las cantidades para ventas y gestionar envíos para completar pedidos. Puede realizar un seguimiento de las cantidades de inventario, proporcionar cantidades de stock vendibles precisas a los clientes para todos los sitios web y enviarlas según las recomendaciones en función de la distancia o la prioridad. También puede configurar las configuraciones de producto preferidas globalmente (para todas las tiendas y productos), por fuente y por producto. Estas características crecen con su negocio, lo que le permite trabajar desde un único almacén o una red de envío compleja.
+Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones de recogida, distribuidores directos entre otros pueden utilizar las funciones de gestión de inventario para mantener las cantidades de las ventas y gestionar los envíos para completar los pedidos. Puede realizar un seguimiento de las cantidades de inventario, proporcionar cantidades precisas de existencias vendibles a los clientes para todos los sitios web y realizar envíos según las recomendaciones basadas en la distancia o la prioridad. También puede configurar las configuraciones de producto preferidas globalmente (para todas las tiendas y productos), por origen y por producto. Estas funciones crecen con su negocio, lo que le permite trabajar desde un único almacén o desde una compleja red de envío.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
 - Comerciantes de comercio electrónico
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
 

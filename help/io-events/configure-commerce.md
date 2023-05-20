@@ -1,8 +1,8 @@
 ---
 title: Configuración de Adobe Commerce
-description: Obtenga información sobre cómo configurar Adobe Commerce para permitir que se utilicen eventos en Adobe Developer App Builder.
-landing-page-description: Obtenga información sobre cómo configurar Adobe Commerce para que use el mecanismo de eventos para el consumo mediante Adobe Developer App Builder.
-short-description: Obtenga información sobre cómo configurar Adobe Commerce para que use el mecanismo de eventos para el consumo mediante Adobe Developer App Builder.
+description: Obtenga información sobre cómo configurar Adobe Commerce para que permita el uso de eventos en el Generador de aplicaciones de Adobe Developer.
+landing-page-description: Aprenda a configurar Adobe Commerce para que utilice el mecanismo de eventos para que lo consuma App Builder de Adobe Developer.
+short-description: Aprenda a configurar Adobe Commerce para que utilice el mecanismo de eventos para que lo consuma App Builder de Adobe Developer.
 kt: 11889
 doc-type: tutorial
 audience: all
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 # Configuración de Adobe Commerce
 
-Obtenga información sobre cómo configurar Adobe Commerce para que muestre los eventos. Documentación adicional encontrada en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo configurar Adobe Commerce para que exponga los eventos. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Los desarrolladores que utilicen nuevos eventos de E/S para Adobe Commerce y Adobe Developer App Builder deberán crear un proyecto de Adobe App Builder .
+* Desarrolladores nuevos en el Generador de aplicaciones de Adobe Commerce y Adobe Developer que utilizan eventos de E/S y que necesitan crear un proyecto de Adobe del Generador de aplicaciones.
 
-## Contenido del vídeo {#video-content}
+## Contenido de vídeo {#video-content}
 
-* Configuración de los eventos de Adobe I/O en el administrador de comercio
-* Guardar una clave privada en el administrador de comercio
-* Guardar el identificador único en el administrador de comercio
+* Configuración de los eventos de Adobe I/O en el administrador de Commerce
+* Guardar una clave privada en el administrador de Commerce
+* Guardar el identificador único en el administrador de Commerce
 * Creación de un proveedor de eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

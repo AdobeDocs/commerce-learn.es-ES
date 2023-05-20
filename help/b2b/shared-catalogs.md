@@ -5,7 +5,7 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positive"
+badge: label="B2B para Adobe Commerce" type="Positivo"
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 source-git-commit: e6d74f9428c98741225ab25053cd663d8c65cc39
 workflow-type: tm+mt
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-B2B para Adobe Commerce le ofrece la capacidad de mantener catálogos compartidos cerrados con precios personalizados para diferentes compañías. Además del catálogo de productos principal estándar, proporciona al cliente acceso a dos tipos de catálogos compartidos con diferentes estructuras de precios.
+B2B para Adobe Commerce le permite mantener catálogos compartidos cerrados con precios personalizados para diferentes empresas. Además del catálogo de productos principal estándar, proporciona al cliente acceso a dos tipos de catálogos compartidos con diferentes estructuras de precios.
 
-Si la función Catálogo compartido está habilitada en la configuración, el catálogo principal original permanece visible desde el Administrador, pero solo el catálogo compartido público predeterminado (general) está visible desde la tienda. Además, se pueden crear catálogos personalizados que solo sean visibles para los miembros de cuentas de compañía específicas.
+Si la función Catálogo compartido está activada en la configuración, el catálogo principal original permanece visible desde el administrador, pero solo el catálogo compartido público predeterminado (general) está visible desde la tienda. Además, se pueden crear catálogos personalizados que solo sean visibles para los miembros de cuentas de empresa específicas.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
 - Comerciantes de comercio electrónico
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/344446?quality=12&learn=on)
 

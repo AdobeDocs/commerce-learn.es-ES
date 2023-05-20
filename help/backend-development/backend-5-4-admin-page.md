@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para desarrolladores: cree un [!DNL Admin] page"
-description: Obtenga información sobre cómo crear [!DNL Admin] páginas, [!DNL Admin] ACL del controlador de página (lista de control de acceso) y realizar pruebas de unidad.
+description: Aprenda a crear [!DNL Admin] páginas, [!DNL Admin] ACL del controlador de página (lista de control de acceso) y realice pruebas de unidad.
 kt: 5698
 doc-type: video
 topic: Development
@@ -23,17 +23,17 @@ En este vídeo:
 - Crear [!DNL Admin] páginas
 - [!DNL Admin] ACL del controlador de página (lista de control de acceso)
 - [!DNL Admin] elementos de menú
-- Prueba de unidad PHP
+- Prueba de la unidad PHP
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36200?quality=12&learn=on)
 
 ## Recursos adicionales
 
 - [Crear una regla de lista de control de acceso (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule/)
-- [Pruebas de unidades PHP](https://developer.adobe.com/commerce/testing/guide/unit/)
+- [Pruebas unitarias de PHP](https://developer.adobe.com/commerce/testing/guide/unit/)

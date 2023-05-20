@@ -10,18 +10,18 @@ ht-degree: 0%
 
 ---
 
-# Tutoriales comerciales {#videos}
+# Tutoriales de Commerce {#videos}
 
-Bienvenido a la [!DNL Commerce] colección de vídeos y tutoriales. Uso de estos recursos junto con la variable [documentación](https://experienceleague.adobe.com/docs/commerce.html), ofrece la oportunidad de aprender a utilizar Adobe Commerce y Magento Open Source para respaldar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
+Bienvenido a [!DNL Commerce] colección de vídeos y tutoriales. El uso de estos recursos, junto con la variable [documentación](https://experienceleague.adobe.com/docs/commerce.html), ofrece la oportunidad de aprender a utilizar Adobe Commerce y Magento Open Source para respaldar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
 
 <div id="whats-new-section">
 
-## Novedades
+## ¿Qué hay de nuevo?
 
 - [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
 - [Introducción a API Mesh](../api-mesh/getting-started-api-mesh.md)
 - [Introducción a GraphQL](../graphql-rest/intro-graphql.md)
-- [Localización de una IP maliciosa](../new-relic/malicious-ip.md)
+- [Localización de una IP malintencionada](../new-relic/malicious-ip.md)
 
 </div>
 <div id="recs-overview-body-1"></div>
@@ -33,10 +33,10 @@ Bienvenido a la [!DNL Commerce] colección de vídeos y tutoriales. Uso de estos
 
 >[!TIP]
 >
->La variable [Eventos de comercio](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) El espacio permite acceder al contenido de eventos grabados que se puede ver bajo demanda.
+>El [Eventos de Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) El espacio de proporciona acceso al contenido de evento grabado que puede verse bajo demanda.
 
 ## Recursos adicionales
 
 - [Documentación del comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
 - [Documentación para desarrolladores](https://developer.adobe.com/commerce)
-- [Adobe Servicios de aprendizaje digital: catálogo de cursos de Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+- [Adobe Digital Learning Services - Catálogo de cursos de Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

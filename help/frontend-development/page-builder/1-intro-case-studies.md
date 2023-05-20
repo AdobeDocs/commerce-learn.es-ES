@@ -1,8 +1,8 @@
 ---
-title: 'Page Builder para desarrolladores: Introducción'
-description: Introducción al creador de páginas, comprensión de las capacidades del creador de páginas
-landing-page-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo ampliarlo para crear lo mejor [!DNL Commerce] experiencias de tienda.
-short-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo ampliarlo para crear lo mejor [!DNL Commerce] experiencias de tienda.
+title: Page Builder para desarrolladores-introducción
+description: Page Builder introducción, comprenda las funciones de Page Builder
+landing-page-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo puede ampliarlo para crear experiencias de escaparate óptimas  [!DNL Commerce]  .
+short-description: Vea esta serie de vídeos para obtener más información sobre Page Builder y cómo puede ampliarlo para crear experiencias de escaparate óptimas  [!DNL Commerce]  .
 topic: Commerce, Development
 kt: 5650
 doc-type: video
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 ---
 
-# Page Builder para desarrolladores: Introducción
+# Page Builder para desarrolladores-introducción
 
 En este vídeo:
 
 - Introducción a Page Builder
-- Comprender las capacidades del Creador de páginas
+- Comprender las funciones de Page Builder
 
-## ¿Para quién es este vídeo?
+## ¿Para qué es este vídeo?
 
 - Desarrolladores de front-end
 - Creadores de contenido
 
-## Contenido del vídeo
+## Vídeo contenido
 
 >[!NOTE]
 >
->Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte la [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este contenido refleja la versión de Page Builder 1.0.0 para Adobe Systems Commerce 2.3.1. Para obtener información sobre actualizaciones en versiones posteriores, consulte la [ Page Builder notas de la versión ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html) .
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
@@ -39,4 +39,4 @@ En este vídeo:
 
 [Documentación para desarrolladores de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guía del Generador de páginas](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guía de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

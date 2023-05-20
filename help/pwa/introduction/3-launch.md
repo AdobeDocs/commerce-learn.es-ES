@@ -1,6 +1,6 @@
 ---
-title: 'PWA Studio para desarrolladores: Launch y load'
-description: Obtenga información sobre los pasos necesarios antes del inicio de la ​ de PWA, la línea de base para el ​ de tiempo de carga y cómo mejora el rendimiento de las conversiones.
+title: 'PWA Studio para desarrolladores: inicio y carga'
+description: Obtenga información acerca de los pasos necesarios antes del inicio del PWA ​, la línea de base para el tiempo de carga​ y cómo mejora el rendimiento las conversiones.
 topic: Development
 kt: 5646
 doc-type: video
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio para desarrolladores: Launch y load
+# PWA Studio para desarrolladores: inicio y carga
 
 En este vídeo:
 
 - Pasos necesarios para iniciar el PWA &#x200B;
-- Línea de base para el &#x200B; de tiempo de carga
+- Línea base para el tiempo de carga&#x200B;
 - Cómo mejora el rendimiento las conversiones
 
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores de front-end
-- Administradores de proyectos
+- Jefes de proyecto
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35717?quality=12&learn=on)

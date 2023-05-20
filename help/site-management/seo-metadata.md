@@ -1,6 +1,6 @@
 ---
-title: Administrar metadatos SEO
-description: Aprenda a incorporar metadatos con abundancia de palabras clave para mejorar la forma en que los motores de búsqueda indexan el sitio.
+title: Administración de metadatos SEO
+description: Aprenda a incorporar metadatos enriquecidos con palabras clave para mejorar la forma en que los motores de búsqueda indexan el sitio.
 kt: 10553
 doc-type: feature video
 audience: all
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# Administrar metadatos SEO
+# Administración de metadatos SEO
 
-La tienda está cargada de lugares donde puede introducir metadatos con abundancia de palabras clave para mejorar la forma en que los motores de búsqueda indexan el sitio. Con el tiempo, puede ajustar los metadatos para segmentar los patrones de compra y las preferencias de sus clientes.
+Su tienda está cargada de lugares donde puede introducir metadatos enriquecidos con palabras clave para mejorar la forma en que los motores de búsqueda indexan el sitio. Con el tiempo, puede ajustar los metadatos para que se centren en los patrones de compra y las preferencias de sus clientes.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
 - Comerciantes de comercio electrónico
-- Especialistas en mercadotecnia de comercio electrónico
+- Especialistas en marketing electrónico
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343750?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Metadatos [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Metadatos: [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

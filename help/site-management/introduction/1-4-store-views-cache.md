@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: vistas de almacén y limpieza de caché"
+title: "[!DNL Commerce] para usuarios empresariales: vistas de tienda y eliminación de caché"
 description: Obtenga información sobre cómo crear vistas de tienda y borrar la caché.
 topic: Commerce
 kt: 5761
@@ -14,18 +14,18 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: vistas de almacén y limpieza de caché
+# [!DNL Commerce] para usuarios empresariales: vistas de tienda y eliminación de caché
 
 En este vídeo:
 
 - Creación de vistas de tienda
-- Borrado de la caché
+- Borrando la caché
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35946?quality=12&learn=on)
 

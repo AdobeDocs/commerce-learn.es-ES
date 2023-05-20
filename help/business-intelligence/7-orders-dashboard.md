@@ -1,6 +1,6 @@
 ---
-title: MBI - Panel de pedidos
-description: Obtenga información sobre el panel Pedidos y los informes que facilitan la administración de pedidos y ventas de productos.
+title: 'MBI: panel de pedidos'
+description: Obtenga información acerca del panel Pedidos y los informes que facilitan la administración de pedidos y las ventas de productos.
 kt: 5735
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# MBI - Panel de pedidos
+# MBI: panel de pedidos
 
-En el panel Pedidos, puede ver los valores de pedido promedio, los pedidos por estado, el uso de cupones y los desgloses de envío e impuestos recopilados por región de facturación y envío. Si abre el informe Pedidos por estado y ve un pico en el estado de procesamiento o pendiente, puede crear un informe para todos los pedidos de ese estado durante ese periodo. A continuación, puede desglosar por correo electrónico e ID de pedido y generar un resumen por correo electrónico que se enviará automáticamente a su administrador de almacén para su seguimiento.
+En el panel Pedidos, puede ver los valores de pedido promedio, los pedidos por estado, el uso de cupones y los desgloses de gastos de envío e impuestos recopilados por región de facturación y envío. Si abre el informe Pedidos por Estado y observa un pico en el estado de procesamiento o pendiente, puede crear un informe de todos los pedidos en ese estado durante ese periodo de tiempo. A continuación, puede enviarlo y desglosarlo por correo electrónico e ID de pedido, así como generar un resumen por correo electrónico que se enviará automáticamente a su gestor de almacén para su seguimiento.
 
 
 ## ¿Para quién es este vídeo?
@@ -24,7 +24,7 @@ En el panel Pedidos, puede ver los valores de pedido promedio, los pedidos por e
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >

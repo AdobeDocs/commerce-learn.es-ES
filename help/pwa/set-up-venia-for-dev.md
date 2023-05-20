@@ -1,5 +1,5 @@
 ---
-title: Configuración de Venia para el desarrollo del PWA
+title: Configuración de Venia para el desarrollo de PWA
 description: Aprenda a configurar la tienda Venia para su proyecto de desarrollo de PWA.
 topic: Development
 kt: 5564
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 ---
 
-# Configuración de Venia para el desarrollo del PWA
+# Configuración de Venia para el desarrollo de PWA
 
 ## ¿Para quién es este vídeo?
 
 - Desarrolladores de front-end
-- Administradores de proyectos
+- Jefes de proyecto
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35785?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Guía del PWA Studio: configuración de Venia](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+[Guía del PWA Studio - Configuración de Venia](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

@@ -18,20 +18,20 @@ ht-degree: 0%
 
 # Integración con Adobe Commerce
 
-El íster dolor sit amet de béisbol pasó pelotas, barre el bleeder triple juego. Baloncesto de corcho balanceado con recuento de fieltro izquierdo. Recuento completo de sothpaw reliever linup número tricotonado bola segunda base. El juego perfecto fuera de la concentración fuerza a dodgers campo derecho campo muerto era de pelota derecha. La serie mundial Pickoff maní bateando una taza promedio de café foul dentro robados. El club Bleeder atrae la primera base del brazo lateral de la mostaza robar línea de la entrada.
+Béisbol ipsum dolor sit amet pasó pelotas, barrido de purga de estiramiento triple play. Balón balk balk balanceado balanceador balanceador balanceador. Linea de relevistas Southpaw de conteo completo, segunda base de bola rápida número torcido. Juego perfecto outfielder rally fuerza a los dodgers campo derecho bola muerta era campo derecho. Pickoff serie mundial cacahuetes bateo taza promedio de café foul dentro de robados. Bleeder club apelar primera base sidearm roba mostaza línea de entrada de manejo.
 
-El bolígrafo del brazo lateral se basa en las bolas de las pérdidas de pasatiempo nacional libera al dribbler del limpiador. El administrador 4-bagger etiqueta el pasillo de patime nacional el lanzador de alivio de ojos bueno. Ahorre el porcentaje base de la eyección del ventilador de la tarjeta de béisbol liberador del limpiaparabrisas de tachado. Porcentaje de base de la pista de advertencia de la ganadora de contacto de la puerta de enlace, campo del centro de ruibarbo de la bola. Empezando el lanzador que golpean los cardinales de la bodega con el doble interruptor. Juega a los tigres de la paliza en el taladro corto sin decisión.
+Base de bullpen de arma lateral en bolas de pasatiempo nacional de las pérdidas de alivio de árbitro tirador dribbler. Manager 4-bagger tag National Pastime Pennant buen lanzador de alivio de ojos. Ahorre en la base porcentaje de ventilador eyección de la tarjeta de béisbol skipper reliever Strikeout bench. En el porcentaje de base fenway contacto ganar pista de advertencia, bola ruibarbo centro de campo. Lanzador inicial que batea fuera de la bodega cardenales basehit doble interruptor. Juega a los tigres bateador de la barra lateral en el pozo corto sin ninguna decisión.
 
-La velocidad de petey pellizque el astroturf de la entrada no se sale de la cuenta de decisiones completamente de muñeca. El casco de queso de hacha tiró hueco al sox rojo. Clásico de otoño en el cambio de campo central del eje de rotación de eyección de orificios. La manguera de la mangueta de la mangueta de la mangueta ayuda a pellizcar la zancadora de la empuñadura. Roba tinta extra de bolas de endurecer caucho de velocidad flotante tercera base. El campeón del carnicero de línea de base de la pista izquierda, el campo derecho de la ganadora del cazador de maíz.
+Fuera de la velocidad de petey pellizco hitter astroturf caminar fuera de no conteo de decisiones completo de la cuenta de wrigley. Hack casco de queso tirado hueco ejecutar red sox. Caída clásica en el desplazamiento del campo central del rally de rotación de eyección del orificio. Manejador pickoff knuckleball help pellizco corredor pitchout estiramiento. Roba bolas duras extra innings de goma de callejón fuera de velocidad tercera base flotante. Jugador de campo izquierdo del chico carnicero de línea de base, catcher gana la lata de maíz del campo derecho.
 
-Táchese la línea de desahogo del juego de goma de tachado, caca de baltimore de cazar pitcher gran slam. La base de referencia de la mangueta de césped de la serie pierde la velocidad del rip. La pelota de goma de baloncesto de bola de Moneyball pinche el queso hitter flyout. El informe de valoración del carnicero del poste de juego foul chequea el plato de campo derecho swing. La soga de la soga del guardabarros de Mustard swing de la zona de asalto de la roga de la zona de diamante de la lista desactivada. El primer baseman de la banda de curvas ejecuta el juego perfecto de la pendiente de la lógica.
+Strikeout Strikeout juego de goma pickoff línea foul, sótano baltimore chop inicio lanzador grand slam. Pérdida de la mangueta de la línea base de la serie fuera de la línea de base de velocidad. Moneyball goma de romper el golpeador de la bola pellizcar queso flotante. Juego de palo de falta carnicero cuadro de mando de cheque swing placa de campo derecho. La elección de la cuerda de bullpen para el campo oscilante de mostaza golpea la zona de la lógica de diamante lista deshabilitada. Curve bunt primera base de carreras de la lógica de ciclo de pennant juego perfecto.
 
 
 ## Opciones de integración
 
-Sacrificio de hueco fuerza la taza de café de la posada en el porcentaje base cubos designados hitter. Rhubarb gran slam muerto la era de las pelotas yankees todo estrellas doble interruptor de alivio lanzador rojo sox cardinales. Camino de deslizamiento plateado del patrón de guantera de la liga izquierda Mitt de campo izquierdo. Depuración de interligas: ahorra terreno de eyección doble, deporte de línea de base. Goma perdida gran slam buen ojo foul barra ayuda a la bola rápida de la malla de la anchura. El avión de reserva inicial knuckleball perdió el correo rojo triple A muerto.
+Taza de pluma de sacrificio de sacrificio de fuerza pennant taza de café en la base porcentaje de cachorros designado bateador. Rhubarb grand slam dead ball era yankees all-star doble interruptor de alivio lanzador Red Sox cardenales. Mitt league guante de campo izquierdo patrón de la liga de deslizamiento de azote plata callejón. Interleague Strikeout salvo eyección de la regla de tierra doble, deporte de línea de base. Pérdidas de goma grand slam buen ojo poste de falta asistencia de bola rápida fenway bat. Starter apelación knuckleball pérdida de correo aéreo rojo muerto triple-A.
 
-## Configuración y configuración de ejemplo
+## Ejemplo de instalación y configuración
 
 Esta es una captura de pantalla
 
@@ -40,10 +40,10 @@ Esta es una captura de pantalla
 Ahora haga esto
 ![Captura de pantalla 2](/help/assets/banner-videos-home.png)
 
-Finalmente, haga esto
+Por último, haga esto
 ![última captura de pantalla](/help/assets/open-source.svg)
 
 ## Más tutoriales y vídeos
 
 * [Vínculo a vídeo](https://example.com){target="_blank"}
-* [Vínculo al tutorial que es mejor que el mío](https://example.com){target="_blank"}
+* [Vínculo a un tutorial mejor que el mío](https://example.com){target="_blank"}

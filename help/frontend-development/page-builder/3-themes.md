@@ -1,6 +1,6 @@
 ---
-title: Creador de páginas para desarrolladores - Temas
-description: Obtenga información sobre las prácticas y convenciones temáticas ​, incluida la ubicación de cada parte del tema del Creador de páginas.
+title: 'Page Builder para desarrolladores: temas'
+description: Obtenga información acerca de las prácticas y convenciones de ​, incluida la ubicación de cada parte de la temática de Page Builder.
 kt: 5652
 doc-type: video
 activity: use
@@ -12,24 +12,24 @@ ht-degree: 0%
 
 ---
 
-# Creador de páginas para desarrolladores - Temas
+# Page Builder para desarrolladores: temas
 
 En este vídeo:
 
 - Resumen de las prácticas temáticas
-- Descripción de las convenciones temáticas &#x200B;
-- Ubicación de cada parte del tema del Creador de páginas &#x200B;
+- Descripción de las convenciones de temas&#x200B;
+- Donde se encuentra cada parte de la temática de Page Builder
 
 ## ¿Para quién es este vídeo?
 
 - Creadores de contenido
 - Desarrolladores de front-end
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
->Este contenido refleja la versión de Creador de páginas 1.0.0 para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones en versiones posteriores, consulte la [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este contenido refleja la versión 1.0.0 del Page Builder para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
@@ -37,4 +37,4 @@ En este vídeo:
 
 [Documentación para desarrolladores de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guía del Generador de páginas](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guía del Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

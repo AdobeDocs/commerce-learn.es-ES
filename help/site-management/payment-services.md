@@ -1,6 +1,6 @@
 ---
 title: Usar servicios de pago
-description: Aprenda a añadir Servicios de Pago a su tienda y a reducir la sobrecarga operativa, aumentar los ingresos y mejorar toda la experiencia del comprador.
+description: Aprenda a añadir servicios de pago a su tienda y a reducir los gastos operativos, aumentar los ingresos y mejorar la experiencia completa del comprador.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 # Usar servicios de pago
 
-Para las pequeñas empresas, los aspirantes del mercado medio o las grandes empresas, los Servicios de Pago para Adobe Commerce y el Magento Open Source ayudan a reducir los gastos operativos y a aumentar los ingresos. Proporciona herramientas que mejoran toda la experiencia del comprador. Servicios de Pago es:
+Para pequeñas empresas, empresas intermediarias o grandes empresas, los servicios de pago para Adobe Commerce y Magento Open Source ayudan a reducir los gastos operativos y a aumentar los ingresos. Proporciona herramientas que mejoran toda la experiencia del comprador. Servicios de pago:
 
 - Fácil de configurar y mantener
 - Diseñado para maximizar sus beneficios
-- Seguro
-- Diseñado para satisfacer todas sus necesidades de pago
+- Seguro y protegido
+- Diseñado para satisfacer todas sus necesidades de pagos
 - Independiente dentro del administrador
 
 ## ¿Para quién es este vídeo?
@@ -28,7 +28,7 @@ Para las pequeñas empresas, los aspirantes del mercado medio o las grandes empr
 - Ingenieros operativos
 - Administradores de sitios web
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343990?quality=12&learn=on)
 

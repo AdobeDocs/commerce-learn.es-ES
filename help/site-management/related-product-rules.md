@@ -1,6 +1,6 @@
 ---
 title: Administrar reglas de producto relacionadas
-description: Aprenda a presentar una selección de productos dirigida para almacenar a los clientes como productos relacionados, ventas ascendentes y ventas cruzadas.
+description: Obtenga información sobre cómo presentar una selección específica de productos para almacenar clientes como productos relacionados, ampliaciones de ventas y ventas cruzadas.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-Las reglas de producto relacionadas permiten seleccionar entre objetivos la selección de productos que se presentan a los clientes como productos relacionados, ventas ascendentes y ventas cruzadas. Cada regla de producto puede asociarse con un segmento de cliente para producir una visualización dinámica de la comercialización de destino.
+Las reglas de productos relacionados permiten seleccionar la selección de productos que se presentan a los clientes como productos relacionados, mejoras en las ventas y ventas cruzadas. Cada regla de producto se puede asociar con un segmento de cliente para producir una visualización dinámica de la comercialización objetivo.
 
 ## ¿Para quién es este vídeo?
 
-- Especialistas en mercadotecnia de comercio electrónico
+- Especialistas en marketing electrónico
 - Administradores de sitios web
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343837?quality=12&learn=on)
 

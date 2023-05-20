@@ -1,6 +1,6 @@
 ---
-title: 'Adobe Commerce en infraestructura de nube: proyectos y archivos'
-description: Obtenga más información sobre la estructura del proyecto y los archivos .yaml. Comprenda la estructura de archivos del proyecto de Cloud y todos los repositorios necesarios.
+title: 'Adobe Commerce en la infraestructura en la nube: proyectos y archivos'
+description: Obtenga información acerca de la estructura del proyecto y los archivos yaml. Comprenda la estructura de archivos del proyecto de Cloud y todos los repositorios necesarios.
 kt: 5658
 doc-type: video
 audience: all
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce en infraestructura de nube: proyectos y archivos
+# Adobe Commerce en la infraestructura en la nube: proyectos y archivos
 
 En este vídeo:
 
-- Comprender la estructura de archivos del proyecto de nube y los repositorios de código relacionados
-- Obtenga información sobre los cuatro archivos de configuración principales
+- Comprenda la estructura de archivos del proyecto en la nube y los repositorios de código relacionados
+- Obtenga información acerca de los cuatro archivos de configuración principales
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Estructura del proyecto - [!DNL Commerce] en la Guía de infraestructura de Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
-- [Configuración de entornos : [!DNL Commerce] en la Guía de infraestructura de Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [Estructura del proyecto - [!DNL Commerce] Guía de infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [Configuración de entornos: [!DNL Commerce] Guía de infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

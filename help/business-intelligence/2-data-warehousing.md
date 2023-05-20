@@ -1,6 +1,6 @@
 ---
-title: 'MBI: Data Warehouse'
-description: Obtenga información sobre el Administrador de Datas Warehouse, que está disponible para los usuarios administradores en MBI.
+title: 'MBI: almacenamiento de datos'
+description: Obtenga información acerca del Administrador de Datas Warehouse, disponible para los usuarios administradores en MBI.
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,18 +14,18 @@ ht-degree: 0%
 
 ---
 
-# MBI: Data Warehouse
+# MBI: almacenamiento de datos
 
-Un almacén de datos es una base de datos relacional configurada para consolidar y almacenar datos para ejecutar análisis empresariales. Los almacenes de datos permiten el acceso a los datos para desnormalizar las bases de datos de producción y organizarlas para ejecutar el análisis de forma más eficiente.
+Un almacén de datos es una base de datos relacional configurada para consolidar y almacenar datos para ejecutar el análisis empresarial. Los almacenes de datos permiten el acceso a los datos para desnormalizar las bases de datos de producción y organizarlas para ejecutar el análisis de forma más eficaz.
 
-Con el Administrador de Datas Warehouse, los usuarios con acceso de nivel de administrador pueden administrar la configuración de sincronización de tablas y columnas, explorar en profundidad el esquema de una tabla y crear columnas calculadas para utilizarlas en los informes.
+Con el Administrador de Datas Warehouse, los usuarios con acceso de nivel de administrador pueden administrar la configuración de sincronización de columnas y tablas, explorar en profundidad el esquema de una tabla y crear columnas calculadas para utilizarlas en los informes.
 
 ## ¿Para quién es este vídeo?
 
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!NOTE]
 >
@@ -35,5 +35,5 @@ Con el Administrador de Datas Warehouse, los usuarios con acceso de nivel de adm
 
 ## Recursos adicionales
 
-- [Guía del usuario del Administrador de Datas Warehouse - MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-- [Conectar sus datos: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+- [Un recorrido por el Administrador de Datas Warehouse - Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+- [Conectar los datos: Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

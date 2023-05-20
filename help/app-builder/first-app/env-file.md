@@ -1,33 +1,33 @@
 ---
 title: El archivo .env
 description: Obtenga información sobre los tipos de archivos del archivo .env para esta aplicación de ejemplo
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y los tipos de contenido que se utilizan en el archivo .env
+landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y los tipos de contenido que se utilizan en el archivo .env
 kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
+# Generación y configuración del archivo .env {#env-file}
 
-# Generar y configurar el archivo .env {#env-file}
-
-La variable `.env` es un archivo especial que no forma parte del módulo de muestra, pero que es importante para su uso en la aplicación de Adobe Developer App Builder. Este archivo contiene secretos y otra información. Evite enviar este archivo a cualquier repositorio de código.
+El `.env` es un archivo especial que no forma parte del módulo de ejemplo, pero que es importante utilizar en la aplicación App Builder de Adobe Developer. Este archivo contiene secretos y otra información. Evite enviar este archivo a cualquier repositorio de código.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder que desean obtener más información sobre `.env` archivo.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que desean obtener más información sobre `.env` archivo.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* Introducción al archivo .env y su finalidad
+* Introducción al archivo .env y su propósito
 * Cómo generar el archivo .env
-* Cómo anexar el archivo para añadir nuevos secretos
-* Evite cometer este archivo porque contiene información confidencial
+* Cómo anexar el archivo para agregar nuevos secretos
+* Evite confirmar este archivo porque contiene información confidencial
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
@@ -51,7 +51,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puede ver estos valores estáticos que se utilizan en el módulo de muestra en el archivo `actions/commerce.index.js`.
+Puede ver estos valores estáticos en uso en el módulo de ejemplo en el archivo `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

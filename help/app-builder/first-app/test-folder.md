@@ -1,33 +1,33 @@
 ---
 title: La carpeta de prueba
-description: Obtenga información sobre los tipos de archivos de la carpeta de prueba para esta aplicación de ejemplo.
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y los tipos de archivos que se encuentran en la carpeta de prueba.
+description: Obtenga información sobre los tipos de archivos de la carpeta de prueba de esta aplicación de ejemplo.
+landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y qué tipos de archivos se encuentran en la carpeta de prueba.
 kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
 # Obtenga información sobre la carpeta de prueba {#test-folder}
 
-La variable `test` carpeta para esta aplicación de ejemplo contiene un solo archivo JavaScript, que se utiliza al ejecutar pruebas unitarias en la aplicación.
+El `test` para esta aplicación de ejemplo contiene un solo archivo JavaScript, que se utiliza al ejecutar pruebas unitarias en la aplicación.
 
-Este es un ejemplo sencillo que se puede ampliar para crear pruebas exhaustivas para aplicaciones específicas.
+Este es un ejemplo sencillo que se puede ampliar para crear pruebas completas para las aplicaciones específicas.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder que desean obtener más información sobre `test` carpeta.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que desean obtener más información sobre `test` carpeta.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
-* Por qué usar la variable `test` carpeta?
-* Breve explicación del archivo de prueba de la unidad y sus componentes
+* Por qué utilizar `test` carpeta?
+* Una breve explicación del archivo de prueba unitaria y sus componentes
 * Introducción a las pruebas de extremo a extremo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
