@@ -2,9 +2,9 @@
 user-guide-title: Vídeos y Tutorials
 user-guide-description: Obtenga información acerca de Adobe Commerce y Magento Open Source a través de vídeos y tutoriales.
 breadcrumb-title: Vídeos y Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [Administrar catálogos compartidos](../b2b/shared-catalogs.md)
    + [Administrar crédito de la compañía](../b2b/company-credit.md)
    + [Pedidos de compra y aprobaciones](../b2b/purchase-orders.md)
+   + Cita {#b2b-quote}
+      + [El representante de ventas inicia la oferta](../b2b/sales-rep-initiates-quote.md)
+      + [Validación de presupuesto del administrador](../b2b/quote-validation-admin-panel.md)
+      + [El representante de ventas inicia la API de REST de oferta](../b2b/sales-rep-initiates-quote-api.md)
+      + [Descuentos de artículos de línea de oferta](../b2b/quote-line-item-discount.md)
+      + [Notas de artículo de línea de oferta](../b2b/quote-line-item-notes.md)
+      + [Oferta de descuento de artículo de línea GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [API REST de descuento de artículo de línea de oferta](../b2b/quote-rest-api-line-item-notes.md)
 + Herramientas y servicios externos {#tools}
    + [Tablero de herramientas de análisis de todo el sitio](../tools/site-wide-analysis-tool.md)
    + [Observación para Adobe Commerce](../tools/observation-tool.md)
