@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B para Adobe Commerce" type="Positivo"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: f5e8a67ab543104d0d7fe334d2326d93ecf52a89
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,4 @@ Aprenda a utilizar el descuento por elemento de línea y vea los valores con el 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
 
-## Recursos adicionales
-
-- [Resumen de presupuestos](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Configurar comillas](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Solicitud de presupuesto](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Negociación de una cotización](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Mis comillas](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
