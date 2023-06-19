@@ -1,14 +1,15 @@
 ---
-title: Envío de la aplicación al mercado
-description: Obtenga información sobre el proceso para enviar una solicitud al Marketplace.
-landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer y cómo enviar una aplicación al Marketplace.
+title: Enviar aplicación a Adobe Commerce Marketplace
+description: Obtenga información sobre el proceso para enviar una solicitud al Commerce Marketplace.
+landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer y cómo enviar una aplicación al Commerce Marketplace.
 kt: 13436
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-06-08T00:00:00Z
-source-git-commit: 88e30e9424f40c18a5d67b32d6546e56091978f5
+last-substantial-update: 2023-6-19
+exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
+source-git-commit: 0932a1715cccafc0795e6932ab8888a1c53b5b49
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
