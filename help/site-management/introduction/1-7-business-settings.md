@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] para usuarios empresariales: configuración de la tienda"
 description: Obtenga información sobre la configuración regional, la información de la tienda, las direcciones URL seguras y no seguras, el título del sitio web, el logotipo, la información de copyright, los logotipos de correo electrónico de comunicación, las direcciones de correo electrónico de la tienda, las opciones de moneda y las tarifas de moneda.
-topic: Commerce
 kt: 5764
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

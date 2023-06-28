@@ -3,11 +3,15 @@ title: Obtenga información acerca de los niveles de validación del proceso de 
 description: Descubra cómo la aplicación de Adobe Commerce tiene procesos de validación estrictos.  Este tutorial de vídeo muestra el proceso de validación desde el panel de administración de Adobe Commerce para garantizar que el procedimiento de cotización sea válido y coherente
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B para Adobe Commerce" type="Positivo"
-last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
+source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

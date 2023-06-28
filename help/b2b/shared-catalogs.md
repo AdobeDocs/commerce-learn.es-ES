@@ -3,11 +3,15 @@ title: Administrar catálogos compartidos
 description: Aprenda a utilizar catálogos compartidos B2B para mantener catálogos cerrados con precios personalizados para diferentes empresas.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B para Adobe Commerce" type="Positivo"
+last-substantial-update: 2023-5-10
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: e6d74f9428c98741225ab25053cd663d8c65cc39
+source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
