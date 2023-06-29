@@ -1,12 +1,15 @@
 ---
 title: 'Page Builder para desarrolladores: plantillas y estilos'
 description: "[!DNL Admin] y tareas de temas de fase. Crear [!DNL Admin] plantillas​. Aplique estilos a los tipos de contenido en el escenario (vista previa en directo)."
-topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

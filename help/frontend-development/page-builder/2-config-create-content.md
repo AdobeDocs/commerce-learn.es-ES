@@ -1,12 +1,15 @@
 ---
 title: 'Page Builder para desarrolladores: configuración y personalización de contenido'
 description: 'Configure y configure Page Builder​. Comprender el espacio de trabajo de Page Builder​. Comprenda y utilice tipos de contenido: diseño, elementos, medios y otro contenido​. Añadir contenido del catálogo con Page Builder.'
-topic: Commerce, Development
 kt: 5651
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
