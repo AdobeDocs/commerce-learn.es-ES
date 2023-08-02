@@ -3,9 +3,9 @@ user-guide-title: Vídeos y Tutorials
 user-guide-description: Obtenga información acerca de Adobe Commerce y Magento Open Source a través de vídeos y tutoriales.
 breadcrumb-title: Vídeos y Tutorials
 solution: Commerce
-source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
+source-git-commit: 925f3581757548393ada567d523aedab24d1527d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,6 @@ ht-degree: 0%
    + [Crear atributos del cliente](../site-management/customer-attributes.md)
    + [Compras asistidas por el vendedor](../site-management/seller-assisted-shopping.md)
 + Administración de catálogos {#catalog}
-   + [Servicio de catálogo para Adobe Commerce](../site-management/catalog-service.md)
    + [Crear una categoría](../site-management/category-create.md)
    + [Administrar productos en una categoría](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
