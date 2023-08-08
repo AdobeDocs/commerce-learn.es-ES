@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visor de AR disponible en el Commerce Marketplace
-source-git-commit: 3561fe3635d823853df3b99b9bb4695a72e42db4
+source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,6 @@ Una vez que el visitante escanea el código QR con su dispositivo, el elemento s
 ## Recursos útiles
 
 [Visor de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Requisitos del visor de AR](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-requirements.html){target="_blank"}
 [Administre modelos 3D de productos con el visualizador de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extensión de Adobe Commerce Marketplace
