@@ -1,8 +1,8 @@
 ---
 title: Crear un GraphQL de varias fuentes para utilizarlo en la malla de API
 description: Descubra cómo utilizar varias fuentes para API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre algunos errores comunes y cómo resolverlos.
-landing-page-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
-short-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
+landing-page-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
+short-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

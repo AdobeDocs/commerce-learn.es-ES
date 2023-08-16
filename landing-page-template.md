@@ -18,19 +18,16 @@ Una descripción general de entre 1 y 2 frases del producto en el que se centra 
 ## Novedades de la versión
 
 * **[Nuevo vídeo de funciones (vídeo)](README.md)**
-
-   <br>
-   *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
+  <br>
+  *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
 
 * **[Nuevo vídeo de funciones (vídeo)](README.md)**
-
-   <br>
-   *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
+  <br>
+  *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
 
 * **[Un nuevo artículo (Artículo)](README.md)**
-
-   <br>
-   *Haga clic aquí para leer más sobre la función xyz!*
+  <br>
+  *Haga clic aquí para leer más sobre la función xyz!*
 
 ## Selección de personal
 

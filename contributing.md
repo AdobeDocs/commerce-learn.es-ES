@@ -2,7 +2,7 @@
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -14,7 +14,7 @@ A continuación se proporciona un conjunto de directrices que se deben seguir al
 
 ## Código de conducta
 
-Este proyecto se adhiere al Adobe [código de conducta](code-of-conduct.md). Al participar, se espera que respete este código. Informe de cualquier comportamiento inaceptable a
+Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. Al participar, se espera que mantenga este código. Informe de cualquier comportamiento inaceptable a
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## ¿Tiene alguna pregunta?
@@ -23,12 +23,11 @@ Comience por rellenar un problema. Los supervisores de este proyecto trabajan pa
 
 ## Contrato de licencia de colaborador
 
-Todas las contribuciones de terceros a este proyecto deben ir acompañadas por un contrato de licencia de colaborador firmado. Esto otorga permiso al Adobe para redistribuir las contribuciones como parte del proyecto. [Firme nuestro CLA](https://opensource.adobe.com/cla.html). Solo tiene que enviar un contrato de licencia de colaborador de Adobe, por lo que, si ha enviado uno anteriormente, ya está listo para comenzar.
+Todas las contribuciones de terceros a este proyecto deben ir acompañadas por un contrato de licencia de colaborador firmado. Esto otorga permiso a Adobe para redistribuir sus contribuciones como parte del proyecto. [Firme nuestro CLA](https://opensource.adobe.com/cla.html). Solo tiene que enviar un contrato de licencia de colaborador de Adobe, por lo que, si ha enviado uno anteriormente, ya está listo para comenzar.
 
 ## Revisiones de código
 
-Todos los envíos deben ser solicitudes de extracción y deben ser revisados por los supervisores del proyecto. Leer [Documentación de la solicitud de extracción de GitHub](https://help.github.com/articles/about-pull-requests/)
-para obtener más información sobre el envío de solicitudes de extracción.
+Todas las solicitudes deben llegar en forma de solicitudes “pull” y el comité de proyectos deberá revisarlas. Consulte la [documentación de las solicitudes “pull”](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obtener más información sobre cómo enviar solicitudes “pull”.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when

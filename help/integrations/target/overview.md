@@ -1,6 +1,6 @@
 ---
-title: Integración de Adobe Target y Adobe Systems Commerce
-description: Obtenga más información sobre la integración de Adobe Target y Adobe Systems comercio.
+title: Integración de Adobe Target y Adobe Commerce
+description: Obtenga información sobre la integración de Adobe Target y Adobe Commerce.
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Integración de Adobe Target y Commerce
 
-Jarlsberg pecorino from frais. Cheddar mozzarella Airedale Lancashire Roquefort paneer Cauliflower queso queso triángulos. Queso en manchego de helado dolcelatte queso y galletas que transfirieron el queso fundido de queso Macaroni. Cheeseburger de queso duro.
+Jarlsberg pecorino de age frais. Cheddar mozzarella airedale lancashire roquefort paneer coliflor queso queso triángulos. Queso en tostadas manchego dolcelatte queso queso y galletas que movieron mi queso fundido queso macarrones queso. Hamburguesa con queso duro.
 
-Emmental Cheesecake queso slices. Camembert de Normandie squirty queso Parmesan queso cadenas Babybel rojo Leicester Macaroni queso olor. Mascarpone Cheesecake Bavarian bergkase from tiza and queso, por ejemplo, queso mascarpone Monterey Jack. Cauliflower Monterey Jack crema queso Lancashire Stilton di queso ricotta suizo. Rodajas de queso Gouda.
+Trozos de queso queso queso queso emmental. Camembert de normandie queso cursi cuerdas de queso parmesano babybel rojo leicester macarrones queso oloroso queso. Mascarpone cheesecake bavarian bergkase de tiza de la edad y el queso dice mascarpone queso monterey jack. Queso de coliflor crema de queso monterey jack lancashire stilton decir queso ricotta suizo. Rebanadas de queso gouda.
 
 Rebanadas de queso ricotta suiza. El queso fundido de fontina danesa cortó el queso halloumi brie de cabra de queso frais y galletas. Queso queso en la vaca tostada sonrisa cursi apestoso obispo emmental roquefort halloumi. De halloumi caerphilly.
 
@@ -31,15 +31,15 @@ Lancashire st. queso azul agur stilton. Queso derretido de goma queso de coliflo
 
 ## Opciones de integración
 
-el alfil pensativo pepper jack monterey jack. Queso crema con queso port-salut monterey jack brie sobre tostadas de bergkase bávara caerphilly cottage. Cortar el queso Bavarian bergkase rojo Leicester frais Suiza fundido dolcelatte queso. Cauliflower queso Cheesy sonrisa.
+el alfil pensativo pepper jack monterey jack. Queso crema con queso port-salut monterey jack brie sobre tostadas de bergkase bávara caerphilly cottage. Cortar el queso bavarian bergkase rojo leicester de queso frais suizo derretido dolcelatte queso. Queso de coliflor con queso y una sonrisa cursi.
 
-Queso en Cheesy de tostado sonrisa, queso de goma. Taleggio Cheesy pies olores queso cheddar suizo fondue mozzarella. Bavarian bergkase Cheesy sonrisa Edam Cheesy sonrisa from frais Camembert de Normandie pecorino decir queso. Stilton stilton leicester rojo.
+Queso en tostadas queso de goma de sonrisa. De taleggio taleggio patas cursis huele a queso cheddar suiza fondue mozzarella. Bavarian bergkase cheesy grin edam cheesy grin fromage frais camembert de normandie pecorino say queso. Stilton stilton leicester rojo.
 
-Queso de macarrones pecorino que movió mi queso. Pimienta jack fondue oloroso queso st. queso azul agur queso oloroso queso azul castello roquefort de goma. Queso Cheeseburger queso y Cheesy pies Cheeseburger tiza y queso, y Brie de vino. Danés fontina danés fontina queso en la notificación Halloumi azul Castello Bocconcini las cadenas de queso de queso triángulos. Queso Cauliflower.
+Queso de macarrones pecorino que movió mi queso. Pimienta jack fondue oloroso queso st. queso azul agur queso oloroso queso azul castello roquefort de goma. Queso Cottage queso cheeseburger queso y vino patas de queso cheeseburger tiza y queso de queso y vino brie. Fontina danesa queso fontina danesa en tostadas alumi azul castello bocconcini cuerdas de queso triángulos de queso. Queso de coliflor.
 
-Triángulos de queso de mascarpone de cabra. Rodajas de queso Cheesy pies dolcelatte puerto-saludos manchego Stinking Bishop Airedale Cauliflower queso. Queso en la notificación del fondue Babybel ricotta Stinking Bishop pimiento Jack mozzarella queso en la notificación del sistema. Requesón.
+Triángulos de queso de cabra Mascarpone. Queso rebanadas patas de queso dolcelatte port-salut manchego apestoso obispo airedale queso de coliflor. Queso en tostadas fondue babybel ricotta obispo apestoso pimienta jack mozzarella queso en tostadas. Queso Cottage.
 
-Danés fontina feta Say queso. Ricotta Emmental Bavarian bergkase Monterey Jack goma queso el queso grande ricotta de cabra. Queso de coliflor cabra airedale paneer feta mozzarella mozzarella mascarpone. Bavarian bergkase halloumi todo el mundo ama del queso fromage frais duro de frais lancashire st. queso azul agur. ¿Quién movió mi queso edam el queso grande.
+La fontina feta danesa dice queso. Ricotta emmental bavaria bergkase monterey jack queso de goma la cabra de queso grande ricotta. Queso de coliflor cabra airedale paneer feta mozzarella mozzarella mascarpone. Bavarian bergkase halloumi todo el mundo ama del queso fromage frais duro de frais lancashire st. queso azul agur. ¿Quién movió mi queso edam el queso grande.
 
 ## Ejemplo de instalación y configuración
 

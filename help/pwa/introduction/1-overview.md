@@ -1,6 +1,6 @@
 ---
 title: 'PWA Studio para desarrolladores: introducción'
-description: ¿Qué es un Progressive Web Application (PWA) y por qué un PWA Studio es el futuro​.
+description: Qué es una aplicación Progressive Web Application (PWA) y por qué PWA Studio es el futuro.
 landing-page-description: Vea esta serie de vídeos para conocer a los Progressive Web Application (PWA) y por qué PWA Studio es el futuro de [!DNL Commerce] sitios.
 short-description: Vea esta serie de vídeos para conocer a los Progressive Web Application (PWA) y por qué PWA Studio es el futuro de [!DNL Commerce] sitios.
 kt: 5644
@@ -15,7 +15,7 @@ exl-id: 26b1b560-c155-4316-9481-44679bf9216a
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Inventory management
 
-Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones de recogida, distribuidores directos entre otros pueden utilizar las funciones de gestión de inventario para mantener las cantidades de las ventas y gestionar los envíos para completar los pedidos. Puede realizar un seguimiento de las cantidades de inventario, proporcionar cantidades precisas de existencias vendibles a los clientes para todos los sitios web y realizar envíos según las recomendaciones basadas en la distancia o la prioridad. También puede configurar las configuraciones de producto preferidas globalmente (para todas las tiendas y productos), por origen y por producto. Estas funciones crecen con su negocio, lo que le permite trabajar desde un único almacén o desde una compleja red de envío.
+Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones de recogida, distribuidores directos entre otros pueden utilizar las funciones de gestión de inventario para mantener las cantidades de las ventas y gestionar los envíos para completar los pedidos. Puede realizar un seguimiento de las cantidades de inventario, proporcionar cantidades precisas de existencias vendibles a los clientes para todos los sitios web y enviar según las recomendaciones basadas en la distancia o la prioridad. También puede configurar las configuraciones de producto preferidas globalmente (para todas las tiendas y productos), por origen y por producto. Estas funciones crecen con su negocio, lo que le permite trabajar desde un único almacén o desde una compleja red de envío.
 
 ## ¿Para quién es este vídeo?
 

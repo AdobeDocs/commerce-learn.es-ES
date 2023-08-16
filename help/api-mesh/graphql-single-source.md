@@ -1,8 +1,8 @@
 ---
 title: Creación de una malla de fuente única de GraphQL en API Mesh
-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
-landing-page-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
-short-description: Descubra cómo utilizar API Mesh en Adobe Commerce y [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
+description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
+landing-page-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
+short-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

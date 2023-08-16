@@ -1,6 +1,6 @@
 ---
 title: Usar GraphQL para mostrar un descuento de artículo de línea
-description: Conozca la cotización de un pedido B2B ofrece un descuento por elemento de línea mediante GraphQL
+description: Conozca la cotización de un pedido B2B ofrece un descuento de artículo de línea mediante GraphQL
 doc-type: feature video
 audience: all
 activity: use

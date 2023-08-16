@@ -2,7 +2,7 @@
 title: Uso de la herramienta de compatibilidad de actualización en PHP Storm
 description: Vea este vídeo técnico para aprender a utilizar la herramienta de compatibilidad de actualización con el complemento PHP Storm.
 landing-page-description: Obtenga información acerca del uso de la herramienta de compatibilidad de actualización con el complemento PHP Storm que facilita la identificación y solución de incompatibilidades.
-short-description: Obtenga información acerca del uso de la herramienta de compatibilidad de actualización con el complemento PHP Storm que facilita la identificación y solución de incompatibilidades.
+short-description: Obtenga información acerca del uso de la herramienta de compatibilidad de actualización con el complemento PHP Storm, que facilita la identificación y solución de incompatibilidades.
 kt: 9651
 doc-type: technical video
 audience: all
@@ -16,7 +16,7 @@ exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 

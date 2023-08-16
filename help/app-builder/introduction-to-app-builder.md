@@ -1,8 +1,8 @@
 ---
 title: Extensibilidad fuera de proceso para Adobe Commerce
-description: Obtenga información sobre el Generador de aplicaciones de Adobe y por qué es un aspecto importante de la extensibilidad fuera de proceso.
-landing-page-description: Descubra qué es App Builder y cómo puede ayudar con las estrategias de desarrollo de Adobe Commerce.
-short-description: Descubra qué es App Builder y cómo puede ayudar con las estrategias de desarrollo de Adobe Commerce.
+description: Obtenga información sobre App Builder de Adobe y por qué es un aspecto importante de la extensibilidad fuera de proceso.
+landing-page-description: Descubra qué es App Builder y cómo puede ayudarle con las estrategias de desarrollo de Adobe Commerce.
+short-description: Descubra qué es App Builder y cómo puede ayudarle con las estrategias de desarrollo de Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
