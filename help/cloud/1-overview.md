@@ -12,7 +12,7 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bf8571af4d06b26fd038efea71b9f0890c780ae7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 59%
@@ -23,7 +23,7 @@ ht-degree: 59%
 
 En este vídeo:
 
-- Identifique las tecnologías clave dentro de la pila de la nube&#x200B;
+- Identificar las tecnologías clave dentro de la pila de la nube
 - Describa la estrategia de entrega de contenido para Adobe Commerce en la infraestructura en la nube.
 - Comprenda el valor del sistema de archivos de solo lectura
 
