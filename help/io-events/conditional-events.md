@@ -12,7 +12,7 @@ topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Eventos condicionales de Adobe Commerce
 
-Obtenga información sobre los eventos condicionales en Adobe Commerce que se pueden utilizar en el Generador de aplicaciones de Adobe Developer. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Obtenga información sobre los eventos condicionales en Adobe Commerce que se pueden utilizar en el Generador de aplicaciones de Adobe Developer. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
