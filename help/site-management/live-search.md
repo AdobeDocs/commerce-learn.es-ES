@@ -3,25 +3,24 @@ title: "Introducción a [!DNL Live Search]"
 description: '"Aprenda a añadir [!DNL Live Search] vaya a su tienda y produzca experiencias de compra muy atractivas, relevantes y personalizadas".'
 doc-type: feature video
 audience: all
-badge: label="Solo en Adobe Commerce" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 7e9f65c7d885eef34ba3bb528400e735c72b65ed
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # Introducción a [!DNL Live Search]
 
-{{ee-feature}}
-
 Esta es una breve introducción a [!DNL Live Search] de Adobe Commerce. [!DNL Live Search] con tecnología Adobe Sensei, utiliza inteligencia artificial y algoritmos de aprendizaje automático para realizar un análisis profundo de los datos acumulados del visitante.
+
+{{ee-feature}}
 
 ## ¿Para quién es este vídeo?
 
