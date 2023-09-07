@@ -4,24 +4,24 @@ description: Descubra cómo la aplicación de Adobe Commerce tiene procesos de v
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
-source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
+source-git-commit: e01d05300cd593cdd003a25dae4c9fdc2cbad794
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # Validación de presupuesto de ventas B2B mediante el panel de administración
 
-{{b2b-feature}}
 Conozca los pasos y las áreas de validación que proporciona la funcionalidad de presupuesto B2B de Adobe Commerce para garantizar un proceso de presupuesto coherente y válido.
+
+{{b2b-feature}}
 
 ## ¿Para quién es este vídeo?
 

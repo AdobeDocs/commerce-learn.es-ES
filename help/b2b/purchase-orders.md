@@ -4,23 +4,20 @@ description: Obtenga información sobre cómo habilitar pedidos de compra y regl
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
 
 # Pedidos de compra y aprobaciones
-
-{{b2b-feature}}
 
 La mayoría de las empresas B2B tienen reglas de aprobación de pedidos para pedidos de compra. Las empresas pueden controlar quién puede crear pedidos de compra y cuánto pueden gastar. Por ejemplo:
 
@@ -30,6 +27,8 @@ La mayoría de las empresas B2B tienen reglas de aprobación de pedidos para ped
 - Se aprueba automáticamente un pedido creado por cualquier persona a nivel de Director o superior.
 
 Con los permisos necesarios para su función, los clientes B2B pueden configurar reglas de aprobación para aplicar las políticas de la compañía.
+
+{{b2b-feature}}
 
 ## ¿Para quién es este vídeo?
 
