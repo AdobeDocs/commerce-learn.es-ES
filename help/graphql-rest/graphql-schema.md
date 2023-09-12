@@ -3,25 +3,35 @@ title: Lenguaje de esquemas con GraphQL
 description: Obtenga información sobre el esquema relacionado con GraphQL. Lea una descripción del esquema, junto con algunos patrones interesantes y formas de leer el esquema.
 landing-page-description: Esta es una introducción a GraphQL. Explicación del esquema y cómo interpretar algunos de los elementos
 short-description: Esta es una introducción a GraphQL. Explicación del esquema y cómo interpretar algunos de los elementos
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # Idioma del esquema
 
-Las consultas y mutaciones utilizadas dependen de un gráfico de datos específico que se implementa en el servidor, que el tiempo de ejecución de GraphQL consume y utiliza para resolver la consulta. La especificación de GraphQL define un lenguaje agnóstico para expresar los tipos y relaciones del gráfico de datos.
+Esta es la parte 4 de la serie para GraphQL y Adobe Commerce. Las consultas y mutaciones utilizadas dependen de un gráfico de datos específico que se implementa en el servidor, que el tiempo de ejecución de GraphQL consume y utiliza para resolver la consulta. La especificación de GraphQL define un lenguaje agnóstico para expresar los tipos y relaciones del gráfico de datos.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
+
+* [Parte 1 GraphQL: Introducción](../graphql-rest/intro-graphql.md)
+* [Parte 2 GraphQL: Consultas](../graphql-rest/graphql-queries.md)
+* [Parte 3 GraphQL - Mutaciones](../graphql-rest/graphql-mutations.md)
+
+## Esquema de ejemplo
 
 Este es un esquema de tipo abreviado que admite las consultas y mutaciones que ha visto hasta ahora:
 

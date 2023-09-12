@@ -3,23 +3,36 @@ title: Realización de una mutación con GraphQL
 description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
 landing-page-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
 short-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
-kt: 11524
-doc-type: tutorial
+kt: 13938
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Mutaciones
+
+Esta es la parte 3 de la serie para GraphQL y Adobe Commerce. Las mutaciones son la capacidad de guardar, actualizar y devolver valores mediante GraphQL.
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+
+## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
+
+* [Parte 1 GraphQL: Introducción](../graphql-rest/intro-graphql.md)
+* [Parte 2 GraphQL: Consultas](../graphql-rest/graphql-queries.md)
+* [Parte 4 GraphQL - Esquema](../graphql-rest/graphql-schema.md)
+
+## Mutación de ejemplo
 
 Cualquier especificación de API completa debe ofrecer la capacidad no solo de consultar datos, sino también de crearlos y actualizarlos.
 
