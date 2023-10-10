@@ -1,7 +1,7 @@
 ---
 title: Crear un atributo de producto
 description: Cree una página que devuelva json con un parámetro.
-kt: 5602
+kt: 14131
 doc-type: video
 activity: use
 last-substantial-update: 2023-2-10
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 70e8240ad362e2f1d769786cc05e1c014445a028
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ En este vídeo:
 
 ## ¿Para quién es este vídeo?
 
-- Desarrolladores
+- Desarrolladores nuevos en el comercio que necesitan aprender a crear un atributo de producto mediante programación
 
 ## Contenido de vídeo
 
