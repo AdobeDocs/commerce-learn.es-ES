@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 7b8f3342db01907b2c8a575ac86f6784aec38112
+source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '536'
 ht-degree: 3%
 
 ---
@@ -24,9 +24,9 @@ ht-degree: 3%
       + [6 - Servicios y DNS](../cloud/6-launch.md)
    + Arquitectura de referencia global{#global-reference-architecture}
       + [Arquitectura de referencia global](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [Cómo aprovechar la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [¿Cómo crea la arquitectura de referencia global?](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [Implementación de la arquitectura de referencia global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+      + [Aprovechamiento de la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+      + [Arquitecto GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+      + [Implementar la arquitectura de referencia global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
 + GRAPHQL y REST {#graphql-rest}
    + [Conceptos básicos de GraphQL](../graphql-rest/intro-graphql.md)
    + [Consultas](../graphql-rest/graphql-queries.md)
