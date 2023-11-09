@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Aprenda a utilizar la conexión de datos de Adobe Commerce junto con algunas con
 
 ## Contenido de vídeo
 
-* Obtenga información acerca de los datos de clientes que se pueden transferir del comercio al Adobe Experience Edge
-* Qué es una API
-* Cómo utilizar Adobe Journey Optimizer para realizar el seguimiento con un cliente
-* Tipos de eventos de tienda que se pueden capturar
-* Los datos de clientes en tiempo real evaluados y el contenido personalizado que se muestra a medida que el cliente continúa explorando
-* Segmentos de clientes y cómo se pueden ajustar automáticamente en función del historial de clientes
-* Perfiles unificados únicos
-* Abandone los correos electrónicos del carro de compras, los mensajes SMS y cómo se pueden utilizar con Adobe Journey Optimizer
-* Configuraciones y ajustes básicos del conector de datos de Commerce
-* Bloques dinámicos y reglas de precios de carro de compras utilizadas para proporcionar descuentos
-* Perfiles de cliente, audiencias y detalles del cliente en Adobe Experience Platform
-* Cómo Adobe Target puede proporcionar contenido personalizado dinámico
-* Paneles del Customer Journey Analytics presentados
+* Envío de datos de comportamiento de Adobe Commerce a otros productos DX (por ejemplo, AJO, Analytics, Target, Real-Time CDP) para la toma de decisiones de segmentos, el enriquecimiento de perfiles y experiencias personalizadas en el recorrido del cliente.
+* Audiencias de Real-Time CDP que actualizan y modifican la segmentación en tiempo real en función de los datos del navegador, los datos del lado del servidor (incluido el historial de pedidos) y los datos de otras fuentes (es decir, los datos de fidelidad).
+* Uso de las audiencias de Real-Time CDP para personalizar tanto las reglas de precios del carro de compras como los bloques dinámicos en Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
