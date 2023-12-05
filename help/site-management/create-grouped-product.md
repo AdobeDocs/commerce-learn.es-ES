@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # Crear un producto agrupado
 
-Un producto agrupado consiste en productos independientes simples que se presentan como un grupo. Puede ofrecer variaciones de un solo producto o agruparlas por temporada o tema. Antes de crear un producto agrupado, compruebe que todos los productos simples que se incluyen en el grupo están disponibles en Adobe Commerce y cree los que no existan. En este tutorial, aprenderá a crear un producto agrupado mediante la API de REST y el administrador de Adobe Commerce.
+Un producto agrupado consiste en productos independientes simples que se presentan como un grupo. Puede ofrecer variaciones de un solo producto o agruparlas por temporada o tema. Antes de crear un producto agrupado, compruebe que todos los productos simples que se incluyen en el grupo están disponibles en Adobe Commerce y cree los que no existan.
+
+En este tutorial, aprenderá a crear un producto agrupado mediante la API de REST y el administrador de Adobe Commerce.
 
 Utilice la API de REST para crear un producto de grupo en Admin:
 
@@ -29,9 +31,9 @@ Utilice la API de REST para crear un producto de grupo en Admin:
 1. Rellene el producto agrupado vacío con productos simples.
 1. Cree un producto agrupado vacío y asocie los productos simples.
 
-Al crear productos agrupados en el Administrador de Adobe Commerce, se recomienda crear primero productos simples. Cuando esté listo para crear el producto agrupado, asocie los productos simples asignándolos al producto agrupado en un lote.
+   Cuando asocia productos simples al producto agrupado, el atributo de criterio de ordenación (`position`) en la carga útil es utilizada por el front-end para mostrar los productos asociados en el orden deseado. Si la variable `position` no se ha especificado el atributo, los productos se muestran en el orden en que se agregaron al producto agrupado.
 
-El atributo de criterio de ordenación en la carga útil es obligatorio y el front-end lo utiliza para mostrar los productos asociados en el orden deseado.
+Al crear productos agrupados desde el administrador de Adobe Commerce, cree primero los productos simples. Cuando esté listo para crear el producto agrupado, asocie los productos simples asignándolos al producto agrupado en un lote.
 
 ## ¿Para quién es este vídeo?
 
