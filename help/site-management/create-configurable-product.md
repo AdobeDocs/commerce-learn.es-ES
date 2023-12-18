@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Antes de enviar la solicitud, actualice el ejemplo con los valores de su entorno
 - Cambiar `"attribute_set_id": 10,` y reemplace `10` con el id del conjunto de atributos de en su entorno.
 - Cambiar `"value": "14"` y reemplace `14` con el valor de su entorno.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Cree el tercer producto simple con cURL
 
-Cree el tercer producto simple con la API para enviar la siguiente solicitud de POST mediante cURL.
+Cree el tercer producto simple enviando la siguiente solicitud de POST mediante cURL.
 
 Antes de enviar la solicitud, actualice el ejemplo con los valores de su entorno.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Crear un producto configurable vacío mediante cURL
 
-Cree un producto configurable vacío mediante la API para enviar la siguiente solicitud del POST mediante cURL.
+Cree un producto configurable vacío enviando la siguiente solicitud de POST mediante cURL.
 
 Antes de enviar la solicitud, actualice el ejemplo con los valores de su entorno.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Definir las opciones disponibles para el producto configurable
 
-Establezca las opciones disponibles para el producto configurable mediante la API para enviar la siguiente solicitud del POST mediante cURL.
+Defina las opciones disponibles para el producto configurable enviando la siguiente solicitud de POST mediante cURL.
 
 Antes de enviar la solicitud, cambie lo siguiente `"attribute_id": 93,` para reemplazar `93` con el id de atributo de su entorno.
 
@@ -289,7 +288,7 @@ Ahora, ha creado tres productos simples:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Añada estos productos simples como secundarios del producto configurable mediante la API para enviar la siguiente solicitud de POST para cada producto. Envíe una solicitud independiente para cada producto.
+Añada estos productos simples como productos secundarios del producto configurable enviando la siguiente solicitud del POST. Envíe una solicitud independiente para cada producto.
 
 Para cada solicitud, actualice el `childSKU` valor con el valor del producto secundario que está agregando. El siguiente ejemplo asigna el producto simple `kids-Hawaiian-Ukulele-red` al producto configurable con el SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Obtener un producto configurable mediante cURL
 
-Ahora que ha creado un producto configurable con tres SKU secundarias asignadas. Puede ver los ID vinculados de los productos asignados por la API para enviar la siguiente solicitud de GET mediante cURL. Esta solicitud devuelve información detallada sobre el producto configurable.
+Ahora que ha creado un producto configurable con tres SKU secundarias asignadas. Puede ver los ID vinculados de los productos asignados enviando la siguiente solicitud de GET mediante cURL. Esta solicitud devuelve información detallada sobre el producto configurable.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Obtener el producto secundario asociado a un producto configurable
 
-Esta solicitud solo devuelve los elementos secundarios asociados al producto configurable. Esta respuesta tiene todos los atributos del producto secundario, incluidos el SKU y el precio.
+Devuelva solo los elementos secundarios asociados con el producto configurable enviando la siguiente solicitud de GET. La respuesta incluirá todos los atributos del producto secundario, incluidos el SKU y el precio.
 
 Lo siguiente utiliza el método de GET
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Eliminar o quitar un producto secundario del elemento principal configurable
 
-Puede quitar un producto secundario de un producto configurable sin eliminar el producto del catálogo mediante la API para enviar la siguiente solicitud del DELETE mediante cURL.
-
-Lo siguiente utiliza el método DELETE
+Puede quitar un producto secundario de un producto configurable sin eliminar el producto del catálogo enviando la siguiente solicitud de DELETE mediante cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
