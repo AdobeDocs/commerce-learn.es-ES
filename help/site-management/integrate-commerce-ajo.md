@@ -1,0 +1,45 @@
+---
+title: Obtenga información sobre cómo integrar Adobe Commerce y Adobe Journey Optimizer
+description: Descubra por qué y cómo se puede implementar una integración entre Adobe Commerce y Adobe Journey Optimizer
+feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
+topic: Administration, Commerce, Integrations, Personalization
+role: Admin, Developer
+level: Beginner
+doc-type: Technical Video
+duration: 512
+last-substantial-update: 2024-01-17T00:00:00Z
+jira: KT-14793
+thumbnail: 3426855.jpeg
+source-git-commit: b790ca7921fb5999c211619a2bf56e39a0dcf960
+workflow-type: tm+mt
+source-wordcount: '250'
+ht-degree: 0%
+
+---
+
+
+# Obtenga información sobre cómo integrar Adobe Commerce y Adobe Journey Optimizer
+
+Descubra cómo puede utilizar [Conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} en Adobe Commerce para desbloquear los datos de Commerce y ofrecer experiencias del comprador personalizadas e integrales en tiempo real con la ayuda de Adobe Journey Optimizer.
+
+## ¿Para quién es este vídeo?
+
+- Directores y operaciones de comercio electrónico interesados en compartir datos y audiencias de comercio electrónico con equipos de marketing
+- Directores de marketing que buscan utilizar los datos de clientes de Commerce para impulsar la personalización a escala.
+- Operaciones de marketing interesadas en aumentar la eficacia con el flujo de datos automatizados entre Commerce y Journey Optimizer
+
+## Contenido de vídeo
+
+- Aborde los desafíos de los datos en silo transmitiendo datos sin problemas entre Adobe Commerce y Adobe Experience Platform, incluido Journey Optimizer, con la conexión de datos
+- Aproveche los datos entregados desde Commerce en tiempo real para activar y personalizar los recorridos de los clientes en Journey Optimizer
+- Combine datos de Commerce con datos de fuentes adicionales. Cree audiencias y segméntelas con mensajes, experiencias u ofertas únicos
+- Implemente esta integración en solo una hora con la conexión de datos, en comparación con los 20 días que tarda una implementación personalizada
+- En Adobe Journey Optimizer, cree y active fácilmente recorridos de cliente 1:1 con eventos predeterminados disponibles con la conexión de datos
+- Interactúe con los compradores en todos los canales en tiempo real mediante las funciones de mensajería nativas de Adobe Journey Optimizer
+
+>[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
+
+## Recursos adicionales
+
+[Información general de conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[Instalar conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
