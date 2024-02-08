@@ -1,6 +1,6 @@
 ---
-title: Obtenga información sobre cómo ver y establecer configuraciones de administración mediante la línea de comandos
-description: Demostración para ver y establecer valores de configuración mediante la línea de comandos
+title: Ver y establecer configuraciones de administración mediante la línea de comandos
+description: Obtenga información sobre cómo ver y establecer configuraciones de administración mediante la línea de comandos.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Obtenga información sobre cómo ver y establecer configuraciones de administración mediante la línea de comandos
+# Ver y establecer configuraciones de administración mediante la línea de comandos
 
 Una demostración de cómo ver, establecer y encontrar valores de configuración con la CLI de Commerce. Comprenda dónde se guardan los valores y también de dónde provienen.
 
