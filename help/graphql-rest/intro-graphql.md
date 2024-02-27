@@ -1,6 +1,6 @@
 ---
 title: Introducción a GraphQL
-description: Descubra cómo utilizar GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Utilice llamadas de GET y POST de GraphQL para Adobe Commerce y [!DNL Magento Open Source].
+description: Aprenda a utilizar GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Utilice llamadas de GET y POST de GraphQL para Adobe Commerce y [!DNL Magento Open Source].
 short-description: Aprenda a utilizar las llamadas de GET y POST de GraphQL para Adobe Commerce y [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
@@ -11,10 +11,10 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
+source-git-commit: b8b1e40a2f4d38954f0d21bc6f1a91b7ec0bd8c9
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 6%
+source-wordcount: '478'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,7 @@ Necesita un cliente GUI de GraphQL para probar ejemplos de código y tutoriales.
 
 * [Altair](https://altairgraphql.dev/){target="_blank"} es un cliente excelente y con todas las funciones, creado específicamente para GraphQL. El Adobe utiliza Altair en vídeos explicativos.
 * Si no desea instalar la aplicación de escritorio, también hay extensiones de Altair que se ejecutan directamente en su
-  [Chrome](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} explorador.
+  [Chrome](https://chromewebstore.google.com/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} explorador.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} es una implementación del IDE de GraphQL desde GraphQL Foundation. No es una herramienta instalable, sino un paquete que puede utilizar para crear la interfaz usted mismo.
 * Si ya está familiarizado con [Postman](https://www.postman.com/){target="_blank"}Sin embargo, tiene un soporte decente para las consultas de GraphQL, aunque no está tan completo como un cliente de GraphQL dedicado.
 
