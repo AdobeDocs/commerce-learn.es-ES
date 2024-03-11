@@ -1,5 +1,5 @@
 ---
-title: Obtenga información sobre cómo conectar y ejecutar consultas en la base de datos de Adobe Commerce
+title: Conexión y ejecución de consultas en la base de datos
 description: Conozca varios métodos para conectarse a un proyecto de nube de Adobe Commerce. Aprenda a extraer una base de datos para utilizarla fuera del sitio. Aprenda algunos métodos para enmascarar PII y eliminarlo.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
-
-# Obtenga información sobre cómo conectar y ejecutar consultas en la base de datos de Adobe Commerce
+# Conexión y ejecución de consultas en la base de datos de Adobe Commerce
 
 En este tutorial, aprenderá a conectarse a un proyecto de Adobe Commerce en la nube, volcar una base de datos para su uso fuera del sitio, y enmascarar PII y eliminarla.
-
 
 Puede acceder a los datos de Adobe Commerce desde su proyecto en la nube mediante cualquiera de los siguientes métodos:
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [Configurar el servicio MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Configurar una conexión de base de datos MySQL remota](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Crear volcado de base de datos en Adobe Commerce en la infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
