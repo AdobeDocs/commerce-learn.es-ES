@@ -1,9 +1,9 @@
 ---
 title: Páginas relacionadas con la incorporación técnica de Adobe Commerce Cloud
 description: Vínculos a páginas relacionadas en la incorporación técnica de Adobe Commerce Cloud
-source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
+source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,4 @@ ht-degree: 0%
 - [Rápido](../cloud/fastly.md)
 - [Configuración y depuración](../cloud/configuration-and-debugging.md)
 - [Implementaciones, pruebas, monitorización y seguridad](../cloud/deployments-testing-monitoring-security.md)
+- [Ofertas de Saas, asistencia y otras comunicaciones, y pasos siguientes](../cloud/saas-offerings-support-communications-next-steps.md)
