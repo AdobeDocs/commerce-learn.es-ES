@@ -1,6 +1,6 @@
 ---
 title: 'Incorporación técnica de Adobe Commerce Cloud y transferencia de hardware: línea de tiempo del proceso de lanzamiento'
-description: Obtenga información acerca de la incorporación técnica de Adobe Commerce Cloud para la cronología del proceso de lanzamiento.
+description: Obtenga información sobre la incorporación técnica de Adobe Commerce Cloud para la cronología del proceso de lanzamiento.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
@@ -15,13 +15,13 @@ exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
 source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 45%
 
 ---
 
 # Incorporación técnica: línea de tiempo del proceso de lanzamiento
 
-Obtenga información acerca de la incorporación técnica de Adobe Commerce Cloud para la cronología del proceso de lanzamiento.
+Obtenga información sobre la incorporación técnica de Adobe Commerce Cloud para la cronología del proceso de lanzamiento.
 
 ## ¿Para quién es este vídeo?
 
