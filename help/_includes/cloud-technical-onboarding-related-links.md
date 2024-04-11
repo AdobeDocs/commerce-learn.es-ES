@@ -1,9 +1,9 @@
 ---
 title: Páginas relacionadas con la incorporación técnica de Adobe Commerce Cloud
 description: Vínculos a páginas relacionadas en la incorporación técnica de Adobe Commerce Cloud
-source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
+source-git-commit: b2c29af209b5c45ed2f562cb6eafaffcd96678aa
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 
 ## Tutoriales adicionales relacionados
 
-- [Iniciar proceso de cronología](../cloud/launch-process-timeline.md)
 - [Prácticas recomendadas de infraestructura y desarrollo](../cloud/infrastructure-development-best-practices.md)
 - [Rápido](../cloud/fastly.md)
 - [Configuración y depuración](../cloud/configuration-and-debugging.md)
