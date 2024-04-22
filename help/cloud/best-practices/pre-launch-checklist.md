@@ -1,0 +1,192 @@
+---
+title: Lista de comprobación previa al inicio de Adobe Commerce Cloud
+description: Obtenga información acerca de la lista de comprobación previa al inicio de Adobe Commerce Cloud.
+feature: Cloud
+topic: Commerce, Architecture, Development
+role: Architect, Developer
+level: Intermediate
+doc-type: Tutorial
+duration: 0
+last-substantial-update: 2024-04-17T00:00:00Z
+jira: KT-15180
+kt: 15180
+source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+workflow-type: tm+mt
+source-wordcount: '1578'
+ht-degree: 0%
+
+---
+
+
+# Lista de comprobación previa al inicio del Commerce Cloud
+
+A continuación se muestra una sinopsis de Adobe Commerce [Documentación de inicio del sitio](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}.
+
+Esta lista de comprobación tiene como objetivo ayudar a planificar y ejecutar correctamente el lanzamiento del sitio de Adobe Commerce Cloud. Colabore con el integrador de sistemas para Adobe Commerce Cloud para asegurarse de que todas las tareas de configuración y los elementos de la lista de comprobación se hayan completado y verificado. Si encuentra dificultades con algún elemento de la lista de comprobación o tiene alguna pregunta, póngase en contacto con el asesor técnico del cliente o el ingeniero de éxito del cliente designados. Si su cuenta no tiene un CTA/CSE asignado, puede crear un ticket de asistencia para obtener ayuda.
+
+Si tiene un CTA/CSE asignado a la cuenta, póngase en contacto con ellos y con el administrador de cuentas al menos 4 semanas antes del lanzamiento del nuevo sitio de Adobe Commerce Cloud para notificarles su **intención** para iniciar.
+
+- Algunas comprobaciones aparecen resaltadas con [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}
+- Asegúrese de colaborar con su desarrollador o socio de integración de sistemas para alinearse con su enfoque de implementación.
+
+>[!IMPORTANT]
+> Usted acepta [responsabilidad](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"} para cualquier efecto adverso y los riesgos asociados al horario de lanzamiento de producción y a la estabilidad del sitio en curso, si no utiliza y completa esta lista de comprobación.
+
+## 1. Puesta En Marcha Previa
+
+1. Revise la documentación sobre las pruebas y el lanzamiento [Documentación de inicio del sitio](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
+
+   >[!NOTE]
+   >Garantizar una _&quot;plan de preparación para el lanzamiento&quot;_ está totalmente preparado con su socio o integrador de sistemas, incorporando todos los elementos de acción necesarios. Recuerde, mientras que la lista de comprobación previa al lanzamiento hace hincapié en las prácticas recomendadas de Adobe, _**no tiene**_ reemplace la necesidad de su propio plan de preparación para go-live.
+
+2. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}[Guía del usuario](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
+3. El usuario/comerciante final realizó UAT (Pruebas de aceptación de usuarios), incluidas las operaciones back-end.
+4. El equipo del integrador de sistemas ha realizado un UAT completo de ensayo y producción. Consulte la [Documentación del Experience League](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}.
+5. Confirme la implementación y prueba del código en los entornos de ensayo y producción ([Más información](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}).
+6. El clúster de producción se ha ampliado permanentemente a la línea de base diaria contratada. Hable con el CTA/CSE asignado para obtener más detalles o envíe un ticket de asistencia.
+
+## 2. Configuraciones actuales
+
+1. Actualice Adobe Commerce y los paquetes o servicios relacionados a [última versión](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview){target="_blank"}
+2. Revise las configuraciones y servicios actuales con su socio de servicio/socio, y [siga las prácticas recomendadas](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/catalog-management){target="_blank"}.
+3. Revise los archivos compartidos/MySQL [uso del disco](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/storage/manage-disk-space){target="_blank"}
+
+## 3. Configuraciones rápidas
+
+1. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}[Caché de página completa](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+2. Utilice el método de GET para consultas de GraphQL en sitios web sin encabezado/PWA cuando corresponda.
+
+   >[!NOTE]
+   > Solo se pueden almacenar en caché (si corresponde) las consultas enviadas con una operación de GET HTTP. [Las consultas del POST no se pueden almacenar en caché](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
+
+3. Asegúrese de que la Optimización de imágenes rápida está activada ([Consulte Optimización de imagen rápida](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-image-optimization){target="_blank"})
+4. Compruebe que está configurada la ubicación correcta del escudo ([Configuración de la caché, los backends y el blindaje de origen](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
+5. Cortafuegos de aplicación web (**WAF**) funciona. (Consulte [Solución de problemas de solicitudes bloqueadas](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, si las hay, y limitaciones)
+6. Actualice Fastly [&quot;Parámetros de URL ignorados&quot;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} en el panel de administración para mejorar el rendimiento de la caché.
+
+   >[!NOTE]
+   > En la configuración de Fastly, en _Administración > Tiendas > Configuraciones > Sistema > Caché de página completa > Configuración rápida > Configuración avanzada > Parámetros de URL ignorados (Global)_, puede encontrar una lista de parámetros separados por comas que Fastly debe ignorar al buscar páginas en caché. Asegúrese de volver a cargar la VCL después de modificar esta lista
+
+## 4. DNS y SSL
+
+1. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}_(Envíe un ticket de asistencia por adelantado para cualquier dominio añadido o cambiado)_
+2. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}[este artículo](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/ssl-tls-certificates-for-magento-commerce-cloud-faq){target="_blank"} para obtener más información.
+3. Actualizar DNS [TTL (Tiempo de vida)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist#to-update-dns-configuration-for-site-launch){target="_blank"} al mínimo posible, para el lanzamiento.
+4. Habilitar Sendgrid SPF y DKIM
+
+   >[!NOTE]
+   > Agregue los registros CNAME de SendGrid para cada dominio a la configuración DNS. Leer [Servicio de correo electrónico SendGrid](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/sendgrid){target="_blank"} para ver cómo cambiar los dominios del remitente y mucho más.
+
+## 5. Configuraciones de Base de Datos
+
+Adobe Commerce Cloud utiliza un clúster MariaDB Galera como base de datos para los entornos de ensayo y producción. Los clústeres Galera son fundamentales para mejorar el rendimiento y la escalabilidad. Para obtener información sobre las prácticas óptimas y las limitaciones de las réplicas en clúster de Galera, consulte los siguientes artículos.
+
+- [Prácticas recomendadas de configuraciones de MySQL](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
+- Alertas gestionadas en Adobe Commerce: [Alertas de MariaDB](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
+- Prácticas recomendadas para [configuración de base de datos](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
+- Análisis profundo para [Replicaciones de cúmulos de galeras y control de flujo.](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication){target="_blank"}
+
+1. [Conexión del esclavo MYSQL](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} se recomienda para mejorar el rendimiento durante cargas altas de la base de datos.
+2. Asegúrese de que el formato de fila de todas las tablas de base de datos está establecido en [DINÁMICO en lugar de COMPACTO](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (Esto es especialmente cierto para las migraciones locales a la nube).
+3. Cambiar el motor de almacenamiento de la base de datos de [MyISAM a InnoDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"} para todas las tablas.
+4. Revise y optimice las tablas de bases de datos que superen 1 GB de tamaño con mucha anticipación.
+5. La información del esquema de la base de datos está actualizada y actualizada. (Consulte [esta guía](https://mariadb.com/kb/en/engine-independent-table-statistics/#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
+
+## 6. Implementaciones
+
+1. Revise el estado ideal de la implementación de contenido estático (SCD) para reducir el tiempo de mantenimiento durante las implementaciones en el entorno de producción. Revisar [Estrategias de implementación de contenido estático (SCD)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guía.
+2. Revise la configuración de minificación para HTML, JavaScript y CSS. (Esto no se aplica a los sitios web sin encabezado/de PWA).
+3. Confirme que la utilización de las siguientes variables de nube se ajusta a los fines previstos. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+
+## 7. Pruebas y resolución de problemas
+
+1. Pruebe los correos electrónicos transaccionales salientes. Más información sobre [Funcionalidad de correo de Adobe Commerce Cloud - SendGrid](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/sendgrid){target="_blank"}.
+2. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}
+3. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}
+
+   >[!NOTE]
+   > A [la prueba de carga y tensión sirve para el propósito](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} identificar cuellos de botella y descubrir problemas de rendimiento en la aplicación. Desempeña un papel crucial en la gestión de las expectativas con respecto al tamaño del clúster y en la determinación de los ajustes de escala necesarios para satisfacer los requisitos empresariales de forma eficaz.
+
+   >[!IMPORTANT]
+   > **_ADVERTENCIA:_** Al preparar una prueba de carga, **_no_** enviar correos electrónicos de transacción activos (incluso a direcciones ficticias). El envío de correos electrónicos durante la prueba puede hacer que el proyecto alcance el límite de envío predeterminado (12 K) configurado para SendGrid antes del lanzamiento.
+   > 
+   > - Cómo desactivar la comunicación por correo electrónico:
+   >   Ir a _Almacenar > Configuración > Avanzado > Sistema > Configuración de envío de correo electrónico_.
+
+4. Realice pruebas de penetración de seguridad en la instancia de producción como parte de [modelo de seguridad de responsabilidad compartida](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. Para el cumplimiento de PCI (industria de tarjetas de pago), el sitio personalizado requiere pruebas de penetración.
+
+## 8. Otras configuraciones
+
+1. Cambiar indexación a _&quot;actualización según lo programado_&quot;, excepto el **_customer_grid_** que permanece en &quot;GUARDAR&quot; (consulte [Modos de indexación](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
+2. ¿Está utilizando motores de búsqueda o extensiones de terceros?
+3. Confirme que [Las configuraciones de SEO (optimización del motor de búsqueda) están correctamente configuradas](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/seo/seo-overview){target="_blank"} para permitir que los indexadores/rastreadores analicen el sitio web, si corresponde.
+4. Agregar redirecciones y rutas (consulte [Configuración de rutas](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/routes/routes-yaml){target="_blank"})
+
+   >[!NOTE]
+   >Añada redirecciones y rutas al archivo routes.yaml en el entorno de integración y compruebe la configuración en este entorno antes de implementarlo en Ensayo y producción.
+
+       &quot;http://{all}/&quot;:
+       tipo: upstream
+       upstream: &quot;mymagento:http&quot;
+       
+       &quot;http://{all}/&quot;:
+       tipo: upstream
+       upstream: &quot;mymagento:http&quot;
+   
+5. Asegúrese de que XDebug esté deshabilitado si está habilitado durante el desarrollo (consulte [Configurar Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
+6. Compruebe que op-cache y otras configuraciones se hayan actualizado con precisión en el archivo php.ini ([consulte esta muestra](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
+7. Suscripción a [**Página de estado de Adobe Commerce**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
+8. Suscribirse a New Relic &quot;[Alertas administradas para Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+
+## 9. Seguridad
+
+1. Configuración del análisis de seguridad de Adobe Commerce
+
+   >[!NOTE]
+   > [La exploración de seguridad de Adobe Commerce es una herramienta útil](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-scan){target="_blank"} que ayuda a descubrir versiones de software obsoletas, configuración incorrecta y posible malware en el sitio. Regístrese, programe la ejecución con frecuencia y asegúrese de que los correos electrónicos se envían al contacto de seguridad técnica correcto.
+   > 
+   > Complete esta tarea durante UAT. Si utiliza la opción de análisis periódicos, asegúrese de programar los análisis en tiempos de baja demanda. Consulte la [Análisis de seguridad](https://account.magento.com/scanner/index/dashboard/){target="_blank"} en la cuenta de Adobe Commerce. Debe iniciar sesión en una cuenta de Adobe Commerce para acceder al análisis de seguridad.
+
+2. Cambie la configuración predeterminada del administrador de Adobe Commerce.
+3. Cambiar la contraseña de administrador (consulte [Configuración de Admin Security](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
+4. Cambiar la URL de administración (consulte [Uso de una URL de administrador personalizada](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url){target="_blank"}).
+5. Elimine los usuarios que ya no estén en el proyecto (consulte [Crear y administrar usuarios](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access){target="_blank"}).
+6. Las contraseñas para los administradores están configuradas (consulte [Requisitos de contraseña de administrador](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/security-admin){target="_blank"}).
+7. Configure la autenticación de doble factor (consulte [Autenticación de doble factor](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/){target="_blank"}).
+
+## 10. Puesta en marcha
+
+Cuando sea el momento de la migración, realice los siguientes pasos (para obtener más información, consulte [Configuraciones de DNS](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}):
+
+1. Acceda al servicio DNS y actualice los registros A y CNAME de cada uno de sus dominios y nombres de host:
+   1. Añadir un registro CNAME para _&lt;&lt;www.yourdomain.com>>_, apuntando a **prod.magentocloud.map.fastly.net**
+   2. Establezca cuatro registros A para _&lt;&lt;yourdomain.com>>_, apuntando a:\
+      151.101.1.124\
+      151 101 65 124\
+      151 101 129 124\
+      151 101 193 124
+2. Cambie la URL base de Adobe Commerce a _&lt;&lt;www.yourdomain.com>>_
+3. Espere a que transcurra el tiempo TTL y, a continuación, reinicie el explorador web.
+4. Pruebe el sitio web.
+
+### Si tiene algún problema que bloquee el go-live:
+
+Si encuentra algún problema o algún problema que le impida iniciar el servicio durante el cambio, el método más rápido para obtener soporte adecuado y oportuno es utilizar el servicio de asistencia y abrir un ticket con la razón &quot;No puedo iniciar mi tienda&quot;, y llamar a un número de soporte de línea directa (consulte [la lista de números de línea directa de Adobe Commerce P1 (Prioridad 1)](https://support.magento.com/hc/en-us/articles/360042536151){target="_blank"}):
+
+- Teléfono gratuito en EE. UU.: (+1) 877 282 7436 (directo a la línea directa Adobe Commerce P1)
+- Número gratuito en EE. UU.: (+1) 800 685 3620 (en el primer menú, presione 7 para la línea directa Adobe Commerce P1)
+- US Local: (+1) 408 537 8777
+
+## 11. Publicar el lanzamiento
+
+Una vez que el sitio esté activo, envíe por correo electrónico al CTA (Customer Technical Advisory), CSE (Customer Success Engineer) y AM (Account Manager) asignados. Sin embargo, si no tiene un administrador de cuentas asignado al proyecto, puede crear un ticket de asistencia en el que se solicite que se active la monitorización de alto nivel de SLA una vez que el sitio se haya puesto en marcha. El CTA/CSE realiza las siguientes tareas en cuanto se verifica que el sitio se inicia con Fastly enabled y almacenamiento en caché:
+
+- Etiquete el clúster como activo y cree un vale de soporte para activar la monitorización de SLA (acuerdos de nivel de servicio) alto.
+- Active las comprobaciones de PKingdom para la monitorización del tiempo de actividad.
+
+>[!MORELIKETHIS]
+> 
+> - [Información general sobre la preparación para el lanzamiento: Guía de implementación](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Iniciar lista de comprobación: Guía del usuario](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
+> - [Lista de comprobación previa al lanzamiento: Guía del administrador del sitio/Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
+> - [Modelo de seguridad de responsabilidad compartida](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
