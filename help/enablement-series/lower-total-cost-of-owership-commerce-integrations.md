@@ -1,6 +1,6 @@
 ---
 title: Reducción del índice para integraciones de Adobe Commerce
-description: Este seminario web analiza las prácticas recomendadas para reducir el coste total de propiedad de las integraciones con Adobe Commerce. Hace hincapié en los desafíos de las integraciones tradicionales y destaca el uso de puntos de extensión e integraciones nativas con otros productos de Experience Cloud para reducir costes y aumentar el retorno de la inversión. El objetivo es proporcionar flexibilidad a la hora de ampliar el producto sin personalizar el núcleo, lo que facilita su mantenimiento y actualización.
+description: Conozca las prácticas recomendadas para reducir el coste total de propiedad de las integraciones con Adobe Commerce.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Reducción del índice para integraciones de Adobe Commerce
 
-Este seminario web revela métodos para reducir el coste de propiedad de las integraciones con Adobe Commerce. palo de golf Los ponentes del seminario web analizan los desafíos y los costes asociados con las integraciones, la importancia de reducir la deuda técnica y los beneficios de utilizar los puntos de extensión proporcionados por Adobe Commerce. También mencionan casos de uso específicos que implican un sistema de gestión de pedidos ligero con WhatsApp y una caja de arena inteligente para mascotas que envía datos para recomendaciones de productos personalizadas.  El equipo también explica cómo utilizar la conexión de datos de Adobe para Commerce, que permite enviar y recibir datos entre Adobe Commerce y otros productos de Adobe.
+Este seminario web revela métodos para reducir el coste de propiedad de las integraciones con Adobe Commerce.
+
+Los ponentes del seminario web analizan los desafíos y los costes asociados con las integraciones, la importancia de reducir la deuda técnica y los beneficios de utilizar los puntos de extensión proporcionados por Adobe Commerce. También mencionan casos de uso específicos que implican un sistema de gestión de pedidos ligero con WhatsApp y una caja de arena inteligente para mascotas que envía datos para recomendaciones de productos personalizadas.  El equipo también explica cómo utilizar la conexión de datos de Adobe para Commerce, que permite enviar y recibir datos entre Adobe Commerce y otros productos de Adobe.
 
 ## Público
 
