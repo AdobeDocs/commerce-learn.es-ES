@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# Incorporación técnica: implementaciones, pruebas, monitorización y seguridad
+# Incorporación técnica: ofertas de SaaS
 
 Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la asistencia y otras comunicaciones, y algunos pasos siguientes.
 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
-- Arquitectos comerciales
+- Arquitectos de Commerce
 - Propietarios del sitio web de comercio electrónico
 
 ## Contenido de vídeo
@@ -82,8 +82,8 @@ Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la a
 - [Responsabilidad compartida](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Acceso a los datos del cliente y privacidad](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
 - [Certificaciones de Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
-- [Cursos de aprendizaje de Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
-- [Foro de la comunidad de Commerce](https://community.magento.com/)
+- [cursos de aprendizaje de Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
+- [Foro de la comunidad Commerce](https://community.magento.com/)
 -= [Configurar rápidamente](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [Pruebas de rendimiento](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
 - [Herramienta de análisis de todo el sitio - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
