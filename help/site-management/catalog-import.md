@@ -10,9 +10,10 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
+source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Elija una de las opciones a continuación para obtener más información.
 
 ## Creación manual de los productos {#manual-import}
 
-Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearlas manualmente podría ser la mejor opción. Se requiere tiempo para introducir cada producto y cierta formación limitada sobre cómo utilizar el administrador de comercio. La gestión manual de catálogos no es la opción adecuada para la mayoría de las tiendas, pero en determinadas situaciones puede tener sentido. Para ver documentación adicional sobre este proceso, visite [Crear un producto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearlas manualmente podría ser la mejor opción. Se requiere tiempo para introducir cada producto y cierta formación limitada sobre cómo utilizar el administrador de Commerce. La gestión manual de catálogos no es la opción adecuada para la mayoría de las tiendas, pero en determinadas situaciones puede tener sentido. Para ver documentación adicional sobre este proceso, visite [Crear un producto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. No olvide que puede utilizar más de un método para administrar el catálogo. Sin embargo, una vez que se utiliza la automatización, las ediciones manuales deben estar limitadas. Las actualizaciones automatizadas tienen la oportunidad de sobrescribir cualquier cambio realizado manualmente y, por lo tanto, causar confusión. Una vez que la integración con Adobe Commerce para administrar el catálogo utiliza la automatización y las API, se recomienda restringir la administración del catálogo desde el administrador hasta [funciones de usuario y permisos](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 
 
@@ -48,7 +49,7 @@ Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearl
 ## Herramienta de importación CSV de administrador {#admin-csv}
 
 Esta herramienta permite al propietario de una tienda importar un catálogo con un CSV desde el administrador de comercio.
-[Importación de datos desde el administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Importar datos desde el administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
 Profesionales: cargar un CSV desde el administrador es un enfoque directo para la administración de catálogos. Permite actualizaciones de productos de catálogo más rápidas para un catálogo de tamaño moderado.
 
@@ -92,7 +93,7 @@ Desventajas:
 
 - El catálogo es de cualquier tamaño
 - Las actualizaciones son frecuentes, se acepta más de 1x al día
-- El tiempo de importación es importante, pero no lo es
+- El tiempo de importación es importante, pero no esencial, y se acepta un breve retraso en el procesamiento de los datos de importación
 - Los datos no están estructurados en formato CSV y no es posible transformarlos mediante la automatización
 
 
@@ -112,8 +113,6 @@ Ventajas:
 Desventajas:
 
 - No se admiten las solicitudes de GET
-- Se requiere que utilice los ID de atributo de opción en lugar de las etiquetas
-
 
 ### Cuándo considerar este enfoque
 
@@ -138,7 +137,6 @@ Ventajas:
 Desventajas:
 
 - Las imágenes y los vídeos asociados deben cargarse por separado
-- Debe utilizar los ID de atributo de opción en lugar de las etiquetas
 - Los datos deben estar en formato CSV
 
 ### Cuándo considerar este enfoque
