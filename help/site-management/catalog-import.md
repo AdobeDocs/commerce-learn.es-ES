@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Elija una de las opciones a continuación para obtener más información.
 
 Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearlas manualmente podría ser la mejor opción. Se requiere tiempo para introducir cada producto y cierta formación limitada sobre cómo utilizar el administrador de Commerce. La gestión manual de catálogos no es la opción adecuada para la mayoría de las tiendas, pero en determinadas situaciones puede tener sentido. Para ver documentación adicional sobre este proceso, visite [Crear un producto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. No olvide que puede utilizar más de un método para administrar el catálogo. Sin embargo, una vez que se utiliza la automatización, las ediciones manuales deben estar limitadas. Las actualizaciones automatizadas tienen la oportunidad de sobrescribir cualquier cambio realizado manualmente y, por lo tanto, causar confusión. Una vez que la integración con Adobe Commerce para administrar el catálogo utiliza la automatización y las API, se recomienda restringir la administración del catálogo desde el administrador hasta [funciones de usuario y permisos](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### Cuándo considerar este enfoque
 
 - Catálogo muy pequeño, por ejemplo menos de 50 productos
@@ -41,8 +39,6 @@ Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearl
 - Tiene todos los detalles del producto, imágenes, vídeos y no quiere tomarse el tiempo para aprender a convertir los datos a CSV
 - Desea incluir imágenes y vídeos al crear los productos
 - Su equipo está `not` familiarizado con las API y con el funcionamiento de OAUTH
-
-
 
 >[!TAB CSV de administración]
 
@@ -61,16 +57,12 @@ Desventajas:
 - Las importaciones programadas están limitadas a 1 vez al día como máximo
 - Las imágenes y los vídeos asociados deben cargarse por separado
 
-
-
 ### Cuándo considerar este enfoque
 
 - Tamaño de catálogo moderado
 - Las actualizaciones no se realizan más de una vez al día
 - tiene acceso a las configuraciones del servidor en caso de que deba aumentar el tamaño máximo de carga de archivos
 - Su equipo está `not` familiarizado con las API y con el funcionamiento de OAUTH
-
-
 
 >[!TAB API de REST en lotes]
 
@@ -85,9 +77,6 @@ Desventajas:
 
 - Las imágenes y los vídeos asociados deben cargarse por separado
 - Puede estar limitado por restricciones de ancho de banda en el proveedor de alojamiento
-- Es necesario utilizar ID de atributo de opción, no las etiquetas
-
-
 
 ### Cuándo considerar este enfoque
 
@@ -95,8 +84,6 @@ Desventajas:
 - Las actualizaciones son frecuentes, se acepta más de 1x al día
 - El tiempo de importación es importante, pero no esencial, y se acepta un breve retraso en el procesamiento de los datos de importación
 - Los datos no están estructurados en formato CSV y no es posible transformarlos mediante la automatización
-
-
 
 >[!TAB API DE REST ASÍNCRONA]
 
@@ -118,7 +105,6 @@ Desventajas:
 
 - Las importaciones son frecuentes
 - No hay problema con un pequeño retraso desde el momento en que se envían a través de la API y luego se procesan desde la cola de mensajes.
-
 
 
 >[!TAB API REST DE CSV]
@@ -145,8 +131,6 @@ Desventajas:
 - Las actualizaciones son frecuentes, se acepta más de 1x al día
 - El tiempo total de importación es importante
 - Los datos ya están en formato CSV o se pueden transformar fácilmente mediante la automatización
-
-
 
 >[!ENDTABS]
 
