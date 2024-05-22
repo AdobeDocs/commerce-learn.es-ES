@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
-source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
+source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
 workflow-type: tm+mt
-source-wordcount: '1578'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
-
 
 # Lista de comprobación previa al inicio del Commerce Cloud
 
@@ -53,7 +53,7 @@ Si tiene un CTA/CSE asignado a la cuenta, póngase en contacto con ellos y con e
 
 ## 3. Configuraciones rápidas
 
-1. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}[Caché de página completa](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+1. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}[Caché de página completa](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} o [Almacenamiento en caché de GraphQL](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lea el [Guía de configuración rápida](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
 2. Utilice el método de GET para consultas de GraphQL en sitios web sin encabezado/PWA cuando corresponda.
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Adobe Commerce Cloud utiliza un clúster MariaDB Galera como base de datos para 
 
 ## 6. Implementaciones
 
-1. Revise el estado ideal de la implementación de contenido estático (SCD) para reducir el tiempo de mantenimiento durante las implementaciones en el entorno de producción. Revisar [Estrategias de implementación de contenido estático (SCD)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guía.
+1. Revise el estado ideal de la implementación de contenido estático (SCD) para reducir el tiempo de mantenimiento durante las implementaciones en el entorno de producción. Revisar [Estrategias de implementación de contenido estático (SCD)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} y [Administración de configuración de tienda](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guía.
 2. Revise la configuración de minificación para HTML, JavaScript y CSS. (Esto no se aplica a los sitios web sin encabezado/de PWA).
-3. Confirme que la utilización de las siguientes variables de nube se ajusta a los fines previstos. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+3. Confirme que la utilización de las siguientes variables de nube se ajusta a los fines previstos. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} y [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
 ## 7. Pruebas y resolución de problemas
 
@@ -136,7 +136,7 @@ Adobe Commerce Cloud utiliza un clúster MariaDB Galera como base de datos para 
 5. Asegúrese de que XDebug esté deshabilitado si está habilitado durante el desarrollo (consulte [Configurar Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
 6. Compruebe que op-cache y otras configuraciones se hayan actualizado con precisión en el archivo php.ini ([consulte esta muestra](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. Suscripción a [**Página de estado de Adobe Commerce**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
-8. Suscribirse a New Relic &quot;[Alertas administradas para Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+8. Suscribirse a New Relic &quot;[Alertas administradas para Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}&quot; canales de notificación para monitorizar las métricas de rendimiento dadas ([leer más](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## 9. Seguridad
 
@@ -182,7 +182,7 @@ Si encuentra algún problema o algún problema que le impida iniciar el servicio
 Una vez que el sitio esté activo, envíe por correo electrónico al CTA (Customer Technical Advisory), CSE (Customer Success Engineer) y AM (Account Manager) asignados. Sin embargo, si no tiene un administrador de cuentas asignado al proyecto, puede crear un ticket de asistencia en el que se solicite que se active la monitorización de alto nivel de SLA una vez que el sitio se haya puesto en marcha. El CTA/CSE realiza las siguientes tareas en cuanto se verifica que el sitio se inicia con Fastly enabled y almacenamiento en caché:
 
 - Etiquete el clúster como activo y cree un vale de soporte para activar la monitorización de SLA (acuerdos de nivel de servicio) alto.
-- Active las comprobaciones de PKingdom para la monitorización del tiempo de actividad.
+- Active New Relic Synthetics para la monitorización del tiempo de actividad.
 
 >[!MORELIKETHIS]
 > 
