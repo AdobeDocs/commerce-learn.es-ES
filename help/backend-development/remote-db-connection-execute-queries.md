@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Conexión y ejecución de consultas en la base de datos de Adobe Commerce
 
-En este tutorial, aprenderá a conectarse a un proyecto de Adobe Commerce en la nube, volcar una base de datos para su uso fuera del sitio, y enmascarar PII y eliminarla.
+Obtenga información sobre cómo conectarse a un proyecto de Adobe Commerce en la nube, crear un volcado de la base de datos para su uso fuera del sitio y gestionar la información de identificación personal (PII) enmascarándola o eliminándola. Obtenga información sobre el acceso a los datos de Adobe Commerce mediante varios métodos, incluidos los volcados de base de datos locales, las conexiones de base de datos remota con aplicaciones como MySQL Workbench o TablesPlus y las conexiones directas a través de la herramienta CLI de Magento Cloud.
+
+## Contenido del vídeo
+
+* Aprenda a conectarse rápidamente a un proyecto remoto de Adobe Commerce Cloud con una herramienta como MysqlWorkbench o TablesPlus.
+* Aprenda a conectarse rápidamente al proyecto de Adobe Commerce para ejecutar SQL a través de la línea de comandos
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Obtenga información sobre cómo conectarse a un proyecto de Adobe Commerce en la nube, volcar una base de datos para su uso fuera del sitio, enmascarar PII y eliminarla.
 
 Puede acceder a los datos de Adobe Commerce desde su proyecto en la nube mediante cualquiera de los siguientes métodos:
 
