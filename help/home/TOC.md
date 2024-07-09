@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,10 @@ ht-degree: 2%
       + [Aprovechamiento de la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Arquitecto GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementar la arquitectura de referencia global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Capacidades de Commerce {#capabilities}
+   + Funcionalidades de Commerce {#capabilities}
       + [Conexión de datos](../capabilities/data-connection.md)
       + [Demostración completa de Live Search](../capabilities/live-search-full-demonstration.md)
+      + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
    + Crear productos {#create-products}
       + [Producto sencillo](../site-management/create-simple-product.md)
       + [Producto virtual](../site-management/create-virtual-product.md)
@@ -55,10 +56,10 @@ ht-degree: 2%
    + [Mutaciones](../graphql-rest/graphql-mutations.md)
    + [Esquema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
-   + [Introducción al Generador de aplicaciones](../app-builder/introduction-to-app-builder.md)
+   + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
    + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [Demostración funcional del generador de aplicaciones](../app-builder/app-builder-functional-demonstration.md)
-   + [Información general técnica sobre App Builder](../app-builder/app-builder-technical-overview.md)
+   + [Demostración funcional de App Builder](../app-builder/app-builder-functional-demonstration.md)
+   + [Información general técnica de App Builder](../app-builder/app-builder-technical-overview.md)
    + [Envío de la aplicación al mercado](../app-builder/submit-app-process.md)
    + Cree su primera aplicación de App Builder {#first-app}
       + [Información general](../app-builder/first-app/overview.md)
@@ -68,7 +69,7 @@ ht-degree: 2%
       + [Obtenga información sobre la carpeta de prueba](../app-builder/first-app/test-folder.md)
       + [Descubra el propósito de la carpeta web-src](../app-builder/first-app/web-src-folder.md)
       + [Pruebas locales](../app-builder/first-app/testing-locally.md)
-      + [Pruebas mediante la URL del generador de aplicaciones](../app-builder/first-app/testing-app-builder-url.md)
+      + [Pruebas mediante la URL de App Builder](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusión](../app-builder/first-app/conclusion.md)
       + [Código fuente del módulo de ejemplo](https://github.com/magento/app-builder-samples){target="_blank"}
    + Eventos de E/S para Adobe Commerce {#io-events}
@@ -92,9 +93,9 @@ ht-degree: 2%
    + [Agregar sitios web, tiendas y vistas de tiendas](../site-management/add-websites-stores-views.md)
    + [Cambiar una URL de tienda](../site-management/change-store-url.md)
    + [Métodos de envío y entrega](../site-management/shipping-delivery.md)
-   + [Clip de Commerce](../site-management/view-update-store-configuration-cli.md)
+   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Servicios de Adobe Commerce {#adobe-commerce-services}
-      + [Configurar el conector de Commerce Services](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Configuración del conector de servicios de Commerce](../site-management/configure-adobe-commerce-services-connector.md)
       + [Configurar servicios de pago](../site-management/configure-adobe-payment-services.md)
       + [Usar servicios de pago](../site-management/payment-services.md)
 + Administración de clientes {#customers}
@@ -126,7 +127,7 @@ ht-degree: 2%
    + [Configuración de Product Recommendations](../site-management/product-recommendations.md)
    + [Introducción a Live Search](../site-management/live-search.md)
    + [Live Search de recomendaciones](../site-management/live-search-recommendations.md)
-   + [Integrar Commerce con AJO](../site-management/integrate-commerce-ajo.md)
+   + [Integración de Commerce con AJO](../site-management/integrate-commerce-ajo.md)
 + Pedidos y cumplimiento {#orders}
    + [Información general de Store Fulfillment](../orders-and-fulfillment/store-fulfillment.md)
    + [Administrar estado de pedidos](../orders-and-fulfillment/order-status.md)
@@ -150,7 +151,7 @@ ht-degree: 2%
    + [Herramienta Parche de calidad](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Localización de una IP malintencionada](../new-relic/malicious-ip.md)
-+ Inteligencia comercial {#mbi}
++ Commerce Intelligence {#mbi}
    + [Primeros pasos](../business-intelligence/getting-started.md)
    + [Integraciones y configuraciones](../business-intelligence/integrations-configurations.md)
    + [Informes y paneles](../business-intelligence/reports-and-dashboards.md)
