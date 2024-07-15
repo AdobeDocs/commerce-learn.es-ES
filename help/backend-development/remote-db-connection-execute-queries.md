@@ -41,7 +41,7 @@ El método preferido es hacer un volcado de la base de datos y depurarlo para el
 
 ## Uso de la herramienta CLI de Adobe Commerce Cloud
 
-La creación de un volcado de base de datos requiere que tenga [CLI de Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) instalado. En el equipo portátil local, vaya a un directorio y ejecute el siguiente comando. Asegúrese de reemplazar `your-project-id` con el ID de proyecto, que es similar a `asasdasd45q`. También debe reemplazar `your-environment-name` con el nombre de su entorno, como `master` o `staging`.
+La creación de un volcado de base de datos requiere que tenga instalado [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html). En el equipo portátil local, vaya a un directorio y ejecute el siguiente comando. Asegúrese de reemplazar `your-project-id` por el identificador de proyecto, que es similar a `asasdasd45q`. También debe reemplazar `your-environment-name` con el nombre de su entorno, como `master` o `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -83,7 +83,8 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## Uso de las herramientas ECE de Adobe Commerce
 
-Si no dispone de la herramienta CLI de Adobe Commerce, puede `ssh` en el proyecto y ejecute el `ece` mando `vendor/bin/ece-tools db-dump`: Respuesta de ejemplo:
+Si no tiene la herramienta CLI de Adobe Commerce, puede `ssh` en su proyecto y ejecutar el comando `ece` `vendor/bin/ece-tools db-dump`:
+Respuesta de ejemplo:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -117,9 +118,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-Uso `SFTP` o `rsync` para extraer el volcado de la base de datos en el entorno local.
+Use `SFTP` o `rsync` para extraer el volcado de la base de datos a su entorno local.
 
-El siguiente ejemplo utiliza `rsync` para extraer el archivo a `~/Downloads/db-tutorial` carpeta.
+El ejemplo siguiente utiliza `rsync` para extraer el archivo a la carpeta `~/Downloads/db-tutorial`.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -250,7 +251,7 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
   export MAGENTO_CLOUD_RELATIONSHIPS="$(magento-cloud tunnel:info --encode)"
 ```
 
-Establezca una conexión usando una interfaz gráfica MySQL usando el `SSH tunnel opened to database at` opción de comando.
+Establezca una conexión usando una interfaz gráfica MySQL usando la opción de comando `SSH tunnel opened to database at`.
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
@@ -260,11 +261,11 @@ Ahora que tiene la información correcta, siga insertando estos valores en la co
 
 Puede encontrar el nombre de host SSH y el nombre de usuario de las credenciales de la nube en Cloud Console.
 
-![logotipo: consola de Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Consola de Adobe Commerce Cloud")
+![logotipo - Consola Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Consola Adobe Commerce Cloud")
 
 Este es un ejemplo: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 El nombre de host SSH lo es todo después del signo @: `ssh.us-4.magento.cloud` en este ejemplo.
-El nombre de usuario SSH lo es todo antes del signo @:  `abasrpikfw4123-remote-db-ecpefky—mymagento`
+El nombre de usuario SSH lo es todo antes del signo @: `abasrpikfw4123-remote-db-ecpefky—mymagento`
 
 ## Búsqueda de valores para conectarse a la base de datos
 
@@ -276,7 +277,7 @@ El acceso a la base de datos MariaDB requiere directamente el uso de SSH para in
    magento-cloud ssh
    ```
 
-1. Recupere las credenciales de inicio de sesión de MySQL de la `database` y `type` propiedades en la [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variable.
+1. Recupere las credenciales de inicio de sesión de MySQL de las propiedades `database` y `type` en la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +315,15 @@ El acceso a la base de datos MariaDB requiere directamente el uso de SSH para in
 
 A continuación, utilice los valores de configuración en la GUI de MySQL. El siguiente ejemplo utiliza MySQL Workbench, pero cualquier aplicación que admita conexiones MySQL tendrá campos similares.
 
-![logotipo: ejemplo de interfaz gráfica de usuario de Mysql con Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Ejemplo de GUI de Mysql con Mysql Workbench")
+![logotipo: ejemplo de la interfaz gráfica de usuario de Mysql con Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Ejemplo de la interfaz gráfica de usuario de Mysql con Mysql Workbench")
 
-![logo - Ejemplo de interfaz gráfica de usuario de Mysql con TablesPlus](./assets/tablesPlus-db-connection.png " Ejemplo de interfaz gráfica de Mysql con TablesPlus")
+![logo - Ejemplo de interfaz gráfica de usuario de Mysql usando TablesPlus](./assets/tablesPlus-db-connection.png " Ejemplo de interfaz gráfica de usuario de Mysql usando TablesPlus")
 
 Después de configurar todo, es posible usar una GUI de MySQL para ejecutar consultas en un proyecto Adobe Commerce Cloud remoto.
 
 ## Conectarse directamente a la base de datos del proyecto en la nube para ejecutar SQL
 
-El siguiente método utiliza el `magento-cloud` cli para conectarse directamente a la base de datos mysql y ejecutar SQL, lo que permite una consulta de base de datos más rápida. Si necesita copiar esta base de datos, consulte uno de los métodos alternativos para [crear un volcado de base de datos](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+El siguiente método utiliza el cli `magento-cloud` para conectarse directamente a la base de datos mysql y ejecutar SQL, lo que permite realizar consultas de base de datos más rápidas. Si necesita copiar esta base de datos, consulte uno de los métodos alternativos para [crear un volcado de la base de datos](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +349,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-Por ejemplo, puede encontrar todos los registros en la `core_config_data` tabla que contiene la palabra `secure` como parte de la columna `path`:
+Por ejemplo, puede encontrar todos los registros de la tabla `core_config_data` que contienen la palabra `secure` como parte de la columna `path`:
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -385,4 +386,4 @@ MariaDB [main]>
 [CLI de Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
 [Configurar el servicio MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Configurar una conexión de base de datos MySQL remota](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Crear volcado de base de datos en Adobe Commerce en la infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Crear volcado de la base de datos en Adobe Commerce en la infraestructura en la nube](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

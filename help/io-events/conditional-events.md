@@ -1,6 +1,6 @@
 ---
 title: Aprenda a utilizar eventos condicionales en Adobe Commerce
-description: Aprenda a utilizar eventos condicionales para utilizarlos en el Generador de aplicaciones de Adobe Developer.
+description: Aprenda a utilizar eventos condicionales para utilizarlos en Adobe Developer App Builder.
 landing-page-description: Aprenda a utilizar los eventos condicionales de Adobe Commerce.
 short-description: Aprenda a utilizar los eventos condicionales de Adobe Commerce.
 kt: 11890
@@ -14,18 +14,18 @@ level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
 source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Eventos condicionales de Adobe Commerce
 
-Obtenga información sobre los eventos condicionales en Adobe Commerce que se pueden utilizar en el Generador de aplicaciones de Adobe Developer. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Obtenga información acerca de los eventos condicionales en Adobe Commerce que se pueden utilizar en Adobe Developer App Builder. Encontrará documentación adicional en [Instalar eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en el Generador de aplicaciones de Adobe Commerce y Adobe Developer que utilizan eventos de E/S y que necesitan crear un proyecto de Adobe del Generador de aplicaciones.
+* Desarrolladores nuevos en Adobe Commerce y Adobe Developer App Builder que utilizan eventos de E/S y que necesitan crear un proyecto de App Builder de Adobe.
 
 ## Contenido de vídeo {#video-content}
 

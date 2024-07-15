@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: páginas de aterrizaje"
+title: "[!DNL Commerce] para usuarios empresariales - Páginas de aterrizaje"
 description: Aprenda a configurar una página de aterrizaje de categoría y controlar la apariencia.
 kt: 5766
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: páginas de aterrizaje
+# [!DNL Commerce] para usuarios empresariales - Páginas de aterrizaje
 
 En este vídeo:
 
@@ -33,7 +33,7 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
@@ -41,6 +41,6 @@ En este vídeo:
 
 [Contenido de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Configuración de visualización - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[Configuración de pantalla - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
 [Configuración de diseño - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

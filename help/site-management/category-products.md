@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Organizar los productos en categorías es clave para administrar los catálogos.
 ## Recursos adicionales
 
 - [Asignaciones de productos de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Reglas de categoría para la comercialización: [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [Reglas de categoría para la comercialización - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

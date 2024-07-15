@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visor de AR disponible en el Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Visor de realidad aumentada para Adobe Commerce
 
@@ -24,7 +24,7 @@ AR Viewer es una extensión para Adobe Commerce que ofrece una nueva función a 
 
 AR Viewer sirve como puente entre la venta minorista física y digital, lo que permite a los vendedores proporcionar una experiencia de cliente enriquecida e interactiva sin necesidad de un amplio conocimiento técnico o un trabajo manual intensivo. Su interfaz de usuario fácil de usar se integra perfectamente en el administrador de Adobe Commerce, lo que lo convierte en una adición conveniente a cualquier tienda en línea.
 
-El visor de AR sirve para [!DNL bridge] la brecha entre el comercio minorista físico y el digital, lo que permite a los vendedores ofrecer una experiencia de cliente enriquecida e interactiva sin necesidad de amplios conocimientos técnicos ni de un trabajo manual intensivo. Su interfaz de usuario fácil de usar se integra perfectamente en el administrador de Adobe Commerce, lo que lo convierte en una adición conveniente a cualquier tienda en línea.
+AR Viewer sirve para [!DNL bridge] la brecha entre la venta minorista física y digital, lo que permite a los vendedores proporcionar una experiencia del cliente enriquecida e interactiva sin necesidad de un amplio conocimiento técnico o un trabajo manual intensivo. Su interfaz de usuario fácil de usar se integra perfectamente en el administrador de Adobe Commerce, lo que lo convierte en una adición conveniente a cualquier tienda en línea.
 
 ## Funciones
 
@@ -39,7 +39,7 @@ El visor de AR sirve para [!DNL bridge] la brecha entre el comercio minorista f�
 ## Adición del modelo 3D a un producto
 
 Añadir un nuevo modelo 3D al producto es un proceso sencillo después de instalar el módulo en la instalación de Adobe Commerce.
-En el siguiente vídeo, hay una nueva sección que admite la carga del `.USDZ` carga de archivo.
+En el siguiente vídeo, hay una nueva sección que admite la carga del archivo `.USDZ`.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -58,9 +58,8 @@ Una vez que el visitante escanea el código QR con su dispositivo, el elemento s
 ## Recursos útiles
 
 [Visor de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Administre modelos 3D de productos con el visualizador de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[Administre modelos 3D de productos con el visor de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extensión de Adobe Commerce Marketplace
 
-[visor de AR](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-
+[Visor de AR](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}

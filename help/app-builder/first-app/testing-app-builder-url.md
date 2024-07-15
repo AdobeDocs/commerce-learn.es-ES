@@ -1,7 +1,7 @@
 ---
-title: Pruebas con la URL del App Builder de Adobe Developer
-description: Obtenga información sobre cómo probar la primera aplicación de App Builder de Adobe Developer desde la URL de App Builder proporcionada para su proyecto.
-landing-page-description: Obtenga información sobre cómo probar la primera aplicación del Generador de aplicaciones de Adobe Developer desde la URL proporcionada de su proyecto.
+title: Pruebas con la URL de Adobe Developer App Builder
+description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la URL de App Builder proporcionada para su proyecto.
+landing-page-description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la dirección URL proporcionada del proyecto.
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Pruebas mediante la URL del generador de aplicaciones {#testing-app-builder-url}
+# Pruebas mediante la URL de App Builder {#testing-app-builder-url}
 
-Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder con la URL del proyecto.
+Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder con la dirección URL del proyecto.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que están listos para probar su primera aplicación de Adobe Developer App Builder.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que están listos para probar su primera aplicación de Adobe Developer App Builder.
 
 ## Contenido de vídeo
 

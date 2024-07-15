@@ -14,18 +14,18 @@ level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Desarrollo del módulo Adobe Commerce
 
-Obtenga información sobre cómo registrar eventos, buscar eventos compatibles y cómo utilizar un nuevo archivo XML `io_events.xml` en el desarrollo de módulos personalizados. El vídeo también mostrará a los desarrolladores cómo encontrar eventos registrados que se pueden utilizar, así como cancelar la suscripción de cualquier evento que ya esté definido. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo registrar eventos, buscar eventos admitidos y cómo utilizar un nuevo archivo XML `io_events.xml` en el desarrollo de módulos personalizados. El vídeo también mostrará a los desarrolladores cómo encontrar eventos registrados que se pueden utilizar, así como cancelar la suscripción de cualquier evento que ya esté definido. Encontrará documentación adicional en [Instalar eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce y el Generador de aplicaciones de Adobe Developer mediante eventos de I/O.
+* Desarrolladores nuevos en Adobe Commerce y Adobe Developer App Builder que utilizan eventos de I/O.
 
 ## Contenido de vídeo {#video-content}
 

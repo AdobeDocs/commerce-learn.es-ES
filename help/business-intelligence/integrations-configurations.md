@@ -21,7 +21,8 @@ ht-degree: 0%
 
 # Integraciones y configuraciones de Adobe Commerce Intelligence
 
-El tutorial proporciona información general sobre la pestaña Administrar datos de Adobe Commerce Intelligence, y explica cómo configurar las integraciones, la Data Warehouse y las funcionalidades de creación de informes. palo de golf
+El tutorial ofrece información general sobre la pestaña Administrar datos de Adobe Commerce Intelligence y explica cómo configurar las integraciones, la Data Warehouse y las funciones de creación de informes.
+palo de golf
 Se analizan las opciones de integraciones, incluidas las integraciones prediseñadas, las integraciones estándar y las integraciones premium, así como la capacidad de agregar integraciones personalizadas.
 El documento también cubre el proceso de sincronización de tablas con la Data Warehouse, adición de nuevas tablas y columnas y creación de métricas y filtros para la creación de informes.
 

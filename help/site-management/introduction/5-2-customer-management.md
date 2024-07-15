@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: administración de clientes"
-description: Obtenga información acerca de los permisos recomendados para el servicio de atención al cliente al crear un cliente en [!DNL Admin], administrar la información de los clientes y crear grupos de clientes.
+title: "[!DNL Commerce] para usuarios empresariales - Administración de clientes"
+description: Obtenga información acerca de los permisos recomendados para el servicio de atención al cliente, la creación de un cliente en  [!DNL Admin], la administración de información del cliente y la creación de grupos de clientes.
 kt: 5779
 doc-type: video
 activity: use
@@ -12,17 +12,17 @@ level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: administración de clientes
+# [!DNL Commerce] para usuarios empresariales - Administración de clientes
 
 En este vídeo:
 
 - Permisos recomendados para un CSR (representante de servicios al cliente)
-- Creación de un cliente en [!DNL Admin]
+- Creando un cliente en [!DNL Admin]
 - Administración de información de clientes
 - Creación de grupos de clientes
 
@@ -36,6 +36,6 @@ En este vídeo:
 
 ## Recursos adicionales
 
-[Crear una cuenta de cliente individual: [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
 [Grupos de clientes - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

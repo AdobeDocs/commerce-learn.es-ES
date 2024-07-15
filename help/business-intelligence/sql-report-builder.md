@@ -1,8 +1,8 @@
 ---
-title: 'Commerce Intelligence: Report Builder de SQL'
+title: 'Commerce Intelligence: Report Builder SQL'
 description: Aprenda a utilizar el Report Builder SQL de Commerce Intelligence para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
-landing-page-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de Commerce Intelligence para consultar directamente su almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
-short-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de Commerce Intelligence para consultar directamente su almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
+landing-page-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de Commerce Intelligence para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
+short-description: Vea este vídeo para aprender a utilizar el Report Builder SQL de Commerce Intelligence para consultar directamente el almacén de datos, ver los resultados y transformarlos rápidamente en un gráfico.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Commerce Intelligence
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ En este vídeo:
 
 >[!TIP]
 >
->Si es su primera vez en Commerce Intelligence, la variable [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} proporciona información general completa para mejorar las perspectivas y los resultados empresariales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} proporciona información general completa para obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 
@@ -50,6 +50,6 @@ En este vídeo:
 
 ## Recursos útiles
 
-[Uso del Report Builder SQL: Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Uso del Report Builder SQL - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
 [Creación de visualizaciones a partir de consultas SQL: Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

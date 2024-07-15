@@ -1,8 +1,8 @@
 ---
 title: Introducción a API Mesh
-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información acerca de la instalación de App Builder de Adobe, cómo trabajar con proyectos, crear un proxy inverso de GraphQL y mucho más.
-landing-page-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la instalación de Adobe IO, cómo trabajar con proyectos, crear un proxy inverso de graphql y mucho más.
-short-description: Descubra cómo utilizar la red de API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la instalación de Adobe IO, cómo trabajar con proyectos, crear un proxy inverso de graphql y mucho más.
+description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información acerca de la instalación de App Builder de Adobe, cómo trabajar con proyectos, crear un proxy inverso de GraphQL y mucho más.
+landing-page-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la instalación de Adobe IO, cómo trabajar con proyectos, crear un proxy inverso de graphql y mucho más.
+short-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la instalación de Adobe IO, cómo trabajar con proyectos, crear un proxy inverso de graphql y mucho más.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -14,20 +14,20 @@ level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '316'
+ht-degree: 15%
 
 ---
 
 # Introducción a API Mesh
 
-Si es nuevo en API Mesh para el Generador de aplicaciones de Adobe Developer, Adobe recomienda comenzar con este tutorial introductorio antes de avanzar a los demás vídeos y tutoriales.
+Si es nuevo en API Mesh para Adobe Developer App Builder, Adobe recomienda empezar con este tutorial introductorio antes de pasar a los demás vídeos y tutoriales.
 
 ## ¿Qué es API Mesh?
 
 API Mesh combina varias fuentes de datos para obtener una única respuesta para que la aplicación la consuma.
 
-[Consulte la documentación completa de API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[Ver la documentación completa de API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## ¿Para quién es este vídeo?
 
@@ -44,13 +44,13 @@ API Mesh combina varias fuentes de datos para obtener una única respuesta para 
 
 ## Casos de uso de ejemplo
 
-La aplicación de Commerce tiene una API de REST y un punto final de GraphQL. Por ejemplo, puede utilizar la API de REST para aplicar precios especiales o el punto final de GraphQL para gestionar el estado de inventario. Con API Mesh, puede definir ambos extremos, recuperar la información y devolverla a la aplicación solicitante como una respuesta.
+La aplicación de Commerce tiene una API de REST y un extremo de GraphQL. Por ejemplo, puede utilizar la API de REST para aplicar precios especiales o el punto final de GraphQL para gestionar el estado de inventario. Con API Mesh, puede definir ambos extremos, recuperar la información y devolverla a la aplicación solicitante como una respuesta.
 
 ## Qué es un proxy inverso
 
-Como desarrollador que utiliza el Generador de aplicaciones de Adobe y la malla de API, no es necesario comprender qué es un proxy inverso. Sin embargo, si le interesa la funcionalidad general en lo que respecta al Generador de aplicaciones de Adobe, utilice los siguientes recursos:
+Como desarrollador que utiliza Adobe App Builder y API Mesh, no es necesario comprender qué es un proxy inverso. Sin embargo, si está interesado en la funcionalidad general en lo que respecta a Adobe App Builder, utilice los siguientes recursos:
 
 * [Qué es un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [¿Qué es un proxy inverso y por qué importa?](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Qué es un proxy inverso y por qué importa](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

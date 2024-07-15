@@ -1,7 +1,7 @@
 ---
 title: El archivo .env
 description: Obtenga información sobre los tipos de archivos del archivo .env para esta aplicación de ejemplo
-landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y los tipos de contenido que se utilizan en el archivo .env
+landing-page-description: Obtenga información sobre Adobe Developer App Builder que se utiliza con Adobe Commerce y los tipos de contenido que se utilizan en el archivo .env
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Generación y configuración del archivo .env {#env-file}
 
-El `.env` es un archivo especial que no forma parte del módulo de ejemplo, pero que es importante utilizar en la aplicación App Builder de Adobe Developer. Este archivo contiene secretos y otra información. Evite enviar este archivo a cualquier repositorio de código.
+`.env` es un archivo especial que no forma parte del módulo de ejemplo, pero es importante para su uso en la aplicación Adobe Developer App Builder. Este archivo contiene secretos y otra información. Evite enviar este archivo a cualquier repositorio de código.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que desean obtener más información sobre `.env` archivo.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que usan Adobe App Builder y que desean obtener información sobre el archivo `.env`.
 
 ## Contenido de vídeo
 
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Puede ver estos valores estáticos en uso en el módulo de ejemplo en el archivo `actions/commerce.index.js`.
+Puede ver estos valores estáticos en uso en el módulo de ejemplo del archivo `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

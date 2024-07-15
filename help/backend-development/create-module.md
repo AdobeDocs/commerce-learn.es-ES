@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Creación de un módulo
 
-El módulo es un elemento estructural de [!DNL Commerce] - todo el sistema está construido sobre módulos. Normalmente, el primer paso para crear una personalización es crear un módulo.
+El módulo es un elemento estructural de [!DNL Commerce]; todo el sistema está construido sobre módulos. Normalmente, el primer paso para crear una personalización es crear un módulo.
 
 ## ¿Para quién es este vídeo?
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Recursos útiles
 
-- [Guía de referencia del módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+- [Guía de referencia de módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 - [Complementos](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

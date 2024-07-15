@@ -1,7 +1,7 @@
 ---
 title: Pruebas locales
-description: Obtenga información sobre cómo probar la primera aplicación de App Builder de Adobe Developer.
-landing-page-description: Obtenga información sobre cómo probar la primera aplicación de App Builder de Adobe Developer.
+description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder.
+landing-page-description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder.
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -13,18 +13,18 @@ level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Pruebas locales {#testing-locally}
 
-Obtenga información sobre cómo probar localmente su nueva aplicación de Adobe Developer App Builder.
+Obtenga información sobre cómo probar localmente la nueva aplicación de Adobe Developer App Builder.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que están listos para probar su primera aplicación de Adobe Developer App Builder.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que están listos para probar su primera aplicación de Adobe Developer App Builder.
 
 ## Contenido de vídeo
 

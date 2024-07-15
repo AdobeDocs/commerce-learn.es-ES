@@ -1,6 +1,6 @@
 ---
 title: Cambiar la dirección URL de una tienda
-description: Aprenda a cambiar su [!DNL Commerce] Almacene la dirección URL base en Admin.
+description: Aprenda a cambiar la dirección URL de la base de almacenamiento  [!DNL Commerce] en el Administrador.
 kt: 5605
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Cada sitio web de una instalación de Adobe Commerce o de Magento Open Source ti
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [URL de la tienda - [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Usar una URL de administrador personalizada: [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [URL de tiendas - [!DNL Commerce] Guía de tiendas y compras](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Usar una URL de administrador personalizada - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

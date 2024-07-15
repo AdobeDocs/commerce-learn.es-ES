@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones d
 ## Recursos adicionales
 
 - [Guía de Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
-- [Inventory management: Documentación de REST para desarrolladores](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+- [Inventory management - Documentación de REST para desarrolladores](https://developer.adobe.com/commerce/webapi/rest/inventory/)

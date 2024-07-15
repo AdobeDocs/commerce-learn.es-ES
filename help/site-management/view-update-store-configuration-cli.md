@@ -10,17 +10,17 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # Ver y establecer configuraciones de administración mediante la línea de comandos
 
-Una demostración de cómo ver, establecer y encontrar valores de configuración con la CLI de Commerce. Comprenda dónde se guardan los valores y también de dónde provienen.
+Demostración sobre cómo ver, establecer y buscar valores de configuración con la CLI de Commerce. Comprenda dónde se guardan los valores y también de dónde provienen.
 
 ## ¿Para quién es este vídeo?
 
@@ -59,9 +59,9 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 ¿Cómo encontrar el valor de configuración definido en algún lugar de la base de código?
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-Para ver una página en un terminal y mostrar los números de línea `cat -n vendor/magento/module-email/etc/config.xml`
+Para ver una página en el terminal y mostrar los números de línea `cat -n vendor/magento/module-email/etc/config.xml`
 
 ## Recursos adicionales
 
-- [Herramienta Línea de comandos](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+- [Herramienta de línea de comandos](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 - [Configurar la seguridad de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

@@ -1,6 +1,6 @@
 ---
 title: Crear un producto agrupado
-description: Obtenga información sobre cómo crear un producto agrupado mediante la API de REST y el administrador de comercio.
+description: Obtenga información sobre cómo crear un producto agrupado mediante la API de REST y el administrador de Commerce.
 kt: 14585
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
-
 
 # Crear un producto agrupado
 
@@ -31,7 +31,7 @@ Utilice la API de REST para crear un producto de grupo en Admin:
 1. Rellene el producto agrupado vacío con productos simples.
 1. Cree un producto agrupado vacío y asocie los productos simples.
 
-   Cuando asocia productos simples al producto agrupado, el atributo de criterio de ordenación (`position`) en la carga útil es utilizada por el front-end para mostrar los productos asociados en el orden deseado. Si la variable `position` no se ha especificado el atributo, los productos se muestran en el orden en que se agregaron al producto agrupado.
+   Cuando asocia productos simples al producto agrupado, el atributo de criterio de ordenación (`position`) de la carga útil lo utiliza el front-end para mostrar los productos asociados en el orden deseado. Si no se especifica el atributo `position`, los productos se muestran en el orden en que se agregaron al producto agrupado.
 
 Al crear productos agrupados desde el administrador de Adobe Commerce, cree primero los productos simples. Cuando esté listo para crear el producto agrupado, asocie los productos simples asignándolos al producto agrupado en un lote.
 
@@ -183,10 +183,10 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Eliminar un producto simple de un producto agrupado
 
-Hasta [eliminar un producto simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) a partir de un producto agrupado, utilice: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Para [eliminar un producto simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) de un producto agrupado, use: `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-Para descubrir qué utilizar como `{type}`, use xdebug para capturar la solicitud y evaluar $linkTypes: `related`, `crosssell`, `uupsell`, y `associated`.
-![Tipos de vínculos de productos agrupados: texto alternativo](/help/assets/site-management/catalog/grouped-types.png "Tipos de vínculos de producto agrupados capturados durante la sesión de xdebug")
+Para descubrir qué usar como `{type}`, use xdebug para capturar la solicitud y evaluar los $linkTypes: `related`, `crosssell`, `uupsell` y `associated`.
+![Tipos de vínculos de productos agrupados: texto alternativo](/help/assets/site-management/catalog/grouped-types.png "Tipos de vínculos de productos agrupados capturados durante la sesión de xdebug")
 
 Al vincular los productos simples al producto agrupado, la carga útil contenía algunas secciones similares a:
 
@@ -203,9 +203,9 @@ Al vincular los productos simples al producto agrupado, la carga útil contenía
         }
 ```
 
-En la carga útil, `link_type` valor `associated` proporciona el `{type}` valor requerido en la solicitud del DELETE. La dirección URL de la solicitud es similar a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+En la carga útil, el valor `link_type` `associated` proporciona el valor `{type}` requerido en la solicitud del DELETE. La dirección URL de la solicitud será similar a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Consulte la solicitud cURL para eliminar el producto simple con `product-sku-three` SKU del producto agrupado con el `my-new-grouped-product` SKU:
+Consulte la solicitud cURL para eliminar el producto simple con el SKU `product-sku-three` del producto agrupado con el SKU `my-new-grouped-product`:
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -223,7 +223,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Recursos adicionales
 
-- [Creación y administración de productos agrupados](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+- [Crear y administrar productos agrupados](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
 - [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
 - [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

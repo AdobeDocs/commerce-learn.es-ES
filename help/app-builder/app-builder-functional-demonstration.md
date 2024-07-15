@@ -1,8 +1,8 @@
 ---
-title: Demostración funcional del Generador de aplicaciones
-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
-landing-page-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
-short-description: Obtenga información sobre el Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
+title: Demostración funcional de App Builder
+description: Obtenga información sobre Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
+landing-page-description: Obtenga información sobre Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
+short-description: Obtenga información sobre Adobe Developer App Builder, utilizado en Adobe Commerce con una demostración técnica
 kt: 11762
 doc-type: tutorial
 audience: all
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ---
 
-# Demostración funcional del Generador de aplicaciones
+# Demostración funcional de App Builder
 
-Para obtener más información sobre cómo usar Adobe Commerce con el Generador de aplicaciones, vea el siguiente vídeo que muestra cómo conectar Adobe Commerce a Amazon Seller Central. Esta demostración utiliza eventos de Adobe Commerce consumidos por el Generador de aplicaciones para permitir la integración continua con Amazon Marketplace. En esta demostración funcional se describe cómo funciona esta integración y se explora el potencial del Generador de aplicaciones de Adobe.
+Para obtener más información sobre cómo usar Adobe Commerce con App Builder, vea el siguiente vídeo que muestra cómo conectar Adobe Commerce a Amazon Seller Central. Esta demostración utiliza eventos de Adobe Commerce consumidos por App Builder para permitir la integración continua con Amazon Marketplace. En esta demostración funcional se describe cómo funciona esta integración y se explora el potencial de Adobe App Builder.
 
-## Generador de aplicaciones para Adobe Commerce {#app-builder-functional-demonstration}
+## App Builder para Adobe Commerce {#app-builder-functional-demonstration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
 

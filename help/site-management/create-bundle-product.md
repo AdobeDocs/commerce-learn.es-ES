@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # Crear un producto del paquete
 
 Un producto agrupado es una forma de agrupar varios productos bajo un producto principal. Estos productos secundarios pueden ser un conjunto definido de productos u ofrecer algunas variaciones que proporcionen opciones de configuración flexibles para los clientes. Los tipos de productos agrupados tardan un poco más en configurarse y debe realizar una cierta planificación antes de configurarlos. Sin embargo, al ofrecer productos agrupados, se mejora la experiencia de compra al facilitar a los clientes la personalización de las selecciones de productos.
 
-Por ejemplo, puede ofrecer un paquete de productos llamado `Learning to surf` en su tienda web. El paquete es el producto principal que sirve como contenedor para los productos secundarios asignados que especifican las opciones disponibles:
+Por ejemplo, puede ofrecer un paquete de productos denominado `Learning to surf` en su tienda web. El paquete es el producto principal que sirve como contenedor para los productos secundarios asignados que especifican las opciones disponibles:
 
 - Una tabla de surf estándar
 - Una típica correa de tabla de surf
@@ -69,7 +69,7 @@ Los siguientes comandos crean todos los productos necesarios para definir el pro
 
 Antes de enviar la solicitud, actualice el ejemplo con los valores de su entorno.
 
-- Cambiar `"attribute-set": 4` para reemplazar `4` con el ID del conjunto de atributos de su entorno.
+- Cambie `"attribute-set": 4` para reemplazar `4` con el ID del conjunto de atributos de su entorno.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ Cree un paquete de productos enviando la siguiente solicitud de POST.
 
 Antes de enviar la solicitud, actualice el ejemplo con los valores de su entorno.
 
-- Cambiar `"attribute_set_id": 4,` y reemplace `4` con el id del conjunto de atributos de su entorno.
+- Cambie `"attribute_set_id": 4,` y reemplace `4` con el ID del conjunto de atributos de su entorno.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 Al actualizar las opciones de producto del paquete, asegúrese de incluir todas las opciones que desee asociar con este producto. Si el conjunto de opciones original contenía tres productos y se eliminó uno, incluya las tres opciones en la solicitud de POST para asegurarse de que el paquete de productos especifica todas las opciones. Si solo ha incluido la opción que ha eliminado, el paquete de productos actualizado incluye solo esa opción.
 
-Busque el ID de opción revisando la respuesta de creación para el producto del paquete. En la respuesta, la variable `option_id` es `35`.
+Busque el ID de opción revisando la respuesta de creación para el producto del paquete. En la respuesta, `option_id` es `35`.
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Recursos adicionales
 
-- [Tutorial de creación de un paquete de producto](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+- [Crear un tutorial de producto de paquete](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [Producto en paquete](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 - [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

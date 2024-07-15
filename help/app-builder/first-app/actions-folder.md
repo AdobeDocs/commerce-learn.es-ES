@@ -1,7 +1,7 @@
 ---
 title: La carpeta de acciones
 description: Obtenga información sobre los tipos de archivos de la carpeta de acciones de esta aplicación de ejemplo.
-landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y los tipos de archivos que se incluyen en la carpeta de acciones.
+landing-page-description: Obtenga información acerca de Adobe Developer App Builder utilizado con Adobe Commerce y los tipos de archivos que se incluyen en la carpeta de acciones.
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -13,26 +13,26 @@ level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Obtenga información sobre la carpeta de acciones {#actions-folder}
 
-El `actions` para esta aplicación de ejemplo contiene algunos archivos JavaScript y una carpeta llamada `commerce`. El JavaScript mostrado es un excelente archivo de ejemplo que se puede reutilizar si es relevante para su trabajo. Esta carpeta puede ahorrarle tiempo en los esfuerzos de desarrollo al conectarse a la aplicación de Adobe Commerce mediante OAuth y REST.
+La carpeta `actions` de esta aplicación de ejemplo contiene algunos archivos JavaScript y una carpeta denominada `commerce`. El JavaScript que se muestra es un excelente archivo de ejemplo que se puede reutilizar si es relevante para su trabajo. Esta carpeta puede ahorrarle tiempo en los esfuerzos de desarrollo al conectarse a la aplicación de Adobe Commerce mediante OAuth y REST.
 
 Los nombres reales de las carpetas en este ejemplo son arbitrarios, pero saber sus nombres puede ayudarle a interpretar el código de ejemplo. Al utilizar una convención de nombres significativa, puede evitar confusiones si la aplicación se vuelve más compleja.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada con el Generador de aplicaciones de Adobe que están aprendiendo sobre la carpeta de acciones en la aplicación de ejemplo.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada con Adobe App Builder que aprenden sobre la carpeta de acciones en la aplicación de ejemplo.
 
 ## Contenido de vídeo
 
-* Introducción al Generador de aplicaciones y al módulo de ejemplo, centrado en la variable `actions` carpeta
+* Introducción a App Builder y al módulo de ejemplo centrado en la carpeta `actions`
 * Cómo utilizar la carpeta &quot;acciones&quot;
-* El propósito del archivo JavaScript encontrado en la variable `actions` y `commerce` carpetas
+* El propósito del archivo JavaScript encontrado en las carpetas `actions` y `commerce`
 * Información general rápida sobre los archivos de autenticación de OAuth
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)

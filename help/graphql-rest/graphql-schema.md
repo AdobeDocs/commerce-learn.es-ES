@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -107,12 +107,12 @@ type Mutation {
 
 Puede profundizar en [la documentación de GraphQL](https://graphql.org/learn/schema/){target="_blank"} para obtener más información sobre los detalles del sistema de tipos, incluida la sintaxis de algunos conceptos que no se representan aquí. Sin embargo, el ejemplo anterior se explica por sí mismo. (Tenga en cuenta también lo similar que es la sintaxis a la sintaxis de consulta). La definición de un esquema de GraphQL es simplemente una cuestión de expresar los argumentos y campos disponibles de un tipo determinado, junto con los tipos de esos campos. Cada tipo de campo complejo debe tener una definición, y así sucesivamente, a través del árbol, hasta que llegue a tipos escalares simples como `String`.
 
-El `input` declaración es en todos los aspectos como una `type` pero define un tipo que se puede utilizar como entrada para un argumento. También tenga en cuenta lo siguiente `interface` declaración. Esto sirve a una función más o menos igual que las interfaces en PHP. Otros tipos heredan de esta interfaz.
+La declaración `input` es similar en todos los aspectos a `type`, pero define un tipo que se puede utilizar como entrada para un argumento. Observe también la declaración `interface`. Esto sirve a una función más o menos igual que las interfaces en PHP. Otros tipos heredan de esta interfaz.
 
-La sintaxis `[CartItemInput!]!` parece complicado, pero al final es bastante intuitivo. El `!` _interior_ el corchete declara que cada valor de la matriz no debe ser nulo, mientras que el de _exterior_ declara que el propio valor de matriz no debe ser nulo (por ejemplo, una matriz vacía).
+La sintaxis `[CartItemInput!]!` parece complicada, pero al final es bastante intuitiva. El `!` _dentro_ del corchete declara que cada valor de la matriz no debe ser nulo, mientras que el _fuera_ declara que el valor de la matriz en sí debe ser no nulo (por ejemplo, una matriz vacía).
 
 >[!NOTE]
 >
->La lógica de cómo se recuperan los datos y se les da formato según un esquema, y cómo se asigna esa lógica a tipos particulares, depende de la implementación en tiempo de ejecución de GraphQL. Sin embargo, las implementaciones deben seguir un flujo conceptual que tenga sentido a la luz de una comprensión de los campos anidados: Una operación de resolución asociada a la raíz `Query` o `Mutation` type, que examina cada campo especificado en la solicitud. Para cada campo que se resuelve en un tipo complejo, se realiza una resolución similar para ese tipo, y así sucesivamente, hasta que todo se haya resuelto en valores escalares.
+>La lógica de cómo se recuperan los datos y se les da formato según un esquema, y cómo se asigna esa lógica a tipos particulares, depende de la implementación en tiempo de ejecución de GraphQL. Sin embargo, las implementaciones deben seguir un flujo conceptual que tenga sentido a la luz de la comprensión de los campos anidados: se realiza una operación de resolución asociada al tipo raíz `Query` o `Mutation`, que examina cada campo especificado en la solicitud. Para cada campo que se resuelve en un tipo complejo, se realiza una resolución similar para ese tipo, y así sucesivamente, hasta que todo se haya resuelto en valores escalares.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

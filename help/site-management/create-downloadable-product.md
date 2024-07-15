@@ -34,7 +34,7 @@ Obtenga información sobre cómo crear un producto descargable mediante la API d
 
 ## Dominios descargables permitidos
 
-Debe especificar qué dominios pueden permitir las descargas. Los dominios se añaden a las `env.php` a través de la línea de comandos. El `env.php` Este archivo detalla los dominios que pueden contener contenido descargable. Se produce un error si se crea un producto descargable con la API de REST _antes_  el `php.env` archivo actualizado:
+Debe especificar qué dominios pueden permitir las descargas. Los dominios se agregan al archivo `env.php` del proyecto mediante la línea de comandos. El archivo `env.php` detalla los dominios que pueden contener contenido descargable. Se produce un error si se crea un producto descargable con la API de REST _antes_ de que se actualice el archivo `php.env`:
 
 ```bash
 {
@@ -44,7 +44,7 @@ Debe especificar qué dominios pueden permitir las descargas. Los dominios se a�
 
 Para establecer el dominio, conéctese al servidor: `bin/magento downloadable:domains:add www.example.com`
 
-Una vez que se haya completado, la variable `env.php` se modifica dentro de _downloadable_domains_ matriz.
+Una vez que finalice, `env.php` se modifica dentro de la matriz _downloadable_domains_.
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ Una vez que se haya completado, la variable `env.php` se modifica dentro de _dow
     ],
 ```
 
-Ahora que el dominio se agrega a `env.php`, puede crear un producto descargable en el Administrador de Adobe Commerce o mediante la API de REST.
+Ahora que el dominio se agrega a `env.php`, puede crear un producto descargable en el administrador de Adobe Commerce o mediante la API de REST.
 
 Consulte [Referencia de configuración](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) para obtener más información.
 
 >[!IMPORTANT]
->En algunas versiones de Adobe Commerce, es posible que reciba el siguiente error cuando se edita un producto en el administrador de Adobe Commerce. El producto se crea mediante la API de REST, pero la descarga vinculada tiene un `null` precio.
+>En algunas versiones de Adobe Commerce, es posible que reciba el siguiente error cuando se edita un producto en el administrador de Adobe Commerce. El producto se crea usando la API de REST pero la descarga vinculada tiene un precio de `null`.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Para solucionar este error, utilice la API del vínculo de actualización: `POST V1/products/{sku}/downloadable-links.`
+Para corregir este error, use el vínculo de actualización API: `POST V1/products/{sku}/downloadable-links.`
 
-Consulte la [Actualizar un vínculo de descarga de producto mediante cURL](#update-downloadable-links) para obtener más información.
+Consulte la sección [Actualizar un vínculo de descarga de producto mediante cURL](#update-downloadable-links) para obtener más información.
 
 ## Crear un producto descargable mediante cURL (descarga desde servidor remoto)
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 En este ejemplo se muestra cómo utilizar cURL para crear un producto descargable desde el administrador de Adobe Commerce cuando el archivo se almacena en el mismo servidor que la aplicación de Adobe Commerce.
 
-En este caso de uso, cuando el administrador que administra el catálogo elija `upload file`, el archivo se transfiere al `pub/media/downloadable/files/links/` directorio.  La automatización crea y mueve los archivos a sus respectivas ubicaciones en función del siguiente patrón:
+En este caso de uso, cuando el administrador que administra el catálogo elige `upload file`, el archivo se transfiere al directorio `pub/media/downloadable/files/links/`.  La automatización crea y mueve los archivos a sus respectivas ubicaciones en función del siguiente patrón:
 
 - Cada archivo cargado se almacena en una carpeta basada en los dos primeros caracteres del nombre del archivo.
 - Cuando se inicia la carga, la aplicación de Commerce crea o utiliza carpetas existentes para transferir el archivo.
-- Al descargar el archivo, la variable `link_file` de la ruta utiliza la parte de la ruta anexada al `pub/media/downloadable/files/links/` directorio.
+- Al descargar el archivo, la sección `link_file` de la ruta de acceso utiliza la parte de la ruta anexada al directorio `pub/media/downloadable/files/links/`.
 
 Por ejemplo, si el archivo cargado se llama `download-example.zip`:
 
-- El archivo se cargará a la ruta `pub/media/downloadable/files/links/d/o/`.
+- El archivo se ha subido a la ruta de acceso `pub/media/downloadable/files/links/d/o/`.
 Los subdirectorios `/d` y `/d/o` se crean si no existen.
 
 - La ruta final al archivo es `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- El `link_url` el valor de este ejemplo es `d/o/download-example.zip`
+- El valor `link_url` de este ejemplo es `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,7 +182,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 ## Actualizar el producto con Postman {#update-downloadable-links}
 
 Usar el extremo `rest/all/V1/products/{sku}/downloadable-links`
-El `SKU` es el ID de producto que se generó cuando se creó el producto. Por ejemplo, en el ejemplo de código siguiente, es el número 39, pero asegúrese de que se actualiza para utilizar el ID de su sitio web. Esto actualiza los vínculos de los productos descargables.
+`SKU` es el identificador de producto que se generó cuando se creó el producto. Por ejemplo, en el ejemplo de código siguiente, es el número 39, pero asegúrese de que se actualiza para utilizar el ID de su sitio web. Esto actualiza los vínculos de los productos descargables.
 
 ```json
 {
@@ -239,4 +239,4 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 - [Tipo de producto descargable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
 - [Guía de configuración de dominios descargables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 - [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

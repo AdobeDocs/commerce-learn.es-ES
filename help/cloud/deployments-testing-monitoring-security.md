@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Incorporación técnica: implementaciones, pruebas, monitorización y seguridad
 
@@ -25,7 +25,7 @@ Obtenga información sobre las estrategias de implementación de Adobe Commerce 
 ## ¿Para quién es este vídeo?
 
 - Administradores de sitios web
-- Arquitectos comerciales
+- Arquitectos de Commerce
 - Propietarios del sitio web de comercio electrónico
 
 ## Contenido de vídeo
@@ -35,10 +35,10 @@ Obtenga información sobre las estrategias de implementación de Adobe Commerce 
 ## Documentación del Experience League mencionada en el vídeo
 
 - [Proceso de implementación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [Herramienta de análisis de todo el sitio SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [Herramienta de análisis SWAT para todo el sitio](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Asistente inteligente de herramientas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [Análisis de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+- [Examen de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
 - [Cortafuegos de aplicación web Fastly WAF](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [Información general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [Descripción general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

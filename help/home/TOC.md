@@ -15,7 +15,7 @@ ht-degree: 2%
 
 + [[!DNL Commerce] Tutoriales](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-   + [Migración desde una solución autoalojada](../cloud/overview.md)
+   + [Migrar desde una solución autoalojada](../cloud/overview.md)
    + Incorporación técnica y transferencia de hardware {#technical-onboarding-hardware-handoff}
       + [Prácticas recomendadas de infraestructura y desarrollo](../cloud/infrastructure-development-best-practices.md)
       + [Rápido](../cloud/fastly.md)
@@ -24,18 +24,18 @@ ht-degree: 2%
       + [Ofertas de SaaS, asistencia y comunicaciones y pasos siguientes](../cloud/saas-offerings-support-communications-next-steps.md)
    + Prácticas recomendadas {#commerce-cloud-best-practices}
       + [Lista de comprobación previa al inicio](../cloud/best-practices/pre-launch-checklist.md)
-+ Primeros pasos {#getting-started}
++ Introducción {#getting-started}
    + Arquitectura de referencia global{#global-reference-architecture}
       + [Arquitectura de referencia global](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Aprovechamiento de la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Arquitecto GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementar la arquitectura de referencia global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Funcionalidades de Commerce {#capabilities}
+   + Capacidades de Commerce {#capabilities}
       + [Conexión de datos](../capabilities/data-connection.md)
       + [Demostración completa de Live Search](../capabilities/live-search-full-demonstration.md)
       + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
    + Crear productos {#create-products}
-      + [Producto sencillo](../site-management/create-simple-product.md)
+      + [Producto simple](../site-management/create-simple-product.md)
       + [Producto virtual](../site-management/create-virtual-product.md)
       + [Producto descargable](../site-management/create-downloadable-product.md)
       + [Producto agrupado](../site-management/create-grouped-product.md)
@@ -50,7 +50,7 @@ ht-degree: 2%
       + [Planificación de la implementación moderna de Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Lanzamiento, posterior al lanzamiento, monitorización y solución de problemas](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services con Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-+ GRAPHQL y REST {#graphql-rest}
++ GraphQL y REST {#graphql-rest}
    + [Conceptos básicos de GraphQL](../graphql-rest/intro-graphql.md)
    + [Consultas](../graphql-rest/graphql-queries.md)
    + [Mutaciones](../graphql-rest/graphql-mutations.md)
@@ -63,7 +63,7 @@ ht-degree: 2%
    + [Envío de la aplicación al mercado](../app-builder/submit-app-process.md)
    + Cree su primera aplicación de App Builder {#first-app}
       + [Información general](../app-builder/first-app/overview.md)
-      + [Generación y configuración del archivo .env](../app-builder/first-app/env-file.md)
+      + [Generar y configurar el archivo .env](../app-builder/first-app/env-file.md)
       + [Descripción y uso del archivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
       + [Obtenga información sobre la carpeta de acciones](../app-builder/first-app/actions-folder.md)
       + [Obtenga información sobre la carpeta de prueba](../app-builder/first-app/test-folder.md)
@@ -76,11 +76,11 @@ ht-degree: 2%
       + [Introducción a los eventos de E/S](../io-events/getting-started-io-events.md)
       + [Instalación de Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Instalación de Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Creación de un proyecto de App Builder](../io-events/create-app-builder-project.md)
+      + [Crear un proyecto de App Builder](../io-events/create-app-builder-project.md)
       + [Configuración de Adobe Commerce](../io-events/configure-commerce.md)
-      + [Desarrollo del módulo Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Desarrollo de módulo Adobe Commerce](../io-events/commerce-module-development.md)
       + [Eventos condicionales de Adobe Commerce](../io-events/conditional-events.md)
-   + API Mesh {#api-mesh}
+   + Malla de API {#api-mesh}
       + [Introducción a API Mesh](../api-mesh/getting-started-api-mesh.md)
       + [Instalación del complemento de Adobe IO y mesh](../api-mesh/installing-aio-mesh-plugin.md)
       + [Uso de proyectos y espacios de trabajo](../api-mesh/aio-projects-workspaces.md)
@@ -103,7 +103,7 @@ ht-degree: 2%
    + [Crear grupos de clientes](../site-management/customer-groups.md)
    + [Crear atributos del cliente](../site-management/customer-attributes.md)
    + [Compras asistidas por el vendedor](../site-management/seller-assisted-shopping.md)
-+ Administración de catálogos {#catalog}
++ Administración de catálogo {#catalog}
    + [Crear una categoría](../site-management/category-create.md)
    + [Administrar productos en una categoría](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
@@ -113,20 +113,20 @@ ht-degree: 2%
    + [Administración de reescrituras de URL para SEO](../site-management/seo-url-rewrites.md)
    + [Visor de AR](../site-management/augmented-reality.md)
    + [Importación y actualización del catálogo](../site-management/catalog-import.md)
-+ Gestión de contenido {#content}
++ Administración de contenido {#content}
    + [Información general de Page Builder](../site-management/page-builder-overview.md)
    + [Creación de bloques estáticos y dinámicos](../site-management/static-dynamic-blocks.md)
    + [Crear widgets](../site-management/widgets.md)
    + [Uso de plantillas de contenido](../site-management/content-templates.md)
    + [Ensayo de contenido](../site-management/content-staging.md)
    + [Administrar la galería de medios](../site-management/media-gallery.md)
-+ Herramientas de marketing {#marketing}
++ Herramientas de mercadotecnia {#marketing}
    + [Crear reglas de precios de catálogo](../site-management/catalog-price-rules.md)
    + [Crear reglas de precio del carro](../site-management/cart-price-rules.md)
    + [Administrar reglas de producto relacionadas](../site-management/related-product-rules.md)
    + [Configuración de Product Recommendations](../site-management/product-recommendations.md)
    + [Introducción a Live Search](../site-management/live-search.md)
-   + [Live Search de recomendaciones](../site-management/live-search-recommendations.md)
+   + [Búsqueda activa de recomendaciones](../site-management/live-search-recommendations.md)
    + [Integración de Commerce con AJO](../site-management/integrate-commerce-ajo.md)
 + Pedidos y cumplimiento {#orders}
    + [Información general de Store Fulfillment](../orders-and-fulfillment/store-fulfillment.md)
@@ -137,7 +137,7 @@ ht-degree: 2%
    + [Administrar catálogos compartidos](../b2b/shared-catalogs.md)
    + [Administrar crédito de la compañía](../b2b/company-credit.md)
    + [Pedidos de compra y aprobaciones](../b2b/purchase-orders.md)
-   + Cita {#b2b-quote}
+   + Presupuesto {#b2b-quote}
       + [El representante de ventas inicia la oferta](../b2b/sales-rep-initiates-quote.md)
       + [Validación de presupuesto del administrador](../b2b/quote-validation-admin-panel.md)
       + [El representante de ventas inicia la API de REST de oferta](../b2b/sales-rep-initiates-quote-api.md)
@@ -183,9 +183,9 @@ ht-degree: 2%
    + [Añadir un módulo de JavaScript](../frontend-development/add-javascript-module.md)
    + [Crear una página](../frontend-development/create-page.md)
 + Arquitectura sin encabezado {#headless-architecture}
-   + Introducción a sin encabezado {#introduction-to-headless}
-      + [Arquitectura sin encabezado: sesión 1](../headless/session-1.md)
-   + Introducción a PWA Studio {#introduction}
+   + Introducción a {#introduction-to-headless} sin encabezado
+      + [Arquitectura sin encabezado - Sesión 1](../headless/session-1.md)
+   + Introducción al PWA Studio {#introduction}
       + [1 - Resumen](../pwa/introduction/1-overview.md)
       + [2 - Herramientas de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Lanzamiento](../pwa/introduction/3-launch.md)

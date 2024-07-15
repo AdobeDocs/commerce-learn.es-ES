@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Crear un atributo de producto
 
-Añadir un atributo de producto es una de las operaciones más populares en [!DNL Commerce]. Los atributos son una forma eficaz de resolver muchas tareas prácticas relacionadas con un producto. Hay un proceso sencillo para añadir un atributo de tipo desplegable a un producto.
+Agregar un atributo de producto es una de las operaciones más populares en [!DNL Commerce]. Los atributos son una forma eficaz de resolver muchas tareas prácticas relacionadas con un producto. Hay un proceso sencillo para añadir un atributo de tipo desplegable a un producto.
 
 En este vídeo:
 
@@ -231,4 +231,4 @@ class InstallData implements InstallDataInterface
 
 [Crear un atributo de producto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Añadir un atributo de campo de texto personalizado](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Agregar un atributo de campo de texto personalizado](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

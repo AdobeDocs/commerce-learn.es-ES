@@ -11,7 +11,8 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
+exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
+source-git-commit: b858cca427399963571847c71832841b64c88c95
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Introducción a los eventos de E/S para Adobe Commerce
 
-Obtenga información sobre los eventos de Adobe I/O. En esta demostración, se envía un evento de Adobe Commerce a un canal de Slack mediante el Generador de aplicaciones de Adobe Developer y el evento de Adobe Commerce.
+Obtenga información sobre los eventos de Adobe I/O. En esta demostración, se envía un evento de Adobe Commerce a un canal de Slack mediante Adobe Developer App Builder y el evento de Adobe Commerce.
 
 ## ¿Para quién es este vídeo?
 

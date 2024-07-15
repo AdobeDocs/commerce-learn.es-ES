@@ -1,6 +1,6 @@
 ---
 title: Obtenga información sobre cómo instalar eventos de IO para Adobe Commerce 2.4.6
-description: Obtenga información sobre cómo instalar los módulos necesarios para eventos de E/S en Adobe Commerce 2.4.6 para utilizarlos en el Generador de aplicaciones de Adobe Developer
+description: Obtenga información sobre cómo instalar los módulos necesarios para eventos de E/S en Adobe Commerce 2.4.6 para utilizarlos en Adobe Developer App Builder
 landing-page-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.6.
 short-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.6.
 kt: 11887
@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Instalación de Adobe Commerce 2.4.6
 
-Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalación de eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalar eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en el Generador de aplicaciones de Adobe Commerce y Adobe Developer que utilizan eventos de I/O.
+* Desarrolladores nuevos en Adobe Commerce y Adobe Developer App Builder que utilizan eventos de I/O.
 
 ## Contenido de vídeo {#video-content}
 

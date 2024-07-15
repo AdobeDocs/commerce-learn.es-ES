@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuarios empresariales: vistas de tienda y eliminación de caché
+# [!DNL Commerce] para usuarios empresariales: borrar caché y vistas de tienda
 
 En este vídeo:
 
@@ -34,6 +34,6 @@ En este vídeo:
 
 ## Recursos adicionales
 
-[Sitios web, tiendas y vistas: [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Sitios web, tiendas y vistas - [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
 [Administración de caché - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

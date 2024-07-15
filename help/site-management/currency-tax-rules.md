@@ -1,6 +1,6 @@
 ---
 title: Administrar reglas fiscales y de divisa
-description: Obtenga información sobre cómo configurar la moneda y las reglas fiscales que [!DNL Commerce] utiliza para calcular el impuesto adecuado según las clases de cliente y producto.
+description: Aprenda a configurar la divisa y las reglas fiscales que  [!DNL Commerce] utiliza para calcular el impuesto apropiado según las clases de cliente y de producto.
 kt: 10542
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Las reglas fiscales incorporan una combinación de clase de producto, clase de c
 
 ## Recursos adicionales
 
-- [Reglas fiscales - [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Moneda - [!DNL Commerce] Guía de experiencia de compra y tienda](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Reglas de impuestos - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+- [Moneda - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # Planificación de la implementación moderna de Adobe Commerce
 
-Este seminario web proporciona información general completa sobre varios temas relacionados con Adobe Commerce, como servicio de catálogo, comprensión de la arquitectura de cliente y Edge Delivery Services. palo de golfLos temas incluyen funciones y ventajas nuevas o existentes de cada servicio, como búsquedas en directo y recomendaciones de productos en el Catálogo as a Service de Adobe Commerce, el análisis de las API y el flujo de datos para comprender la arquitectura del cliente, y el alto rendimiento y la baja latencia de los Edge Delivery Services. Además, el documento menciona la importancia de tener documentos estándar y una lista de preguntas al interactuar con los clientes, así como el concepto de Arquitectura de referencia global (GRA) para la creación eficiente de proyectos.
+Este seminario web proporciona información general completa sobre varios temas relacionados con Adobe Commerce, como servicio de catálogo, comprensión de la arquitectura de cliente y Edge Delivery Services.
+palo de golfLos temas incluyen funciones y ventajas nuevas o existentes de cada servicio, como búsquedas en directo y recomendaciones de productos en el Catálogo as a Service de Adobe Commerce, el análisis de las API y el flujo de datos para comprender la arquitectura del cliente, y el alto rendimiento y la baja latencia de los Edge Delivery Services. Además, el documento menciona la importancia de tener documentos estándar y una lista de preguntas al interactuar con los clientes, así como el concepto de Arquitectura de referencia global (GRA) para la creación eficiente de proyectos.
 
 ## Público
 

@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Marco de extensibilidad para App Builder
 
-En esta demostración funcional se describe el Generador de aplicaciones y sus posibles casos de uso para Adobe Commerce. Este vídeo proporciona una introducción al marco de trabajo de extensibilidad, las ventajas clave para los clientes y las funciones.
+En esta demostración funcional se describen App Builder y sus posibles casos de uso para Adobe Commerce. Este vídeo proporciona una introducción al marco de trabajo de extensibilidad, las ventajas clave para los clientes y las funciones.
 
-## Generador de aplicaciones para Adobe Commerce {#app-builder-extensibility}
+## App Builder para Adobe Commerce {#app-builder-extensibility}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 

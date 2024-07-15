@@ -1,6 +1,6 @@
 ---
 title: Crear un producto de tarjeta regalo
-description: Aprenda a crear un producto de tarjeta regalo mediante la API de REST y el administrador de Commerce.
+description: Obtenga información sobre cómo crear un producto de tarjeta regalo mediante la API de REST y el administrador de Commerce.
 kt: 14587
 doc-type: video
 audience: all
@@ -11,7 +11,8 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 duration: 579
-source-git-commit: bcef1e34627bac55cfc75c85ef837474d53c193a
+exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -324,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Recursos adicionales
 
-- [Cree un producto de tarjeta regalo desde el administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+- [Cree un producto de tarjeta regalo del administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 - [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

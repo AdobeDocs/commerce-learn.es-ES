@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Los atributos del cliente proporcionan la información necesaria para respaldar 
 
 ## Recursos adicionales
 
-- [Propiedades de atributos del cliente - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Crear una cuenta de cliente individual: [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [Propiedades de atributos del cliente - [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

@@ -10,13 +10,13 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f275831ad706fa26a8c200a92a75907a7dc97ba4
+exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
+source-git-commit: 13d30cb06aa5d704aadf77a1f781ba0443c11af5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Demostración del Starter Kit para integraciones de back-office
 
@@ -29,7 +29,7 @@ Obtenga información sobre el kit inicial de integración de back office de Adob
 
 ## Contenido de vídeo
 
-* Configurar un proyecto en la consola de Adobe Developer
+* Configuración de un proyecto en Adobe Developer Console
 * Diferentes espacios de trabajo
 * Añadir una API
 * Tipos de autenticación

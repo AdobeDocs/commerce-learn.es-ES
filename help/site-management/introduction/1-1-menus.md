@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuarios empresariales: [!DNL Admin] menús"
-description: Información general sobre los menús funcionales en [!DNL Commerce] Versión 2.3 [!DNL Admin].
+title: "[!DNL Commerce] para usuarios empresariales - [!DNL Admin] menús"
+description: Información general sobre los menús funcionales en  [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: Vea esta serie de vídeos para conocer los conceptos básicos de Adobe Commerce y trabajar en el administrador.
 short-description: Vea esta serie de vídeos para conocer los conceptos básicos de Adobe Commerce y trabajar en el administrador.
 kt: 5758
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 27%
+source-wordcount: '121'
+ht-degree: 29%
 
 ---
 
 # [!DNL Commerce] para usuarios empresariales: [!DNL Admin] menús
 
-El [!DNL Commerce Admin] es el back office protegido por contraseña donde puede configurar productos y promociones, cumplir pedidos de clientes y configurar su [!DNL Commerce] tienda para satisfacer sus necesidades empresariales.
+[!DNL Commerce Admin] es el back office protegido por contraseña donde puede configurar productos y promociones, satisfacer pedidos de clientes y configurar su tienda [!DNL Commerce] para adaptarla a sus necesidades comerciales.
 
 En este vídeo:
 
@@ -35,10 +35,10 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información sobre las actualizaciones de versiones posteriores, consulte la [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[[!DNL Commerce] Documentación del comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[[!DNL Commerce] Documentación de comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ Para pequeñas empresas, empresas intermediarias o grandes empresas, los servici
 ## Recursos adicionales
 
 - [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Conector de Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

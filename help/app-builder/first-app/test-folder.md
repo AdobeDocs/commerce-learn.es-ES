@@ -1,7 +1,7 @@
 ---
 title: La carpeta de prueba
 description: Obtenga información sobre los tipos de archivos de la carpeta de prueba de esta aplicación de ejemplo.
-landing-page-description: Obtenga información sobre el Generador de aplicaciones de Adobe Developer que se utiliza con Adobe Commerce y qué tipos de archivos se encuentran en la carpeta de prueba.
+landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y qué tipos de archivos se encuentran en la carpeta de prueba.
 kt: 12424
 doc-type: tutorial
 audience: all
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Obtenga información sobre la carpeta de prueba {#test-folder}
 
-El `test` para esta aplicación de ejemplo contiene un solo archivo JavaScript, que se utiliza al ejecutar pruebas unitarias en la aplicación.
+La carpeta `test` de esta aplicación de ejemplo contiene un solo archivo JavaScript, que se utiliza al ejecutar pruebas unitarias en la aplicación.
 
 Este es un ejemplo sencillo que se puede ampliar para crear pruebas completas para las aplicaciones específicas.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan el Generador de aplicaciones de Adobe y que desean obtener más información sobre `test` carpeta.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que deseen obtener más información sobre la carpeta `test`.
 
 ## Contenido de vídeo
 
-* Por qué utilizar `test` carpeta?
+* ¿Por qué usar la carpeta `test`?
 * Una breve explicación del archivo de prueba unitaria y sus componentes
 * Introducción a las pruebas de extremo a extremo
 

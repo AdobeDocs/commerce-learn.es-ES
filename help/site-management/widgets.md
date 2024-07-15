@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Los widgets son componentes reutilizables que se pueden crear y modificar fácil
 ## Recursos adicionales
 
 - [Widgets - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Crear y administrar widgets - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Crear y administrar widgets - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
