@@ -9,14 +9,18 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 5a2a757bc97c5af25070e448abf119e2e657b6c8
+source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# Qué cabe esperar de la visualización de este vídeo
+# Herramienta parche de calidad de Adobe Commerce
+
+Aprenda a utilizar la herramienta de parches de calidad cuando diagnostique un problema, encuentre una solución y aplique un parche que se encuentre en la lista de parches disponibles.
+
+## Qué cabe esperar de la visualización de este vídeo
 
 Aprenda a clasificar un problema y, a continuación, utilice algunas técnicas básicas para encontrar un parche de calidad al que aplicar una corrección.
 
