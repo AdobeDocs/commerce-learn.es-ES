@@ -1,5 +1,5 @@
 ---
-title: Configuración, implementación y personalización de un webhook de ingesta para integrar Commerce con un sistema de terceros
+title: Configuración, implementación y personalización de un webhook de ingesta
 description: Aprenda a configurar y personalizar un webhook de ingesta para facilitar la comunicación entre Commerce y un sistema de back office de terceros.
 landing-page-description: Aprenda a utilizar el Starter Kit de integración de Commerce para integrar Commerce con un sistema de back office de terceros mediante un webhook de ingesta.
 kt: 15870
@@ -11,14 +11,14 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Configuración, implementación y personalización de un webhook de ingesta
+# Configurar, implementar y personalizar un webhook de ingesta
 
 Obtenga información acerca de la configuración y personalización de un webhook de ingesta para integrar Commerce con un sistema de back office de terceros&#x200B; En este vídeo se explica cómo el gancho web puede abordar las limitaciones en la comunicación de eventos entre sistemas proporcionando un punto final disponible públicamente para adaptar los mensajes del sistema de terceros a la API de evento de E/S de Adobe. El proceso implica configurar el webhook en el archivo `actions.config.yaml`, habilitarlo en el archivo `app.config.yaml` e implementarlo para garantizar la funcionalidad adecuada.
 
