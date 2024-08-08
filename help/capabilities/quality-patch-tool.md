@@ -1,6 +1,6 @@
 ---
-title: Obtenga información acerca de la herramienta parche de calidad
-description: Mejore la estabilidad y seguridad de su plataforma de comercio electrónico mediante la aplicación de parches de calidad. Manténgase al día, solucione problemas y optimice el rendimiento con esta herramienta esencial.
+title: Herramienta Parche de calidad
+description: Aprenda a utilizar la herramienta de parches de calidad cuando diagnostique un problema, encuentre una solución y aplique un parche que se encuentre en la lista de parches disponibles.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Herramienta parche de calidad de Adobe Commerce
+# Herramienta Parche de calidad
 
 Aprenda a utilizar la herramienta de parches de calidad cuando diagnostique un problema, encuentre una solución y aplique un parche que se encuentre en la lista de parches disponibles.
 
@@ -24,7 +25,7 @@ Aprenda a utilizar la herramienta de parches de calidad cuando diagnostique un p
 
 Aprenda a clasificar un problema y, a continuación, utilice algunas técnicas básicas para encontrar un parche de calidad al que aplicar una corrección.
 
-## ¿Para quién es este vídeo?
+## Público
 
 * Los desarrolladores aprenden a encontrar problemas y aprovechar esta herramienta para aplicar parches GIT para problemas conocidos
 
@@ -40,7 +41,7 @@ Estos parches han sido desarrollados por desarrolladores de Adobes de la comunid
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## ¿Por qué utilizar la herramienta parche de calidad?
+## Por qué utilizar la herramienta parche de calidad
 
 Es posible que desee utilizar la herramienta Parches de calidad para Adobe Commerce o Magento Open Source si desea:
 
