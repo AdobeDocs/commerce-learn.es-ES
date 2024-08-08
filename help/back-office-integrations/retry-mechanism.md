@@ -1,7 +1,7 @@
 ---
-title: Garantice la solidez utilizando la funcionalidad nativa de un mecanismo de reintentos.
-description: Aprovechamiento del mecanismo de reintentos de los eventos de Adobe I/O para aplicaciones resistentes, incluidas las condiciones de reintento y los indicadores visuales. palo de golf
-landing-page-description: Comprenda y utilice el mecanismo de reintentos integrado de Eventos de Adobe I/O para mejorar la resiliencia de la aplicación y administrar las activaciones de eventos de forma eficaz. palo de golf
+title: Uso de la funcionalidad nativa de un mecanismo de reintento
+description: Aproveche el mecanismo de reintentos de los eventos de Adobe I/O para las aplicaciones resistentes, incluidas las condiciones de reintento y los indicadores visuales.
+landing-page-description: Comprenda y utilice el mecanismo de reintentos integrado de Eventos de Adobe I/O para mejorar la resiliencia de la aplicación y administrar las activaciones de eventos de forma eficaz.
 kt: 15872
 doc-type: video
 duration: 314
@@ -11,19 +11,18 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: 11daa4b29dafe5fcecf6b75cf2269b87f65c4612
+source-git-commit: eb548dd83e3bab7a4a1486cd2cbd88efcc060121
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Aprovechamiento del mecanismo de reintento de eventos de Adobe I/O para la resiliencia de la aplicación
+# Aproveche el mecanismo de reintentos de Eventos de Adobe I/O para la resiliencia de la aplicación
 
-El vídeo describe una guía completa sobre cómo aprovechar el mecanismo de reintentos integrado en los eventos de Adobe I/O para mejorar la resistencia de la aplicación. Descubra cómo los códigos de estado de respuesta HTTP específicos almacenan en déclencheur los reintentos de eventos. Los eventos de Adobe I/O emplean estrategias de retroceso exponenciales y fijas para los reintentos, con intervalos que aumentan de un minuto a 15 minutos&#x200B; La documentación también detalla cómo aparecen los indicadores de reintento en la consola del desarrollador, con indicaciones visuales como iconos de advertencia y flechas circulares que indican eventos fallidos y reintentos, respectivamente.
+El vídeo describe una guía completa sobre cómo aprovechar el mecanismo de reintentos integrado en los eventos de Adobe I/O para mejorar la resistencia de la aplicación. Descubra cómo los códigos de estado de respuesta HTTP específicos almacenan en déclencheur los reintentos de eventos. Adobe I/O Events emplea estrategias de retroceso exponenciales y fijas para los reintentos, con intervalos que aumentan de un minuto a 15 minutos. La documentación también detalla cómo aparecen los indicadores de reintento en la consola del desarrollador, con indicaciones visuales como iconos de advertencia y flechas circulares que indican eventos fallidos y reintentos, respectivamente.
 
-Obtenga información sobre cómo funciona el mecanismo de reintentos en el contexto de las acciones de tiempo de ejecución de &quot;consumidor&quot; y determine si se vuelve a intentar un evento. palo de golfLas respuestas correctas se indican con un código de estado 200, mientras que las respuestas de error incluyen un objeto de error con un atributo statusCode. La acción de tiempo de ejecución &quot;consumidor&quot; determina el código de respuesta HTTP que se devolverá en función de los resultados del procesamiento descendente, lo que garantiza una administración eficiente de los eventos y las posibles activaciones exitosas. palo de golf
-
+Obtenga información sobre cómo funciona el mecanismo de reintentos en el contexto de las acciones de tiempo de ejecución de &quot;consumidor&quot; y determine si se vuelve a intentar un evento. Las respuestas correctas se indican con un código de estado 200, mientras que las respuestas de error incluyen un objeto de error con un atributo statusCode. La acción de tiempo de ejecución &quot;consumidor&quot; determina el código de respuesta HTTP que se devolverá en función de los resultados del procesamiento descendente, lo que garantiza una administración eficiente de los eventos y las posibles activaciones exitosas.
 
 ## Público
 
@@ -33,8 +32,8 @@ Obtenga información sobre cómo funciona el mecanismo de reintentos en el conte
 
 ## Contenido de vídeo
 
-* Los eventos de Adobe I/O tienen un mecanismo de reintento integrado que reintenta automáticamente las activaciones de eventos en función de códigos de estado de respuesta HTTP específicos&#x200B;
-* El mecanismo de reintentos implementado por los Eventos de Adobe I/O implica estrategias de retroceso exponenciales y fijas. palo de golf
+* Los eventos de Adobe I/O tienen un mecanismo de reintento integrado que reintenta automáticamente las activaciones de eventos en función de códigos de estado de respuesta HTTP específicos.
+* El mecanismo de reintentos implementado por los Eventos de Adobe I/O implica estrategias de retroceso exponenciales y fijas.
 * Indicadores visuales en Developer Console, como iconos de advertencia para eventos fallidos e iconos de flecha circulares para eventos reintentados.
 * Las acciones de tiempo de ejecución &quot;consumidor&quot; desempeñan un papel crucial a la hora de determinar los códigos de estado de respuesta HTTP adecuados para la gestión de eventos.
 
