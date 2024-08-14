@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Configuración de notificaciones de alertas de New Relic
 
-Obtenga información sobre cómo encontrar alertas, qué es la directiva y los destinos en New Relic. Observe lo fácil que es agregar un correo electrónico a una directiva existente.
+Obtenga información sobre cómo buscar alertas, directivas, flujos de trabajo y destinos en New Relic. Observe lo fácil que es agregar un correo electrónico a una directiva existente.
 
 ## ¿Para quién es este vídeo?
 
