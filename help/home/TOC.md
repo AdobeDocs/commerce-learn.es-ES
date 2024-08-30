@@ -3,10 +3,10 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 3%
+source-wordcount: '712'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
       + [Implementaciones, pruebas, monitorización y seguridad](../cloud/deployments-testing-monitoring-security.md)
       + [Ofertas de SaaS, asistencia y comunicaciones y pasos siguientes](../cloud/saas-offerings-support-communications-next-steps.md)
    + Prácticas recomendadas {#commerce-cloud-best-practices}
+      + [Solicitud de soporte](../cloud/best-practices/support-request.md)
       + [Lista de comprobación previa al inicio](../cloud/best-practices/pre-launch-checklist.md)
 + Introducción {#getting-started}
    + Arquitectura de referencia global{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 3%
       + [Integración de última milla](../back-office-integrations/last-mile-integration.md)
       + [Ingesta de webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de reintento](../back-office-integrations/retry-mechanism.md)
+   + Ayuda y soporte técnico {#help-and-support}
+      + [Creación de una solicitud de asistencia](../help-and-support/create-a-support-ticket.md)
+      + [Buscar, rastrear, comentar y enviar ticket de asistencia](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [Agregar y eliminar observadores, cerrar y volver a abrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Seminarios web y eventos {#webinars-and-events}
    + Serie de habilitación {#enablement-series}
       + [Reduzca el índice para integraciones de Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
