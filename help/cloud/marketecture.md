@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16061
-source-git-commit: 261419d013d511185c650cb45f50e412184825c8
+source-git-commit: b805d2df5d74f80084336d03add25af72430e785
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -20,6 +20,7 @@ ht-degree: 0%
 # Adobe Commerce Marketecture
 
 Adobe Commerce es una plataforma basada en la experiencia que combina la flexibilidad técnica con la facilidad de uso para obtener resultados empresariales excepcionales. Disponible en AWS y Azure, cuenta con más de 200 módulos, SLA sólidos y arquitectura escalable. La plataforma admite las API de REST y GraphQL, mejoradas para obtener un rendimiento más rápido, y ofrece servicios inteligentes y componibles como búsqueda en vivo, recomendaciones de productos de IA y soluciones de pago.
+
 Las herramientas de extensibilidad, como API Mesh y la administración unificada de eventos, optimizan el desarrollo y la integración, mientras que los Edge Delivery Services proporcionan un front-end rápido y desunido. Integrado con Adobe Experience Platform, Adobe Commerce permite a las empresas aprovechar los datos de clientes en tiempo real para experiencias personalizadas y campañas de marketing dirigidas, fomentando un crecimiento significativo.
 
 ## Para quién es este vídeo
