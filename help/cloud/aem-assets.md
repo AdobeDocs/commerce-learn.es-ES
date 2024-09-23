@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ Al integrar la IA con Adobe Commerce, se centraliza la administración de recurs
 
 ## Contenido de vídeo
 
-- Eficiencia y velocidad mejoradas. palo de golf
-- Sincronización perfecta entre productos y recursos. palo de golf
-- Control del ciclo de vida completo, incluida la aprobación, la eliminación y la caducidad. palo de golf
+- Eficiencia y velocidad mejoradas.
+- Sincronización perfecta entre productos y recursos.
+- Control del ciclo de vida completo, incluida la aprobación, la eliminación y la caducidad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
