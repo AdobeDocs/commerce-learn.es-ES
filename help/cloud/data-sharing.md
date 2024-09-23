@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 540
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: 3e8ea2655f92c78465ed4e52ca81289ffed4fd2a
+source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Se integra perfectamente con los productos de Adobe Experience Cloud para crear 
 
 ## Contenido de vídeo
 
-- Personalization mejorado mediante las funciones nativas de uso compartido de datos de Adobe Commerce
+- Personalización mejorada mediante las funciones nativas de uso compartido de datos de Adobe Commerce
 - Mayor participación y lealtad del cliente
 - Integración perfecta y vista de cliente unificada
 
