@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 2d1118ce273c7d641486f6878b6737bc5c3b2d4f
+source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe Commerce es una plataforma híbrida de comercio electrónico en la nube di
 ## Contenido de vídeo
 
 - Infraestructura escalable y segura.  Obtenga información sobre la infraestructura de varias nubes totalmente redundante en AWS y Azure, lo que garantiza un rendimiento optimizado, resiliencia y escalabilidad elástica con altos estándares de seguridad y conformidad.
-- Servicios avanzados impulsados por IA. Obtendrá conocimientos sobre los servicios inteligentes con prioridad API, como búsqueda en directo, recomendaciones de productos alimentadas por IA y servicios de catálogo para mejorar la experiencia del cliente y la eficacia operativa. palo de golf
-- Herramientas completas para desarrolladores. Obtenga información acerca del conjunto de herramientas para desarrolladores nativas en la nube y sin servidor, como API Mesh y App Builder, que permiten una integración y personalización sin problemas para ampliar las funcionalidades comerciales. palo de golf
+- Servicios avanzados impulsados por IA. Obtendrá conocimientos sobre los servicios inteligentes con prioridad API, como búsqueda en directo, recomendaciones de productos alimentadas por IA y servicios de catálogo para mejorar la experiencia del cliente y la eficacia operativa.
+- Herramientas completas para desarrolladores. Obtenga información acerca del conjunto de herramientas para desarrolladores nativas en la nube y sin servidor, como API Mesh y App Builder, que permiten una integración y personalización sin problemas para ampliar las funcionalidades comerciales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
