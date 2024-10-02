@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: 815a309dbba2ed1699cce8f74d97bf999407be4b
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '742'
 ht-degree: 3%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 3%
 + Introducción {#getting-started}
    + Migrando a Adobe Commerce{#migrating-to-adobe-commerce}
       + [Información general](../migrating-to-adobe-commerce/overview.md)
+      + Personalizaciones{#customizations}
+         + [Estándares de código en proceso](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
    + Arquitectura de referencia global{#global-reference-architecture}
       + [Arquitectura de referencia global](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Aprovechamiento de la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
