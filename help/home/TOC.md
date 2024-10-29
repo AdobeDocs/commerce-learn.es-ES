@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: fd1c4316fa5c1e9ac5b7c034cbeddc41e26e4200
+source-git-commit: 1414bc22653f63a4cf19654f319116bea149ef08
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '758'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,8 @@ ht-degree: 3%
 
 + [[!DNL Commerce] Tutoriales](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+   + Solución de problemas {#troubleshooting}
+      + [SSL no válido](../cloud/troubleshooting/invalid-ssl.md)
    + [Mercadotecnia](../cloud/marketecture.md)
    + [Modelo de envío global](../cloud/global-delivery-model.md)
    + [Roles de administrador](../cloud/admin-roles.md)
