@@ -47,7 +47,7 @@ Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la a
 - Red de entrega de contenido de CDN
 - Fastly IO Optimizador de imagen Fastly
 - Lenguaje de configuración de barniz VCL
-- Firewall de aplicación web WAF
+- Firewall de aplicación web de WAF
 - Industria de tarjetas de pago PCI
 - Servicio de capa de transporte TLS
 - Lista de control de acceso ACL

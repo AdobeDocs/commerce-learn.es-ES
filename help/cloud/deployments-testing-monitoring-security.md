@@ -38,7 +38,7 @@ Obtenga información sobre las estrategias de implementación de Adobe Commerce 
 - [Herramienta de análisis SWAT para todo el sitio](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Asistente inteligente de herramientas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Examen de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Cortafuegos de aplicación web Fastly WAF](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+- [Firewall de aplicaciones web de WAF de Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [Descripción general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
