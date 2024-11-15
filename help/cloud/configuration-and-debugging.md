@@ -47,3 +47,4 @@ Obtenga información acerca de los archivos Yaml clave utilizados en Adobe Comme
 - [Uso de la herramienta de revisión de calidad](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
