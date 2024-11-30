@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -24,7 +24,7 @@ A continuación se ofrece una sinopsis de la [documentación de inicio del sitio
 
 Esta lista de comprobación tiene como objetivo ayudar a planificar y ejecutar correctamente el lanzamiento del sitio de Adobe Commerce Cloud. Colabore con el integrador de sistemas para Adobe Commerce Cloud para asegurarse de que todas las tareas de configuración y los elementos de la lista de comprobación se hayan completado y verificado. Si encuentra dificultades con algún elemento de la lista de comprobación o tiene alguna pregunta, póngase en contacto con el asesor técnico del cliente o el ingeniero de éxito del cliente designados. Si su cuenta no tiene un CTA/CSE asignado, puede crear un ticket de asistencia para obtener ayuda.
 
-Si tiene un CTA/CSE asignado a la cuenta, póngase en contacto con ellos y con el administrador de cuentas al menos 4 semanas antes del lanzamiento del nuevo sitio de Adobe Commerce Cloud para notificarles su **intención** de lanzarlo.
+Si tiene un CTA/CSE asignado a la cuenta, póngase en contacto con ellos y con el administrador de cuentas al menos 4 semanas antes de lanzar el nuevo sitio de Adobe Commerce Cloud para notificarles de su **intención** de iniciarlo.
 
 - Algunas comprobaciones aparecen resaltadas con [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"}
 - Asegúrese de colaborar con su desarrollador o socio de integración de sistemas para alinearse con su enfoque de implementación.
@@ -177,16 +177,16 @@ Si encuentra algún problema o algún problema que le impida iniciar el servicio
 - Número gratuito en EE. UU.: (+1) 800 685 3620 (en el primer menú, presione 7 para la línea directa Adobe Commerce P1)
 - US Local: (+1) 408 537 8777
 
-## 11. Post Go-Live
+## 11. Publicar el lanzamiento
 
-Una vez que el sitio esté activo, envíe por correo electrónico al CTA (Customer Technical Advisory), CSE (Customer Success Engineer) y AM (Account Manager) asignados. Sin embargo, si no tiene un administrador de cuentas asignado al proyecto, puede crear un ticket de asistencia en el que se solicite que se active la monitorización de alto nivel de SLA una vez que el sitio se haya puesto en marcha. El CTA/CSE realiza las siguientes tareas en cuanto se verifica que el sitio se inicia con Fastly enabled y almacenamiento en caché:
+Una vez que el sitio esté activo, envíe por correo electrónico al CTA (Customer Technical Advisory), CSE (Customer Success Engineer) y AM (Account Manager) asignados. Sin embargo, si no tiene un administrador de cuentas asignado al proyecto, puede crear un ticket de asistencia en el que se solicite que la monitorización de High SLA se habilite una vez que el sitio se haya puesto en marcha. El CTA/CSE realiza las siguientes tareas en cuanto se verifica que el sitio se inicia con Fastly enabled y almacenamiento en caché:
 
-- Etiquete el clúster como activo y cree un vale de soporte para activar la monitorización de SLA (acuerdos de nivel de servicio) alto.
+- Etiquete el clúster como activo y cree un vale de soporte para activar la monitorización de High SLA (Acuerdos de nivel de servicio).
 - Active New Relic Synthetics para la monitorización del tiempo de actividad.
 
 >[!MORELIKETHIS]
 > 
-> - [Descripción general de la preparación para el lanzamiento - Guía de implementación](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Descripción general de la preparación para el lanzamiento - Guía de implementación](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [Iniciar lista de comprobación - Guía del usuario](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [Lista de comprobación previa al inicio - Administrador del sitio/Guía del administrador de Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [Modelo de seguridad de responsabilidad compartida](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}

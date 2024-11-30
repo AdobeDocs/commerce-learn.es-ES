@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
-source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la a
 - Protocolo de transferencia de hipertexto HTTP(S)
 - Nivel de socket seguro SSL
 - Servicio de nombres de dominio DNS
-- Correo identificado de clave de dominio DKIM
+- Correo identificado con clave de dominio de DKIM
 - Marco de directiva de remitente SPF
 - Interfaz de programación de aplicaciones API
 - Localizador uniforme de recursos de URL
@@ -85,7 +85,7 @@ Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la a
 - [Cursos de aprendizaje de Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Foro de la comunidad Commerce](https://community.magento.com/)
 -= [Configurar rápidamente](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
-- [Pruebas de rendimiento](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
+- [Pruebas de rendimiento](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
 - [Herramienta de análisis de todo el sitio - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [observación de New Relic para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [Parches de seguridad](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
