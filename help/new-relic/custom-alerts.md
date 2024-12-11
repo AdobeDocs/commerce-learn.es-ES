@@ -7,15 +7,15 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 183
-last-substantial-update: 2024-12-02T00:00:00Z
+last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16606
-source-git-commit: fc3a65e00b36d4af76f75fd0e956104b90e8393d
+exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4
+source-git-commit: fbe79f36ba7cc699287b1adc1fcb1fab7246da1c
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # Creación de alertas personalizadas de New Relic
 
@@ -31,6 +31,6 @@ Obtenga información sobre cómo crear alertas personalizadas en New Relic para 
 
 * Cree alertas personalizadas de New Relic accediendo a la interfaz de alertas a través de las opciones de gráficos o del editor de consultas.
 * Explicación de cómo se pueden definir los umbrales para las alertas en función de la agregación de datos.
-* Configure alertas con niveles de gravedad y asignadas a directivas existentes para controlar los flujos de trabajo y destinos de las notificaciones. 
+* Configure alertas con niveles de gravedad y asignadas a directivas existentes para controlar los flujos de trabajo y destinos de las notificaciones.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
