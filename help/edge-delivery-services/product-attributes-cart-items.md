@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Utilizar atributos de producto para artículos de carro de compras
 
-En la transcripción, un desarrollador llamado Ali de la marca Acme muestra cómo personalizar y ampliar el carro de compras de Adobe Commerce. Ali aborda tres requisitos del proyecto: mostrar los plazos de entrega de los productos pendientes de pedido, mostrar los avisos de venta devueltos y finales y aplicar un descuento del 25% para los carros de compras con un subtotal de 75 dólares o más. Al aprovechar los atributos y las ranuras del producto, Ali integra correctamente estas funciones en el carro de compras, mejorando la experiencia general del usuario y cumpliendo todos los requisitos del proyecto.
+Aprenda a personalizar y ampliar el carro de compras de Adobe Commerce. En esta demostración, hay tres actualizaciones.  La demostración comienza mostrando los plazos de entrega de los productos pendientes de pedido, mostrando los avisos de venta devueltos y finales y aplicando un descuento del 25% para los carros de compras con un subtotal de 75 dólares o más. Al aprovechar los atributos y las ranuras del producto, la adición de estas funciones al carro de compras mejora la experiencia general del usuario.
 
 ## Qué cabe esperar de la visualización de este vídeo
 
