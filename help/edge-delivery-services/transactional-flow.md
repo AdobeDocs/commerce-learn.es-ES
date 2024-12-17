@@ -1,0 +1,39 @@
+---
+title: Edge Delivery Services
+description: Obtenga información sobre los servicios de envío de Adobe Edge y cómo cambiar el flujo transaccional.
+feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
+topic: Architecture, Commerce, Headless
+role: Developer
+level: Beginner
+doc-type: Technical Video
+duration: 453
+last-substantial-update: 2024-12-16T00:00:00Z
+jira: KT-16685
+source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+workflow-type: tm+mt
+source-wordcount: '198'
+ht-degree: 1%
+
+---
+
+# Ajustar flujo transaccional para cierre de compra
+
+Aprenda a ajustar el flujo transaccional para el cierre de compra mediante la lista desplegable del carro de Edge Delivery Services.
+
+## Qué cabe esperar de la visualización de este vídeo
+
+Aprenda a utilizar la función de colocación del carro de compras de Adobe Commerce y ajuste el flujo transaccional para mostrar a los clientes un nuevo conjunto de funciones cambiando algunas líneas de código.  Además, aprenda a convertir estos cambios para que se administren desde Sharepoint con el fin de realizar pruebas AB.
+
+## ¿Para quién es este vídeo?
+
+* Los desarrolladores y propietarios de tiendas aprenden acerca de los Edge Delivery Services con la necesidad de cambiar algunos elementos desplegables del carro de compras.
+* Especialistas en marketing y otras personas interesadas en utilizar SharePoint para administrar funciones y pruebas AB.
+
+## Contenido de vídeo
+
+* Actualización del selector de cantidades. Actualice el selector de cantidad de producto de un incrementador a un menú desplegable, personalizado para mostrar valores del 1 al 20.
+* Visualización de descuento. Se han implementado funciones para mostrar porcentajes de descuento y descuentos por importe en dólares para artículos en venta en el carro de compras.
+* Flexibilidad en las pruebas A/B. Configuraciones habilitadas mediante SharePoint, lo que permite a los especialistas en marketing controlar y probar estas funciones.
+* Control de marketing mejorado. Administre y pruebe configuraciones fácilmente, lo que mejora la experiencia del usuario y la eficacia de marketing.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3441102?learn=on)
