@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Artículos del carro de Edge Delivery Services
 description: Obtenga información acerca de los servicios de envío de Adobe Edge y cómo utilizar atributos de producto para mostrar nueva información para artículos del carro de compras.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ Aprenda a utilizar la función de colocación del carro de compras de Adobe Comm
 * Uso de atributos de producto y Ranuras para ampliar y personalizar la funcionalidad del carro de compras, lo que garantiza que se cumplan todos los requisitos del proyecto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## Documentación adicional
+
+* [Agregar líneas de productos al carro](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
