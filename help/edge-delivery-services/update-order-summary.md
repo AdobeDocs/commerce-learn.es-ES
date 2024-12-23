@@ -1,6 +1,6 @@
 ---
-title: Resumen de pedidos de Edge Delivery Services
-description: Obtenga información acerca de los servicios de envío de Adobe Edge y cómo actualizar la sección de resumen de pedidos del menú desplegable de Commerce.
+title: Resumen de pedidos de los Edge Delivery Services en pago y envío
+description: Obtenga información acerca de los servicios de envío de Adobe Edge y cómo actualizar la sección de resumen del pedido del menú desplegable de Commerce al cerrar la compra.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Actualizar el resumen del carro de compras
+# Actualizar el resumen del carro de compras en cierre de compra
 
 Aprenda a realizar cambios en el resumen de pedidos de la lista desplegable de carrito de Adobe Commerce para Edge Delivery Services.  Existen varios ejemplos de cómo mejorar rápidamente el diseño o la información proporcionada a un cliente al realizar la compra.
 
