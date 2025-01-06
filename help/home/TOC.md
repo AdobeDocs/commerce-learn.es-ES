@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
+source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '807'
 ht-degree: 3%
 
 ---
@@ -72,10 +72,15 @@ ht-degree: 3%
       + [Integración de última milla](../back-office-integrations/last-mile-integration.md)
       + [Ingesta de webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de reintento](../back-office-integrations/retry-mechanism.md)
-   + Ayuda y soporte técnico {#help-and-support}
-      + [Creación de una solicitud de asistencia](../help-and-support/create-a-support-ticket.md)
-      + [Buscar, rastrear, comentar y enviar ticket de asistencia](../help-and-support/search-track-comment-escalate-support-ticket.md)
-      + [Agregar y eliminar observadores, cerrar y volver a abrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
+   + [Información general](../global-reference-architecture/overview.md)
+   + [Dividir Git](../global-reference-architecture/split-git.md)
+   + [Paquetes masivos](../global-reference-architecture/bulk-packages.md)
+   + [Paquetes separados](../global-reference-architecture/separate-packages.md)
++ Ayuda y soporte técnico {#help-and-support}
+   + [Creación de una solicitud de asistencia](../help-and-support/create-a-support-ticket.md)
+   + [Buscar, rastrear, comentar y enviar ticket de asistencia](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Agregar y eliminar observadores, cerrar y volver a abrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
    + Introducción {#getting-started}
       + [Cambio del flujo transaccional](../edge-delivery-services/transactional-flow.md)
