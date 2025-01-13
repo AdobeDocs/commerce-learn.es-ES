@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 16aac3305ed52ab29eb003abf39dba0bc882029d
+source-git-commit: 7988dcc031956b880b67363a6c9b2705dbe7b4af
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '819'
 ht-degree: 3%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 3%
       + [Actualizar el resumen del pedido en cierre de compra](../edge-delivery-services/update-order-summary.md)
       + [Agregar BOPIS al cierre de compra](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Personalizar cierre de compra](../edge-delivery-services/customize-checkout.md)
+      + [Ajustar dirección, incluido el completado automático y el nuevo vínculo de mi cuenta](../edge-delivery-services/customize-address-new-account-link.md)
 + Seminarios web y eventos {#webinars-and-events}
    + Serie de habilitación {#enablement-series}
       + [Reduzca el índice para integraciones de Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
