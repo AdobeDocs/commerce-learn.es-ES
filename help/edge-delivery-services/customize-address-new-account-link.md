@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# ActualizaciónMejora del proceso de cierre de compra de comercio electrónico: diseño de formulario de direcciones personalizadas e integración de búsqueda de direcciones de Google
+# Integración del diseño del formulario de direcciones personalizadas y la búsqueda de direcciones de Google
 
 Aprenda a personalizar el diseño del formulario de dirección al cerrar la compra para asegurarse de que todos los campos tengan una anchura del 50 %, con la excepción del área de texto. Aprenda a utilizar una API de terceros integrada, específicamente la API de direcciones de Google, para habilitar la búsqueda y validación automáticas de direcciones en el formulario de direcciones. palo de golf Obtenga información sobre cómo agregar un nuevo elemento de menú de barra lateral al panel de cuentas de usuario, vinculándolo a una página personalizada para un localizador de tiendas.
 
