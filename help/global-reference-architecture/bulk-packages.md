@@ -1,7 +1,7 @@
 ---
 title: Optimización de Adobe Commerce con la arquitectura de referencia global de paquetes masivos
 description: Aprenda a configurar Adobe Commerce mediante la arquitectura de referencia global de paquetes en lote para una administración eficiente del código y un control de versiones.
-kt: 16726
+jira: KT-16726
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Colaboró Tony Evers, arquitecto técnico senior, Adobe" type="Inf
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: a182b97b7d9a8bf114944d5d920afb2328adbc18
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
