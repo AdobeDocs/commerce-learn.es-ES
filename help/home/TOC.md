@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 7988dcc031956b880b67363a6c9b2705dbe7b4af
+source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '820'
 ht-degree: 3%
 
 ---
@@ -76,7 +76,8 @@ ht-degree: 3%
    + [Información general](../global-reference-architecture/overview.md)
    + [Dividir Git](../global-reference-architecture/split-git.md)
    + [Paquetes masivos](../global-reference-architecture/bulk-packages.md)
-   + [Paquetes separados](../global-reference-architecture/separate-packages.md)
+   + [Separar paquetes](../global-reference-architecture/separate-packages.md)
+   + [Monorepo](../global-reference-architecture/monorepo.md)
 + Ayuda y soporte técnico {#help-and-support}
    + [Creación de una solicitud de asistencia](../help-and-support/create-a-support-ticket.md)
    + [Buscar, rastrear, comentar y enviar ticket de asistencia](../help-and-support/search-track-comment-escalate-support-ticket.md)
