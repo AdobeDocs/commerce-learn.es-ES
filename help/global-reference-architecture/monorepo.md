@@ -2,7 +2,7 @@
 title: Cómo aprovechar la arquitectura de referencia global
 description: Aprenda a aprovechar una arquitectura de referencia global para establecer una experiencia comercial escalable y flexible
 landing-page-description: Obtenga información acerca de la arquitectura de referencia global y cómo se utiliza con Adobe Commerce
-kt: 14040
+jira: KT-16728
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Colaboró Tony Evers, arquitecto técnico senior, Adobe" type="Inf
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 0%
