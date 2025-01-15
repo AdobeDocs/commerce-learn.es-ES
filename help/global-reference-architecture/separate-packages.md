@@ -1,7 +1,7 @@
 ---
 title: Arquitectura de referencia global de paquetes independientes
 description: Optimizar Adobe Commerce con paquetes separados GRA. Conozca la configuración, las ventajas y las prácticas recomendadas para una administración flexible y con versiones de los paquetes.
-kt: 16727
+jira: KT-16727
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="Colaboró Tony Evers, arquitecto técnico senior, Adobe" type="Inf
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
