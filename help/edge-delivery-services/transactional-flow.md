@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Aprenda a ajustar el flujo transaccional para el cierre de compra mediante la lista desplegable del carro de Edge Delivery Services.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Obtenga información sobre cómo utilizar la lista desplegable de carrito de Adobe Commerce y ajustar el flujo transaccional para mostrar a los clientes un nuevo conjunto de funciones cambiando unas pocas líneas de código.  Además, aprenda a convertir estos cambios para que se administren desde Sharepoint con el fin de realizar pruebas AB.
 

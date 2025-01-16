@@ -10,9 +10,9 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Aprenda a personalizar y ampliar el carro de compras de Adobe Commerce. En esta demostración, hay tres actualizaciones.  La demostración comienza mostrando los plazos de entrega de los productos pendientes de pedido, mostrando los avisos de venta devueltos y finales y aplicando un descuento del 25% para los carros de compras con un subtotal de 75 dólares o más. Al aprovechar los atributos y las ranuras del producto, la adición de estas funciones al carro de compras mejora la experiencia general del usuario.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Aprenda a utilizar la función de colocación del carro de compras de Adobe Commerce y ajuste el flujo transaccional para mostrar a los clientes un nuevo conjunto de funciones cambiando algunas líneas de código.  Además, aprenda a convertir estos cambios para que se administren desde Sharepoint con el fin de realizar pruebas AB.
 

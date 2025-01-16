@@ -10,9 +10,9 @@ duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Aprenda a utilizar la herramienta de parches de calidad cuando diagnostique un problema, encuentre una solución y aplique un parche que se encuentre en la lista de parches disponibles.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Aprenda a clasificar un problema y, a continuación, utilice algunas técnicas básicas para encontrar un parche de calidad al que aplicar una corrección.
 

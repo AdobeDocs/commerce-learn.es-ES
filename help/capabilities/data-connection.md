@@ -10,9 +10,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Una demostración completa de Adobe Commerce Data Connection.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Aprenda a utilizar la conexión de datos de Adobe Commerce junto con algunas configuraciones y ajustes básicos. Esta demostración muestra cómo se puede obtener una vista completa de un cliente en 360 grados utilizando Adobe Commerce y conectando otros servicios de Adobe.
 

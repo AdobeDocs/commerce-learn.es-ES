@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 853
 last-substantial-update: 2025-1-2
 jira: KT-16723
-source-git-commit: 1db0daa3ca352d50cbda27c1e631ad869b2ac16b
+exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Aprenda a personalizar la experiencia de cierre de compra en Adobe Commerce desde el componente de colocación del carro de Edge Delivery Services, centrándose en la modificación de las opciones de envío y la implementación de un proceso de cierre de compra de varios pasos.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Descubra ejemplos de personalización de la experiencia de colocación del carro de Edge Delivery Services en el cierre de compra eliminando y volviendo a añadir elementos como opciones de envío y costes estimados, e implementando un proceso de cierre de compra de varios pasos, todo mientras reutiliza el código existente y sigue las prácticas recomendadas. palo de golf
 

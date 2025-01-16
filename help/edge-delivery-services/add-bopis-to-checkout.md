@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 331
 last-substantial-update: 2024-12-19T00:00:00Z
 jira: KT-16699
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Aprenda a añadir los componentes necesarios al cierre de compra de los Edge Delivery Services que se adapta a una compra en línea y a una recogida en una tienda, también conocida como BOPIS.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Aprenda a utilizar el carro de compras de Adobe Commerce de los Edge Delivery Services para proporcionar la funcionalidad BOPIS.
 

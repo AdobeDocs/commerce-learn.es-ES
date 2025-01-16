@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Aprenda a realizar cambios en el resumen de pedidos de la lista desplegable de carrito de Adobe Commerce para Edge Delivery Services.  Existen varios ejemplos de cómo mejorar rápidamente el diseño o la información proporcionada a un cliente al realizar la compra.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Aprenda a utilizar el carrito de compras de Adobe Commerce para acceder y ajustar la experiencia del carrito.  Existen varias formas de mejorar el carro realizando algunos cambios o actualizaciones menores en el código.
 

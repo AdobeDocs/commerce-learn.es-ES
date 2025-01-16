@@ -10,9 +10,9 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Información general de alto nivel sobre el historial de Adobe Commerce y cómo se han estado moviendo las cosas para admitir completamente el sin encabezado.  Las ventajas de la arquitectura sin encabezado incluyen paridad entre puntos de contacto, separación de actividades de desarrollo, escalabilidad mejorada y mucho más.
 
-## Qué cabe esperar de la visualización de este vídeo
+## Qué va a aprender
 
 Descubra qué es sin encabezado y cómo admite Adobe Commerce la arquitectura sin encabezado.
 
