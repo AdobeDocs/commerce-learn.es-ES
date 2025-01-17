@@ -1,6 +1,6 @@
 ---
-title: "Introducción a  [!DNL Live Search]"
-description: '"Aprenda a añadir [!DNL Live Search] a su tienda y a producir experiencias de compra muy atractivas, relevantes y personalizadas".'
+title: Introducción a  [!DNL Live Search]
+description: Aprenda a agregar [!DNL Live Search] a su tienda y produzca experiencias de compra muy atractivas, relevantes y personalizadas.
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -8,8 +8,9 @@ feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: ff8ae08e9bc1e9ff070ce149f18c1b779badcfe8
+source-git-commit: 90752025ab3bc5650f871d6a12d907bfa5d22134
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
