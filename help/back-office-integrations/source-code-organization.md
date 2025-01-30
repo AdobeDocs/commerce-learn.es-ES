@@ -11,7 +11,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -36,8 +37,8 @@ Explore la lógica detrás de la estructura del código fuente, detallando cómo
 * Obtenga información acerca de la carpeta `actions` y cómo contiene subcarpetas cruciales como `ingestion` y `webhook`.
 * Explore la carpeta `actions` y por qué existen carpetas específicas para entidades como `customer`, `order`, `product` y `stock`, cada una de las cuales contiene acciones de tiempo de ejecución estructuradas en carpetas `commerce` y `external` para administrar eventos de Commerce y sistemas de terceros de forma eficaz. palo de golf
 * Aprenda lo importante que es no alterar el código en la carpeta `starter-kit-info`, que contiene una acción de tiempo de ejecución utilizada por el Adobe para realizar un seguimiento de las implementaciones de proyectos basadas en el Starter Kit. palo de golf
-* Comprenda la carpeta `scripts` que contiene scripts de automatización como `commerce-event-subscribe` y `onboarding`, que automatizan la configuración de eventos, la configuración del proveedor y la configuración del módulo Eventos de Adobe I/O en Commerce. palo de golf
+* Comprenda la carpeta `scripts` que contiene scripts de automatización como `commerce-event-subscribe` y `onboarding`, que automatizan la configuración de eventos, la configuración del proveedor y la configuración del módulo de Adobe I/O Events en Commerce. palo de golf
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
