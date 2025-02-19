@@ -1,5 +1,5 @@
 ---
-title: Los Edge Delivery Services personalizan la dirección, incluido el completado automático
+title: Dirección personalizada de Edge Delivery Services, incluido completado automático
 description: Aprenda a personalizar los formularios de cierre de compra de comercio electrónico e integrar Búsqueda de direcciones de Google para mejorar la experiencia del usuario y reducir los errores de entrada.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Integración del diseño del formulario de direcciones personalizadas y la búsqueda de direcciones de Google
+# Personalizar un diseño de dirección
 
 Aprenda a personalizar el diseño del formulario de dirección al cerrar la compra para asegurarse de que todos los campos tengan una anchura del 50 %, con la excepción del área de texto. Aprenda a utilizar una API de terceros integrada, específicamente la API de direcciones de Google, para habilitar la búsqueda y validación automáticas de direcciones en el formulario de direcciones. palo de golf Obtenga información sobre cómo agregar un nuevo elemento de menú de barra lateral al panel de cuentas de usuario, vinculándolo a una página personalizada para un localizador de tiendas.
 

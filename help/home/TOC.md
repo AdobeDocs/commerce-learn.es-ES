@@ -3,15 +3,15 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Vídeos y Tutorials de Adobe Commerce {#tutorials}
+# Vídeos y tutoriales de Adobe Commerce {#tutorials}
 
 + [[!DNL Commerce] Tutoriales](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -89,7 +89,7 @@ ht-degree: 3%
       + [Actualizar el resumen del pedido en cierre de compra](../edge-delivery-services/update-order-summary.md)
       + [Agregar BOPIS al cierre de compra](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Personalizar cierre de compra](../edge-delivery-services/customize-checkout.md)
-      + [Ajustar dirección, incluido el completado automático y el nuevo vínculo de mi cuenta](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Personalizar un diseño de dirección](../edge-delivery-services/customize-address-new-account-link.md)
 + Seminarios web y eventos {#webinars-and-events}
    + Serie de habilitación {#enablement-series}
       + [Reduzca el índice para integraciones de Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -156,7 +156,7 @@ ht-degree: 3%
    + [Administrar productos en una categoría](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
    + [Crear atributos del producto](../site-management/product-attributes-create.md)
-   + [Uso de Atributos del producto con PWA Studio](../site-management/product-attributes-pwa.md)
+   + [Uso de los Atributos del producto con PWA Studio](../site-management/product-attributes-pwa.md)
    + [Administración de metadatos SEO](../site-management/seo-metadata.md)
    + [Administración de reescrituras de URL para SEO](../site-management/seo-url-rewrites.md)
    + [Visor de AR](../site-management/augmented-reality.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [Crear reglas de precios de catálogo](../site-management/catalog-price-rules.md)
    + [Crear reglas de precio del carro](../site-management/cart-price-rules.md)
    + [Administrar reglas de producto relacionadas](../site-management/related-product-rules.md)
-   + [Configuración de Product Recommendations](../site-management/product-recommendations.md)
+   + [Configurar recomendaciones de productos](../site-management/product-recommendations.md)
    + [Introducción a Live Search](../site-management/live-search.md)
    + [Búsqueda activa de recomendaciones](../site-management/live-search-recommendations.md)
    + [Integración de Commerce con AJO](../site-management/integrate-commerce-ajo.md)
@@ -207,7 +207,7 @@ ht-degree: 3%
    + [Informes y paneles](../business-intelligence/reports-and-dashboards.md)
    + [Conjuntos de filtros](../business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
-   + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Preparándose para el futuro](../business-intelligence/prepare-for-future.md)
 + Actualizaciones de Commerce {#upgrade}
    + [Taller de actualización de Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
@@ -235,12 +235,12 @@ ht-degree: 3%
 + Arquitectura sin encabezado {#headless-architecture}
    + Introducción a {#introduction-to-headless} sin encabezado
       + [Arquitectura sin encabezado - Sesión 1](../headless/session-1.md)
-   + Introducción al PWA Studio {#introduction}
+   + Introducción a PWA Studio {#introduction}
       + [1 - Resumen](../pwa/introduction/1-overview.md)
       + [2 - Herramientas de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Lanzamiento](../pwa/introduction/3-launch.md)
       + [4 - ASCENDENTE](../pwa/introduction/4-upward.md)
       + [5 - Introducción](../pwa/introduction/5-getting-started.md)
       + [6 - Peregrino](../pwa/introduction/6-peregrine.md)
-   + [PWA Docker Development](../pwa/pwa-docker-development.md)
+   + [Desarrollo de PWA Docker](../pwa/pwa-docker-development.md)
    + [Configuración de Venia para desarrollo](../pwa/set-up-venia-for-dev.md)
