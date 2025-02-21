@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 241f99eaed68488b952e8ed76186499ca1a20417
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 5%
+source-wordcount: '728'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Históricamente, el desarrollo de Adobe Commerce ha utilizado la extensibilidad 
 
 Adobe Developer App Builder es una plataforma de extensibilidad sin servidor para integrar y crear experiencias personalizadas para ampliar las soluciones de Adobe y ya está disponible para Adobe Commerce. Con App Builder, puede crear aplicaciones seguras y escalables que amplíen la funcionalidad nativa de Commerce e integren soluciones de terceros. Como desarrollador, ahora puede aprovechar la extensibilidad fuera de proceso con Adobe Commerce y eso, a su vez, proporciona beneficios inmediatos y a largo plazo.
 
-App Builder proporciona un marco de trabajo de extensibilidad unificado de terceros para integrar y crear aplicaciones personalizadas que extienden [!DNL Adobe Commerce]. Dado que este marco de extensibilidad se basa en la infraestructura de Adobe, los desarrolladores pueden generar microservicios personalizados y extender e integrar [!DNL Adobe Commerce] en otras soluciones de Adobe e integraciones de terceros.
+App Builder proporciona un marco de trabajo de extensibilidad unificado de terceros para integrar y crear aplicaciones personalizadas que extienden [!DNL Adobe Commerce]. Dado que este marco de extensibilidad se basa en la infraestructura de Adobe, los desarrolladores pueden generar microservicios personalizados, y extender e integrar [!DNL Adobe Commerce] en otras soluciones de Adobe y en integraciones de terceros.
 
 App Builder proporciona una forma para que los clientes amplíen [!DNL Adobe Commerce] en varios casos de uso:
 
@@ -55,26 +55,14 @@ En lugar de una solución predeterminada, Adobe Developer App Builder proporcion
 
 * Adobe Developer Console se utiliza para el microservicio personalizado y el desarrollo de extensiones. Cree y administre proyectos al acceder a todas las herramientas y API necesarias para crear complementos e integraciones.
 * Herramientas, SDK y bibliotecas de código abierto para crear extensiones e integraciones personalizadas. Utilice React Spectrum (Kit de herramientas de IU de Adobe) para tener una IU común para todas las aplicaciones de Adobe.
-* servicios como I/O Runtime para alojar infraestructura en la plataforma sin servidor de Adobe y Eventos de E/S para integraciones basadas en eventos. El Adobe también es compatible de serie con el almacenamiento de datos y archivos.
-* Adobe Experience Cloud donde se envían extensiones e integraciones para publicarlas en la organización de Experience Cloud. Los administradores de sistemas pueden revisar, administrar y aprobar estas extensiones. Una vez publicadas, las extensiones y herramientas personalizadas de App Builder estarán disponibles junto con otras aplicaciones de Adobe Experience Cloud.
+* servicios como I/O Runtime para alojar infraestructura en la plataforma sin servidor de Adobe y Eventos de E/S para integraciones basadas en eventos. Adobe también es compatible de serie con el almacenamiento de datos y archivos.
+* Adobe Experience Cloud donde se envían extensiones e integraciones para publicarlas en su organización de Experience Cloud. Los administradores de sistemas pueden revisar, administrar y aprobar estas extensiones. Una vez publicadas, las extensiones y herramientas personalizadas de App Builder estarán disponibles junto con otras aplicaciones de Adobe Experience Cloud.
 
 El diagrama siguiente ilustra cómo una aplicación estándar creada en App Builder utiliza estas funcionalidades:
 
 ![Arquitectura](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Para obtener más información acerca de la arquitectura de App Builder, consulte la [Descripción general de arquitectura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
-
-## Extensión de Sales Channel de Amazon {#amazon-sales-channel-extension}
-
->[!IMPORTANT]
->
->La extensión de Sales Channel de Amazon aún está en desarrollo y no se ha publicado oficialmente.  Estos vídeos y tutoriales están pensados para mostrarle cómo utilizar Adobe Developer App Builder para obtener un caso de uso práctico.
-
-Los siguientes tutoriales muestran cómo conectar Adobe Commerce a la Sales Channel de Amazon mediante una extensión de App Builder.
-
-* [información general técnica App Builder](../app-builder/app-builder-technical-overview.md)
-* [marco de extensibilidad](../app-builder/extensibility-framework-commerce-eventing.md)
-* [demostración funcional de App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## Introducción a App Builder {#additional-resources}
 
