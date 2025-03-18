@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: a33687b152162db94cd434c4de8a717ab332e51d
+source-git-commit: 98c1b61b6fec015c03a34b92f81acc530ebfa92b
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '826'
 ht-degree: 3%
 
 ---
@@ -75,6 +75,8 @@ ht-degree: 3%
       + [Integración de última milla](../back-office-integrations/last-mile-integration.md)
       + [Ingesta de webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de reintento](../back-office-integrations/retry-mechanism.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+   + [Información general](../adobe-commerce-optimizer/overview.md)
 + Arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
    + [Información general](../global-reference-architecture/overview.md)
    + [Dividir Git](../global-reference-architecture/split-git.md)
