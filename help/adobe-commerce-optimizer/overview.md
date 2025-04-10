@@ -9,14 +9,15 @@ doc-type: Feature Video
 duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
-source-git-commit: 544a33f7464ec988a8132010962a73715fa83686
+exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
+source-git-commit: 313dd669c38dc6b6bcca4e67dff98409e4061d8f
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Información general sobre Adobe Commerce Optimizer
+# Información general de Adobe Commerce Optimizer
 
 Adobe Commerce Optimizer mejora las plataformas de comercio existentes al proporcionar una tienda sin encabezado de alto rendimiento que aumenta el tráfico orgánico y admite herramientas de comerciante como las pruebas A/B. Se centra en aumentar el tráfico de las tiendas y las tasas de conversión, impulsar la productividad de los comerciantes, ampliar las operaciones digitales y simplificar la administración para reducir los costes y acelerar la innovación. Esta solución se integra a la perfección con los sistemas existentes, ofreciendo servicios de migración de tiendas, integraciones de catálogos plug-and-play y organización unificada de catálogos, lo que la hace ideal para las empresas que buscan aumentar sus ingresos y optimizar las experiencias de compra sin necesidad de volver a plataformas.
 
