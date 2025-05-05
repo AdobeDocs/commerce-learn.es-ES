@@ -33,5 +33,5 @@ Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones d
 
 ## Recursos adicionales
 
-- [Guía de Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Guía de Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=es)
 - [Inventory management - Documentación de REST para desarrolladores](https://developer.adobe.com/commerce/webapi/rest/inventory/)

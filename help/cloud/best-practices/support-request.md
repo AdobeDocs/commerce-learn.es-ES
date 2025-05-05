@@ -39,4 +39,4 @@ Muchos de los problemas de Adobe Commerce se pueden rastrear a través de New Re
 
 >[!MORELIKETHIS]
 > 
-> - [Guía del usuario de la Ayuda de Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> - [Guía del usuario de la Ayuda de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

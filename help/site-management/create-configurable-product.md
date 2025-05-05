@@ -30,7 +30,7 @@ En este tutorial, aprenderá a crear un producto configurable mediante la API de
 
 Utilice la API de REST para crear un producto configurable:
 
-1. Obtenga los atributos de un [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) para usar los números de identificación en llamadas de API posteriores.
+1. Obtenga los atributos de un [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=es) para usar los números de identificación en llamadas de API posteriores.
 1. Cree productos simples para utilizarlos en el producto configurable.
 1. Cree un producto configurable vacío y asocie los productos simples.
 1. Establezca los atributos del producto para el producto configurable.
@@ -348,6 +348,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Recursos adicionales
 
 - [Crear un tutorial de producto configurable](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Producto configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+- [Producto configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=es){target="_blank"}
 - [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

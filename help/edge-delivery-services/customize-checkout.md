@@ -39,4 +39,4 @@ Descubra ejemplos de personalización de la experiencia de colocación del carro
 
 ## Documentación adicional
 
-* [Cierre de compra de invitados de varios pasos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Cierre de compra de invitados de varios pasos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=es)

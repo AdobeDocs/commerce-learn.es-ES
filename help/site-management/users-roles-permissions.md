@@ -32,6 +32,6 @@ Si hay otros miembros de su equipo o proveedores de servicios que necesitan acce
 
 ## Recursos adicionales
 
-[Administrar cuentas de usuario de administrador - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Administrar cuentas de usuario de administrador - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=es)
 
-[Funciones de usuario - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Funciones de usuario - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=es)

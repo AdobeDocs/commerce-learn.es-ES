@@ -38,5 +38,5 @@ Para pequeñas empresas, empresas intermediarias o grandes empresas, los servici
 
 ## Recursos adicionales
 
-- [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=es)
+- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=es)

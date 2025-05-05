@@ -62,5 +62,5 @@ Para ver una página en el terminal y mostrar los números de línea `cat -n ven
 
 ## Recursos adicionales
 
-- [Herramienta de línea de comandos](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Configurar la seguridad de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Herramienta de línea de comandos](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=es){target="_blank"}
+- [Configurar la seguridad de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=es){target="_blank"}

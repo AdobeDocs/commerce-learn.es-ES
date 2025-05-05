@@ -33,4 +33,4 @@ En este vídeo:
 
 ## Recursos adicionales
 
-[Categorías - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[Categorías - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html?lang=es)

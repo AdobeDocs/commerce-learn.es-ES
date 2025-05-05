@@ -32,12 +32,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## Recursos adicionales
 
-[Plantillas de correo electrónico - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[Plantillas de correo electrónico - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=es)
 
-[Variables y comunicaciones con los clientes - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[Variables y comunicaciones con los clientes - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=es#variables-and-customer-communications)

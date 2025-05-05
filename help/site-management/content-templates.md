@@ -32,5 +32,5 @@ El uso de plantillas le ahorra tiempo y esfuerzo al crear contenido (o reemplaza
 
 ## Recursos adicionales
 
-- [[!DNL Page Builder] Plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] Plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=es)
 - [Agregar plantillas - [!DNL Page Builder] Guía para desarrolladores](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

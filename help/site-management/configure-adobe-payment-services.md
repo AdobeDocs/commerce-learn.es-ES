@@ -33,6 +33,6 @@ Para empezar a utilizar Servicios de pago para Adobe Commerce y Magento Open Sou
 
 ## Recursos adicionales
 
-- [Servicios de pago integrados](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Servicios de pago integrados](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=es){target="_blank"}
+- [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=es){target="+blank"}
+- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=es){target="+blank"}

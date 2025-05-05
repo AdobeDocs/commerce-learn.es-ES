@@ -34,4 +34,4 @@ Su tienda está cargada de lugares donde puede introducir metadatos enriquecidos
 
 ## Recursos adicionales
 
-[Metadatos - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Metadatos - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=es)

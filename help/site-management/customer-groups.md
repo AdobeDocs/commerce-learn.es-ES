@@ -33,5 +33,5 @@ Los grupos de clientes determinan qué descuentos están disponibles y la clase 
 
 ## Recursos adicionales
 
-- [Grupos de clientes - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Grupos de clientes - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=es)
 - [Limitaciones de grupos de clientes por sitios web: [!DNL Commerce] Guía de administración de clientes](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

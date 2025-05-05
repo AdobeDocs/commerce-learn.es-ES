@@ -71,8 +71,8 @@ Antes de aplicar parches, es crucial probarlos en un entorno de ensayo. Asegúre
 
 ## Artículos y vídeos relacionados
 
-* [Búsqueda de herramientas de parches de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [Notas de la versión](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Búsqueda de herramientas de parches de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=es)
+* [Notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github para parches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Uso de la herramienta de revisión de calidad](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vídeo técnico sobre QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Uso de la herramienta de revisión de calidad](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vídeo técnico sobre QPT](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/tools/quality-patch-tool)

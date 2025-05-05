@@ -50,7 +50,7 @@ La herramienta CLI de Magento en la nube está diseñada para ayudar a los desar
 
 En esta sección inicial del código de ejemplo, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`, se solicita la dirección URL del entorno. El valor devuelto se parece a este `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De vez en cuando se parece más a este `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Este primer comando es bastante simple, y ahora es el momento de pasar al siguiente comando.
 
-Para obtener más información, lea [Información general sobre la CLI de la nube](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Para obtener más información, lea [Información general sobre la CLI de la nube](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Usando `sed` para buscar y reemplazar
 

@@ -31,7 +31,7 @@ Vea esta serie de vídeos para aclarar su comprensión de los cambios sin preced
 
 >[!TIP]
 >
->Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} proporciona información general completa para obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es){target="_blank"} proporciona información general completa para obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 

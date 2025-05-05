@@ -57,8 +57,8 @@ Una vez que el visitante escanea el código QR con su dispositivo, el elemento s
 
 ## Recursos útiles
 
-[Visor de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Administre modelos 3D de productos con el visor de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[Visor de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=es){target="_blank"}
+[Administre modelos 3D de productos con el visor de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=es){target="_blank"}
 
 ## Extensión de Adobe Commerce Marketplace
 

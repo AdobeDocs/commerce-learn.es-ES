@@ -33,5 +33,5 @@ Los atributos del cliente proporcionan la información necesaria para respaldar 
 
 ## Recursos adicionales
 
-- [Propiedades de atributos del cliente - [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [Propiedades de atributos del cliente - [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=es)
+- [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=es)

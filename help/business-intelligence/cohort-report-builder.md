@@ -33,7 +33,7 @@ En este vídeo:
 
 >[!TIP]
 >
->Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} proporciona información general completa para obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es){target="_blank"} proporciona información general completa para obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 
@@ -46,6 +46,6 @@ En este vídeo:
 
 ## Recursos útiles
 
-[Uso del Report Builder de cohortes - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[Uso del Report Builder de cohortes - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=es)
 
-[Crear un análisis de cohorte cualitativo - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[Crear un análisis de cohorte cualitativo - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=es)

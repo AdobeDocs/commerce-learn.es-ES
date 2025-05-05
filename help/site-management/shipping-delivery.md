@@ -33,6 +33,6 @@ Administrar los métodos de envío y entrega es fundamental para asegurarse de q
 
 ## Recursos adicionales
 
-- [Configuración de envío - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Métodos de envío básicos - [!DNL Commerce] Guía de compras y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Configuración del transportista de envío - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [Configuración de envío - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=es)
+- [Métodos de envío básicos - [!DNL Commerce] Guía de compras y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=es#basic-delivery-methods)
+- [Configuración del transportista de envío - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=es)
