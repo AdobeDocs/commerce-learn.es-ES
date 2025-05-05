@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Administrar cuentas de empresa
 
-Para los comerciantes B2B, la página _[!UICONTROL Companies]_enumera todas las cuentas de compañía actuales y su estado. Puede administrar las cuentas de su compañía aquí. Cualquier solicitud de aprobación pendiente aparecerá en la parte superior de la lista. Los controles estándar del área de trabajo se pueden utilizar para filtrar la lista, cambiar el diseño de la columna, guardar vistas y exportar datos.
+Para los comerciantes B2B, la página _[!UICONTROL Companies]_&#x200B;enumera todas las cuentas de compañía actuales y su estado. Puede administrar las cuentas de su compañía aquí. Cualquier solicitud de aprobación pendiente aparecerá en la parte superior de la lista. Los controles estándar del área de trabajo se pueden utilizar para filtrar la lista, cambiar el diseño de la columna, guardar vistas y exportar datos.
 
 {{b2b-feature}}
 
