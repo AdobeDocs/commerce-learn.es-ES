@@ -33,4 +33,4 @@ _ Clientes nuevos y existentes que exploran la tienda de entregas de Edge de Ado
 - Obtenga información sobre la optimización mediante pruebas A/B.
 - Conozca algunas herramientas avanzadas e integración de IA para refinar el contenido, generar variaciones y mejorar la estrategia promocional general.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433535?learn=on&captions=spa)

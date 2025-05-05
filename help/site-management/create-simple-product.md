@@ -30,7 +30,7 @@ Aprenda a crear un producto sencillo mediante la API de REST y el administrador 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443905?learn=on&captions=spa)
 
 ## Creación de un producto con curl
 

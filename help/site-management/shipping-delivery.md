@@ -29,7 +29,7 @@ Administrar los métodos de envío y entrega es fundamental para asegurarse de q
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411831?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

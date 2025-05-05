@@ -43,7 +43,7 @@ Al crear productos agrupados desde el administrador de Adobe Commerce, cree prim
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454041?learn=on&captions=spa)
 
 ## Configuración del producto agrupado
 

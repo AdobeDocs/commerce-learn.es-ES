@@ -39,7 +39,7 @@ Puede establecer los siguientes parámetros relacionados con el crédito para ca
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410758?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

@@ -33,4 +33,4 @@ Obtenga información sobre cómo buscar alertas, directivas, flujos de trabajo y
 * Obtenga información sobre notificaciones de alerta, políticas y flujos de trabajo
 * Guardar el destino y validar el nuevo correo electrónico se añadió a una directiva
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441201?learn=on&captions=spa)

@@ -40,7 +40,7 @@ API Mesh combina varias fuentes de datos para obtener una única respuesta para 
 * Caso de uso para realizar una comprobación de inventario en tiempo real al cerrar la compra
 * Alejar los esfuerzos de desarrollo y el uso de recursos de su aplicación de comercio
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421885?quality=12&learn=on&captions=spa)
 
 ## Casos de uso de ejemplo
 

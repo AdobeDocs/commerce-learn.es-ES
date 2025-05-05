@@ -30,4 +30,4 @@ Obtenga información sobre las distintas opciones de Report Builder, y cómo lee
 
 ## Informes y paneles de Adobe Commerce Intelligence
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453146?learn=on&captions=spa)

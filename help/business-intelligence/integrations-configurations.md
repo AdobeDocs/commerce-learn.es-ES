@@ -33,4 +33,4 @@ El documento también cubre el proceso de sincronización de tablas con la Data 
 
 ## Integraciones y configuraciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452693?learn=on&captions=spa)

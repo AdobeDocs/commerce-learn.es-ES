@@ -30,7 +30,7 @@ Obtenga información acerca del uso de Fastly en la nube para Adobe Commerce.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432810?learn=on&captions=spa)
 
 ## Documentación del Experience League y el comprobador de Fastly Adobe Commerce mencionado en el vídeo
 

@@ -40,4 +40,4 @@ Aprenda a utilizar las configuraciones y ajustes de búsqueda de Adobe Live. Obt
 * Tipos de clasificación basados en reglas explicados
 * Introducción a API de GraphQL
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454457?learn=on&captions=spa)

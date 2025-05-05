@@ -33,7 +33,7 @@ ht-degree: 0%
 * Cómo anexar el archivo para agregar nuevos secretos
 * Evite confirmar este archivo porque contiene información confidencial
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421066?quality=12&learn=on&captions=spa)
 
 ## Ejemplo de código
 

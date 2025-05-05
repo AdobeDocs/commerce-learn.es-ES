@@ -49,7 +49,7 @@ Al crear productos configurables desde el administrador de Adobe Commerce, puede
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455038?learn=on&captions=spa)
 
 ## Obtener los atributos de color mediante cURL
 

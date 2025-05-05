@@ -34,6 +34,6 @@ Aprenda a aprovechar la arquitectura de referencia global o GRA para abreviar. P
 * Recopilación de requisitos
 * ¿Cuándo implica al equipo de control de calidad?
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456003?learn=on&captions=spa)
 
 {{$include /help/_includes/gra-related-links.md}}

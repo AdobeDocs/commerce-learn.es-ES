@@ -37,7 +37,7 @@ Con los permisos necesarios para su función, los clientes B2B pueden configurar
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410764?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

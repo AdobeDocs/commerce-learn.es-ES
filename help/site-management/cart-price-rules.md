@@ -30,7 +30,7 @@ Las reglas de precios del carro de compras aplican descuentos a los artículos d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410803?quality=12&learn=on&captions=spa)
 
 ## Problemas de visualización de precios
 

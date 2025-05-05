@@ -28,7 +28,7 @@ En este vídeo, aprenderá sobre la Herramienta de observación para Adobe Comme
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344444?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410746?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

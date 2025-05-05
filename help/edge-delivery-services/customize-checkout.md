@@ -35,7 +35,7 @@ Descubra ejemplos de personalización de la experiencia de colocación del carro
 * Implementación del cierre de compra de varios pasos&#x200B;
 * Reutilización del código existente y prácticas recomendadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442653?learn=on&captions=spa)
 
 ## Documentación adicional
 

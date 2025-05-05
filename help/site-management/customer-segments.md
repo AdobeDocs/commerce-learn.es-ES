@@ -31,7 +31,7 @@ Los segmentos de cliente le permiten mostrar dinámicamente contenido y promocio
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411828?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

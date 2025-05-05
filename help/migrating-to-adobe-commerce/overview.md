@@ -33,4 +33,4 @@ Le damos la bienvenida a esta completa serie de tutoriales de migración a Adobe
 * Conozca los pasos esenciales y las prácticas recomendadas para una migración correcta a Adobe Commerce.
 * Evalúe y optimice el código personalizado, los módulos de terceros y comprenda los conceptos clave de control de calidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444323/?learn=on&captions=spa)

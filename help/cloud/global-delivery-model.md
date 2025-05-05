@@ -33,4 +33,4 @@ Adobe Commerce es una plataforma híbrida de comercio electrónico en la nube di
 - Servicios avanzados impulsados por IA. Obtendrá conocimientos sobre los servicios inteligentes con prioridad API, como búsqueda en directo, recomendaciones de productos alimentadas por IA y servicios de catálogo para mejorar la experiencia del cliente y la eficacia operativa.
 - Herramientas completas para desarrolladores. Obtenga información acerca del conjunto de herramientas para desarrolladores nativas en la nube y sin servidor, como API Mesh y App Builder, que permiten una integración y personalización sin problemas para ampliar las funcionalidades comerciales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433503?learn=on&captions=spa)

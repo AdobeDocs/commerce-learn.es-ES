@@ -32,7 +32,7 @@ Obtenga información sobre cómo crear un vale de soporte en Experience League p
 * Descubra cómo cambian los artículos recomendados según la información utilizada en el formulario
 * Comprender cómo el texto de marcador de posición encontrado en los campos del formulario ayuda a comprender el tipo de información necesaria para una buena solicitud de soporte técnico
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449556?learn=on&captions=spa)
 
 ## Guía del centro de ayuda de Commerce Knowledge Base
 

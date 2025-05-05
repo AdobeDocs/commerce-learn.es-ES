@@ -36,7 +36,7 @@ Aprenda a utilizar el carrito de compras de Adobe Commerce para acceder y ajusta
 * Obtenga información sobre cómo incluir una cantidad total guardada para el resumen del carro de compras.
 * Obtenga información sobre cómo combinar líneas en el resumen del carro de compras en una sección plegable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441188?learn=on&captions=spa)
 
 ## Documentación adicional
 

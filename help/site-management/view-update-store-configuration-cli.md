@@ -27,7 +27,7 @@ Demostración sobre cómo ver, establecer y buscar valores de configuración con
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439973?&learn=on&captions=spa)
 
 ## Algunos comandos utilizados en el tutorial
 

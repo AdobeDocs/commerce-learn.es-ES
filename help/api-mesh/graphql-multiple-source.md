@@ -34,7 +34,7 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con v
 * Solucionar errores, como conflictos de nombres, disponibilidad de esquemas y otros problemas de sintaxis de esquemas
 * Actualización de la malla con una configuración modificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419786?quality=12&learn=on&captions=spa)
 
 ## Cree el archivo de configuración json.
 

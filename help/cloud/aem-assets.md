@@ -32,4 +32,4 @@ Al integrar la IA con Adobe Commerce, se centraliza la administración de recurs
 - Sincronización perfecta entre productos y recursos.
 - Control del ciclo de vida completo, incluida la aprobación, la eliminación y la caducidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434079?learn=on&captions=spa)

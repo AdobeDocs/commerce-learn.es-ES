@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Esta es la parte 4 de la serie para GraphQL y Adobe Commerce. Las consultas y mutaciones utilizadas dependen de un gráfico de datos específico que se implementa en el servidor, que el tiempo de ejecución de GraphQL consume y utiliza para resolver la consulta. La especificación de GraphQL define un lenguaje agnóstico para expresar los tipos y relaciones del gráfico de datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446613?learn=on&captions=spa)
 
 ## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
 

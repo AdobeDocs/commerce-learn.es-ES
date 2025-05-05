@@ -29,7 +29,7 @@ Los clientes a veces necesitan ayuda para completar una compra. A algunos client
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411830?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

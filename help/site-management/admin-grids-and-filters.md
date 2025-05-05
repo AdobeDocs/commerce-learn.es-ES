@@ -31,4 +31,4 @@ Obtenga información sobre cómo buscar y ajustar filtros para utilizarlos en el
 * Obtenga información sobre cómo utilizar un filtro para limitar los resultados de una cuadrícula de administración
 * Descubra cómo los filtros afectan a otros administradores en el Admin Console de Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440385?learn=on&captions=spa)

@@ -31,7 +31,7 @@ La herramienta de reescritura de URL permite cambiar cualquier URL asociada a un
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411821?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

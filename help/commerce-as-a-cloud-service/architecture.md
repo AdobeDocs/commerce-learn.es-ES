@@ -39,4 +39,4 @@ Obtenga información acerca de la arquitectura y las funciones clave de Adobe Co
 * Amplia cobertura de API: La plataforma admite una amplia cobertura de API mediante las API de GraphQL y REST, lo que permite una integración perfecta con sistemas de terceros.
 * Arquitectura sin encabezado: la arquitectura totalmente disociada permite a los desarrolladores utilizar varios marcos front-end, lo que ofrece flexibilidad y rendimiento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443270?learn=on&captions=spa)

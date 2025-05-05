@@ -35,7 +35,7 @@ En el front-end, la experiencia con implementaciones sin encabezado puede simpli
 * Conozca algunas consideraciones sobre front-end y back-end.
 * Planifique una migración sin problemas mediante la evaluación de los módulos existentes, la actualización de las aplicaciones principales y la integración con otras soluciones de Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447447/?learn=on&captions=spa)
 
 ## Documentación relacionada
 

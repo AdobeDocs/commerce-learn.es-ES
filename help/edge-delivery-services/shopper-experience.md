@@ -43,4 +43,4 @@ Cómo navegar y utilizar de forma eficaz las funciones de la tienda de Adobe Com
 * Obtenga información sobre cómo administrar pedidos, como añadir artículos al carro de compras, cerrar la compra como invitado, cancelar pedidos y reordenar artículos.
 * Obtenga información sobre la actualización de información de la cuenta, la combinación de carros de compras para clientes e invitados y la garantía de una experiencia de cierre de compra sin problemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446765?learn=on&captions=spa)

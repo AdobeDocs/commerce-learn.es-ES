@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo restablecer el URI de administrador mediante el comando cli de Adobe Commerce Cloud. Resulta útil si la dirección URL de administración se ha cambiado de administrador, pero se ha producido un error y ya no puede acceder a él.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439695/?learn=on&captions=spa)
 
 ## Algunos comandos utilizados en el tutorial
 

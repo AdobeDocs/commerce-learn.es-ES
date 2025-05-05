@@ -33,4 +33,4 @@ Se integra perfectamente con los productos de Adobe Experience Cloud para crear 
 - Mayor participación y lealtad del cliente
 - Integración perfecta y vista de cliente unificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433572?learn=on&captions=spa)

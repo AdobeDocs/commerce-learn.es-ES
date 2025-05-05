@@ -37,7 +37,7 @@ Obtenga información sobre cómo funciona el mecanismo de reintentos en el conte
 * Indicadores visuales en Developer Console, como iconos de advertencia para eventos fallidos e iconos de flecha circulares para eventos reintentados.
 * Las acciones de tiempo de ejecución &quot;consumidor&quot; desempeñan un papel crucial a la hora de determinar los códigos de estado de respuesta HTTP adecuados para la gestión de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449076?learn=on&captions=spa)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

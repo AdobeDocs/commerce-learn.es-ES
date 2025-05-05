@@ -33,4 +33,4 @@ Obtenga información sobre cómo crear alertas personalizadas en New Relic para 
 * Explicación de cómo se pueden definir los umbrales para las alertas en función de la agregación de datos.
 * Configure alertas con niveles de gravedad y asignadas a directivas existentes para controlar los flujos de trabajo y destinos de las notificaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440774?learn=on&captions=spa)

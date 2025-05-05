@@ -28,7 +28,7 @@ Si hay otros miembros de su equipo o proveedores de servicios que necesitan acce
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443510?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

@@ -34,7 +34,7 @@ Para pequeñas empresas, empresas intermediarias o grandes empresas, los servici
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410788?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

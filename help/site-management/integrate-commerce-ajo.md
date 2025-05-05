@@ -37,7 +37,7 @@ Aprenda a utilizar [Conexión de datos](https://experienceleague.adobe.com/docs/
 - En Adobe Journey Optimizer, cree y active fácilmente recorridos de cliente 1:1 con eventos predeterminados disponibles con la conexión de datos
 - Interactúe con los compradores en todos los canales en tiempo real mediante las funciones de mensajería nativas de Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452467/?learn=on&captions=spa)
 
 ## Recursos adicionales
 

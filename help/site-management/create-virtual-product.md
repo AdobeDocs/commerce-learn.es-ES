@@ -30,7 +30,7 @@ Obtenga información sobre cómo crear un producto virtual mediante la API de RE
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444867?learn=on&captions=spa)
 
 ## Creación de un producto virtual con curl
 

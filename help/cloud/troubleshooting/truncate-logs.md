@@ -33,7 +33,7 @@ Si cree que podría necesitar estos archivos de registro, puede `rsync` o utiliz
 - Donde se encuentran algunos archivos de registro grandes comunes
 - Método rápido para truncar un archivo de registro
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454586?learn=on&captions=spa)
 
 
 ## Comandos utilizados en el vídeo

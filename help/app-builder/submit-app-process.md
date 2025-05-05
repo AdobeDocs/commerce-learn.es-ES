@@ -33,6 +33,6 @@ Adobe Commerce Marketplace ahora acepta envíos para la lista de aplicaciones de
 * Secciones técnicas y de marketing del envío de la aplicación
 * Ejemplo de correo electrónico que recibirá después de que la aplicación haya aprobado la revisión.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447347?captions=spa)
 
 {{$include /help/_includes/app-builder-related-links.md}}

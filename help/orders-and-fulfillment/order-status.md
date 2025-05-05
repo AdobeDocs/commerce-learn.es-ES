@@ -28,7 +28,7 @@ Cuando un cliente realiza un pedido, se crea un pedido de venta como un registro
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343935?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410796?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

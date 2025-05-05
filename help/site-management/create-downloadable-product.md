@@ -30,7 +30,7 @@ Obtenga información sobre cómo crear un producto descargable mediante la API d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453945?learn=on&captions=spa)
 
 ## Dominios descargables permitidos
 

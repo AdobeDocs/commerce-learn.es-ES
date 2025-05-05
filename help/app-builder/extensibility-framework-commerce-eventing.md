@@ -25,6 +25,6 @@ En esta demostración funcional se describen App Builder y sus posibles casos de
 
 ## App Builder para Adobe Commerce {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447481?learn=on&captions=spa)
 
 {{$include /help/_includes/app-builder-related-links.md}}

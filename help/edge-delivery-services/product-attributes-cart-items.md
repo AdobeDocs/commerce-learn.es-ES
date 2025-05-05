@@ -38,7 +38,7 @@ Aprenda a utilizar la función de colocación del carro de compras de Adobe Comm
 * Descuento de cupón que se muestra mediante las reglas del carro de compras y las ranuras para pie de página para mostrar esta información de forma eficaz.
 * Uso de atributos de producto y Ranuras para ampliar y personalizar la funcionalidad del carro de compras, lo que garantiza que se cumplan todos los requisitos del proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441119?learn=on&captions=spa)
 
 
 ## Documentación adicional

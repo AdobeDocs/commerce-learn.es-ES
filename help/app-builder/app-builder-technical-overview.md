@@ -26,6 +26,6 @@ El siguiente vídeo ofrece información general técnica sobre un patrón de int
 
 ## App Builder para Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430837?quality=12&learn=on&captions=spa)
 
 {{$include /help/_includes/app-builder-related-links.md}}

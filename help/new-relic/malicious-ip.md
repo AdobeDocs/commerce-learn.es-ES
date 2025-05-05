@@ -26,4 +26,4 @@ En este vídeo:
 
 - Identifique una IP potencial que sea sospechosa o maliciosa&#x200B; para utilizarla en Fastly para bloquearla
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417126?quality=12&learn=on&captions=spa)

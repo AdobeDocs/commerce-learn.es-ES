@@ -34,7 +34,7 @@ Obtenga información sobre cómo configurar Adobe Commerce para que exponga los 
 * Guardado del identificador único en el administrador de Commerce
 * Creación de un proveedor de eventos
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419712?quality=12&learn=on&captions=spa)
 
 ## Comandos útiles {#useful-commands}
 

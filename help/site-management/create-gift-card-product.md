@@ -31,7 +31,7 @@ Obtenga información sobre cómo crear un producto de tarjeta regalo mediante la
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453080?learn=on&captions=spa)
 
 ## Crear una tarjeta regalo con una carga útil simple
 

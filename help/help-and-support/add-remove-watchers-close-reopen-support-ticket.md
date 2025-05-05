@@ -31,7 +31,7 @@ Aprenda a añadir y eliminar observadores, así como a cerrar y volver a abrir u
 * Obtenga información sobre cómo cerrar un ticket de asistencia
 * Obtenga información sobre cómo volver a abrir una solicitud de asistencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441354?learn=on&captions=spa)
 
 ## Guía del centro de ayuda de Commerce Knowledge Base
 
