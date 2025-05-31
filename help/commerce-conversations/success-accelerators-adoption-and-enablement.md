@@ -34,4 +34,4 @@ Los aceleradores de éxito de Adobe Commerce para la adopción y la habilitació
 * Asesoramiento técnico durante varias sesiones para cerrar las brechas de habilidades y alinearse con las prioridades estratégicas.
 * Creación de acceso, permisos y administración del diseño para garantizar la adopción adecuada del producto y las prácticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463081/?learn=on&enablevpops&captions=spa)
