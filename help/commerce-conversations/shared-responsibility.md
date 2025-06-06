@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 152
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
-source-git-commit: 3dd00fba9c51b7bd636008aa341206c71b4ac6c5
+exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
+source-git-commit: bd2ae796c91bbec5b07e3f9aaf4967e67f31ceb7
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Responsabilidad compartida
 
@@ -34,3 +34,10 @@ Descubra cómo Adobe y los comerciantes comparten la responsabilidad de mantener
 * Prácticas recomendadas: Adobe recomienda prácticas recomendadas para los comerciantes, incluida la activación de la autenticación de doble factor, la configuración del acceso seguro de administrador y el cumplimiento del principio de menor privilegio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+
+## Documentación adicional
+
+* [Notas de la versión del parche de seguridad](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Canales de notificación](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Boletines de seguridad de Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Proteja su sitio de comercio e infraestructura](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
