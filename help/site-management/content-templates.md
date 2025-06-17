@@ -29,7 +29,7 @@ El uso de plantillas le ahorra tiempo y esfuerzo al crear contenido (o reemplaza
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410841?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 

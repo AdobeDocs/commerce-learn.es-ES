@@ -31,7 +31,7 @@ Un bloque es una unidad modular de contenido que se puede colocar en la mayoría
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411067?quality=12&learn=on&captions=spa)
 
 ## Recursos adicionales
 
