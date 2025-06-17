@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Page Builder] información general'
+title: Información general de [!DNL Page Builder]
 description: Obtenga información sobre cómo crear páginas [!DNL Commerce] almacenar páginas en el administrador mediante [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
@@ -11,14 +11,15 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 1%
 
 ---
 
-# Resumen de [!DNL Page Builder]
+# Información general de [!DNL Page Builder]
 
 [!DNL Page Builder] facilita la creación de páginas con contenido enriquecido con diseños personalizados que mejoran la narración visual y aumentan la participación y lealtad de los clientes.
 
@@ -40,9 +41,9 @@ En este vídeo, aprenderá lo siguiente:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3447894?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Guía del usuario de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=es)
+- [Guía del usuario de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 - [Guía para desarrolladores de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
