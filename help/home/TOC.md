@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 3%
 
 ---
@@ -147,12 +147,13 @@ ht-degree: 3%
       + [Configuración de Adobe Commerce](../io-events/configure-commerce.md)
       + [Desarrollo de módulo Adobe Commerce](../io-events/commerce-module-development.md)
       + [Eventos condicionales de Adobe Commerce](../io-events/conditional-events.md)
-   + API Mesh {#api-mesh}
-      + [Introducción a API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Instalación del complemento de Adobe IO y mesh](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Uso de proyectos y espacios de trabajo](../api-mesh/aio-projects-workspaces.md)
-      + [Crear una malla de API de GraphQL de origen único](../api-mesh/graphql-single-source.md)
-      + [Crear una malla de API de GraphQL de varios orígenes](../api-mesh/graphql-multiple-source.md)
++ API Mesh {#api-mesh}
+   + [Kit de inicio de malla de API con GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+   + [Introducción a API Mesh](../api-mesh/getting-started-api-mesh.md)
+   + [Instalación del complemento de Adobe IO y mesh](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Uso de proyectos y espacios de trabajo](../api-mesh/aio-projects-workspaces.md)
+   + [Crear una malla de API de GraphQL de origen único](../api-mesh/graphql-single-source.md)
+   + [Crear una malla de API de GraphQL de varios orígenes](../api-mesh/graphql-multiple-source.md)
 + Administración de tienda {#admin}
    + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
    + [Autenticación de doble factor](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [Información general sobre la herramienta de compatibilidad de actualización](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Uso de la herramienta de compatibilidad de actualización en PHP Storm](../upgrade/uct-phpstorm.md)
 + Desarrollo back-end {#backend-development}
-   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creación de un módulo](../backend-development/create-module.md)
    + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
    + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 3%
       + [6 - Peregrino](../pwa/introduction/6-peregrine.md)
    + [Desarrollo de PWA Docker](../pwa/pwa-docker-development.md)
    + [Configuración de Venia para desarrollo](../pwa/set-up-venia-for-dev.md)
-
