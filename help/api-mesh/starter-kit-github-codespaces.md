@@ -33,7 +33,7 @@ Esta sesión presenta el kit de inicio de malla de API de Adobe Commerce, diseñ
 * Herramientas integradas para pruebas: incluye un servidor GraphQL preconfigurado (Yoga) y reinicios automáticos del servidor para un desarrollo sin problemas.
 * Aprendizaje práctico: Clone el Starter Kit, configure los puntos de conexión y pruebe las respuestas de API directamente en el explorador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464020?learn=on&enablevpops&captions=spa)
 
 ## Documentación relacionada
 
