@@ -51,6 +51,6 @@ La aplicación de Commerce tiene una API de REST y un extremo de GraphQL. Por ej
 Como desarrollador que utiliza Adobe App Builder y API Mesh, no es necesario comprender qué es un proxy inverso. Sin embargo, si le interesa la funcionalidad general en lo que respecta a Adobe App Builder, utilice los siguientes recursos:
 
 * [Qué es un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Comunidades Experience League - proxy inverso](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+* [Comunidades Experience League - proxy inverso](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=es){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
