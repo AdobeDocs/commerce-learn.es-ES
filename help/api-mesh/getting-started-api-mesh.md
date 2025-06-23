@@ -12,9 +12,9 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
+source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '311'
 ht-degree: 15%
 
 ---
@@ -40,7 +40,7 @@ API Mesh combina varias fuentes de datos para obtener una única respuesta para 
 * Caso de uso para realizar una comprobación de inventario en tiempo real al cerrar la compra
 * Alejar los esfuerzos de desarrollo y el uso de recursos de su aplicación de comercio
 
->[!VIDEO](https://video.tv.adobe.com/v/3421885?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Casos de uso de ejemplo
 
@@ -48,9 +48,9 @@ La aplicación de Commerce tiene una API de REST y un extremo de GraphQL. Por ej
 
 ## Qué es un proxy inverso
 
-Como desarrollador que utiliza Adobe App Builder y API Mesh, no es necesario comprender qué es un proxy inverso. Sin embargo, si está interesado en la funcionalidad general en lo que respecta a Adobe App Builder, utilice los siguientes recursos:
+Como desarrollador que utiliza Adobe App Builder y API Mesh, no es necesario comprender qué es un proxy inverso. Sin embargo, si le interesa la funcionalidad general en lo que respecta a Adobe App Builder, utilice los siguientes recursos:
 
 * [Qué es un proxy inverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Qué es un proxy inverso y por qué importa](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Comunidades Experience League - proxy inverso](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
