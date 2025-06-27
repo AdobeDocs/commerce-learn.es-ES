@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
+source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '884'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Eventos condicionales de Adobe Commerce](../io-events/conditional-events.md)
 + API Mesh {#api-mesh}
    + [Kit de inicio de malla de API con GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+   + [Flujos de trabajo del Starter Kit API Mesh](../api-mesh/starter-kit-workflows.md)
    + [Introducción a API Mesh](../api-mesh/getting-started-api-mesh.md)
    + [Instalación del complemento de Adobe IO y mesh](../api-mesh/installing-aio-mesh-plugin.md)
    + [Uso de proyectos y espacios de trabajo](../api-mesh/aio-projects-workspaces.md)
@@ -236,7 +237,7 @@ ht-degree: 3%
    + [Información general sobre la herramienta de compatibilidad de actualización](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Uso de la herramienta de compatibilidad de actualización en PHP Storm](../upgrade/uct-phpstorm.md)
 + Desarrollo back-end {#backend-development}
-   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creación de un módulo](../backend-development/create-module.md)
    + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
    + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
