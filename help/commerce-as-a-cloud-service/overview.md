@@ -43,4 +43,4 @@ Adobe Commerce as a Cloud Service proporciona una solución flexible, escalable 
 
 ## Documentación relacionada
 
-* [Guía de Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)
+* [Guía de Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce/cloud-service/overview)
