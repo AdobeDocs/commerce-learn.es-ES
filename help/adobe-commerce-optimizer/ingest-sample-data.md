@@ -33,7 +33,7 @@ Obtenga información sobre cómo introducir los datos de ejemplo para la instanc
 * Crear directivas.
 * Crear vistas de catálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470477?learn=on&enablevpops&captions=spa)
 
 ## Contenido relacionado
 
