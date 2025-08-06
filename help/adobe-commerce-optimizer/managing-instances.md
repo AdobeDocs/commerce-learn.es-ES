@@ -33,7 +33,7 @@ Obtenga información sobre cómo administrar una instancia de Adobe Commerce Opt
 * Actualizar nombre y descripciones
 * Buscar extremos e identificadores clave para integraciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470235?learn=on&enablevpops&captions=spa)
 
 ## Contenido relacionado
 
