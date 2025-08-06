@@ -38,6 +38,6 @@ Obtenga información sobre cómo introducir los datos de ejemplo para la instanc
 ## Contenido relacionado
 
 * [Datos de ejemplo del repositorio de GitHub](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Caso de uso de administrador](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Introducción a Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guía](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Caso de uso de administrador](https://experienceleague.adobe.com/es/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Introducción a Adobe Commerce Optimizer](https://experienceleague.adobe.com/es/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guía](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
