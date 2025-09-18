@@ -30,7 +30,7 @@ Obtenga información sobre cómo consultar datos mediante GraphQL en una instanc
 * Consulta de datos mediante GraphQL
 * Usar jq para facilitar la lectura de json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470803?learn=on&enablevpops&captions=spa)
 
 ## Ejemplos de código
 
