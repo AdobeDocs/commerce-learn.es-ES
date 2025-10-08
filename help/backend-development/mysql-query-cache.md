@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,9 @@ Aprenda qué es la caché de consultas MySQL y alguna comprensión básica de c�
 - Ver cómo se guarda y utiliza SQL para buscar una caché de consulta coincidente
 - Algunas sugerencias sobre la configuración
 
->[!VIDEO](https://video.tv.adobe.com/v/3423389?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Recursos útiles
 
-- [Directrices generales de MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=es){target="_blank"}
-- [Interbloqueos en MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=es){target="_blank"}
-- [Replicación Galera y consultas lentas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=es){target="_blank"}
+- [Directrices generales de MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [Replicación Galera y consultas lentas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
