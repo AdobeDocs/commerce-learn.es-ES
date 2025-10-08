@@ -1,6 +1,6 @@
 ---
 title: Descubra cómo funciona Percona Toolkit pt-query-digest y por qué se utiliza
-description: Analizar consultas MySQL desde archivos de registro lentos, generales y binarios. También puede analizar consultas de &grave;SHOW PROCESSLIST&grave; y datos de protocolo MySQL de tcpdump.
+description: Analizar consultas MySQL desde archivos de registro lentos, generales y binarios. También puede analizar consultas de `SHOW PROCESSLIST` y datos de protocolo MySQL de tcpdump.
 kt: 13846
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Aprenda por qué utiliza el compendio pt-query y algunos ejemplos del mundo real
 - Conozca los beneficios y las deficiencias de esta función de Percona Toolkit
 - Comprenda los resultados y aprenda qué posibles pasos de rendimiento deben tenerse en cuenta
 
->[!VIDEO](https://video.tv.adobe.com/v/3452294?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## Referencias de código
 
@@ -46,4 +46,3 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## Recursos útiles
 
 - [Kit de herramientas Percona](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- [Interbloqueos en MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=es){target="_blank"}
