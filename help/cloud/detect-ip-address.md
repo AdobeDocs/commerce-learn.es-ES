@@ -10,7 +10,7 @@ duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
+source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -50,7 +50,7 @@ La herramienta CLI de Magento en la nube está diseñada para ayudar a los desar
 
 En esta sección inicial del código de ejemplo, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`, se solicita la dirección URL del entorno. El valor devuelto se parece a este `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De vez en cuando se parece más a este `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Este primer comando es bastante simple, y ahora es el momento de pasar al siguiente comando.
 
-Para obtener más información, lea [Información general sobre la CLI de la nube](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Para obtener más información, lea [Descripción general de la CLI en la nube](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Usando `sed` para buscar y reemplazar
 
@@ -120,4 +120,4 @@ Estos entornos de nivel inferior son de varios inquilinos y comparten servidores
 
 ## Documentación relacionada
 
-* [Direcciones IP regionales](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Direcciones IP regionales](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
