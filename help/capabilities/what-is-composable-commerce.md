@@ -1,5 +1,5 @@
 ---
-title: Cómo crea el Adobe Commerce compositable
+title: Cómo Adobe crea Commerce componible
 description: Obtenga información sobre el comercio componible, priorice un enfoque de API-First e implemente una arquitectura modular y orientada a servicios.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
