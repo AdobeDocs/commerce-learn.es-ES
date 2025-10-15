@@ -39,5 +39,5 @@ Descubra cómo Adobe y los comerciantes comparten la responsabilidad de mantener
 
 * [Notas de la versión del parche de seguridad](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canales de notificación](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Boletines de seguridad de Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Boletines de seguridad de Adobe](https://helpx.adobe.com/es/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
 * [Proteja su sitio de comercio e infraestructura](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
