@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 65ffab8f8359d493b5519100384f4570b94b7730
+source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '930'
 ht-degree: 3%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 3%
    + [Primera consulta con GraphQL](../adobe-commerce-optimizer/first-query.md)
    + Salesforce Commerce cloud starter kit {#sfcc-starter-kit}
       + [Información general](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+      + [Descripción general de arquitectura](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
 + Arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
    + [Información general](../global-reference-architecture/overview.md)
    + [Dividir Git](../global-reference-architecture/split-git.md)
@@ -249,7 +250,7 @@ ht-degree: 3%
    + [Información general sobre la herramienta de compatibilidad de actualización](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Uso de la herramienta de compatibilidad de actualización en PHP Storm](../upgrade/uct-phpstorm.md)
 + Desarrollo back-end {#backend-development}
-   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creación de un módulo](../backend-development/create-module.md)
    + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
    + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
