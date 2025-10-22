@@ -6,10 +6,10 @@ topic: Administration,Commerce,Integrations
 role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 243
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: fa615aab7b8eff3b13908797cd263ec4cdc65eb6
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Obtenga información acerca de la arquitectura y la funcionalidad del Starter Ki
 * Los cartuchos y las API personalizados de SFC detectan cambios de catálogo a través de exportaciones delta, lo que permite una sincronización de datos eficaz con Adobe App Builder.
 * Las acciones de tiempo de ejecución de App Builder administran las sincronizaciones completas y delta, la validación y el seguimiento de estado para garantizar actualizaciones precisas y sin conflictos en Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476054?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
