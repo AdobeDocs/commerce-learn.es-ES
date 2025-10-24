@@ -33,4 +33,4 @@ Servicio de parches de automatización de la nube (CAPS) de Adobe, una función 
 
 ## Documentación relacionada
 
-* [Documentación del servicio de parches de automatización de nube](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentación del servicio de parches de automatización de nube](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/caps-tool/intro)
