@@ -29,7 +29,7 @@ Servicio de parches de automatización de la nube (CAPS) de Adobe, una función 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476250/?captions=spa&learn=on&enablevpops)
 
 ## Documentación relacionada
 
