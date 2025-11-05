@@ -35,4 +35,4 @@ La hoja de ruta de Adobe Commerce para 2026 describe una estrategia integral par
 * Centro de comerciantes y experiencia de administrador
 * Mejoras en la experiencia y observabilidad del desarrollador
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475709/?captions=spa&learn=on&enablevpops)
