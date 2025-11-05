@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: b050e70785b24b6f8804c3cdcfb11d533179154c
+source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
 
-# Instalación del cartucho de SFCC
+# Instale el cartucho de SFC
 
 Obtenga información sobre cómo instalar y configurar el cartucho de Adobe Commerce Optimizer para una instancia de Salesforce Commerce Cloud. El vídeo muestra cómo clonar el repositorio de código, configurar el cartucho con el código VS y la extensión Prophet y activar una nueva versión de código. Explica cómo habilitar el cartucho para un sitio, configurar las exportaciones Delta e importar definiciones de objetos y trabajos personalizadas. Obtenga información sobre cómo comprobar la configuración del trabajo y probar un extremo de API personalizado para confirmar la instalación y sincronizar el catálogo.
 
@@ -36,4 +36,4 @@ Obtenga información sobre cómo instalar y configurar el cartucho de Adobe Comm
 * Importe definiciones de objetos y trabajos personalizadas para admitir el seguimiento y la sincronización.
 * Pruebe un extremo de API personalizado para confirmar que la instalación se ha realizado correctamente y prepararse para la sincronización del catálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476073?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
