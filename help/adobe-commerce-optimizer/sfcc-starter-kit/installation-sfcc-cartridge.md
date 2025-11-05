@@ -36,4 +36,4 @@ Obtenga información sobre cómo instalar y configurar el cartucho de Adobe Comm
 * Importe definiciones de objetos y trabajos personalizadas para admitir el seguimiento y la sincronización.
 * Pruebe un extremo de API personalizado para confirmar que la instalación se ha realizado correctamente y prepararse para la sincronización del catálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476073?captions=spa&learn=on)
