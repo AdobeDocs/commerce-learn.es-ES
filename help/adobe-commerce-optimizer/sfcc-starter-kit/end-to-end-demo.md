@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: b6748e79109b203772a4846a8197adbb65e6a0d0
+source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Vea una demostración completa que muestra la configuración y ejecución exitos
 
 * Configuración y ejecución de una sincronización completa entre Salesforce Commerce Cloud y Commerce Optimizer mediante App Builder y Starter Kit.
 * Inicia una sincronización completa y confirma el éxito mediante los registros de tiempo de ejecución y el seguimiento de eventos.
-* Los cambios en los detalles del producto y los precios en el catálogo SFC se detectan y actualizan automáticamente en Commerce Optimizer a través del proceso de sincronización delta.
+* Los cambios en los detalles y precios del producto en el catálogo Salesforce Commerce Cloud se detectan y actualizan automáticamente en Commerce Optimizer a través del proceso de sincronización delta.
 * Actualizaciones en tiempo real que muestran un flujo de datos y una sincronización fluidos entre sistemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476096?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
