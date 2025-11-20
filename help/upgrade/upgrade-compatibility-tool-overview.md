@@ -28,9 +28,9 @@ En este vídeo:
 
 - Qué es la herramienta de compatibilidad de actualización
 - Cómo puede ayudarle a identificar rápidamente los errores y correcciones necesarios para actualizar a una versión más reciente de Adobe Commerce
-- Cómo acceder a los resultados del HTML para ayudar a visualizar los módulos por gravedad y cantidad de incompatibilidades
+- Cómo acceder a los resultados de HTML para visualizar los módulos por gravedad y cantidad de incompatibilidades
 
-Para obtener más información acerca de la herramienta, consulte la [documentación de la herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=es). Si desea obtener más información sobre cómo realizar y simplificar las actualizaciones, consulte la [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=es).
+Para obtener más información acerca de la herramienta, consulte la [documentación de la herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Si desea obtener más información sobre cómo realizar y simplificar las actualizaciones, consulte la [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## ¿Para quién es este vídeo?
 
@@ -39,11 +39,11 @@ Para obtener más información acerca de la herramienta, consulte la [documentac
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344382?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Documentación de la herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=es)
-- [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=es)
-- [Versiones publicadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=es)
-- [Programación de versiones](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=es)
+- [Documentación de la herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Versiones publicadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Programación de versiones](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

@@ -38,10 +38,10 @@ En este taller, Adobe Commerce se asoció con Merkle para compartir:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3431942?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Recursos adicionales
 
-- [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=es)
-- [Versiones publicadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=es)
-- [Programación de versiones](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=es)
+- [Guía de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Versiones publicadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Programación de versiones](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

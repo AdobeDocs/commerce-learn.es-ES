@@ -62,7 +62,7 @@ El diagrama siguiente ilustra cómo una aplicación estándar creada en App Buil
 
 ![Arquitectura](/help/assets/app-builder/app-builder-architecture.jpeg)
 
-Para obtener más información acerca de la arquitectura de App Builder, consulte la [Descripción general de arquitectura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
+Para obtener más información acerca de la arquitectura de App Builder, consulte [Descripción general de la arquitectura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Introducción a App Builder {#additional-resources}
 
@@ -89,6 +89,6 @@ App Builder proporciona vídeos y documentación para desarrolladores de, inclui
 
 ## Asistencia {#support}
 
-Para solicitudes de soporte de desarrolladores, usa el [foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=es){target="_blank"} para obtener ayuda.
+Para solicitudes de soporte de desarrolladores, usa el [foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obtener ayuda.
 
 {{$include /help/_includes/app-builder-related-links.md}}
