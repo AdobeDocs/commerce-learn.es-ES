@@ -24,7 +24,7 @@ Esta es la primera parte de la serie para GraphQL y Adobe Commerce. GraphQL se h
 
 Si es nuevo en GraphQL, esta sección le guía por los conceptos y el uso básicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443943?captions=spa&learn=on)
 
 ## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
 

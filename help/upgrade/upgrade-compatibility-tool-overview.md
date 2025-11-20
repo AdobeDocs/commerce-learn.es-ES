@@ -39,7 +39,7 @@ Para obtener más información acerca de la herramienta, consulte la [documentac
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344382?captions=spa&quality=12&learn=on)
 
 ## Recursos adicionales
 
