@@ -3,13 +3,15 @@ title: Truncar registros
 description: Obtenga información sobre cómo seleccionar una implementación fallida debido a un disco duro completo truncando archivos de registro grandes.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ Si cree que podría necesitar estos archivos de registro, puede `rsync` o utiliz
 - Donde se encuentran algunos archivos de registro grandes comunes
 - Método rápido para truncar un archivo de registro
 
->[!VIDEO](https://video.tv.adobe.com/v/3454586?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandos utilizados en el vídeo
@@ -89,4 +91,4 @@ Después de realizar ssh en el proyecto y entorno correctos, cambie al directori
 
 ## Documentación relacionada
 
-- [Notificaciones de estado](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notificaciones de estado](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

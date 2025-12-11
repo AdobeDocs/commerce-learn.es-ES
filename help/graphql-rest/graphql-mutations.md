@@ -1,18 +1,19 @@
 ---
 title: Realización de una mutación con GraphQL
-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
-landing-page-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
-short-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación utilizando llamadas al POST.
+description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
+landing-page-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
+short-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
 kt: 13938
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 Esta es la parte 3 de la serie para GraphQL y Adobe Commerce. Las mutaciones son la capacidad de guardar, actualizar y devolver valores mediante GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441926?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
 
@@ -36,7 +37,7 @@ Esta es la parte 3 de la serie para GraphQL y Adobe Commerce. Las mutaciones son
 
 Cualquier especificación de API completa debe ofrecer la capacidad no solo de consultar datos, sino también de crearlos y actualizarlos.
 
-REST distingue entre solicitudes que cambian datos y aquellas que no lo hacen con el tipo de solicitud o &quot;verbo&quot; (GET vs. POST o PUT).
+REST distingue entre solicitudes que cambian datos y aquellas que no lo hacen con el tipo de solicitud o &quot;verbo&quot; (GET frente a POST o PUT).
 Al utilizar GraphQL, las consultas de modificación de datos se distinguen por la palabra clave `mutation`, que corresponde a otra
 tipo de raíz en el esquema definido en el servidor.
 

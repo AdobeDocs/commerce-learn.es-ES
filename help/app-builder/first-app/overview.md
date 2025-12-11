@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -25,7 +26,7 @@ Este tutorial tiene los siguientes requisitos previos:
 * Se ha completado el acceso a Adobe Developer Console
 * Se ha concedido acceso completo o acceso de prueba a App Builder
 * [Se ha creado la aplicación Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [Se ha creado el proyecto Adobe Developer App Builder](https://developer.adobe.com/console){target="_blank"}
+* [Se ha creado el proyecto de Adobe Developer App Builder](https://developer.adobe.com/console){target="_blank"}
 * [Se han creado los espacios de trabajo de Adobe Developer App Builder: paso 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [Se han ejecutado los comandos CLI de AIO para inicializar el proyecto y ejecutar](https://developer.adobe.com/runtime){target="_blank"}
 
@@ -50,7 +51,7 @@ Este tutorial se ha diseñado para que siga el orden de las páginas en la naveg
 * Expectativas de uso del módulo de ejemplo
 * Piezas reutilizables de en el módulo de muestra
 
->[!VIDEO](https://video.tv.adobe.com/v/3421023?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 
 {{avoid-400-error}}
 

@@ -3,14 +3,15 @@ title: Valores de configuración
 description: Aprenda a localizar, validar y administrar valores de configuración en Adobe Commerce mediante core_config_data, archivos XML y ajustes de administración.
 feature: Cloud, Configuration, System, Variables
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 659
 last-substantial-update: 2024-11-08T00:00:00Z
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
-source-git-commit: 4904cb706e56debb24a86d4611e863431416464e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -34,12 +35,12 @@ Esta guía proporciona información general sobre cómo localizar, validar y adm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436458/?learn=on)
 
-## Documentación del Experience League relacionada
+## Documentación de Experience League relacionada
 
-- [Configuración de exportación](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [Anular configuración](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [Establecer valores de configuración](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [Referencia de configuración config.php](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [Detalles técnicos de la guía de configuración](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [Valores de configuración bloqueados](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [Valores guardados en env.php](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [Configuración de exportación](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [Anular configuración](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [Establecer valores de configuración](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [Referencia de configuración config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [Detalles técnicos de la guía de configuración](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [Valores de configuración bloqueados](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [Valores guardados en env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

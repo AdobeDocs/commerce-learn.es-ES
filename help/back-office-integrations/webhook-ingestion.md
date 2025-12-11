@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # Configurar, implementar y personalizar un webhook de ingesta
 
-Obtenga información acerca de la configuración y personalización de un webhook de ingesta para integrar Commerce con un sistema de back office de terceros&#x200B; En este vídeo se explica cómo el gancho web puede abordar las limitaciones en la comunicación de eventos entre sistemas proporcionando un punto final disponible públicamente para adaptar los mensajes del sistema de terceros a la API de evento de E/S de Adobe. El proceso implica configurar el webhook en el archivo `actions.config.yaml`, habilitarlo en el archivo `app.config.yaml` e implementarlo para garantizar la funcionalidad adecuada.
+Obtenga información acerca de la configuración y personalización de un webhook de ingesta para integrar Commerce con un sistema de back office de terceros&#x200B; En este vídeo se explica cómo el webhook puede solucionar las limitaciones en la comunicación de eventos entre sistemas mediante un punto final disponible públicamente para adaptar los mensajes del sistema de terceros a la API de eventos de Adobe IO. El proceso implica configurar el webhook en el archivo `actions.config.yaml`, habilitarlo en el archivo `app.config.yaml` e implementarlo para garantizar la funcionalidad adecuada.
 
 El vídeo explica los pasos para modificar el código del webhook para traducir eventos de terceros a formatos compatibles con los tipos de eventos suscritos de la integración. Explica cómo agregar un archivo de `event-mapping.json` para facilitar esta traducción y resalta la importancia de volver a implementar la acción de tiempo de ejecución después de realizar los cambios&#x200B; El vídeo también destaca la importancia de validar y transformar las cargas útiles de evento entrantes para alinearlas con el esquema esperado, lo que garantiza un procesamiento y una integración correctos con la API de Commerce para crear clientes.
 

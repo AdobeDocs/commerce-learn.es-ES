@@ -1,5 +1,5 @@
 ---
-title: PWA Studio para desarrolladores - Peregrine
+title: 'PWA Studio para desarrolladores: Peregrine'
 description: Obtenga información acerca de Peregrine, incluida la biblioteca de Peregrine. Comprender la motivación detrás de Peregrine​ las diferencias entre los ganchos y garras de Peregrine.
 kt: 5649
 doc-type: video
@@ -7,17 +7,18 @@ activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# PWA Studio para desarrolladores - Peregrine
+# PWA Studio para desarrolladores: Peregrine
 
 En este vídeo:
 

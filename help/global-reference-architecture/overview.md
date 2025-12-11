@@ -6,12 +6,13 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
-badge: label="Colaboró Tony Evers, arquitecto técnico senior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Colaboró Tony Evers"
+badge: label="Colaboró Tony Evers, arquitecto técnico senior de Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Colaboró Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ En cualquiera de estos casos, es aconsejable explorar con varias instancias de A
 1. **Diferentes propietarios de tiendas**: Si mantiene código para varios propietarios de tiendas, cada uno con su propio almacén, pueden ser necesarias instancias independientes para mantener sus requisitos individuales de forma eficaz.
 2. **Cumplimiento de las regulaciones nacionales**: ciertas regulaciones exigen que los datos de los clientes se almacenen dentro de regiones específicas. En tales casos, es esencial contar con instancias separadas para asegurar el cumplimiento de estas regulaciones.
 3. **Desviaciones operativas entre regiones geográficas**: Operar en varias regiones puede significar diferentes calendarios y requisitos de mantenimiento. El uso de instancias independientes permite flexibilidad para administrar estas variaciones de forma eficaz.
-4. **Ventas de Flash de alta intensidad**: Las tiendas que realizan ventas flash a gran escala a menudo requieren un rendimiento de servidor optimizado. La infraestructura dedicada proporcionada por instancias independientes garantiza un rendimiento óptimo durante estos períodos de alta demanda.
+4. **Ventas de flash de alta intensidad**: Las tiendas que realizan ventas de flash a gran escala a menudo requieren un rendimiento de servidor optimizado. La infraestructura dedicada proporcionada por instancias independientes garantiza un rendimiento óptimo durante estos períodos de alta demanda.
 5. **Diferencias significativas entre marcas o países**: cuando la diferencia entre marcas o países es grande, el uso de una sola instancia genera código que solo se utiliza para algunas marcas o países. Las instancias independientes pueden mejorar el rendimiento y la estabilidad al eliminar el código innecesario para las marcas y los países que no lo necesitan.
 
 ## Patrones de arquitectura de referencia global

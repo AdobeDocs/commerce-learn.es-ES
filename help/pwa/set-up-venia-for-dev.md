@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
-source-git-commit: fc03a06de4a4aaa54e218390749cacb6802a7c46
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -27,8 +28,8 @@ ht-degree: 0%
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430958?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35785?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Guía del PWA Studio - Configuración de Venia](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+[Guía de PWA Studio - Configuración de Venia](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

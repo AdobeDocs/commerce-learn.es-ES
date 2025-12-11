@@ -9,16 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Integración de la última milla con el Starter Kit de Adobe
+# Integración de la última milla con Adobe Starter Kit
 
 Obtenga información acerca de los elementos que debe tener en cuenta al iniciar la integración de la última milla con Adobe Commerce, centrándose en el uso de enlaces de extensibilidad para mejorar la conectividad con sistemas de terceros. Este vídeo describe un enfoque estructurado en el que varios vínculos como validación, transformación, preprocesamiento, envío y posprocesamiento garantizan un flujo de datos y una sincronización del sistema sin problemas. Cada vínculo tiene un propósito distinto, que incluye:
 
@@ -43,6 +45,6 @@ Obtenga información acerca de la importancia de las actividades posteriores al 
 * Conozca el papel del gancho de transformación en la transformación de objetos de datos entre los sistemas de origen y destino.
 * Obtenga información acerca de la importancia del vínculo de envío para facilitar los datos reales que se envían al sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451922?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

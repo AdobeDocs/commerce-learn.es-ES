@@ -3,19 +3,19 @@ title: Hosting compatible con HIPAA
 description: Obtenga información sobre el alojamiento compatible con HIPPA. La solución compatible con HIPAA de Adobe Commerce garantiza un comercio electrónico seguro y compatible para las empresas del sector sanitario.
 feature: Cloud, Compliance, System
 topic: Commerce, Security
-role: Admin, Architect, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 268
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-14593
-source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
+exl-id: 60314a97-1922-490f-be18-e5e5998075e2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Alojamiento compatible con HIPAA en Adobe Commerce
 
@@ -33,11 +33,10 @@ Adobe Commerce ofrece una solución compatible con HIPAA diseñada para ayudar a
 * La solución incluye mecanismos de registro mejorados para PHI y ofrece funcionalidades de integración tanto con productos internos de Adobe como con servicios externos de terceros.
 * Adobe Commerce ofrece un entorno de ensayo especial para la asistencia y la resolución de problemas, lo que garantiza que los datos confidenciales estén protegidos y que el entorno refleje estrechamente la producción.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463180/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
 
 ## Documentación adicional
 
-* [Preparación para HIPAA - Conexión de datos](https://experienceleague.adobe.com/es/docs/commerce/data-connection/hipaa-readiness)
-* [Preparación para HIPAA - Cumplimiento](https://experienceleague.adobe.com/es/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Instalar conexión de datos](https://experienceleague.adobe.com/es/docs/commerce/data-connection/fundamentals/install)
-
+* [Preparación para HIPAA - Conexión de datos](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [Preparación para HIPAA - Cumplimiento](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Instalar conexión de datos](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

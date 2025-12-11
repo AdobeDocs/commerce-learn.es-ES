@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -36,11 +37,11 @@ Este tutorial analiza la creación de un proyecto y un espacio de trabajo para c
 * Cambiar la organización, proyecto o espacio de trabajo seleccionado en la CLI
 * Prueba de comandos de malla de API simples
 
->[!VIDEO](https://video.tv.adobe.com/v/3419725?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## Obtenga información acerca de Adobe Developer Console
 
-En Adobe Developer Console, la siguiente jerarquía representa cómo encajan sus API en su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre el Adobe de App Builder, el inicio de sesión en la consola y la solución de problemas básica, visita [Creación de tu primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+En Adobe Developer Console, la siguiente jerarquía representa cómo encajan sus API en su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre Adobe App Builder, el inicio de sesión en la consola y la solución de problemas básica, visita [Creación de tu primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Introducción a los proyectos en Adobe Developer Console
 

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -32,7 +33,7 @@ La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y car
 * Archivos y carpetas incluidos normalmente
 * Uso de la carpeta `web-src` y del contenido de la aplicación de ejemplo
 
->[!VIDEO](https://video.tv.adobe.com/v/3421038?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## Muestras de código
 

@@ -1,21 +1,22 @@
 ---
 title: Certificado SSL caducado
-description: Resuelva los certificados SSL caducados en los entornos de integración de Adobe Commerce Cloud.
+description: Resuelva el certificado SSL caducado en los entornos de integración de Adobe Commerce Cloud.
 feature: Cloud, Deploy, Security, Storefront
 topic: Commerce, Security
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 118
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
-source-git-commit: 08e07add8628146271cf09e3cd6370f31521c726
+exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Certificado SSL caducado
 
@@ -32,4 +33,4 @@ Obtenga información sobre cómo identificar un certificado SSL caducado y, a co
 - Identifique cuándo se está creando un nuevo certificado durante el proceso.
 - Valide que el nuevo certificado funcione según lo esperado. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3439751?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -33,7 +34,7 @@ ht-degree: 0%
 * Cómo anexar el archivo para agregar nuevos secretos
 * Evite confirmar este archivo porque contiene información confidencial
 
->[!VIDEO](https://video.tv.adobe.com/v/3421066?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## Ejemplo de código
 

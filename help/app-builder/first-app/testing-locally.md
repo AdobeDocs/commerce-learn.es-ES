@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -33,6 +34,6 @@ Obtenga información sobre cómo probar localmente la nueva aplicación de Adobe
 * Prueba E2E
 * Prueba manual
 
->[!VIDEO](https://video.tv.adobe.com/v/3421054?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

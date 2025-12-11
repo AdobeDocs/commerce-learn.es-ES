@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -34,7 +35,7 @@ Para obtener instrucciones de instalación y requisitos previos, visite la pági
 * Instalación de Adobe I/O Runtime CLI (interfaz de línea de comandos)
 * Instalación del complemento API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3419792?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## Instalando el complemento `aio` CLI y API Mesh
 

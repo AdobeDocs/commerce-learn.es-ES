@@ -3,13 +3,14 @@ title: Demostración de extremo a extremo para Salesforce Commerce Cloud Connect
 description: Vea la demostración completa de Salesforce Commerce Cloud con Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Vea una demostración completa que muestra la configuración y ejecución exitos
 * Los cambios en los detalles y precios del producto en el catálogo Salesforce Commerce Cloud se detectan y actualizan automáticamente en Commerce Optimizer a través del proceso de sincronización delta.
 * Actualizaciones en tiempo real que muestran un flujo de datos y una sincronización fluidos entre sistemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476096?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

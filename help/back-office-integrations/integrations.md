@@ -1,6 +1,6 @@
 ---
 title: Obtenga información acerca de las prácticas recomendadas y el proceso de incorporación del Starter Kit de integración de Adobe Commerce.
-description: Dominio de las integraciones de Commerce mediante el aprendizaje de las prácticas recomendadas y las sugerencias de incorporación con el Starter Kit de Adobe.
+description: Dominio de las integraciones de Commerce mediante el aprendizaje de las prácticas recomendadas y las sugerencias de incorporación con Adobe Starter Kit.
 landing-page-description: Aprenda a ofrecer perspectivas prácticas sobre los procesos de instalación, configuración e implementación implicados en el uso del Starter Kit.
 kt: 15867
 doc-type: video
@@ -8,9 +8,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 98b739c1871ae764dfc521ca4f190e5abe00bb86
+exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Aprenda a integrar Adobe Commerce con sistemas externos, ofreciendo información
 
 * Desarrolladores que deseen conocer las prácticas recomendadas para la integración comercial desde la clonación hasta la implementación en directo.
 * Cualquiera que desee comprender la incorporación y la validación correcta de la implementación.
-* Ingenieros y programadores de software que deseen obtener información sobre la configuración de proveedores de eventos, suscripciones y sincronización entre sistemas.
+* Los ingenieros y programadores de software que deseen que insight configure proveedores de eventos, suscripciones y sincronización entre sistemas.
 
 ## Contenido de vídeo
 
@@ -35,7 +37,7 @@ Aprenda a integrar Adobe Commerce con sistemas externos, ofreciendo información
 * Ejecutar scripts para crear y configurar proveedores de eventos y suscripciones.
 * Actualización de eventos en Commerce y App Builder para su sincronización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452772?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

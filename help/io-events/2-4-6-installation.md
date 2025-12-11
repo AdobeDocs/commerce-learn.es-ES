@@ -10,10 +10,11 @@ last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 # Instalación de Adobe Commerce 2.4.6
 
-Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalar eventos de Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -32,9 +33,9 @@ Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commer
 
 * Comandos para ejecutar en el alojamiento local
 * Comandos que se ejecutarán para Adobe Commerce Cloud
-* Adobe Commerce Cloud yaml edición requerida
+* Yaml de Adobe Commerce Cloud editado requerido
 
->[!VIDEO](https://video.tv.adobe.com/v/3419810?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## Comandos útiles {#useful-commands}
 

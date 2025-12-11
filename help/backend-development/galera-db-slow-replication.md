@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Como solución, si es posible, agrupe las operaciones grandes para ayudar a las 
 - Las ejecuciones masivas solo se producen en la principal. Las replicaciones se producen de una en una
 - Realice un lote de las grandes confirmaciones para ayudar a la replicación a seguir el ritmo de las principales
 
->[!VIDEO](https://video.tv.adobe.com/v/3423545?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Recursos útiles
 
