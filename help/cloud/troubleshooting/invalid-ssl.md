@@ -33,4 +33,4 @@ Obtenga información sobre cómo identificar un certificado SSL caducado y, a co
 - Identifique cuándo se está creando un nuevo certificado durante el proceso.
 - Valide que el nuevo certificado funcione según lo esperado. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439751?captions=spa&learn=on)

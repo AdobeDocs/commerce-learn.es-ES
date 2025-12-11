@@ -36,7 +36,7 @@ Obtenga información sobre cómo registrar eventos, buscar eventos admitidos y c
 * Obtenga información sobre cómo registrar eventos en las instancias de Commerce `app/etc/config.php`
 * Obtenga información sobre cómo cancelar la suscripción a un evento
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419834?captions=spa&quality=12&learn=on)
 
 ## Comandos útiles {#useful-commands}
 

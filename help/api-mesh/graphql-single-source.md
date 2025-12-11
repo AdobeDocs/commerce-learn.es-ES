@@ -36,7 +36,7 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con u
 * Creación de una malla a partir de un archivo de configuración JSON
 * Acceder al punto de conexión de GraphQL recién creado
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419718?captions=spa&quality=12&learn=on)
 
 ## Cree el archivo de configuración json.
 

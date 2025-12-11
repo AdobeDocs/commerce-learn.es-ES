@@ -32,6 +32,6 @@ Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer 
 * Cómo implementar la aplicación
 * Dónde encontrar la URL después de la implementación
 
->[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421044?captions=spa&quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

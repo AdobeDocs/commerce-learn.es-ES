@@ -38,4 +38,4 @@ Obtenga información sobre el kit inicial de integración de back office de Adob
 * Configuración de eventos de E/S
 * Conectarse a un tercero para sincronizar datos
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452017?captions=spa&learn=on)

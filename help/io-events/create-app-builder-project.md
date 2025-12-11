@@ -34,7 +34,7 @@ Obtenga información sobre cómo crear un proyecto de Adobe Developer App Builde
 * Uso de Adobe Developer Console
 * Uso de Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419804?captions=spa&quality=12&learn=on)
 
 ## Comandos útiles {#useful-commands}
 

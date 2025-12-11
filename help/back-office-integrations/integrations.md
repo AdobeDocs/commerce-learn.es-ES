@@ -37,7 +37,7 @@ Aprenda a integrar Adobe Commerce con sistemas externos, ofreciendo información
 * Ejecutar scripts para crear y configurar proveedores de eventos y suscripciones.
 * Actualización de eventos en Commerce y App Builder para su sincronización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452772?captions=spa&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

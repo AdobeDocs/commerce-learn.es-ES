@@ -33,7 +33,7 @@ Aprenda a clasificar y resolver dos errores comunes que se ven en los proyectos 
 - Administrar modo de mantenimiento
 - Sugerencias de solución de problemas eficientes
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447696?captions=spa&learn=on)
 
 
 ## Comandos utilizados en el vídeo

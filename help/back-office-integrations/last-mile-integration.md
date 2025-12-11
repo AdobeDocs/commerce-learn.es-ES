@@ -45,6 +45,6 @@ Obtenga información acerca de la importancia de las actividades posteriores al 
 * Conozca el papel del gancho de transformación en la transformación de objetos de datos entre los sistemas de origen y destino.
 * Obtenga información acerca de la importancia del vínculo de envío para facilitar los datos reales que se envían al sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451922?captions=spa&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

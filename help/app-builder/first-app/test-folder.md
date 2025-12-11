@@ -35,7 +35,7 @@ Este es un ejemplo sencillo que se puede ampliar para crear pruebas completas pa
 * Una breve explicación del archivo de prueba unitaria y sus componentes
 * Introducción a las pruebas de extremo a extremo
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421060?captions=spa&quality=12&learn=on)
 
 ## Ejemplos de código
 

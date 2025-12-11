@@ -31,7 +31,7 @@ Obtenga información acerca de los archivos Yaml clave utilizados en Adobe Comme
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432822?captions=spa&learn=on)
 
 ## La documentación de Experience League que se menciona en el vídeo
 

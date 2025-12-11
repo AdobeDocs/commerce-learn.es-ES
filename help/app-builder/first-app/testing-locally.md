@@ -34,6 +34,6 @@ Obtenga información sobre cómo probar localmente la nueva aplicación de Adobe
 * Prueba E2E
 * Prueba manual
 
->[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421054?captions=spa&quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

@@ -35,7 +35,7 @@ Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commer
 * Comandos que se ejecutarán para Adobe Commerce Cloud
 * Yaml de Adobe Commerce Cloud editado requerido
 
->[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419810?captions=spa&quality=12&learn=on)
 
 ## Comandos útiles {#useful-commands}
 

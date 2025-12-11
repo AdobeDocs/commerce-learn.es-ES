@@ -35,6 +35,6 @@ Obtenga información acerca de la arquitectura de referencia global, algunos con
 * Consideraciones generales que deben tenerse en cuenta
 * Cómo saber si GRA es una opción viable
 
->[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454696?captions=spa&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

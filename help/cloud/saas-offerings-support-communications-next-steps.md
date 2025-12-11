@@ -31,7 +31,7 @@ Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la a
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432831?captions=spa&learn=on&enablevpops)
 
 ## Siglas
 

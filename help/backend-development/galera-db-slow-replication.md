@@ -38,7 +38,7 @@ Como solución, si es posible, agrupe las operaciones grandes para ayudar a las 
 - Las ejecuciones masivas solo se producen en la principal. Las replicaciones se producen de una en una
 - Realice un lote de las grandes confirmaciones para ayudar a la replicación a seguir el ritmo de las principales
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423545?captions=spa&learn=on)
 
 ## Recursos útiles
 

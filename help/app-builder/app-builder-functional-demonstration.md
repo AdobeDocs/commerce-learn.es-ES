@@ -26,6 +26,6 @@ Para obtener más información sobre cómo usar Adobe Commerce con App Builder, 
 
 ## App Builder para Adobe Commerce {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450094?captions=spa&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -33,4 +33,4 @@ Obtenga información acerca del Commerce Optimizer Salesforce Commerce Cloud Con
 * obtenga información sobre el propósito del starter kit de integración de Salesforce Commerce Cloud.
 * Sepa dónde instalar el kit de arranque
 
->[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476016?captions=spa&learn=on)

@@ -37,7 +37,7 @@ Este tutorial analiza la creación de un proyecto y un espacio de trabajo para c
 * Cambiar la organización, proyecto o espacio de trabajo seleccionado en la CLI
 * Prueba de comandos de malla de API simples
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419725?captions=spa&quality=12&learn=on)
 
 ## Obtenga información acerca de Adobe Developer Console
 
