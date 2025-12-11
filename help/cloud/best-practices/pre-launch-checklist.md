@@ -38,7 +38,7 @@ Si tiene un CTA/CSE asignado a la cuenta, póngase en contacto con ellos y con e
 1. Revise la documentación sobre las pruebas y la puesta en marcha de la [documentación de lanzamiento del sitio](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Asegúrese de que el &quot;plan de preparación para la puesta en marcha&quot;_de_ esté completamente preparado con su socio o integrador de sistemas, incorporando todos los elementos de acción necesarios. Recuerde, mientras que la lista de comprobación previa al lanzamiento enfatiza las prácticas recomendadas de Adobe, _**no**_ reemplaza la necesidad de su propio plan de preparación para el lanzamiento.
+   >Asegúrese de que el &quot;plan de preparación para la puesta en marcha&quot;_de_ esté completamente preparado con su socio o integrador de sistemas, incorporando todos los elementos de acción necesarios. Recuerde, mientras que la lista de comprobación previa al lanzamiento enfatiza las prácticas recomendadas de Adobe, _&#x200B;**no**&#x200B;_ reemplaza la necesidad de su propio plan de preparación para el lanzamiento.
 
 2. [!BADGE Bloqueador]{type=caution tooltip="Posible bloqueador"} revisa la información y las recomendaciones de las perspectivas de soporte técnico (SWAT) ([Guía del usuario](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. El usuario/comerciante final realizó UAT (Pruebas de aceptación de usuarios), incluidas las operaciones back-end.

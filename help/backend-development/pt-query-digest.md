@@ -1,6 +1,6 @@
 ---
 title: Descubra cómo funciona Percona Toolkit pt-query-digest y por qué se utiliza
-description: Analizar consultas MySQL desde archivos de registro lentos, generales y binarios. También puede analizar consultas de `SHOW PROCESSLIST` y datos de protocolo MySQL de tcpdump.
+description: Analizar consultas MySQL desde archivos de registro lentos, generales y binarios. También puede analizar consultas de &grave;SHOW PROCESSLIST&grave; y datos de protocolo MySQL de tcpdump.
 kt: 13846
 doc-type: video
 activity: use
