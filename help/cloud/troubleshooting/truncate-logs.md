@@ -91,4 +91,4 @@ Después de realizar ssh en el proyecto y entorno correctos, cambie al directori
 
 ## Documentación relacionada
 
-- [Notificaciones de estado](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notificaciones de estado](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

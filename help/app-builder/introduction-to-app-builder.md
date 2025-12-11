@@ -90,6 +90,6 @@ App Builder proporciona vídeos y documentación para desarrolladores de, inclui
 
 ## Asistencia {#support}
 
-Para solicitudes de soporte de desarrolladores, usa el [foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obtener ayuda.
+Para solicitudes de soporte de desarrolladores, usa el [foro de Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=es){target="_blank"} para obtener ayuda.
 
 {{$include /help/_includes/app-builder-related-links.md}}
