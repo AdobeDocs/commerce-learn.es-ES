@@ -3,19 +3,19 @@ title: Congelación de código
 description: Conozca la importancia de implementar una congelación de código durante la migración de Adobe Commerce. Garantice la estabilidad, la confianza y el lanzamiento correcto siguiendo las prácticas recomendadas de control de calidad, pruebas y validación.
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
-source-git-commit: 00b97157e20778d1eeaa30236b9d340cccaf3a38
+exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # Migración a Adobe Commerce: congelación de código
 
@@ -35,4 +35,4 @@ La implementación de una congelación de código durante la migración de Adobe
 * Coordinar las pruebas manuales y automatizadas, las pruebas de carga y las pruebas de penetración para garantizar que todos los aspectos del sitio funcionen según lo esperado.
 * Involucrar a las partes interesadas empresariales, los desarrolladores y los equipos de TI en el proceso de validación para garantizar un lanzamiento sin problemas y exitoso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445488/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
