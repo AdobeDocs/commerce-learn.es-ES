@@ -35,4 +35,4 @@ La implementación de una congelación de código durante la migración de Adobe
 * Coordinar las pruebas manuales y automatizadas, las pruebas de carga y las pruebas de penetración para garantizar que todos los aspectos del sitio funcionen según lo esperado.
 * Involucrar a las partes interesadas empresariales, los desarrolladores y los equipos de TI en el proceso de validación para garantizar un lanzamiento sin problemas y exitoso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445488/?captions=spa&learn=on)
