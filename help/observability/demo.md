@@ -33,7 +33,7 @@ Vea una demostración en directo de la observabilidad en Adobe Commerce. Esta de
 * Explica la correlación de los webhooks y los eventos para la trazabilidad
 * Muestra la integración con Grafana y New Relic para registros y seguimientos
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477870?captions=spa&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
