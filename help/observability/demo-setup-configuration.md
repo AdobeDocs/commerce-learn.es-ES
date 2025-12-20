@@ -33,7 +33,7 @@ Aprenda a lograr la observabilidad de extremo a extremo en Adobe Commerce y apli
 * Uso del módulo Commerce Observability para señales automatizadas
 * Ampliar la monitorización con la biblioteca de telemetría en directo de IO para aplicaciones
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478337?captions=spa&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

@@ -33,7 +33,7 @@ Descubra cómo la Telemetría Abierta estandariza la observabilidad a través de
 * Correlacionar registros, seguimientos y métricas para un análisis de causas raíz más rápido
 * Mantener las herramientas de monitorización existentes mientras se unifican los flujos de datos
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478326?captions=spa&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
