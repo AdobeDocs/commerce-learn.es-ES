@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430758?captions=spa&quality=12&learn=on)
 
 
 ## Recursos adicionales
