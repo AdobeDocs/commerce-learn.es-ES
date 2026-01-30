@@ -36,4 +36,4 @@ Adobe Commerce facilita el crecimiento de las empresas al ayudarlas a pasar a Ad
 * La extensibilidad de App Builder permite separar la lógica personalizada en funciones sin servidor para facilitar el mantenimiento.
 * Las mejoras en la tienda mejoran el rendimiento y la creación de contenido con componentes integrados y entrega de Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475751/?captions=spa&learn=on&enablevpops)
