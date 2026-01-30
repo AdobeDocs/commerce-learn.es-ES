@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 3%
       + [Personalizar cierre de compra](../edge-delivery-services/customize-checkout.md)
       + [Personalizar un diseño de dirección](../edge-delivery-services/customize-address-new-account-link.md)
       + [Experiencia del comprador](../edge-delivery-services/shopper-experience.md)
-+ Seminarios web y eventos {#webinars-and-events}
-   + Crecimiento empresarial {#business-growth}
-      + [Innovación de IA](../business-growth/ai-innovation.md)
-      + [Visión hacia delante](../business-growth/vision-forward.md)
-      + [Adopción de productos](../business-growth/product-adoption.md)
-   + El futuro de Commerce {#future-of-commerce}
-      + [Anuncios de nuevos productos](../future-of-commerce/new-product-announcements.md)
-      + [Reducción drástica de costes](../future-of-commerce/drastically-cut-costs.md)
-      + [Tasas de conversión de recargo](../future-of-commerce/supercharge-conversion-rates.md)
-      + [Expansión de Fast Track](../future-of-commerce/fast-track-expansion.md)
-   + Serie de habilitación {#enablement-series}
-      + [Reduzca el índice para integraciones de Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [Planificación de la implementación moderna de Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [Lanzamiento, posterior al lanzamiento, monitorización y solución de problemas](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services con Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Conversaciones de Commerce {#commerce-conversations}
-      + [Qué es el éxito de los expertos](../commerce-conversations/what-is-expert-success.md)
-      + [Complementos de soporte de Commerce](../commerce-conversations/commerce-support-add-ons.md)
-      + [¿Qué es el éxito final?](../commerce-conversations/what-is-ultimate-success.md)
-      + [Preparación técnica de Success Accelerators](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [Activación y adopción de Aceleradores de éxito](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [Preparación de la organización de Success Accelerators](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [Responsabilidad compartida](../commerce-conversations/shared-responsibility.md)
+
 + GRAPHQL y REST {#graphql-rest}
    + [Conceptos básicos de GraphQL](../graphql-rest/intro-graphql.md)
    + [Consultas](../graphql-rest/graphql-queries.md)
@@ -261,7 +239,7 @@ ht-degree: 3%
    + [Información general sobre la herramienta de compatibilidad de actualización](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Uso de la herramienta de compatibilidad de actualización en PHP Storm](../upgrade/uct-phpstorm.md)
 + Desarrollo back-end {#backend-development}
-   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+   + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Creación de un módulo](../backend-development/create-module.md)
    + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
    + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
