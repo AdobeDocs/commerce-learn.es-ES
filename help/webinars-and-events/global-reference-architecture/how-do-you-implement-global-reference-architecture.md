@@ -42,6 +42,6 @@ Aprenda a implementar la Arquitectura de referencia global o GRA para abreviar. 
 * Panel de control global: funciones en las que trabajar
 * Concepto alternativo para utilizar GRA como mercado de módulos
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457211?captions=spa&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
