@@ -95,7 +95,7 @@ ht-degree: 3%
 
 + Extensibilidad {#extensibility}
    + Desarrollo back-end {#backend-development}
-      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
       + [Creación de un módulo](../backend-development/create-module.md)
       + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
       + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
