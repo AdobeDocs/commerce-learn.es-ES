@@ -9,7 +9,7 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,6 +17,8 @@ ht-degree: 0%
 ---
 
 # Añadir un módulo de JavaScript
+
+{{only-for-on-prem-commerce-cloud}}
 
 Este vídeo proporciona una guía para desarrollar un módulo JS simple que proporcione el saludo &quot;Hello World&quot;.
 
