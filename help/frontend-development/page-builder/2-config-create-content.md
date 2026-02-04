@@ -40,7 +40,7 @@ En este vídeo:
 >
 >Este contenido refleja la versión 1.0.0 del Page Builder para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones de versiones posteriores, consulte [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430907?captions=spa&quality=12&learn=on)
 
 ## Recursos útiles
 

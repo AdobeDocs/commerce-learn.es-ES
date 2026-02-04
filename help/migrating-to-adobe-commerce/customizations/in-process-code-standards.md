@@ -34,4 +34,4 @@ Conozca algunos estándares de codificación esenciales y prácticas recomendada
 * Conozca las prácticas recomendadas para PHP, JavaScript y personalizaciones para garantizar una migración sin problemas.
 * Obtenga información de los expertos de Adobe sobre la preparación, el rendimiento y la seguridad de proyectos de Adobe Commerce exitosos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434860?captions=spa&learn=on&enablevpops)
