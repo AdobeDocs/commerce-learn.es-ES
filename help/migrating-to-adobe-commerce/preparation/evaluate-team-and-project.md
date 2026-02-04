@@ -42,4 +42,4 @@ En el front-end, la experiencia con implementaciones sin encabezado puede simpli
 
 ## Documentación relacionada
 
-[Qué es Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[Qué es Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-admin/start/about)
