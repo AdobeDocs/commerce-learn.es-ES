@@ -32,7 +32,7 @@ Aprenda a utilizar las nuevas API de REST del cliente en Adobe Commerce as a Clo
 * Utilice el formato de extremo de API de REST correcto para Commerce as a Cloud Service
 * Cree y actualice cuentas de cliente mediante programación utilizando solicitudes POST y PUT con cargas JSON adecuadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479365/?captions=spa&learn=on&enablevpops)
 
 ## Muestras de código
 
