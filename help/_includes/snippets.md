@@ -13,13 +13,13 @@ ht-degree: 0%
 ## Función de solo EE {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Función Adobe Commerce" src="../assets/adobe-logo.svg" width="20" height="20" /> Característica exclusiva solamente en Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">Más información</a>)</td></tr>
+<tr><td><img alt="Función Adobe Commerce" src="../assets/adobe-logo.svg" width="20" height="20" /> Característica exclusiva solamente en Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=es#product-editions">Más información</a>)</td></tr>
 </table>
 
 ## Función exclusiva de B2B {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Función Adobe Commerce" src="../assets/b2b.svg" width="20" height="20" /> Característica exclusiva disponible solo con <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">B2B para Adobe Commerce</a></td></tr>
+<tr><td><img alt="Función Adobe Commerce" src="../assets/b2b.svg" width="20" height="20" /> Característica exclusiva disponible solo con <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=es">B2B para Adobe Commerce</a></td></tr>
 </table>
 
 ## 400 problemas {#avoid-400-error}
