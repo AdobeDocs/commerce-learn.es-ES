@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20091
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 00697a95-139d-4032-bc72-66173a9e1675
+source-git-commit: d95cff3b820efb6685d3bbbdc6b293b1775326be
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Entrega de un Recorrido de compra de extremo a extremo
+# Ofrezca un recorrido de compra completo
 
 Descubra cómo Adobe Commerce as a Cloud Service ofrece una experiencia de compra perfecta, desde la detección de productos hasta el cierre de compra y la asistencia posterior a la compra. Descubra cómo las herramientas integradas como Live Search, recomendaciones de productos y paneles de autoservicio impulsan la conversión y reducen la sobrecarga operativa.
 
