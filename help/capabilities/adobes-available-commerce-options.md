@@ -34,7 +34,7 @@ Obtenga información sobre las opciones de comercio de Adobe. Comprenda cuáles 
 * Sepa cuándo modernizar las tiendas sin reemplazar el servidor
 * Identifique la mejor opción en función de los recursos, la escalabilidad y los objetivos empresariales de DevOps
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480246?captions=spa&learn=on)
 
 ## Documentación relacionada
 
