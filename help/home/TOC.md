@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
+source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '867'
 ht-degree: 3%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + Extensibilidad {#extensibility}
    + Desarrollo back-end {#backend-development}
-      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creación de un módulo](../backend-development/create-module.md)
       + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
       + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
       + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Crear tarifas de envío personalizadas con AI Tools {#custom-shipping-rates-ai-tools}
+         + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Enviar comentarios a Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + Cree su primera aplicación de App Builder {#first-app}
          + [Información general](../app-builder/first-app/overview.md)
