@@ -34,6 +34,6 @@ El agente finaliza la implementación, limpia el código no utilizado y prepara 
 Las credenciales y el entorno están configurados para implementar y registrar la nueva extensión de envío.
 Las pruebas de tienda confirman que las tarifas de envío externas aparecen y funcionan según lo esperado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481331/?captions=spa&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
