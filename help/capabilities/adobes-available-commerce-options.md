@@ -9,14 +9,14 @@ topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
 exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
-source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
+source-git-commit: cba4dc615b577f580a1c19a87cb81bc6944beed3
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Demostración completa de Adobe Commerce Data Connection
+# Opciones de Commerce de Adobe
 
 Obtenga información sobre las opciones de comercio de Adobe. Comprenda cuáles son algunas de las funciones principales, cómo se aloja y para quién es más adecuado cada modelo. Aprenderá las diferencias entre ejecutar todo por sí mismo (local), utilizar la infraestructura en la nube administrada por Adobe (PaaS), adoptar un enfoque de SaaS completamente administrado o modernizar solo la capa de tienda con Commerce Optimizer mientras mantiene un servidor existente.
 
@@ -34,10 +34,10 @@ Obtenga información sobre las opciones de comercio de Adobe. Comprenda cuáles 
 * Sepa cuándo modernizar las tiendas sin reemplazar el servidor
 * Identifique la mejor opción en función de los recursos, la escalabilidad y los objetivos empresariales de DevOps
 
->[!VIDEO](https://video.tv.adobe.com/v/3480246?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## Documentación relacionada
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
