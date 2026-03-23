@@ -1,16 +1,16 @@
 ---
-title: Crear tarifas de envío personalizadas con las herramientas de IA | Introducción y configuración
+title: Creación de tarifas de envío personalizadas con las herramientas de IA | Introducción y configuración
 description: Aprenda a configurar herramientas de IA para crear tarifas de envío personalizadas, incluida la clonación del Starter Kit, la revisión de estructuras y la preparación de su entorno.
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 191
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 62cf2906dd6eaba7130b738d0d3f02f0e62858d7
+source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Descubra cómo configurar herramientas de IA para crear tarifas de envío person
 * Explica la configuración del entorno de desarrollo, incluida la extracción del repositorio, la revisión de la estructura del Starter Kit y la instalación de las herramientas necesarias.
 * Prepara el sistema para el desarrollo asistido por IA iniciando sesión, configurando el acceso y asegurándose de que se cumplen todas las dependencias y requisitos previos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481331/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

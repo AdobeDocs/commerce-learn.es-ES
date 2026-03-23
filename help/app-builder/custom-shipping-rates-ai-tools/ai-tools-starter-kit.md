@@ -1,16 +1,16 @@
 ---
-title: Crear tarifas de envío personalizadas con las herramientas de IA | Creación de la función
+title: Creación de tarifas de envío personalizadas con las herramientas de IA | Creación de la función
 description: Aprenda a utilizar las herramientas de IA de Adobe para crear tarifas de envío personalizadas y ampliar las capacidades de cierre de compra con una API ficticia y configuraciones seguras.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 290
+duration: 337
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 5fba398a85232393321e3dc8b79c3de93d660ad8
+source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Descubra cómo utilizar las herramientas de Adobe con tecnología de IA para opt
 * Las herramientas de MCP exponen comandos y datos que el agente utiliza para planificar y generar código.
 * La IA automatiza los requisitos, la arquitectura y las decisiones de implementación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481347/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

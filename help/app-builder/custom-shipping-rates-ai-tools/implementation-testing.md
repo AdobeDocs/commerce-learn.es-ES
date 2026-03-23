@@ -1,16 +1,16 @@
 ---
-title: Tarifas de envío personalizadas mediante las herramientas de IA | Implementación y pruebas
+title: Tarifas de envío personalizadas con las herramientas de IA | Implementación y prueba
 description: Aprenda a implementar y probar las tasas de envío personalizadas impulsadas por IA, configurar entornos y verificar integraciones para experiencias de cierre de compra mejoradas.
 feature: Deploy
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 493
+duration: 380
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 576f558efc9a4264d539ce55cadb8c8a01f201cf
+source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ El agente finaliza la implementación, limpia el código no utilizado y prepara 
 Las credenciales y el entorno están configurados para implementar y registrar la nueva extensión de envío.
 Las pruebas de tienda confirman que las tarifas de envío externas aparecen y funcionan según lo esperado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481360/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
