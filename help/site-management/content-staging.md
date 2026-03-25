@@ -11,7 +11,7 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
@@ -37,5 +37,5 @@ El ensayo de contenido permite a su equipo empresarial crear, previsualizar y pr
 
 ## Recursos adicionales
 
-* [Ensayo de contenido - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [Vista previa de una campaña - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+* [Ensayo de contenido - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=es){target="_blank"}
+* [Vista previa de una campaña - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=es){target="_blank"}

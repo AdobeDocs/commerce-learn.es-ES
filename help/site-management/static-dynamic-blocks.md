@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -35,5 +35,5 @@ Un bloque es una unidad modular de contenido que se puede colocar en la mayoría
 
 ## Recursos adicionales
 
-* [Bloques - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-* [Bloques dinámicos - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+* [Bloques - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=es)
+* [Bloques dinámicos - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=es)

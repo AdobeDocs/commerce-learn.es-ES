@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '115'
@@ -36,5 +36,5 @@ La herramienta de reescritura de URL permite cambiar cualquier URL asociada a un
 
 ## Recursos adicionales
 
-* [Reescrituras de URL: [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-* [General > Web - [!DNL Commerce] Guía de referencia de configuración](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+* [Reescrituras de URL: [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=es)
+* [General > Web - [!DNL Commerce] Guía de referencia de configuración](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=es)

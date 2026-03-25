@@ -40,5 +40,5 @@ El equipo de asistencia de Adobe Commerce y la comunidad de Magento Open Source 
 
 ## Recursos adicionales
 
-* [Herramienta Parche De Calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Herramienta Parche De Calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=es)
 * [Herramienta de revisión de calidad en GitHub](https://github.com/magento/quality-patches)
