@@ -32,6 +32,6 @@ Descubra cómo crear tarifas de envío personalizadas con las herramientas de IA
 * Descubra cómo funciona la herramienta de comentarios de MCP
 * Descubra cómo es posible proporcionar comentarios a Adobe desde el IDE
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481309?captions=spa&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

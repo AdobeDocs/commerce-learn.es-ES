@@ -39,7 +39,7 @@ La herramienta Parches de calidad es una utilidad de línea de comandos para Ado
 
 Estos parches han sido desarrollados por desarrolladores de Adobe y la comunidad de Magento Open Source para mejorar la estabilidad y el rendimiento. Tenga en cuenta que no se recomienda para aplicar grandes cantidades de parches, ya que puede complicar futuras actualizaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454071?captions=spa&learn=on)
 
 ## Por qué utilizar la herramienta parche de calidad
 

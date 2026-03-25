@@ -37,7 +37,7 @@ Obtenga información sobre cómo utilizar la lista desplegable de carrito de Ado
 * Flexibilidad en las pruebas A/B. Configuraciones habilitadas mediante SharePoint, lo que permite a los especialistas en marketing controlar y probar estas funciones.
 * Control de marketing mejorado. Administre y pruebe configuraciones fácilmente, lo que mejora la experiencia del usuario y la eficacia de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442354?captions=spa&learn=on)
 
 ## Documentación adicional
 

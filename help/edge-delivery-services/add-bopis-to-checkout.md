@@ -37,7 +37,7 @@ Aprenda a utilizar el carro de compras de Adobe Commerce de Edge Delivery Servic
 * Alternar entre envío y recogida en tienda
 * Obteniendo ubicaciones de recogida
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441703?captions=spa&learn=on)
 
 ## Documentación adicional
 

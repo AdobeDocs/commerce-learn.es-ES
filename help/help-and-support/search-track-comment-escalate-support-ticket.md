@@ -31,7 +31,7 @@ Aprenda a crear un ticket de asistencia de búsqueda, revisión, recomendación 
 * Obtenga información sobre cómo agregar un comentario a un ticket de asistencia abierto
 * Descubra cómo y algunas razones para escalar un ticket de asistencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445314?captions=spa&learn=on)
 
 ## Guía del centro de ayuda de Commerce Knowledge Base
 
