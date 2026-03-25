@@ -30,7 +30,7 @@ Las reglas fiscales incorporan una combinación de clase de producto, clase de c
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411832?captions=spa&learn=on)
 
 ## Recursos adicionales
 

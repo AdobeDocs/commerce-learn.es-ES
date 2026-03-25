@@ -33,7 +33,7 @@ En este vídeo:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/36189?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330192?captions=spa&learn=on)
 
 ## Recursos adicionales
 

@@ -31,7 +31,7 @@ Organizar los productos en categorías es clave para administrar los catálogos.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343747?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411826?captions=spa&learn=on)
 
 ## Recursos adicionales
 

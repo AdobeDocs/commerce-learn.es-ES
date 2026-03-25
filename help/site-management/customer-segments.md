@@ -33,7 +33,7 @@ Los segmentos de cliente le permiten mostrar dinámicamente contenido y promocio
 * Generar segmentos a partir de atributos del cliente, pedidos y datos del carro de compras.
 * Conecte segmentos a promociones y reglas de precios del carro de compras.
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411828?captions=spa&learn=on)
 
 ## Recursos adicionales
 

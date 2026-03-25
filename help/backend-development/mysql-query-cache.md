@@ -36,7 +36,7 @@ Aprenda qué es la caché de consultas MySQL y alguna comprensión básica de c�
 * Ver cómo se guarda y utiliza SQL para buscar una caché de consulta coincidente
 * Algunas sugerencias sobre la configuración
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423389?captions=spa&learn=on)
 
 ## Recursos útiles
 

@@ -33,6 +33,6 @@ Aprenda a utilizar el descuento por elemento de línea y vea los valores con el 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445588?captions=spa&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

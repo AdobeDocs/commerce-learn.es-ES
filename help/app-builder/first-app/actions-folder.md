@@ -37,7 +37,7 @@ Los nombres reales de las carpetas en este ejemplo son arbitrarios, pero saber s
 * El propósito del archivo JavaScript encontrado en las carpetas `actions` y `commerce`
 * Información general rápida sobre los archivos de autenticación de OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421078?captions=spa&learn=on)
 
 ## Ejemplos de código
 

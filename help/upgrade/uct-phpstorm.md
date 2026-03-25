@@ -38,7 +38,7 @@ En este vídeo:
 * Instale y ejecute UCT desde PhpStorm.
 * Revise los informes de HTML y dé prioridad a las correcciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344404?captions=spa&learn=on)
 
 ## Recursos adicionales
 

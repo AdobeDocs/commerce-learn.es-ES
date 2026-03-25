@@ -31,7 +31,7 @@ La herramienta de análisis de todo el sitio es una herramienta de autoservicio 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410776?captions=spa&learn=on)
 
 ## Recursos adicionales
 

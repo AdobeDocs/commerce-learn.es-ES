@@ -52,7 +52,7 @@ Este tutorial se ha diseñado para que siga el orden de las páginas en la naveg
 * Expectativas de uso del módulo de ejemplo
 * Piezas reutilizables de en el módulo de muestra
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421023?captions=spa&learn=on)
 
 {{avoid-400-error}}
 

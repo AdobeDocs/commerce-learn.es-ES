@@ -31,7 +31,7 @@ En este vídeo:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/35946?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330058?captions=spa&learn=on)
 
 ## Recursos adicionales
 

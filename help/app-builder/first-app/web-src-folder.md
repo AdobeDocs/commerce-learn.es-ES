@@ -34,7 +34,7 @@ La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y car
 * Archivos y carpetas incluidos normalmente
 * Uso de la carpeta `web-src` y del contenido de la aplicación de ejemplo
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421038?captions=spa&learn=on)
 
 ## Muestras de código
 

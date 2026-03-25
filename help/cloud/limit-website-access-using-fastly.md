@@ -31,7 +31,7 @@ Restrinja el acceso al sitio de Adobe Commerce con ACL de Fastly Edge y VCL pers
 * Adobe Commerce Developer
 * Ingeniero de confiabilidad del sitio
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464782?captions=spa&learn=on)
 
 ## Ejemplo de código
 

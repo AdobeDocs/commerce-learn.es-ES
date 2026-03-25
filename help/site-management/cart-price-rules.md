@@ -31,7 +31,7 @@ Las reglas de precios del carro de compras aplican descuentos a los artículos d
 * Crear reglas de precios de carro de compras y códigos de cupones opcionales.
 * Consulte cómo aparecen los descuentos en el carro de compras y en las promociones.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410803?captions=spa&learn=on)
 
 ## Problemas de visualización de precios
 

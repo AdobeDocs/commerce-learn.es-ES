@@ -33,6 +33,6 @@ Descubra cómo configurar herramientas de IA para crear tarifas de envío person
 * Explica la configuración del entorno de desarrollo, incluida la extracción del repositorio, la revisión de la estructura del Starter Kit y la instalación de las herramientas necesarias.
 * Prepara el sistema para el desarrollo asistido por IA iniciando sesión, configurando el acceso y asegurándose de que se cumplen todas las dependencias y requisitos previos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481331?captions=spa&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

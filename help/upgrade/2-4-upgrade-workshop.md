@@ -42,7 +42,7 @@ En este taller, Adobe Commerce se asoció con Merkle para compartir:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431942?captions=spa&learn=on)
 
 ## Recursos adicionales
 

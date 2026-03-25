@@ -32,6 +32,6 @@ Aprenda cómo el representante de ventas puede iniciar la cotización desde el p
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430582?captions=spa&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

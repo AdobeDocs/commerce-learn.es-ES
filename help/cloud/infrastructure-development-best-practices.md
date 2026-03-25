@@ -31,7 +31,7 @@ Obtenga información acerca de la infraestructura en la nube y algunas práctica
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432800?captions=spa&learn=on)
 
 ## La documentación de Experience League que se menciona en el vídeo
 

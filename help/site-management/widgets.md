@@ -31,7 +31,7 @@ Los widgets son componentes reutilizables que se pueden crear y modificar para a
 * Comprenda qué son los widgets y dónde aparecen.
 * Cree y gestione widgets en Admin.
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411055?captions=spa&learn=on)
 
 ## Recursos adicionales
 

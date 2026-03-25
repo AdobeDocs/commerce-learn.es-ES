@@ -62,7 +62,7 @@ Al crear productos agrupados desde el administrador de Adobe Commerce, puede cre
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454500?captions=spa&learn=on)
 
 ## Creación de productos con REST
 

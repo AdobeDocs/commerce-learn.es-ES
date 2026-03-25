@@ -33,7 +33,7 @@ Para los comerciantes B2B, la página _[!UICONTROL Companies]_&#x200B;enumera to
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410770?captions=spa&learn=on)
 
 ## Recursos adicionales
 

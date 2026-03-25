@@ -40,7 +40,7 @@ Adobe Commerce Intelligence SQL Report Builder le permite consultar el almacén 
 * Cree una visualización a partir de los resultados de la consulta.
 * Guarde el informe en un tablero para su equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346408?captions=spa&learn=on)
 
 ## Recursos útiles
 

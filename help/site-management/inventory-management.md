@@ -30,7 +30,7 @@ Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411829?captions=spa&learn=on)
 
 ## Recursos adicionales
 

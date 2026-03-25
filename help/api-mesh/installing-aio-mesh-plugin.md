@@ -36,7 +36,7 @@ Para obtener instrucciones de instalación y requisitos previos, visite la pági
 * Instalación de Adobe I/O Runtime CLI (interfaz de línea de comandos)
 * Instalación del complemento API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419792?captions=spa&learn=on)
 
 ## Instalando el complemento `aio` CLI y API Mesh
 

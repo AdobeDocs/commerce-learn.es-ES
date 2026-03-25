@@ -30,7 +30,7 @@ Antes de añadir productos al catálogo, debe establecer la estructura básica d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411823?captions=spa&learn=on)
 
 ## Recursos adicionales
 

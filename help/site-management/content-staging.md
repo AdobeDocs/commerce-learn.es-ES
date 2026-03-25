@@ -33,7 +33,7 @@ El ensayo de contenido permite a su equipo empresarial crear, previsualizar y pr
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410853?captions=spa&learn=on)
 
 ## Recursos adicionales
 

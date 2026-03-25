@@ -35,7 +35,7 @@ Para pequeñas empresas, empresas medianas o grandes empresas, los servicios de 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410788?captions=spa&learn=on)
 
 ## Recursos adicionales
 

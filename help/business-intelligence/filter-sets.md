@@ -44,7 +44,7 @@ En este vídeo:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346401?captions=spa&learn=on)
 
 ## Recursos útiles
 

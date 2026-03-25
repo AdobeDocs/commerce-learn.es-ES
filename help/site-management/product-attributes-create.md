@@ -30,7 +30,7 @@ Adobe Commerce utiliza atributos para administrar la información asociada a pro
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411822?captions=spa&learn=on)
 
 ## Recursos adicionales
 

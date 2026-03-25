@@ -26,7 +26,7 @@ Aprenda a conectarse a un proyecto de Adobe Commerce en la nube, crear un volcad
 * Conéctese a un proyecto remoto de Adobe Commerce Cloud con una herramienta GUI como MySQL Workbench o TablePlus.
 * Conéctese al proyecto y ejecute SQL desde la línea de comandos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450039?captions=spa&learn=on)
 
 Puede acceder a los datos de Adobe Commerce desde su proyecto en la nube mediante cualquiera de los siguientes métodos:
 

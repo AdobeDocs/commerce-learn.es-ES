@@ -34,7 +34,7 @@ En este vídeo, aprenderá a configurar recomendaciones de productos.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449961?captions=spa&learn=on)
 
 ## Recursos adicionales
 

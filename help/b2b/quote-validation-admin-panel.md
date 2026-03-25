@@ -31,6 +31,6 @@ Conozca los pasos y las áreas de validación que proporciona la funcionalidad d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423724?captions=spa&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

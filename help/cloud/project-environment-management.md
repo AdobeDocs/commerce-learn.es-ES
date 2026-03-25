@@ -34,7 +34,7 @@ Aprenda a utilizar Adobe Commerce Cloud para administrar proyectos y entornos. M
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3474964?captions=spa&learn=on)
 
 ## Contenido y documentación relacionados
 

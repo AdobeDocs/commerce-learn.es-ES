@@ -36,7 +36,7 @@ El equipo de asistencia de Adobe Commerce y la comunidad de Magento Open Source 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410782?captions=spa&learn=on)
 
 ## Recursos adicionales
 

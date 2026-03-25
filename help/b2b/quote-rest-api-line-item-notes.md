@@ -31,6 +31,6 @@ Aprenda a utilizar las notas del elemento de línea para una cotización B2B de 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443488?captions=spa&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

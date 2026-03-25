@@ -33,7 +33,7 @@ Obtenga información sobre los flujos de trabajo de GitHub incluidos en el kit d
 * Flujo de trabajo deployMesh que implementa o actualiza automáticamente una malla
 * Prueba de carga con el flujo de trabajo de prueba de carga K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464527?captions=spa&learn=on)
 
 ## Documentación relacionada
 
