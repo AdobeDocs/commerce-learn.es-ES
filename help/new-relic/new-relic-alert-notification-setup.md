@@ -5,6 +5,7 @@ landing-page-description: Obtenga información sobre cómo buscar alertas, polí
 short-description: Obtenga información sobre cómo agregar una nueva dirección de correo electrónico a una directiva de alertas existente en New Relic.
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Obtenga información sobre cómo buscar alertas, directivas, flujos de trabajo y
 * Obtenga información sobre notificaciones de alerta, políticas y flujos de trabajo
 * Guardar el destino y validar el nuevo correo electrónico se añadió a una directiva
 
->[!VIDEO](https://video.tv.adobe.com/v/3441201?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

@@ -3,6 +3,7 @@ title: Demostración completa de Live Search
 description: Vea una demostración completa de las funciones y la flexibilidad de Live Search
 kt: 13168
 doc-type: tutorial
+duration: 935
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -40,4 +41,4 @@ Aprenda a utilizar las configuraciones y ajustes de búsqueda de Adobe Live. Obt
 * Tipos de clasificación basados en reglas explicados
 * Introducción a API de GraphQL
 
->[!VIDEO](https://video.tv.adobe.com/v/3454457?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

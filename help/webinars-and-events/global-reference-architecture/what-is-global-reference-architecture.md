@@ -4,6 +4,7 @@ description: Conozca la técnica utilizada para administrar proyectos de comerci
 landing-page-description: Obtenga información acerca de la arquitectura de referencia global y cómo se utiliza con Adobe Commerce
 kt: 14039
 doc-type: video
+duration: 1165
 audience: all
 last-substantial-update: 2023-9-27
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
-source-git-commit: 42525268cda32ac461b6842c27675ee1b9a3305a
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 1%
@@ -38,6 +39,6 @@ Obtenga información acerca de la arquitectura de referencia global, algunos con
 * Consideraciones generales que deben tenerse en cuenta
 * Cómo saber si GRA es una opción viable
 
->[!VIDEO](https://video.tv.adobe.com/v/3454696?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

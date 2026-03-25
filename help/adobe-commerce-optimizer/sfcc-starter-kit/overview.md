@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 194
+duration: 230
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Obtenga información acerca del kit de inicio en la nube de Salesforce Commerce
 
@@ -33,4 +33,4 @@ Obtenga información acerca del Commerce Optimizer Salesforce Commerce Cloud Con
 * obtenga información sobre el propósito del starter kit de integración de Salesforce Commerce Cloud.
 * Sepa dónde instalar el kit de arranque
 
->[!VIDEO](https://video.tv.adobe.com/v/3476016?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)

@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Personalizar un diseño de dirección
 
-Aprenda a personalizar el diseño del formulario de dirección al cerrar la compra para asegurarse de que todos los campos tengan una anchura del 50 %, con la excepción del área de texto. Aprenda a utilizar una API de terceros integrada, específicamente la API de direcciones de Google, para habilitar la búsqueda y validación automáticas de direcciones en el formulario de direcciones. palo de golf Obtenga información sobre cómo agregar un nuevo elemento de menú de barra lateral al panel de cuentas de usuario, vinculándolo a una página personalizada para un localizador de tiendas.
+Aprenda a personalizar el diseño del formulario de dirección al cerrar la compra para asegurarse de que todos los campos tengan una anchura del 50 %, con la excepción del área de texto. Conozca el método para utilizar una API de terceros integrada, específicamente la API de direcciones de Google, para habilitar la búsqueda y validación automáticas de direcciones en el formulario de direcciones. Obtenga información sobre cómo agregar un nuevo elemento de menú de barra lateral al panel de cuentas de usuario, vinculándolo a una página personalizada para un localizador de tiendas.
 
 ## ¿Para quién es este vídeo?
 
@@ -40,8 +40,8 @@ Administradores de proyectos que necesiten realizar un seguimiento del progreso 
 * Validación y control de errores para los campos de entrada de la dirección, lo que garantiza que los usuarios reciban comentarios inmediatos sobre las entradas incorrectas o incompletas, lo que mejora la experiencia del usuario.
 * Extensión del tablero de cuentas de usuario que agrega un nuevo elemento de menú de barra lateral al tablero de cuentas de usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442909?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentación adicional
 
-* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=es)
+* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

@@ -4,7 +4,7 @@ description: Aproveche el mecanismo de reintentos de Adobe I/O Events para aplic
 landing-page-description: Comprenda y utilice el mecanismo de reintentos integrado de Adobe I/O Events para mejorar la resiliencia de la aplicación y administrar las activaciones de eventos de forma eficaz.
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Obtenga información sobre cómo funciona el mecanismo de reintentos en el conte
 * Indicadores visuales en Developer Console, como iconos de advertencia para eventos fallidos e iconos de flecha circulares para eventos reintentados.
 * Las acciones de tiempo de ejecución &quot;consumidor&quot; desempeñan un papel crucial a la hora de determinar los códigos de estado de respuesta HTTP adecuados para la gestión de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449076?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

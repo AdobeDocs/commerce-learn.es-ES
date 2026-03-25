@@ -1,16 +1,16 @@
 ---
 title: Flujo transaccional de Edge Delivery Services
-description: Obtenga información sobre los servicios de envío de Adobe Edge y cómo cambiar el flujo transaccional.
+description: Obtenga información acerca de Adobe Edge Delivery Services y cómo cambiar el flujo transaccional.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 453
+duration: 525
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Ajustar flujo transaccional para cierre de compra
 
-Aprenda a ajustar el flujo transaccional para el cierre de compra mediante la lista desplegable del carro de Edge Delivery Services.
+Aprenda a ajustar el flujo transaccional para el cierre de compra mediante la lista desplegable de carrito de Edge Delivery Services.
 
 ## Qué va a aprender
 
@@ -27,7 +27,7 @@ Obtenga información sobre cómo utilizar la lista desplegable de carrito de Ado
 
 ## ¿Para quién es este vídeo?
 
-* Los desarrolladores y propietarios de tiendas aprenden acerca de los Edge Delivery Services con la necesidad de cambiar algunos elementos desplegables del carro de compras.
+* Los desarrolladores y propietarios de tiendas están aprendiendo a usar Edge Delivery Services con la necesidad de cambiar algunos elementos desplegables del carro de compras.
 * Especialistas en marketing y otras personas interesadas en utilizar SharePoint para administrar funciones y pruebas AB.
 
 ## Contenido de vídeo
@@ -37,8 +37,8 @@ Obtenga información sobre cómo utilizar la lista desplegable de carrito de Ado
 * Flexibilidad en las pruebas A/B. Configuraciones habilitadas mediante SharePoint, lo que permite a los especialistas en marketing controlar y probar estas funciones.
 * Control de marketing mejorado. Administre y pruebe configuraciones fácilmente, lo que mejora la experiencia del usuario y la eficacia de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442354?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Documentación adicional
 
-* [Configurar el resumen del carro de compras](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=es)
+* [Configurar el resumen del carro de compras](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

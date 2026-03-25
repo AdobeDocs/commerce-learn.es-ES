@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 243
+duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # Arquitectura del Starter Kit de Salesforce Commerce Cloud
 
@@ -33,4 +33,4 @@ Obtenga información acerca de la arquitectura y la funcionalidad del Starter Ki
 * Los cartuchos y las API personalizados de SFC detectan cambios de catálogo a través de exportaciones delta, lo que permite una sincronización de datos eficaz con Adobe App Builder.
 * Las acciones de tiempo de ejecución de App Builder administran las sincronizaciones completas y delta, la validación y el seguimiento de estado para garantizar actualizaciones precisas y sin conflictos en Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476054?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)

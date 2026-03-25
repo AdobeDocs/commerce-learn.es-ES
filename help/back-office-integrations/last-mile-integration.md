@@ -4,7 +4,7 @@ description: Integración de la última milla en Commerce, que resalta los vínc
 landing-page-description: Conozca la estructura y las funciones de los enlaces de extensibilidad en la integración de la última milla para los sistemas Commerce.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -36,15 +36,15 @@ Obtenga información acerca de la importancia de las actividades posteriores al 
 ## Público
 
 * Desarrolladores que deseen conocer la estructura y la funcionalidad de los vínculos de extensibilidad y cómo estos pueden mejorar la conectividad con sistemas de terceros.
-* Los desarrolladores que deseen conocer los casos de uso típicos y las prácticas recomendadas asociadas con cada vínculo de extensibilidad, como validación, transformación, preprocesamiento, envío y posprocesamiento, para facilitar un flujo de datos fluido, la sincronización del sistema y el mantenimiento eficaz de la configuración de la integración. palo de golf
+* Desarrolladores que deseen conocer los casos de uso típicos y las prácticas recomendadas asociadas con cada vínculo de extensibilidad, como validación, transformación, preprocesamiento, envío y posprocesamiento, para facilitar un flujo de datos fluido, la sincronización del sistema y el mantenimiento eficiente de la configuración de la integración.
 
 ## Contenido de vídeo
 
 * Obtenga información acerca de la estructura de las acciones invocadas en la integración de última milla.
-* Comprenda los casos de uso típicos dentro del vínculo de validación, incluida la validación de datos entrantes con esquemas y la omisión de eventos específicos basados en determinados criterios. palo de golf
+* Comprenda los casos de uso habituales dentro del vínculo de validación, incluida la validación de datos entrantes con esquemas y la omisión de eventos específicos en función de determinados criterios.
 * Conozca el papel del gancho de transformación en la transformación de objetos de datos entre los sistemas de origen y destino.
 * Obtenga información acerca de la importancia del vínculo de envío para facilitar los datos reales que se envían al sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451922?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

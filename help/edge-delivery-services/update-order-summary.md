@@ -1,16 +1,16 @@
 ---
-title: Resumen de pedidos de los Edge Delivery Services en pago y envío
-description: Obtenga información acerca de los servicios de envío de Adobe Edge y cómo actualizar la sección de resumen del pedido del menú desplegable de Commerce al cerrar la compra.
+title: Resumen de pedidos de Edge Delivery Services en cierre de compra
+description: Obtenga información acerca de Adobe Edge Delivery Services y cómo actualizar la sección de resumen de pedidos del menú desplegable de Commerce al finalizar la compra.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 269
+duration: 292
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -36,8 +36,8 @@ Aprenda a utilizar el carrito de compras de Adobe Commerce para acceder y ajusta
 * Obtenga información sobre cómo incluir una cantidad total guardada para el resumen del carro de compras.
 * Obtenga información sobre cómo combinar líneas en el resumen del carro de compras en una sección plegable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441188?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Documentación adicional
 
-* [Resumen del pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=es)
+* [Resumen del pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

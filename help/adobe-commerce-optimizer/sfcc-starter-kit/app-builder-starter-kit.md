@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 598
+duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Obtenga información acerca de la arquitectura del kit de inicio en la nube de Salesforce Commerce
 
@@ -34,4 +34,4 @@ Obtenga información acerca de la configuración e implementación del Starter K
 * Clone el Starter Kit de App Builder y configure los archivos de entorno utilizando la CLI de Adobe IO.
 * Implemente la aplicación y confirme el registro correcto de acciones y eventos en el espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476085?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
