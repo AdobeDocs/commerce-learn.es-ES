@@ -33,7 +33,7 @@ Este vídeo forma parte de la serie de incorporación técnica de Adobe Commerce
 * Flujos de trabajo de validación, optimización y depuración.
 * ECE-Tools, Quality Patches Tool, New Relic, Xdebug y administración de registros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432822?captions=spa&learn=on)
 
 ## La documentación de Experience League que se menciona en el vídeo
 
