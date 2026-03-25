@@ -35,4 +35,4 @@ Aprenda a crear un ticket de asistencia de búsqueda, revisión, recomendación 
 
 ## Guía del centro de ayuda de Commerce Knowledge Base
 
-[Enviar un caso de soporte técnico](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Enviar un caso de soporte técnico](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

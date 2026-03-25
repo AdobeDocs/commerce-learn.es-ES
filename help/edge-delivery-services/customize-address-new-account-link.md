@@ -44,4 +44,4 @@ Administradores de proyectos que necesiten realizar un seguimiento del progreso 
 
 ## Documentación adicional
 
-* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=es)

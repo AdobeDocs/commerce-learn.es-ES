@@ -40,4 +40,4 @@ Aprenda a utilizar el carrito de compras de Adobe Commerce para acceder y ajusta
 
 ## Documentación adicional
 
-* [Resumen del pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Resumen del pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=es)
