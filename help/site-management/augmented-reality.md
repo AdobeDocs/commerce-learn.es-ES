@@ -1,16 +1,17 @@
 ---
 title: Visor de AR para Adobe Commerce
-description: Obtenga información sobre el módulo de Visualización de Realidad Aumentada disponible en el Commerce Marketplace.
+description: Obtenga información acerca del módulo de visualización de realidad aumentada disponible en Commerce Marketplace.
 kt: 13738
 doc-type: video
+duration: 180
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
-badge: Visor de AR disponible en el Commerce Marketplace
+badge: Visor de AR disponible en Commerce Marketplace
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -28,13 +29,13 @@ AR Viewer sirve para [!DNL bridge] la brecha entre la venta minorista física y 
 
 ## Funciones
 
-- Interfaz fácil de usar para cargar modelos 3D de sus productos.
-- Generación automática de código QR al cargar modelos 3D.
-- Integración perfecta de códigos QR en páginas de productos para la visualización de AR.
-- Una experiencia de visualización de productos interactiva e inmersiva en dispositivos móviles.
-- Experiencia de comerciante optimizada directamente integrada en el administrador de Adobe Commerce.
-- Compatibilidad con clientes de Adobe Commerce Cloud y On-Prem (2.4.x+)
-- Al incorporar AR Viewer en tu tienda, estás ofreciendo más que solo productos; estás creando una experiencia de compra cautivadora e inmersiva que anima a los clientes a tomar decisiones de compra confiadas.
+* Interfaz fácil de usar para cargar modelos 3D de sus productos.
+* Generación automática de código QR al cargar modelos 3D.
+* Integración perfecta de códigos QR en páginas de productos para la visualización de AR.
+* Una experiencia de visualización de productos interactiva e inmersiva en dispositivos móviles.
+* Experiencia de comerciante optimizada directamente integrada en el administrador de Adobe Commerce.
+* Compatibilidad con Adobe Commerce Cloud y clientes locales (2.4.x o posterior)
+* Al incorporar AR Viewer en tu tienda, estás ofreciendo más que solo productos; estás creando una experiencia de compra cautivadora e inmersiva que anima a los clientes a tomar decisiones de compra confiadas.
 
 ## Adición del modelo 3D a un producto
 
@@ -57,8 +58,8 @@ Una vez que el visitante escanea el código QR con su dispositivo, el elemento s
 
 ## Recursos útiles
 
-[Visor de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=es){target="_blank"}
-[Administre modelos 3D de productos con el visor de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=es){target="_blank"}
+[Visor de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[Administre modelos 3D de productos con el visor de RA para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extensión de Adobe Commerce Marketplace
 

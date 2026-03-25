@@ -6,16 +6,16 @@ topic: Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 423
+duration: 637
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16188
-source-git-commit: fad5703d870d90175418916766a83942dc3e7b7f
+exl-id: b5a9a043-0420-4096-b915-565eaf37a288
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Flujos de marketing de Adobe Commerce
 
@@ -23,14 +23,14 @@ Explore la tienda de entregas de Edge de Adobe Commerce, centrándose en la admi
 
 ## Para quién es este vídeo
 
-- Especialistas en marketing, gestores de contenido y profesionales del comercio electrónico.
+* Especialistas en marketing, gestores de contenido y profesionales del comercio electrónico.
 _ Clientes nuevos y existentes que exploran la tienda de entregas de Edge de Adobe Commerce.
-- Proyectos Adobe Commerce que buscan una optimización y administración de contenido eficaces, especialmente para promocionar nuevos productos.
+* Proyectos Adobe Commerce que buscan una optimización y administración de contenido eficaces, especialmente para promocionar nuevos productos.
 
 ## Contenido de vídeo
 
-- Obtenga información sobre las últimas opciones de creación y administración de contenido para Edge Delivery Services.
-- Obtenga información sobre la optimización mediante pruebas A/B.
-- Conozca algunas herramientas avanzadas e integración de IA para refinar el contenido, generar variaciones y mejorar la estrategia promocional general.
+* Obtenga información sobre las últimas opciones de creación y administración de contenido de Edge Delivery Services.
+* Obtenga información sobre la optimización mediante pruebas A/B.
+* Conozca algunas herramientas avanzadas e integración de IA para refinar el contenido, generar variaciones y mejorar la estrategia promocional general.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433535?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

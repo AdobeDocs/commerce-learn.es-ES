@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Obtenga información sobre cómo crear un producto de tarjeta regalo mediante la
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Comerciantes de comercio electrónico
-- Nuevos desarrolladores de Adobe Commerce que desean aprender a crear productos en Adobe Commerce mediante la API de REST.
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
+* Nuevos desarrolladores de Adobe Commerce que desean aprender a crear productos en Adobe Commerce mediante la API de REST.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453080?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## Crear una tarjeta regalo con una carga útil simple
 
@@ -145,7 +145,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Crear una tarjeta regalo con una carga útil completa
 
-El siguiente ejemplo muestra la solicitud del POST para crear una tarjeta regalo con una carga útil completa. La carga útil incluye todos los atributos que se pueden configurar al crear una tarjeta regalo. Si utiliza este ejemplo de código, personalice la configuración actualizando los valores predeterminados para cada atributo según sea necesario antes de enviar la solicitud.
+El siguiente ejemplo muestra la solicitud POST para crear una tarjeta regalo con una carga útil completa. La carga útil incluye todos los atributos que se pueden configurar al crear una tarjeta regalo. Si utiliza este ejemplo de código, personalice la configuración actualizando los valores predeterminados para cada atributo según sea necesario antes de enviar la solicitud.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Recursos adicionales
 
-- [Cree un producto de tarjeta regalo del administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=es){target="_blank"}
-- [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Cree un producto de tarjeta regalo del administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

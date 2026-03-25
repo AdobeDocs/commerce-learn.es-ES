@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 694
+duration: 743
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # Crecimiento empresarial al simplificar la adopción de nuevos productos
 
@@ -36,4 +36,4 @@ Adobe Commerce facilita el crecimiento de las empresas al ayudarlas a pasar a Ad
 * La extensibilidad de App Builder permite separar la lógica personalizada en funciones sin servidor para facilitar el mantenimiento.
 * Las mejoras en la tienda mejoran el rendimiento y la creación de contenido con componentes integrados y entrega de Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475751/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

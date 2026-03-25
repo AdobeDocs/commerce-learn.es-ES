@@ -3,6 +3,7 @@ title: Compras asistidas por el vendedor
 description: Aprenda a añadir y a ofrecer asistencia inmediata tanto a los huéspedes como a los clientes que se hayan registrado para obtener una cuenta en su tienda.
 kt: 10548
 doc-type: feature video
+duration: 205
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Los clientes a veces necesitan ayuda para completar una compra. A algunos client
 
 ## ¿Para quién es este vídeo?
 
-- Gerentes de ventas
-- Representantes de servicio al cliente
+* Gerentes de ventas
+* Representantes de servicio al cliente
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411830?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Recursos adicionales
 
-- [Proporcionar asistencia al comprador - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=es)
-- [Asistencia para compras - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=es#shopping-assistance)
+* [Proporcionar asistencia al comprador - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Asistencia para compras - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

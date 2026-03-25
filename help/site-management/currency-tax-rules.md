@@ -3,6 +3,7 @@ title: Administrar reglas fiscales y de divisa
 description: Aprenda a configurar la divisa y las reglas fiscales que  [!DNL Commerce] utiliza para calcular el impuesto apropiado según las clases de cliente y de producto.
 kt: 10542
 doc-type: feature video
+duration: 157
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Las reglas fiscales incorporan una combinación de clase de producto, clase de c
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de tienda
-- Administradores de comercio electrónico
+* Administradores de tienda
+* Administradores de comercio electrónico
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411832?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## Recursos adicionales
 
-- [Reglas de impuestos - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=es)
-- [Moneda - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=es)
+* [Reglas de impuestos - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [Moneda - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

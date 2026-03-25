@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
+exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Uso compartido de datos Adobe Commerce
 
@@ -24,13 +24,13 @@ Se integra perfectamente con los productos de Adobe Experience Cloud para crear 
 
 ## Para quién es este vídeo
 
-- Empresas y empresas de comercio electrónico que buscan mejorar la lealtad de sus clientes
-- Minoristas, empresas de telecomunicaciones y marcas que deseen integrar sus datos sin problemas en Adobe Experience Cloud
+* Empresas y empresas de comercio electrónico que buscan mejorar la lealtad de sus clientes
+* Minoristas, empresas de telecomunicaciones y marcas que deseen integrar sus datos sin problemas en Adobe Experience Cloud
 
 ## Contenido de vídeo
 
-- Personalización mejorada mediante las funciones nativas de uso compartido de datos de Adobe Commerce
-- Mayor participación y lealtad del cliente
-- Integración perfecta y vista de cliente unificada
+* Personalización mejorada mediante las funciones nativas de uso compartido de datos de Adobe Commerce
+* Mayor participación y lealtad del cliente
+* Integración perfecta y vista de cliente unificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3433572?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

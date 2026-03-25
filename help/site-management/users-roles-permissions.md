@@ -3,6 +3,7 @@ title: Administrar funciones y permisos de usuario
 description: Obtenga información acerca de las cuentas de usuario y los permisos usados para controlar el acceso al sitio web de  [!DNL Commerce] y almacenar datos en el administrador.
 kt: 5610
 doc-type: feature video
+duration: 189
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Si hay otros miembros de su equipo o proveedores de servicios que necesitan acce
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de tienda
+* Administradores de tienda
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3443510?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## Recursos adicionales
 
-[Administrar cuentas de usuario de administrador - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=es)
+[Administrar cuentas de usuario de administrador - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Funciones de usuario - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=es)
+[Funciones de usuario - [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

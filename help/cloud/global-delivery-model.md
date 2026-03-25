@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Security, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 278
+duration: 340
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
+exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Modelo de envío global de Adobe Commerce
 
@@ -23,14 +23,14 @@ Adobe Commerce es una plataforma híbrida de comercio electrónico en la nube di
 
 ## Para quién es este vídeo
 
-- Las empresas de todos los tamaños que buscan establecer o mejorar su presencia en el comercio electrónico se beneficiarían de Adobe Commerce.
-- Minoristas, mayoristas y empresas que buscan una plataforma escalable, segura y personalizable con funciones avanzadas impulsadas por IA para optimizar las experiencias de los clientes y la eficiencia operativa.
-- Los desarrolladores y equipos de TI que investigan las opciones de comercio que ofrecen un conjunto sólido de herramientas y API nativas de la nube para crear y administrar aplicaciones de comercio.
+* Las empresas de todos los tamaños que buscan establecer o mejorar su presencia en el comercio electrónico se beneficiarían de Adobe Commerce.
+* Minoristas, mayoristas y empresas que buscan una plataforma escalable, segura y personalizable con funciones avanzadas impulsadas por IA para optimizar las experiencias de los clientes y la eficiencia operativa.
+* Los desarrolladores y equipos de TI que investigan las opciones de comercio que ofrecen un conjunto sólido de herramientas y API nativas de la nube para crear y administrar aplicaciones de comercio.
 
 ## Contenido de vídeo
 
-- Infraestructura escalable y segura.  Obtenga información sobre la infraestructura de varias nubes totalmente redundante en AWS y Azure, lo que garantiza un rendimiento optimizado, resiliencia y escalabilidad elástica con altos estándares de seguridad y conformidad.
-- Servicios avanzados impulsados por IA. Obtendrá conocimientos sobre los servicios inteligentes con prioridad API, como búsqueda en directo, recomendaciones de productos alimentadas por IA y servicios de catálogo para mejorar la experiencia del cliente y la eficacia operativa.
-- Herramientas completas para desarrolladores. Obtenga información acerca del conjunto de herramientas para desarrolladores nativas en la nube y sin servidor, como API Mesh y App Builder, que permiten una integración y personalización sin problemas para ampliar las funcionalidades comerciales.
+* Infraestructura escalable y segura.  Obtenga información sobre la infraestructura de varias nubes totalmente redundante de AWS y Azure, que garantiza un rendimiento optimizado, resiliencia y escalabilidad elástica con altos estándares de seguridad y conformidad normativa.
+* Servicios avanzados impulsados por IA. Obtendrá conocimientos sobre los servicios inteligentes con prioridad API, como búsqueda en directo, recomendaciones de productos alimentadas por IA y servicios de catálogo para mejorar la experiencia del cliente y la eficacia operativa.
+* Herramientas completas para desarrolladores. Obtenga información acerca del conjunto de herramientas para desarrolladores nativas en la nube y sin servidor, como API Mesh y App Builder, que permiten una integración y personalización sin problemas para ampliar las funcionalidades comerciales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433503?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)

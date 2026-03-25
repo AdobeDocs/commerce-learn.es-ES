@@ -1,38 +1,39 @@
 ---
 title: Crear widgets
-description: Aprenda a crear widgets y modificar los existentes para actualizar automáticamente el contenido en la tienda.
-jira: KT-17155
-doc-type: feature video
-audience: all
-activity: use
+description: Aprenda a crear y editar widgets para que las actualizaciones de contenido se realicen automáticamente en toda la tienda.
+doc-type: Tutorial
+duration: 232
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
-duration: 216
+role: Developer, User
+level: Beginner
+jira: KT-17155
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: ee2c20d3faab8eb441c8112dcf6bba51906820a5
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Crear widgets
 
-Los widgets son componentes reutilizables que se pueden crear y modificar fácilmente para actualizar automáticamente el contenido de la tienda. En este vídeo, aprenderá a crear y administrar widgets.
+Los widgets son componentes reutilizables que se pueden crear y modificar para actualizar automáticamente el contenido de la tienda. Este vídeo muestra cómo crear y administrar widgets.
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Diseñadores de contenido
+* Administradores de sitios web
+* Diseñadores de contenido
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411055?quality=12&learn=on&captions=spa)
+* Comprenda qué son los widgets y dónde aparecen.
+* Cree y gestione widgets en Admin.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
 
 ## Recursos adicionales
 
-- [Widgets - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=es)
-- [Crear y administrar widgets - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=es)
+* [Widgets - [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [Crear y administrar widgets - [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}

@@ -5,16 +5,16 @@ topic: Administration,Commerce
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 461
 last-substantial-update: 2025-09-16T00:00:00Z
 jira: KT-19185
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Administración de proyectos y entornos de Adobe Commerce Cloud
 
@@ -34,10 +34,10 @@ Aprenda a utilizar Adobe Commerce Cloud para administrar proyectos y entornos. M
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3474964/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
 
 ## Contenido y documentación relacionados
 
-* [Administrar el acceso de los usuarios](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Conexión segura a entornos remotos](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Proyecto de infraestructura en la nube](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/project/overview)
+* [Administrar el acceso de los usuarios](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Conexión segura a entornos remotos](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Proyecto de infraestructura en la nube](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)

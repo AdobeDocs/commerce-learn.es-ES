@@ -3,6 +3,7 @@ title: Aprenda a encontrar consultas lentas en los registros de consultas lentas
 description: Galera DB tiene un método de diseño que hace que la replicación de datos en bases de datos secundarias tome más tiempo que la primaria. Aprenda a encontrar estos eventos en el registro de consultas lentas de mysql y la razón subyacente por la que ve entradas en los registros de consultas lentas y quizás cómo evitarlas en el futuro.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -26,20 +27,20 @@ Como solución, si es posible, agrupe las operaciones grandes para ayudar a las 
 
 ## ¿Para quién es este vídeo?
 
-- Arquitectos
-- Desarrolladores
-- DevOps
+* Arquitectos
+* Desarrolladores
+* DevOps
 
 ## Contenido de vídeo
 
-- Replicación de Galera a base de datos secundaria
-- Más información sobre el control de flujo
-- Búsqueda de números de subproceso en registros de consulta lentos de mysql
-- Las ejecuciones masivas solo se producen en la principal. Las replicaciones se producen de una en una
-- Realice un lote de las grandes confirmaciones para ayudar a la replicación a seguir el ritmo de las principales
+* Replicación de Galera a base de datos secundaria
+* Más información sobre el control de flujo
+* Búsqueda de números de subproceso en registros de consulta lentos de mysql
+* Las ejecuciones masivas solo se producen en la principal. Las replicaciones se producen de una en una
+* Realice un lote de las grandes confirmaciones para ayudar a la replicación a seguir el ritmo de las principales
 
->[!VIDEO](https://video.tv.adobe.com/v/3423545?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Recursos útiles
 
-- [Clúster Galera](https://galeracluster.com/)
+* [Clúster Galera](https://galeracluster.com/)

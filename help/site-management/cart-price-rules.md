@@ -1,40 +1,41 @@
 ---
-title: Crear una regla de precio de carro
-description: Aprenda a crear reglas de precios de carro de compras que apliquen descuentos en el carro de compras en función de un conjunto de condiciones.
-doc-type: feature video
-audience: all
-activity: use
+title: Crear reglas de precio del carro
+description: Obtenga información sobre cómo crear reglas de precios de carro de compras que apliquen descuentos en el carro de compras cuando se cumplan las condiciones definidas.
+doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
-role: Admin, Leader, User
+role: User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
-# Crear una regla de precio de carro
+# Crear reglas de precio del carro
 
-Las reglas de precios del carro de compras aplican descuentos a los artículos del carro de compras, según un conjunto de condiciones. El descuento se puede aplicar automáticamente cuando se cumplen las condiciones o cuando el cliente introduce un código de cupón válido. Cuando se aplica, el descuento aparece en el carro de compras bajo el subtotal. Se puede utilizar una regla de precio del carro de compras según sea necesario para una temporada o promoción cambiando su estado y el intervalo de fechas.
+Las reglas de precios del carro de compras aplican descuentos a los artículos del carro de compras en función de las condiciones establecidas. El descuento se puede aplicar automáticamente cuando se cumplen las condiciones o cuando el cliente introduce un código de cupón válido. El descuento aparece en el carro de compras bajo el subtotal. Puede activar o desactivar una regla para una temporada o promoción cambiando su estado y el intervalo de fechas.
 
 ## ¿Para quién es este vídeo?
 
-- Especialistas en marketing electrónico
-- Administradores de sitios web
+* Especialistas en marketing electrónico
+* Administradores de sitios web
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410803?quality=12&learn=on&captions=spa)
+* Crear reglas de precios de carro de compras y códigos de cupones opcionales.
+* Consulte cómo aparecen los descuentos en el carro de compras y en las promociones.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Problemas de visualización de precios
 
-Hay algunos escenarios únicos que requieren que cada elemento de línea muestre su descuento proporcionado, pero es posible que los valores no coincidan exactamente. El motivo es cuando se aplica un descuento de regla de precio de carro de compras a varios productos, pero los valores no se dividen uniformemente en dos decimales.
+En algunos casos, cada elemento de línea debe mostrar el descuento aplicado, pero es posible que los valores mostrados no coincidan exactamente. Esto sucede cuando una regla de precio del carro de compras aplica un descuento en varios productos y la división no se divide uniformemente en dos decimales.
 
 >[!BEGINSHADEBOX]
 
@@ -54,7 +55,7 @@ Este es el problema, tenemos 3 decimales, en lugar de dos. Convertir esto a dól
 
 ### La solución
 
-Pensando en el propietario del sitio web, que es la única persona afectada por este problema, se determinó que mostrar cada artículo pedido con el descuento proporcionado en dólares era lo más apropiado. Para garantizar que la cantidad total del pedido se haya calculado correctamente, se decidió redondear el primer elemento y los demás soltar el tercer decimal. Revise este escenario:
+Para el comerciante en la Administración, el enfoque más claro es mostrar cada línea solicitada con su descuento en dólares. Para mantener el total del pedido correcto, redondee el primer elemento de línea hacia arriba y suelte el tercer decimal en los elementos de línea restantes. Revise este escenario:
 
 >[!BEGINSHADEBOX]
 
@@ -68,7 +69,7 @@ Producto 1 - 19,95 x 0,1 = 1,995
 Se proporciona un total de 3,99 como descuento al cliente
 
 Al mostrar los elementos de línea al propietario de la tienda en el administrador,
-necesitamos ajustar el primer elemento y redondearlo a 2.000. En el segundo elemento soltamos el tercer decimal
+tenemos que ajustar el primer elemento y redondearlo a 2.000. Para el segundo elemento, suelte el tercer decimal.
 Producto 1 = 2,00
 Producto 2 = 1,99
 
@@ -125,8 +126,7 @@ sin embargo, si soltamos el tercer decimal, mostraría que se dieron 3,98 dólar
 
 >[!ENDSHADEBOX]
 
-
 ## Recursos adicionales
 
-- [Crear una regla de precio de carro de compras - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=es)
-- [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=es)
+* [Crear una regla de precio de carro de compras - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

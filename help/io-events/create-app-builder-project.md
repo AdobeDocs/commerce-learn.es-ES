@@ -5,6 +5,7 @@ landing-page-description: Obtenga información sobre cómo crear un proyecto de 
 short-description: Obtenga información sobre cómo crear un proyecto de Adobe App Builder para utilizar eventos de Adobe Commerce
 kt: 11888
 doc-type: tutorial
+duration: 372
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 feature: App Builder, Configuration, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -34,7 +35,7 @@ Obtenga información sobre cómo crear un proyecto de Adobe Developer App Builde
 * Uso de Adobe Developer Console
 * Uso de Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3419804?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415797?learn=on)
 
 ## Comandos útiles {#useful-commands}
 

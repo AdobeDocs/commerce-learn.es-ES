@@ -3,13 +3,15 @@ title: API Mesh Starter Kit mediante flujos de trabajo
 description: Empiece a utilizar la API Mesh de Adobe Commerce mediante flujos de trabajo para implementar las pruebas de carga y malla.
 kt: 18388
 doc-type: tutorial
+duration: 351
 audience: all
 last-substantial-update: 2025-6-27
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
-source-git-commit: cdd219b9ecebf03e712e72a14400a70c8b0c23e1
+exl-id: 8add45cc-f0cb-43a6-99d9-6b89beff6b19
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -31,10 +33,10 @@ Obtenga información sobre los flujos de trabajo de GitHub incluidos en el kit d
 * Flujo de trabajo deployMesh que implementa o actualiza automáticamente una malla
 * Prueba de carga con el flujo de trabajo de prueba de carga K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464527?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## Documentación relacionada
 
 * [Kit de inicio de malla API para el repositorio de GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guía de implementación de Adobe Developer OAuth de servidor a servidor](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Lista de reproducción de vídeos de API Mesh](https://experienceleague.adobe.com/es/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Lista de reproducción de vídeos de API Mesh](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

@@ -6,20 +6,20 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 126
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
-source-git-commit: b3ec1230e5efa198d71e1a5c0756a47666065117
+exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
-
 # Solicitudes de soporte efectivas
 
-Al crear un ticket de soporte, es importante enviarlo a través de los canales adecuados, proporcionar información precisa y detallada sobre el problema, seleccionar la organización correcta y el motivo de contacto, elegir el producto y la versión adecuados, revisar los artículos sugeridos para posibles soluciones, volver a comprobar toda la información antes de enviarlo, rastrear el progreso del ticket y entablar una conversación con el equipo de soporte, marcar el ticket como resuelto cuando se resuelva el problema y abrir un ticket de seguimiento si se necesita más ayuda. palo de golf Recuerde enviar el ticket a través de los canales apropiados, proporcionar información precisa y detallada, seleccionar la organización correcta y el motivo de contacto, elegir el producto y la versión adecuados, revisar los artículos sugeridos, volver a comprobar toda la información antes de enviar, rastrear el progreso del ticket, entablar una conversación con el equipo de soporte, marcar el ticket como resuelto cuando se resuelva el problema y abrir un ticket de seguimiento si es necesario. palo de golf
+Al crear un ticket de soporte, es importante enviarlo a través de los canales apropiados, proporcionar información precisa y detallada sobre el problema, seleccionar la organización correcta y el motivo de contacto, elegir el producto y la versión adecuados, revisar los artículos sugeridos para posibles soluciones, volver a comprobar toda la información antes de enviarlo, rastrear el progreso del ticket y entablar una conversación con el equipo de soporte, marcar el ticket como resuelto cuando se resuelva el problema y abrir un ticket de seguimiento si se necesita más ayuda. Recuerde enviar el ticket a través de los canales apropiados, proporcionar información precisa y detallada, seleccionar la organización correcta y el motivo de contacto, elegir el producto y la versión adecuados, revisar los artículos sugeridos, volver a comprobar toda la información antes de enviar, rastrear el progreso del ticket, entablar una conversación con el equipo de soporte, marcar el ticket como resuelto cuando se resuelva el problema y abrir un ticket de seguimiento si es necesario.
 
 ## Incluir registros o capturas de pantalla
 
@@ -39,4 +39,4 @@ Muchos de los problemas de Adobe Commerce se pueden rastrear a través de New Re
 
 >[!MORELIKETHIS]
 > 
-> - [Guía del usuario de la Ayuda de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Guía del usuario de Adobe Commerce Help](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

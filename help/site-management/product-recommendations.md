@@ -2,6 +2,7 @@
 title: Configurar recomendaciones de productos
 description: Aprenda a utilizar las recomendaciones de productos en su tienda de Adobe Commerce.
 doc-type: feature video
+duration: 395
 audience: all
 activity: use
 kt: 13790
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -22,20 +23,20 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-Las recomendaciones de productos son una potente herramienta de marketing que puede utilizar para aumentar las conversiones, aumentar los ingresos y estimular la participación del comprador. Las recomendaciones de productos de Adobe Commerce están impulsadas por la IA de Adobe, que utiliza inteligencia artificial y algoritmos de aprendizaje automático para realizar un análisis profundo de los datos agregados del visitante. Estos datos, cuando se combinan con su catálogo de Adobe Commerce, resultan en una experiencia muy atractiva, relevante y personalizada.
+Las recomendaciones de productos son una potente herramienta de marketing que puede utilizar para aumentar las conversiones, aumentar los ingresos y estimular la participación del comprador. Las recomendaciones de productos de Adobe Commerce están impulsadas por Adobe AI, que utiliza inteligencia artificial y algoritmos de aprendizaje automático para realizar un análisis profundo de los datos agregados del visitante. Estos datos, cuando se combinan con su catálogo de Adobe Commerce, resultan en una experiencia muy atractiva, relevante y personalizada.
 
 En este vídeo, aprenderá a configurar recomendaciones de productos.
 
 ## ¿Para quién es este vídeo?
 
-- Especialistas en marketing electrónico
-- Administradores de sitios web
+* Especialistas en marketing electrónico
+* Administradores de sitios web
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3449961?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
 
 ## Recursos adicionales
 
-- [Guía de recomendaciones de productos](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=es){target="_blank"}
-- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=es){target="_blank"}
+* [Guía de recomendaciones de productos](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+* [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

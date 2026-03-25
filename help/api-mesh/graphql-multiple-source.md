@@ -5,6 +5,7 @@ landing-page-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DN
 short-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la creación de una malla que tiene varias fuentes y cómo resolver algunos errores comunes.
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con v
 * Solucionar errores, como conflictos de nombres, disponibilidad de esquemas y otros problemas de sintaxis de esquemas
 * Actualización de la malla con una configuración modificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3419786?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Cree el archivo de configuración json.
 

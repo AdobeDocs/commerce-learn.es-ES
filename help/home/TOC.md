@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + Extensibilidad {#extensibility}
    + Desarrollo back-end {#backend-development}
-      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creación de un módulo](../backend-development/create-module.md)
       + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
       + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
       + [Replicación lenta de Galera Cluster](../backend-development/galera-db-slow-replication.md)
       + [Caché de consultas MySQL](../backend-development/mysql-query-cache.md)
       + [Resumen de consulta PT](../backend-development/pt-query-digest.md)
-      + [Conexión y descarga de la base de datos de Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
+      + [Conexión y ejecución de consultas en la base de datos de Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
       + Actualizaciones de Commerce {#upgrade}
          + [Taller de actualización de Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
          + [Información general sobre la herramienta de compatibilidad de actualización](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [Uso de la herramienta de compatibilidad de actualización en PHP Storm](../upgrade/uct-phpstorm.md)
+         + [Uso de la herramienta de compatibilidad de actualización en PhpStorm](../upgrade/uct-phpstorm.md)
    + Desarrollo front-end de Luma {#frontend-development}
       + Page Builder de PaaS/SaaS para desarrolladores {#page-builder}
          + [1 - Introducción](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -131,12 +131,12 @@ ht-degree: 3%
          + Introducción a sin encabezado {#introduction-to-headless}
             + [Arquitectura sin encabezado - Sesión 1](../headless/session-1.md)
          + Introducción a PWA Studio {#introduction}
-            + [1 - Resumen](../pwa/introduction/1-overview.md)
-            + [2 - Herramientas de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - Lanzamiento](../pwa/introduction/3-launch.md)
-            + [4 - ASCENDENTE](../pwa/introduction/4-upward.md)
-            + [5 - Introducción](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrino](../pwa/introduction/6-peregrine.md)
+            + [Información general](../pwa/introduction/1-overview.md)
+            + [Herramientas de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Launch](../pwa/introduction/3-launch.md)
+            + [ASCENDENTE](../pwa/introduction/4-upward.md)
+            + [Primeros pasos](../pwa/introduction/5-getting-started.md)
+            + [Peregrino](../pwa/introduction/6-peregrine.md)
          + [Desarrollo de PWA Docker](../pwa/pwa-docker-development.md)
          + [Configuración de Venia para desarrollo](../pwa/set-up-venia-for-dev.md)
    + GRAPHQL y REST {#graphql-rest}

@@ -3,6 +3,7 @@ title: Optimización de Adobe Commerce con la arquitectura de referencia global 
 description: Aprenda a configurar Adobe Commerce mediante la arquitectura de referencia global de paquetes en lote para una administración eficiente del código y un control de versiones.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ El patrón GRA de paquetes masivos implica un único repositorio Git para alojar
 
 Ventajas:
 
-- Reutilización del código a través de un repositorio de código compartido
-- Flexibilidad para instalar diferentes versiones históricas del GRA en diferentes instancias, lo que permite versiones por fases
-- Flexibilidad para retroportar y mantener varias versiones principales de GRA
-- Compatibilidad con el control de versiones semánticas de GRA
-- Simplicidad, los desarrolladores no necesitan más habilidades que en los patrones de desarrollo de una sola tienda regular
-- No se requieren herramientas especiales, infraestructuras complejas ni estrategias de ramificación especiales
-- La combinación de paquetes de una versión siempre se desarrolla y prueba en conjunto
+* Reutilización del código a través de un repositorio de código compartido
+* Flexibilidad para instalar diferentes versiones históricas del GRA en diferentes instancias, lo que permite versiones por fases
+* Flexibilidad para retroportar y mantener varias versiones principales de GRA
+* Compatibilidad con el control de versiones semánticas de GRA
+* Simplicidad, los desarrolladores no necesitan más habilidades que en los patrones de desarrollo de una sola tienda regular
+* No se requieren herramientas especiales, infraestructuras complejas ni estrategias de ramificación especiales
+* La combinación de paquetes de una versión siempre se desarrolla y prueba en conjunto
 
 Desventajas:
 
-- Solo es posible actualizar el GRA completo, incluyendo todos los paquetes contenidos en él.
-- El paquete masivo GRA no es compatible con otros paquetes de compositor que no sean módulos de Adobe Commerce, paquetes de idiomas y temáticas, por lo que no hay metapaquetes, paquetes de componentes de Magento2, complementos de Composer y parches
+* Solo es posible actualizar el GRA completo, incluyendo todos los paquetes contenidos en él.
+* El paquete masivo GRA no es compatible con otros paquetes de compositor que no sean módulos de Adobe Commerce, paquetes de idiomas y temáticas, por lo que no hay metapaquetes, paquetes de componentes de Magento2, complementos de Composer y parches
 
 ## Configuración de Adobe Commerce con el patrón Split Git GRA
 
@@ -233,11 +234,11 @@ git push origin main
 
 Solo si el tercero no ofrece la instalación a través de un repositorio de Composer, puede almacenar módulos de terceros en el directorio `src/` de su repositorio base o en un paquete masivo de terceros dedicado.
 
-- **Adobe Commerce Core**: disponible a través de repo.magento.com.
-- **Módulos de terceros**: disponibles a través de Marketplace o del repositorio de Compositor propio de un proveedor.
-- **Opción de reserva de módulos de terceros**: almacenada en `src/` de un paquete masivo.
-- **código de base GRA**: almacenado en `src/` del paquete base masiva.
-- **Código local**: almacenado en el directorio `packages/local` del repositorio de implementación.
+* **Adobe Commerce Core**: disponible a través de repo.magento.com.
+* **Módulos de terceros**: disponibles a través de Marketplace o del repositorio de Compositor propio de un proveedor.
+* **Opción de reserva de módulos de terceros**: almacenada en `src/` de un paquete masivo.
+* **código de base GRA**: almacenado en `src/` del paquete base masiva.
+* **Código local**: almacenado en el directorio `packages/local` del repositorio de implementación.
 
 ## Desarrollo de un módulo GRA
 
@@ -272,6 +273,6 @@ En las ramas de tickets, casi nunca debería tener que actualizar el archivo com
 
 Los ejemplos de código de este artículo están disponibles como un conjunto de repositorios Git, que puede utilizar para probar la prueba de concepto.
 
-- Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-bulk-brand-x>
-- El repositorio de código GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
-- Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
+* Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* El repositorio de código GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
+* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>

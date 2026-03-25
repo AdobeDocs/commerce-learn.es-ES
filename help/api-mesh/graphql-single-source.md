@@ -5,6 +5,7 @@ landing-page-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DN
 short-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
 kt: 11804
 doc-type: tutorial
+duration: 510
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con u
 * Creación de una malla a partir de un archivo de configuración JSON
 * Acceder al punto de conexión de GraphQL recién creado
 
->[!VIDEO](https://video.tv.adobe.com/v/3419718?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
 ## Cree el archivo de configuración json.
 

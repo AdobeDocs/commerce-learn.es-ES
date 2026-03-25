@@ -3,6 +3,7 @@ title: Crear un producto agrupado
 description: Obtenga información sobre cómo crear un producto agrupado mediante la API de REST y el administrador de Commerce.
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -37,13 +38,13 @@ Al crear productos agrupados desde el administrador de Adobe Commerce, cree prim
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Comerciantes de comercio electrónico
-- Nuevos desarrolladores de Adobe Commerce que desean aprender a crear productos agrupados en Adobe Commerce mediante la API de REST.
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
+* Nuevos desarrolladores de Adobe Commerce que desean aprender a crear productos agrupados en Adobe Commerce mediante la API de REST.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454041?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## Configuración del producto agrupado
 
@@ -203,7 +204,7 @@ Al vincular los productos simples al producto agrupado, la carga útil contenía
         }
 ```
 
-En la carga útil, el valor `link_type` `associated` proporciona el valor `{type}` requerido en la solicitud del DELETE. La dirección URL de la solicitud será similar a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+En la carga útil, el valor `link_type` `associated` proporciona el valor `{type}` requerido en la solicitud de DELETE. La dirección URL de la solicitud será similar a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
 Consulte la solicitud cURL para eliminar el producto simple con el SKU `product-sku-three` del producto agrupado con el SKU `my-new-grouped-product`:
 
@@ -223,7 +224,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Recursos adicionales
 
-- [Crear y administrar productos agrupados](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=es){target="_blank"}
-- [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Crear y administrar productos agrupados](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

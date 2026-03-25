@@ -1,48 +1,47 @@
 ---
-title: Uso de la herramienta de compatibilidad de actualización en PHP Storm
-description: Vea este vídeo técnico para aprender a utilizar la herramienta de compatibilidad de actualización con el complemento PHP Storm.
-landing-page-description: Obtenga información acerca del uso de la herramienta de compatibilidad de actualización con el complemento PHP Storm que facilita la identificación y solución de incompatibilidades.
-short-description: Obtenga información acerca del uso de la herramienta de compatibilidad de actualización con el complemento PHP Storm, que facilita la identificación y solución de incompatibilidades.
-kt: 9651
-doc-type: technical video
-audience: all
-activity: use
+title: Uso de la herramienta de compatibilidad de actualización en PhpStorm
+description: Aprenda a utilizar la herramienta de compatibilidad de actualización con el complemento PhpStorm para buscar y corregir incompatibilidades antes de actualizar.
+doc-type: Technical Video
+duration: 416
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
-old-role: Architect, Developer
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
+jira: KT-9651
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 35%
+source-wordcount: '126'
+ht-degree: 0%
 
 ---
 
-# Uso de la herramienta de compatibilidad de actualización en PHP Storm
+# Uso de la herramienta de compatibilidad de actualización en PhpStorm
 
 {{only-for-on-prem-commerce-cloud}}
 
-La herramienta de compatibilidad de actualización (UCT) es una herramienta gratuita que analiza las incompatibilidades entre su versión actual y la versión de actualización de destino en solo minutos. El complemento PHP Storm hace que esta herramienta sea aún más fácil de usar.
+La herramienta de compatibilidad de actualización (UCT) analiza las incompatibilidades entre la versión actual y una versión de actualización de destino en minutos. El complemento PhpStorm facilita la ejecución de la herramienta desde el IDE.
 
 En este vídeo:
 
-- ¿Qué es la herramienta de compatibilidad de actualización?
-- Cómo utilizarlo con el plugin Magento PHP Storm
-- Cómo acceder a los resultados de HTML para visualizar los módulos por gravedad y cantidad de incompatibilidades
+* Qué hace la herramienta de compatibilidad de actualización
+* Cómo utilizarlo con el complemento PhpStorm de Magento
+* Cómo leer los resultados de HTML por gravedad del módulo y recuento de incompatibilidad
 
 ## ¿Para quién es este vídeo?
 
-- Desarrolladores
+* Desarrolladores
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344404?captions=spa&quality=12&learn=on)
+* Instale y ejecute UCT desde PhpStorm.
+* Revise los informes de HTML y dé prioridad a las correcciones.
+
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## Recursos adicionales
 
-- [Herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=es)
-- [Complemento Magento PHP Storm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [Versiones publicadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=es)
+* [Herramienta de compatibilidad de actualización](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
+* [Complemento PhpStorm de Magento](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
+* [Versiones publicadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

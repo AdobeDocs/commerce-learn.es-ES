@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 206
+duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -26,16 +26,16 @@ Si cree que podría necesitar estos archivos de registro, puede `rsync` o utiliz
 
 ## Para quién es este vídeo
 
-- Desarrolladores y profesionales de TI
-- Administradores del sistema
+* Desarrolladores y profesionales de TI
+* Administradores del sistema
 
 ## Contenido de vídeo
 
-- Diagnóstico y resolución de una implementación fallida
-- Donde se encuentran algunos archivos de registro grandes comunes
-- Método rápido para truncar un archivo de registro
+* Diagnóstico y resolución de una implementación fallida
+* Donde se encuentran algunos archivos de registro grandes comunes
+* Método rápido para truncar un archivo de registro
 
->[!VIDEO](https://video.tv.adobe.com/v/3454586?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandos utilizados en el vídeo
@@ -91,4 +91,4 @@ Después de realizar ssh en el proyecto y entorno correctos, cambie al directori
 
 ## Documentación relacionada
 
-- [Notificaciones de estado](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notificaciones de estado](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

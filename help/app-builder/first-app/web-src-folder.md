@@ -4,6 +4,7 @@ description: Obtenga información sobre los tipos de archivos de la carpeta web-
 landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y qué tipos de archivos se encuentran en la carpeta web-src.
 kt: 12425
 doc-type: tutorial
+duration: 285
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -33,7 +34,7 @@ La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y car
 * Archivos y carpetas incluidos normalmente
 * Uso de la carpeta `web-src` y del contenido de la aplicación de ejemplo
 
->[!VIDEO](https://video.tv.adobe.com/v/3421038?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
 ## Muestras de código
 

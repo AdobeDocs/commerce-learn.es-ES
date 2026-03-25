@@ -3,6 +3,7 @@ title: Arquitectura de referencia global de paquetes independientes
 description: Optimizar Adobe Commerce con paquetes separados GRA. Conozca la configuración, las ventajas y las prácticas recomendadas para una administración flexible y con versiones de los paquetes.
 jira: KT-16727
 doc-type: tutorial
+duration: 594
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -35,16 +36,16 @@ Este patrón de arquitectura de referencia global se basa completamente en el Co
 
 Ventajas:
 
-- Reutilización del código a través de repositorios de código compartido
-- Flexibilidad total en la instalación de paquetes, cada paquete GRA puede actualizarse, degradarse o retroportarse individualmente
-- Compatibilidad total con versiones semánticas
-- No se requieren herramientas especiales, infraestructuras complejas ni estrategias de ramificación especiales
-- Compatibilidad con todos los tipos de paquetes admitidos por Composer
+* Reutilización del código a través de repositorios de código compartido
+* Flexibilidad total en la instalación de paquetes, cada paquete GRA puede actualizarse, degradarse o retroportarse individualmente
+* Compatibilidad total con versiones semánticas
+* No se requieren herramientas especiales, infraestructuras complejas ni estrategias de ramificación especiales
+* Compatibilidad con todos los tipos de paquetes admitidos por Composer
 
 Desventajas:
 
-- El desarrollo dentro de este patrón GRA es ligeramente más difícil al principio, hay una pequeña curva de aprendizaje
-- Posible implementar combinaciones de paquetes que no se desarrollaron en la misma configuración, necesidad de procedimientos de prueba estrictos
+* El desarrollo dentro de este patrón GRA es ligeramente más difícil al principio, hay una pequeña curva de aprendizaje
+* Posible implementar combinaciones de paquetes que no se desarrollaron en la misma configuración, necesidad de procedimientos de prueba estrictos
 
 ## Configurar Adobe Commerce con el patrón de paquetes separados GRA
 
@@ -84,9 +85,9 @@ Instale Adobe Commerce con `bin/magento setup:install`. Confirme el `app/etc/con
 
 Cada paquete de este patrón de arquitectura de referencia global tiene su propio repositorio Git. A continuación se muestran paquetes de ejemplo que contienen módulos Adobe Commerce que representan un módulo GRA, un módulo de terceros y un módulo local.
 
-- <https://github.com/AntonEvers/module-example-gra>
-- <https://github.com/AntonEvers/module-example-3rdparty>
-- <https://github.com/AntonEvers/module-example-local>
+* <https://github.com/AntonEvers/module-example-gra>
+* <https://github.com/AntonEvers/module-example-3rdparty>
+* <https://github.com/AntonEvers/module-example-local>
 
 Utilice los ejemplos para crear sus propios paquetes.
 
@@ -290,10 +291,10 @@ Asegúrese de que los paquetes relacionados se muestren juntos en las descripcio
 
 Los ejemplos de código de esta publicación de blog se han combinado en un conjunto de repositorios Git, que puede utilizar para jugar con la prueba de concepto.
 
-- Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-separate-brand-x>
-- Un ejemplo de módulo base: <https://github.com/AntonEvers/module-example-gra>
-- Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>
-- Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
-- Un ejemplo de metapaquete base: <https://github.com/AntonEvers/gra-meta-foundation>
-- Un ejemplo de metapaquete local (opcional): <https://github.com/AntonEvers/gra-meta-brand-x>
-- Un ejemplo de repositorio del Compositor: <https://github.com/AntonEvers/gra-composer-repository>
+* Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-separate-brand-x>
+* Un ejemplo de módulo base: <https://github.com/AntonEvers/module-example-gra>
+* Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>
+* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
+* Un ejemplo de metapaquete base: <https://github.com/AntonEvers/gra-meta-foundation>
+* Un ejemplo de metapaquete local (opcional): <https://github.com/AntonEvers/gra-meta-brand-x>
+* Un ejemplo de repositorio del Compositor: <https://github.com/AntonEvers/gra-composer-repository>

@@ -2,6 +2,7 @@
 title: Configuración de Adobe Commerce Payment Services
 description: Obtenga información sobre cómo configurar Adobe Commerce Payment Services.
 doc-type: video
+duration: 310
 kt: 14748
 audience: all
 activity: use
@@ -11,8 +12,8 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
-source-git-commit: 182563f9f53cc2de5a1a0577d6d0ee39d0874cef
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -25,8 +26,8 @@ Para empezar a utilizar Servicios de pago para Adobe Commerce y Magento Open Sou
 
 ## ¿Para quién es este vídeo?
 
-- Ingenieros operativos
-- Administradores de comercio electrónico y puntos de contacto
+* Ingenieros operativos
+* Administradores de comercio electrónico y puntos de contacto
 
 ## Contenido de vídeo
 
@@ -34,6 +35,6 @@ Para empezar a utilizar Servicios de pago para Adobe Commerce y Magento Open Sou
 
 ## Recursos adicionales
 
-- [Servicios de pago integrados](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=es){target="_blank"}
-- [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=es){target="+blank"}
-- [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=es){target="+blank"}
+* [Servicios de pago integrados](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+* [Guía de servicios de pago](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+* [Conector de servicios de Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

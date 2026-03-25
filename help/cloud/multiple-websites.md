@@ -6,10 +6,11 @@ topic: Administration, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 353
+duration: 390
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
-source-git-commit: cea265de4a1e8f828d60d9f5773f0d7fa5e6b5de
+exl-id: c041bd9a-9955-4053-a147-570ae1d88692
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -22,14 +23,14 @@ Adobe Commerce permite a las empresas administrar varias tiendas, marcas o sitio
 
 ## Para quién es este vídeo
 
-- Empresas que buscan expandir sus operaciones de comercio electrónico en varias regiones, marcas o líneas de productos.
-- Administradores de tienda, directores de comercio electrónico y equipos de marketing.
-- Empresas que buscan escalabilidad y flexibilidad en su presencia en línea.
+* Empresas que buscan expandir sus operaciones de comercio electrónico en varias regiones, marcas o líneas de productos.
+* Administradores de tienda, directores de comercio electrónico y equipos de marketing.
+* Empresas que buscan escalabilidad y flexibilidad en su presencia en línea.
 
 ## Contenido de vídeo
 
-- Administración de varios sitios
-- Localización y personalización
-- Escalabilidad y flexibilidad
+* Administración de varios sitios
+* Localización y personalización
+* Escalabilidad y flexibilidad
 
->[!VIDEO](https://video.tv.adobe.com/v/3434030?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

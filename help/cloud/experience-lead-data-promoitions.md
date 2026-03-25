@@ -6,11 +6,11 @@ topic: Administration, Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 1227
+duration: 1345
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-source-git-commit: f7019a524a6978908fdd50d93eb0fbe0b5f032a4
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -19,38 +19,38 @@ ht-degree: 0%
 
 # Promociones y datos de posibles clientes  
 
-Obtenga información acerca de las funcionalidades de búsqueda avanzada de Adobe Commerce, con tecnología de IA de Adobe, y sus sólidas funciones de administración de catálogos. Conozca algunos de los aspectos destacados de las herramientas de optimización, faceteo y comercialización de búsqueda impulsadas por IA para mejorar la experiencia del usuario. palo de golf Además, aprenderá sobre la agrupación de productos, la administración de promociones y la integración perfecta con sistemas de terceros, lo que ofrece una solución completa para las necesidades de comercio electrónico B2B y B2C.
+Obtenga información sobre las funciones de búsqueda avanzada de Adobe Commerce, con tecnología de Adobe AI, y sus sólidas funciones de administración de catálogos. Conozca algunos de los aspectos destacados de las herramientas de optimización, faceteo y comercialización de búsqueda impulsadas por IA para mejorar la experiencia del usuario. Además, aprenderá sobre la agrupación de productos, la administración de promociones y la integración perfecta con sistemas de terceros, lo que ofrece una solución completa para las necesidades de comercio electrónico B2B y B2C.
 
 ## ¿Para quién son estos vídeos?
 
-- Administradores de comercio electrónico
-- Comerciantes de Commerce
-- Especialistas en marketing web
-- Desarrolladores de software
+* Administradores de comercio electrónico
+* Comerciantes de Commerce
+* Especialistas en marketing web
+* Desarrolladores de software
 
 ## Administración de catálogos
 
-Descubra las potentes herramientas de administración de catálogos de Adobe Commerce diseñadas para administradores y desarrolladores de comercio electrónico. palo de golf Administre sin esfuerzo listas de productos, inventarios, precios y promociones con funciones intuitivas de programación y automatización. Integre sin problemas con sistemas de terceros y aproveche servicios avanzados como búsquedas en directo y recomendaciones de productos. palo de golf Aproveche la sólida ingesta de datos mediante API y sincronización en tiempo real, todo mientras mejora su tienda con contenido generado por IA desde Adobe Experience Manager. palo de golf Aumente su experiencia de comercio electrónico y manténgase ágil en un mercado dinámico con Adobe Commerce.  
+Descubra las potentes herramientas de gestión de catálogos de Adobe Commerce diseñadas para administradores y desarrolladores de comercio electrónico. Administre sin esfuerzo listas de productos, inventarios, precios y promociones con funciones intuitivas de programación y automatización. Integre sin problemas con sistemas de terceros y aproveche servicios avanzados como búsqueda en directo y recomendaciones de productos. Aproveche la sólida ingesta de datos mediante API y sincronización en tiempo real, todo mientras mejora su tienda con contenido generado por IA desde Adobe Experience Manager. Aumente su experiencia de comercio electrónico y manténgase ágil en un mercado dinámico con Adobe Commerce.  
 
 ## Contenido de vídeo de administración de catálogo
 
-- Gestión eficiente del catálogo.
-- Integración y personalización avanzadas.
-- Experiencia de compra mejorada.
+* Gestión eficiente del catálogo.
+* Integración y personalización avanzadas.
+* Experiencia de compra mejorada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434067?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
-Descubra las funcionalidades de búsqueda avanzada de Adobe Commerce Live Search, con tecnología Adobe AI. Esta sólida solución SaaS mejora la experiencia de comercio electrónico al ofrecer resultados de búsqueda muy relevantes de forma rápida y eficaz. palo de golf Los comerciantes y especialistas en marketing pueden optimizar los resultados de búsqueda del sitio con herramientas como reglas de búsqueda avanzadas, sinónimos y facetas. Live Search ofrece sugerencias en tiempo real, clasificación inteligente y experiencias de búsqueda personalizables, lo que garantiza que los clientes encuentren lo que necesitan. palo de golf También admite modelos B2B con catálogos compartidos y precios específicos, lo que lo convierte en una solución versátil para todas las necesidades comerciales.
+Descubra las funcionalidades de búsqueda avanzada de Adobe Commerce Live Search, con tecnología Adobe AI. Esta sólida solución SaaS mejora la experiencia de comercio electrónico al ofrecer resultados de búsqueda muy relevantes de forma rápida y eficaz. Los comerciantes y especialistas en marketing pueden optimizar los resultados de búsqueda del sitio con herramientas como reglas de búsqueda avanzadas, sinónimos y facetas. Live Search ofrece sugerencias en tiempo real, clasificación inteligente y experiencias de búsqueda personalizables, lo que garantiza que los clientes encuentren lo que necesitan. También admite modelos B2B con catálogos compartidos y precios específicos, lo que lo convierte en una solución versátil para todas las necesidades comerciales.
 
 ## Contenido de vídeo de Live Search
 
-- Optimización de la búsqueda impulsada por IA: Live Search de Adobe Commerce aprovecha la IA y el aprendizaje automático para ofrecer resultados de búsqueda muy relevantes y eficientes.
-- Experiencia de búsqueda personalizable: Funciones como reglas de búsqueda avanzadas, sinónimos y facetas permiten una experiencia de búsqueda adaptada y optimizada para los clientes.
-- Integración B2B: Live Search admite modelos B2B con catálogos compartidos y precios específicos, lo que mejora su versatilidad para diversas necesidades comerciales.
+* Optimización de la búsqueda impulsada por IA: Live Search de Adobe Commerce aprovecha la IA y el aprendizaje automático para ofrecer resultados de búsqueda muy relevantes y eficientes.
+* Experiencia de búsqueda personalizable: Funciones como reglas de búsqueda avanzadas, sinónimos y facetas permiten una experiencia de búsqueda adaptada y optimizada para los clientes.
+* Integración B2B: Live Search admite modelos B2B con catálogos compartidos y precios específicos, lo que mejora su versatilidad para diversas necesidades comerciales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434045?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promociones  
 
@@ -58,9 +58,9 @@ Adobe Commerce permite a los gerentes de tienda crear y administrar paquetes de 
 
 ## Contenido de vídeo de promociones
 
-- Administración de promociones sin código.
-- Estrategias de promoción avanzadas.
-- Integración perfecta con sistemas de terceros, lo que mejora la flexibilidad y la automatización.
+* Administración de promociones sin código.
+* Estrategias de promoción avanzadas.
+* Integración perfecta con sistemas de terceros, lo que mejora la flexibilidad y la automatización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434056?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

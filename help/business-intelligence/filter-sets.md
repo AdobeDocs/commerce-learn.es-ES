@@ -5,6 +5,7 @@ landing-page-description: Vea este vídeo para aprender a utilizar la función d
 short-description: Vea este vídeo para aprender a utilizar la función de conjuntos de filtros de MBCommerce IntelligenceID para simplificar la creación de informes de datos empresariales.
 kt: 10289
 doc-type: feature video
+duration: 515
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -27,26 +28,26 @@ ht-degree: 0%
 
 En este vídeo:
 
-- Creación de un conjunto de filtros
-- Uso de operadores de filtro
-- Aplicación de un conjunto de filtros a una métrica
-- Aplicación de un conjunto de filtros a una dimensión de datos calculada
+* Creación de un conjunto de filtros
+* Uso de operadores de filtro
+* Aplicación de un conjunto de filtros a una métrica
+* Aplicación de un conjunto de filtros a una dimensión de datos calculada
 
 >[!TIP]
 >
->Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es){target="_blank"} proporciona información general completa para obtener mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en Commerce Intelligence, la [Guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} le ofrece información general completa para obtener mejores resultados y perspectivas comerciales mediante la agregación, el análisis y la visualización de datos.
 
 ## ¿Para quién es este vídeo?
 
-- Usuarios empresariales
-- Analistas de datos
+* Usuarios empresariales
+* Analistas de datos
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/346401?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/342408?learn=on)
 
 ## Recursos útiles
 
-[Crear conjuntos de filtros: Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=es)
+[Crear conjuntos de filtros: Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[Dimension de datos recomendados para la segmentación y el filtrado - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=es)
+[Dimensiones de datos recomendadas para la segmentación y el filtrado - Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

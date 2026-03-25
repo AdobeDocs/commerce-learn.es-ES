@@ -1,42 +1,42 @@
 ---
 title: Creación de un módulo
-description: Aprenda a crear un módulo en Adobe Commerce que envíe información al registrador de PSR. Esto agrega funcionalidad al primer módulo de Adobe Commerce.
-kt: 5614
-doc-type: video
+description: Cree y registre un módulo en Adobe Commerce, ejecute el programa de instalación y agregue complementos que registren el registro de PSR en los contextos de área de administración, tienda y API de REST.
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Creación de un módulo
 
-El módulo es un elemento estructural de [!DNL Commerce]; todo el sistema está construido sobre módulos. Normalmente, el primer paso para crear una personalización es crear un módulo.
+Un módulo es un elemento estructural de [!DNL Commerce]: módulos de la red troncal del sistema. Normalmente, las personalizaciones se inician creando un módulo.
 
 ## ¿Para quién es este vídeo?
 
-- Desarrolladores
+* Desarrolladores back-end
 
 ## Pasos para añadir un módulo
 
-- Cree la carpeta del módulo.
-- Cree el archivo etc/module.xml.
-- Cree el archivo registration.php.
-- Ejecute la configuración de bin/magento.
-- Actualice el script para instalar el nuevo módulo.
-- Compruebe que el módulo funciona.
+1. Cree la carpeta del módulo.
+2. Crear el archivo `etc/module.xml`.
+3. Crear el archivo `registration.php`.
+4. Ejecute `bin/magento setup:upgrade` para registrar e instalar el módulo.
+5. Compruebe que el módulo funciona.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412451?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### El archivo module.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ El módulo es un elemento estructural de [!DNL Commerce]; todo el sistema está 
 </config>
 ```
 
-### registration.php
+### El archivo registration.php
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Añadir un complemento y proporcionar alguna funcionalidad
+### Añadir un complemento
 
-El siguiente paso es añadir alguna funcionalidad a nuestro módulo básico. Un complemento es una herramienta esencial que utilizan todos los desarrolladores de Adobe Commerce. Este vídeo y tutorial le ayudan a crear un complemento.
+A continuación, agregue funcionalidad al módulo básico. Los complementos se utilizan como herramientas esenciales en el desarrollo de Adobe Commerce. Este vídeo y tutorial muestran cómo crear un complemento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
-### Cosas que hay que recordar para Plugins
+### Cosas que hay que recordar para complementos
 
-- Todos los complementos están declarados en `di.xml`.
-- El complemento requiere un nombre único
-- disabled y sortOrder son opcionales
-- El ámbito del complemento lo establece la carpeta en la que se encuentra
-- Los complementos se pueden ejecutar antes, después o ambos (alrededor) de cuando se llama al método
-- Evite utilizar `around` complementos. Son tentadores de usar, pero a menudo son la opción incorrecta y llevarán a problemas de rendimiento.
+* Usted declara todos los complementos en `di.xml`.
+* Asigne a cada complemento un nombre único.
+* Opcionalmente, puede establecer los atributos `disabled` y `sortOrder`.
+* El ámbito del complemento se establece eligiendo la carpeta que contiene el archivo `di.xml`.
+* Los complementos se ejecutan antes, después o alrededor de la llamada al método Target.
+* Evite `around` complementos. Le tientan, pero a menudo representan la opción incorrecta y causan problemas de rendimiento.
 
 ### Ejemplos de código de complemento
 
-Estas son las clases XML y PHP utilizadas en el tutorial para añadir un plugin al primer módulo
+El tutorial utiliza las siguientes clases XML y PHP para añadir un plugin a su primer módulo.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Recursos útiles
 
-- [Guía de referencia de módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Complementos](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Guía de referencia de módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Complementos](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

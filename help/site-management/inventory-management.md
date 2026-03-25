@@ -3,6 +3,7 @@ title: Inventory management
 description: Obtenga información acerca de las funciones de Inventory management y cómo puede utilizarlas para trabajar desde un solo almacén o desde una compleja red de envío.
 kt: 10551
 doc-type: feature video
+duration: 383
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Los comerciantes con una sola tienda en varios almacenes, tiendas, ubicaciones d
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Comerciantes de comercio electrónico
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411829?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## Recursos adicionales
 
-- [Guía de Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=es)
-- [Inventory management - Documentación de REST para desarrolladores](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+* [Guía de Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory management - Documentación de REST para desarrolladores](https://developer.adobe.com/commerce/webapi/rest/inventory/)

@@ -2,6 +2,7 @@
 title: Administrar reglas de producto relacionadas
 description: Obtenga información sobre cómo presentar una selección específica de productos para almacenar clientes como productos relacionados, ampliaciones de ventas y ventas cruzadas.
 doc-type: feature video
+duration: 160
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -25,13 +26,13 @@ Las reglas de productos relacionados permiten seleccionar la selección de produ
 
 ## ¿Para quién es este vídeo?
 
-- Especialistas en marketing electrónico
-- Administradores de sitios web
+* Especialistas en marketing electrónico
+* Administradores de sitios web
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411061?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
 
 ## Recursos adicionales
 
-[Reglas de producto relacionadas - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=es)
+[Reglas de producto relacionadas - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

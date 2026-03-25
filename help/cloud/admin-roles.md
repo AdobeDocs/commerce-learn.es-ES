@@ -6,16 +6,16 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # Funciones de administrador de Adobe Commerce
 
@@ -23,14 +23,14 @@ Conozca el proceso de inicio de sesión en el Adobe Commerce Admin Portal median
 
 ## Para quién es este vídeo
 
-- Almacene a los administradores y usuarios empresariales responsables de administrar el acceso y los permisos.
-- Nuevos propietarios de tiendas que necesitan instrucciones para crear funciones con permisos específicos y asignar usuarios a estas funciones
-- Proyectos de Adobe Commerce interesados en garantizar una gestión segura y eficaz de las tareas administrativas realizadas en el administrador de Adobe Commerce.
+* Almacene a los administradores y usuarios empresariales responsables de administrar el acceso y los permisos.
+* Nuevos propietarios de tiendas que necesitan instrucciones para crear funciones con permisos específicos y asignar usuarios a estas funciones
+* Proyectos de Adobe Commerce interesados en garantizar una gestión segura y eficaz de las tareas administrativas realizadas en el administrador de Adobe Commerce.
 
 ## Contenido de vídeo
 
-- Conozca los métodos de inicio de sesión más recientes.
-- Obtenga una buena comprensión de la creación y administración de funciones
-- Comprender la asignación de usuarios y los niveles de acceso. palo de golf
+* Conozca los métodos de inicio de sesión más recientes.
+* Obtenga una buena comprensión de la creación y administración de funciones
+* Comprenda la asignación de usuarios y los niveles de acceso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433516?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

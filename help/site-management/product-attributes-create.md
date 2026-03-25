@@ -3,6 +3,7 @@ title: Crear atributos del producto
 description: Obtenga información sobre cómo crear los atributos de producto que se utilizan para administrar la información asociada a productos, clientes y clasificaciones de productos.
 kt: 10552
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Adobe Commerce utiliza atributos para administrar la información asociada a pro
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Comerciantes de comercio electrónico
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411822?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## Recursos adicionales
 
-[Descripción general de atributos de producto - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=es)
+[Descripción general de atributos de producto - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[Conjuntos de atributos - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=es)
+[Conjuntos de atributos - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

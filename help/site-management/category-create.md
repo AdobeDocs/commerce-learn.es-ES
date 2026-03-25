@@ -3,6 +3,7 @@ title: Crear una categoría
 description: Obtenga información sobre cómo definir la estructura de categorías básica para el catálogo de productos.
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Antes de añadir productos al catálogo, debe establecer la estructura básica d
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Comerciantes de comercio electrónico
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411823?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## Recursos adicionales
 
-- [Crear categorías - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=es)
-- [Permisos de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=es)
-- [Navegación superior - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=es)
+* [Crear categorías - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Permisos de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Navegación superior - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

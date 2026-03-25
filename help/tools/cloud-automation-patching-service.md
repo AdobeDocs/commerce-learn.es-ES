@@ -6,16 +6,16 @@ topic: Commerce, Administration
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 172
+duration: 192
 last-substantial-update: 2025-10-24T00:00:00Z
 jira: KT-19485
-source-git-commit: 12fc97fe5de44b3ba60aa92a1e2202c517897ddc
+exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Servicio de parches de automatización de Cloud
 
@@ -29,8 +29,8 @@ Servicio de parches de automatización de la nube (CAPS) de Adobe, una función 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3476250/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
 
 ## Documentación relacionada
 
-* [Documentación del servicio de parches de automatización de nube](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentación del servicio de parches de automatización de nube](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)

@@ -5,6 +5,7 @@ landing-page-description: Aprenda a utilizar los eventos condicionales de Adobe 
 short-description: Aprenda a utilizar los eventos condicionales de Adobe Commerce.
 kt: 11890
 doc-type: tutorial
+duration: 421
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Obtenga información acerca de los eventos condicionales en Adobe Commerce que s
 * Definición de reglas para su uso en eventos condicionales
 * Obtenga información sobre cómo registrar eventos en las instancias de Commerce `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3419798?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
 
 ## Comandos útiles {#useful-commands}
 

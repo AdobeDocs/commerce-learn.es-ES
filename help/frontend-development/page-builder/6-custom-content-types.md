@@ -3,14 +3,15 @@ title: 'Page Builder para desarrolladores: tipos de contenido personalizados'
 description: Aprenda a personalizar y crear tipos de contenido. Comprenda los pasos necesarios para crear un ​ de tipo de contenido. Comprenda los pasos necesarios para ampliar un tipo de contenido existente.
 kt: 5655
 doc-type: video
+duration: 1058
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -23,25 +24,25 @@ ht-degree: 0%
 
 En este vídeo:
 
-- Personalización y creación de tipos de contenido adicionales
-- Comprenda los pasos necesarios para crear un tipo de contenido&#x200B;
-- Comprender los pasos necesarios para ampliar un tipo de contenido existente
+* Personalización y creación de tipos de contenido adicionales
+* Comprenda los pasos necesarios para crear un tipo de contenido&#x200B;
+* Comprender los pasos necesarios para ampliar un tipo de contenido existente
 
 ## ¿Para quién es este vídeo?
 
-- Creadores de contenido
-- Desarrolladores de front-end
+* Creadores de contenido
+* Desarrolladores de front-end
 
 ## Contenido de vídeo
 
 >[!NOTE]
 >
->Este contenido refleja la versión 1.0.0 del Page Builder para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones de versiones posteriores, consulte [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=es).
+>Este contenido refleja la versión 1.0.0 del Page Builder para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones de versiones posteriores, consulte [Notas de la versión de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430875?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35714?learn=on)
 
 ## Recursos útiles
 
 [Documentación para desarrolladores de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guía de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=es)
+[Guía de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

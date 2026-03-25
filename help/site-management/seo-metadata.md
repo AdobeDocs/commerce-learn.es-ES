@@ -3,6 +3,7 @@ title: Administración de metadatos SEO
 description: Aprenda a incorporar metadatos enriquecidos con palabras clave para mejorar la forma en que los motores de búsqueda indexan el sitio.
 kt: 10553
 doc-type: feature video
+duration: 223
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Su tienda está cargada de lugares donde puede introducir metadatos enriquecidos
 
 ## ¿Para quién es este vídeo?
 
-- Administradores de sitios web
-- Comerciantes de comercio electrónico
-- Especialistas en marketing electrónico
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
+* Especialistas en marketing electrónico
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411825?quality=12&learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
 
 ## Recursos adicionales
 
-[Metadatos - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=es)
+[Datos de Meta - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

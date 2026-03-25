@@ -8,7 +8,8 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+duration: 29
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # Tutoriales de Commerce {#videos}
 
-Bienvenido a la colección de vídeos y tutoriales [!DNL Commerce]. El uso de estos recursos, junto con la [documentación](https://experienceleague.adobe.com/docs/commerce.html?lang=es), ofrece la oportunidad de aprender a utilizar Adobe Commerce y Magento Open Source para apoyar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
+Bienvenido a la colección de vídeos y tutoriales [!DNL Commerce]. El uso de estos recursos, junto con la [documentación](https://experienceleague.adobe.com/docs/commerce.html), ofrece la oportunidad de aprender a utilizar Adobe Commerce y Magento Open Source para apoyar su negocio de comercio electrónico. La colección está diseñada para proporcionar contenido útil para desarrolladores de back-end, desarrolladores de front-end, administradores de sistemas, comerciantes y otras funciones dentro de su organización.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -28,11 +29,11 @@ Bienvenido a la colección de vídeos y tutoriales [!DNL Commerce]. El uso de es
 
 >[!TIP]
 >
->El espacio [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=es) proporciona acceso al contenido de evento grabado que puede ver bajo demanda.
+>El espacio [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) proporciona acceso al contenido de evento grabado que puede ver bajo demanda.
 
 ## Recursos adicionales
 
-- [Documentación de comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=es)
-- [Documentación para desarrolladores](https://developer.adobe.com/commerce)
-- [Adobe Digital Learning Services - Catálogo de cursos de Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+* [Documentación de comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+* [Documentación para desarrolladores](https://developer.adobe.com/commerce)
+* [Adobe Digital Learning Services - Catálogo de cursos de Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 

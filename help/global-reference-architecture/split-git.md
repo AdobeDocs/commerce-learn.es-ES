@@ -1,8 +1,9 @@
 ---
 title: Configuración de Adobe Commerce con la arquitectura de referencia global de Split Git
-description: Aprenda a configurar Adobe Commerce mediante la arquitectura de referencia global Split Git para una administración eficiente del código y una implementación optimizada. palo de golf
+description: Aprenda a configurar Adobe Commerce mediante la arquitectura de referencia global Split Git para una administración eficiente del código y una implementación optimizada.
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -33,18 +34,18 @@ El patrón Git GRA dividido implica dos repositorios Git para desarrollo y un re
 
 Ventajas:
 
-- Reutilización del código a través de un repositorio de código compartido
-- Patrón GRA simple, adecuado incluso para equipos con conocimientos limitados de Compositor
-- Además de los módulos, temáticas y paquetes de idiomas de Adobe Commerce, es posible instalar cualquier tipo de paquete Composer a través de este modelo, incluidos composer-plugin, composer-metapackage, magento2-component y parches
-- Posibilidad de realizar lanzamientos por fases, planificando lanzamientos a regiones en sus propios períodos de mantenimiento
-- Compatibilidad con etiquetas Git con fines de administración, no para el control de implementación
-- Garantizar que la combinación de paquetes en una implementación de producción se desarrolle y pruebe en esta configuración exacta.
+* Reutilización del código a través de un repositorio de código compartido
+* Patrón GRA simple, adecuado incluso para equipos con conocimientos limitados de Compositor
+* Además de los módulos, temáticas y paquetes de idiomas de Adobe Commerce, es posible instalar cualquier tipo de paquete Composer a través de este modelo, incluidos composer-plugin, composer-metapackage, magento2-component y parches
+* Posibilidad de realizar lanzamientos por fases, planificando lanzamientos a regiones en sus propios períodos de mantenimiento
+* Compatibilidad con etiquetas Git con fines de administración, no para el control de implementación
+* Garantizar que la combinación de paquetes en una implementación de producción se desarrolle y pruebe en esta configuración exacta.
 
 Desventajas:
 
-- Sin flexibilidad añadida en comparación con otros patrones de GRA
-- No es posible actualizar o degradar módulos individuales por instancia, actualizar o degradar siempre el GRA en su conjunto
-- En la mayoría de los casos, el patrón de paquetes masivos encaja mejor ya que es igualmente simple, pero más convencional
+* Sin flexibilidad añadida en comparación con otros patrones de GRA
+* No es posible actualizar o degradar módulos individuales por instancia, actualizar o degradar siempre el GRA en su conjunto
+* En la mayoría de los casos, el patrón de paquetes masivos encaja mejor ya que es igualmente simple, pero más convencional
 
 ## Configuración de Adobe Commerce con el patrón Split Git GRA
 
@@ -153,11 +154,11 @@ Adobe Commerce es una aplicación de composición. La forma preferida de realiza
 
 Resumiendo:
 
-- **Adobe Commerce**: almacenado en un repositorio de Composer.
-- **Módulos de terceros**: almacenados en un repositorio de Composer.
-- **Opción de reserva de módulos de terceros**: almacenada en el repositorio Git de terceros divididos en varias partes.
-- **código base GRA**: almacenado en el repositorio Git gra-split-gra.
-- **Código local**: almacenado en el repositorio Git gra-split-brand-x.
+* **Adobe Commerce**: almacenado en un repositorio de Composer.
+* **Módulos de terceros**: almacenados en un repositorio de Composer.
+* **Opción de reserva de módulos de terceros**: almacenada en el repositorio Git de terceros divididos en varias partes.
+* **código base GRA**: almacenado en el repositorio Git gra-split-gra.
+* **Código local**: almacenado en el repositorio Git gra-split-brand-x.
 
 ### Conectar el almacenamiento del paquete a Composer
 
@@ -377,9 +378,9 @@ Nunca fusione los compromisos de terceros y GRA en el repositorio de la marca de
 
 Los ejemplos de código de este artículo están disponibles como un conjunto de repositorios Git, que puede utilizar para probar la prueba de concepto.
 
-- Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-split-brand-x>
-- El repositorio de código de terceros: <https://github.com/AntonEvers/gra-split-3rdparty>
-- El repositorio de código GRA: <https://github.com/AntonEvers/gra-split-gra>
-- Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
-- Un ejemplo de módulo GRA: <https://github.com/AntonEvers/module-example-gra>
-- Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>
+* Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-split-brand-x>
+* El repositorio de código de terceros: <https://github.com/AntonEvers/gra-split-3rdparty>
+* El repositorio de código GRA: <https://github.com/AntonEvers/gra-split-gra>
+* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
+* Un ejemplo de módulo GRA: <https://github.com/AntonEvers/module-example-gra>
+* Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>

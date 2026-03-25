@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Descubra cómo Adobe y los comerciantes comparten la responsabilidad de mantener
 * Respuesta a incidentes: Los comerciantes deben responder rápidamente a las alertas de seguridad, que pueden llegar a través de varios canales, como correos electrónicos y notificaciones de administración.
 * Prácticas recomendadas: Adobe recomienda prácticas recomendadas para los comerciantes, incluida la activación de la autenticación de doble factor, la configuración del acceso seguro de administrador y el cumplimiento del principio de menor privilegio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## Documentación adicional
 
-* [Notas de la versión del parche de seguridad](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/security-patches/overview)
+* [Notas de la versión del parche de seguridad](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canales de notificación](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Boletines de seguridad de Adobe](https://helpx.adobe.com/es/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Proteja su sitio de comercio e infraestructura](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Boletines de seguridad de Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Proteja su sitio de comercio e infraestructura](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

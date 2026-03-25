@@ -1,46 +1,47 @@
 ---
-title: tienda Commerce con tecnología de Edge Delivery Services shopper experience
-description: Obtenga información sobre la tienda de Adobe Commerce con tecnología Edge Delivery Services para saber qué puede esperar el cliente de esta experiencia de compra extremadamente rápida y potente.
+title: Experiencia del comprador con Edge Delivery Services
+description: Conozca qué ven y hacen los compradores en la tienda Adobe Commerce con tecnología Edge Delivery Services, incluido el carro de compras, el cierre de compra, los descuentos, las tareas de la cuenta, los pedidos y las devoluciones.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
-role: Developer
+role: User
 level: Beginner
 doc-type: Technical Video
-duration: 543
-last-substantial-update: 2024-2-21
+duration: 596
+last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-17259
-source-git-commit: 202256387b88a22a0c46d6ae313c9d262d26e55b
+exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
+source-git-commit: 0eff93523a3c798c77c4750a325f5eb0b37f82f8
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Experiencia del comprador
 
-Conozca varias funciones de la tienda de Commerce con tecnología de servicios de entrega de Edge. Este vídeo trata sobre la experiencia del comprador, incluida la adición de artículos al carro de compras, la aplicación de reglas de precio del carro de compras y códigos de cupones, la comprobación como invitado, la actualización de información de la cuenta, la cancelación de pedidos, la reordenación de artículos y la devolución de productos. También aprenderá a administrar pedidos, cómo los clientes pueden aplicar descuentos e incluso, a veces, apilar códigos de cupones para obtener mejores descuentos.
+Descubra cómo la tienda de Commerce con tecnología Edge Delivery Services admite tareas comunes del comprador: agregar artículos al carro de compras, aplicar reglas de precios del carro de compras y códigos de cupones, pagar como invitado, actualizar información de la cuenta, cancelar pedidos, reordenar e iniciar devoluciones. El vídeo también explica cómo administrar los pedidos, cómo aplican los clientes los descuentos y cuándo se pueden apilar varios códigos de cupones.
 
-## Qué va a aprender
+## Lo que aprende
 
-Cómo navegar y utilizar de forma eficaz las funciones de la tienda de Adobe Commerce. Esto incluye la administración del carro de compras, la aplicación de descuentos y códigos de cupones, el registro de salida como invitado, la actualización de la información de la cuenta, la cancelación y reordenación de artículos y la devolución de productos, todo ello con el fin de mejorar la experiencia general de compra.
+Aprenderá a navegar por la experiencia de la tienda Adobe Commerce en Edge Delivery Services, lo que incluye el carro de compras, los descuentos y los códigos de cupones, el cierre de compra de invitados, las actualizaciones de la cuenta, la cancelación y reordenación, las devoluciones y una ruta más fluida a través del cierre de compra.
 
 ## ¿Para quién es este vídeo?
 
-* Propietario de empresa de comercio electrónico
-* Administrador del sitio web
-* Especialista en marketing digital
-* Representante de servicio al cliente
-* Profesional de TI
-* Administrador de tienda en línea
-* UX/IU de Designer
-* Gestor de ventas
-* Especialista en marketing
-* Product Manager
+* Propietarios de negocios de comercio electrónico
+* Administradores de sitios web
+* Especialistas en marketing digital
+* Representantes de servicio al cliente
+* Profesionales de TI
+* Administradores de tiendas en línea
+* Diseñadores de UX/IU
+* Gerentes de ventas
+* Especialistas en marketing
+* Gestores de producto
 
 ## Contenido de vídeo
 
-* Aprenda a aplicar reglas de precios de carro de compras y códigos de cupones para maximizar los ahorros durante el proceso de cierre de compra.
-* Obtenga información sobre cómo administrar pedidos, como añadir artículos al carro de compras, cerrar la compra como invitado, cancelar pedidos y reordenar artículos.
-* Obtenga información sobre la actualización de información de la cuenta, la combinación de carros de compras para clientes e invitados y la garantía de una experiencia de cierre de compra sin problemas.
+* Aplique reglas de precios de carro de compras y códigos de cupones durante el cierre de compra, incluso cuando el apilado esté disponible.
+* Trabaje con el carro de compras y los pedidos: añadir artículos, cerrar la compra como invitado, cancelar pedidos, reordenar y procesar devoluciones.
+* Actualice la información de la cuenta, fusione los carros de compras de clientes e invitados y mantenga la coherencia del cierre de compra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446765?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
