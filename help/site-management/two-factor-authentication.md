@@ -30,13 +30,13 @@ Para evitar el acceso no autorizado a sus datos, todos los usuarios que intenten
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.4.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
+>El contenido del vídeo refleja la versión 2.4.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## Recursos adicionales
 
-* [Autenticación de doble factor (2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [Configuración de autenticación de doble factor para cuentas de usuario](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [Administrar autenticación de doble factor](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [Autenticación de doble factor (2FA)](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [Configuración de autenticación de doble factor para cuentas de usuario](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [Administrar autenticación de doble factor](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [Configuración de la autenticación de doble factor (2FA) - Documentación para desarrolladores](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
