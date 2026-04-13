@@ -1,22 +1,18 @@
 ---
 title: Marco de extensibilidad y eventos de comercio
-description: Obtenga información sobre el marco de extensibilidad unificado y la noche de comercio
-landing-page-description: Obtenga información sobre el marco de extensibilidad unificado y la noche de comercio
-short-description: Obtenga información sobre el marco de extensibilidad unificado y la noche de comercio
-kt: 11740
-doc-type: tutorial
+description: Obtenga información acerca del marco de extensibilidad unificado y los eventos de comercio
+jira: KT-11740
+doc-type: Tutorial
 duration: 298
-audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
