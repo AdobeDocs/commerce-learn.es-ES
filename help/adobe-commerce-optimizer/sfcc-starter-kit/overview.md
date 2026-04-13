@@ -1,9 +1,8 @@
 ---
-title: Introducción a la nube de Salesforce Commerce
+title: Introducción a Salesforce Commerce Cloud
 description: Obtenga información acerca de Salesforce Commerce Cloud con Adobe Commerce Optimizer mediante el conector SFC.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,14 +10,14 @@ duration: 230
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# Obtenga información acerca del kit de inicio en la nube de Salesforce Commerce
+# Obtenga información acerca del Starter Kit de Salesforce Commerce Cloud
 
 Obtenga información acerca del Commerce Optimizer Salesforce Commerce Cloud Connector, una herramienta diseñada para integrar Salesforce Commerce Cloud (SFC) con Commerce Optimizer de Adobe. Esta integración permite a las empresas modernizar sus sistemas de comercio electrónico heredados sin una replataforma completa, lo que les permite aprovechar las funciones con tecnología de IA como el descubrimiento de productos y la sincronización de catálogos en tiempo real. El conector, disponible en Adobe Exchange, admite la sincronización de catálogos y libros de precios, varios tipos de productos y sincronizaciones de datos programadas y bajo demanda. Creado en Adobe App Builder, sirve como kit de inicio personalizable que se puede ampliar para satisfacer necesidades empresariales específicas.
 
