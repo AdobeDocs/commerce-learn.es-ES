@@ -1,22 +1,18 @@
 ---
 title: Uso de proyectos y espacios de trabajo
 description: Descubra cómo utilizar la consola de Adobe Developer para trabajar con proyectos y espacios de trabajo.
-landing-page-description: Descubra cómo utilizar la consola de Adobe Developer. Obtenga información sobre los proyectos y espacios de trabajo que se utilizarán con API Mesh.
-short-description: Descubra cómo utilizar la consola de Adobe Developer. Obtenga información sobre los proyectos y espacios de trabajo que se utilizarán con API Mesh.
-kt: 11803
-doc-type: tutorial
+jira: KT-11803
+doc-type: Tutorial
 duration: 593
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -38,11 +34,11 @@ Este tutorial analiza la creación de un proyecto y un espacio de trabajo para c
 * Cambiar la organización, proyecto o espacio de trabajo seleccionado en la CLI
 * Prueba de comandos de malla de API simples
 
->[!VIDEO](https://video.tv.adobe.com/v/3419725?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Obtenga información acerca de Adobe Developer Console
 
-En Adobe Developer Console, la siguiente jerarquía representa cómo encajan sus API en su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre Adobe App Builder, el inicio de sesión en la consola y la solución de problemas básica, visita [Creación de tu primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+En Adobe Developer Console, la siguiente jerarquía representa cómo encajan sus API en su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre Adobe App Builder, el inicio de sesión en la consola y la solución de problemas básica, visita [Creación de tu primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introducción a los proyectos en Adobe Developer Console
 

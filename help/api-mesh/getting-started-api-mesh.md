@@ -1,23 +1,19 @@
 ---
 title: Introducción a API Mesh
 description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información acerca de la instalación de App Builder de Adobe, cómo trabajar con proyectos, crear un proxy inverso de GraphQL y mucho más.
-landing-page-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la instalación de Adobe IO, cómo trabajar con proyectos, crear un proxy inverso de graphql y mucho más.
-short-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre la instalación de Adobe IO, cómo trabajar con proyectos, crear un proxy inverso de graphql y mucho más.
-kt: 11802
-doc-type: tutorial
+jira: KT-11802
+doc-type: Tutorial
 duration: 442
-audience: all
-last-substantial-update: 2023-8-27
+last-substantial-update: 2023-08-27T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 16%
+source-wordcount: '253'
+ht-degree: 6%
 
 ---
 
@@ -29,11 +25,11 @@ Si es nuevo en API Mesh para Adobe Developer App Builder, Adobe recomienda empez
 
 API Mesh combina varias fuentes de datos para obtener una única respuesta para que la aplicación la consuma.
 
-[Ver la documentación completa de API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[Ver la documentación completa de API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
 
 ## ¿Para quién es este vídeo?
 
-* Cualquier desarrollador nuevo en API Mesh o [!DNL Adobe Commerce] con experiencia limitada usando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} y API Mesh.
+* Cualquier desarrollador nuevo en API Mesh o [!DNL Adobe Commerce] con experiencia limitada usando [Adobe I/O Runtime](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"} y API Mesh.
 
 ## Contenido de vídeo
 
@@ -42,7 +38,7 @@ API Mesh combina varias fuentes de datos para obtener una única respuesta para 
 * Caso de uso para realizar una comprobación de inventario en tiempo real al cerrar la compra
 * Alejar los esfuerzos de desarrollo y el uso de recursos de su aplicación de comercio
 
->[!VIDEO](https://video.tv.adobe.com/v/3421885?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## Casos de uso de ejemplo
 
