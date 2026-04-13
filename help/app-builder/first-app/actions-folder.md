@@ -1,21 +1,18 @@
 ---
 title: La carpeta de acciones
 description: Obtenga información sobre los tipos de archivos de la carpeta de acciones de esta aplicación de ejemplo.
-landing-page-description: Obtenga información acerca de Adobe Developer App Builder utilizado con Adobe Commerce y los tipos de archivos que se incluyen en la carpeta de acciones.
-kt: 12422
-doc-type: tutorial
+jira: KT-12422
+doc-type: Tutorial
 duration: 465
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -37,7 +34,7 @@ Los nombres reales de las carpetas en este ejemplo son arbitrarios, pero saber s
 * El propósito del archivo JavaScript encontrado en las carpetas `actions` y `commerce`
 * Información general rápida sobre los archivos de autenticación de OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421078?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Ejemplos de código
 

@@ -1,21 +1,18 @@
 ---
 title: Pruebas con la URL de Adobe Developer App Builder
 description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la URL de App Builder proporcionada para su proyecto.
-landing-page-description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la dirección URL proporcionada del proyecto.
-kt: 12427
-doc-type: tutorial
+jira: KT-12427
+doc-type: Tutorial
 duration: 78
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -33,6 +30,6 @@ Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer 
 * Cómo implementar la aplicación
 * Dónde encontrar la URL después de la implementación
 
->[!VIDEO](https://video.tv.adobe.com/v/3421044?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

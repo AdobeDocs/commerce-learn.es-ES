@@ -1,21 +1,18 @@
 ---
 title: La carpeta de prueba
 description: Obtenga información sobre los tipos de archivos de la carpeta de prueba de esta aplicación de ejemplo.
-landing-page-description: Obtenga información sobre Adobe Developer App Builder utilizado con Adobe Commerce y qué tipos de archivos se encuentran en la carpeta de prueba.
-kt: 12424
-doc-type: tutorial
+jira: KT-12424
+doc-type: Tutorial
 duration: 233
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -36,7 +33,7 @@ Este es un ejemplo sencillo que se puede ampliar para crear pruebas completas pa
 * Una breve explicación del archivo de prueba unitaria y sus componentes
 * Introducción a las pruebas de extremo a extremo
 
->[!VIDEO](https://video.tv.adobe.com/v/3421060?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## Ejemplos de código
 

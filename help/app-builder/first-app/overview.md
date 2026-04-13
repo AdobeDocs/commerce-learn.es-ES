@@ -1,21 +1,18 @@
 ---
-title: Los creadores de aplicaciones crean su primera aplicación
+title: Cree su primera aplicación de App Builder
 description: Obtenga información sobre Adobe Developer App Builder con Adobe Commerce y cree su primera aplicación.
-landing-page-description: Obtenga información sobre el uso de Adobe Developer App Builder con Adobe Commerce y cree su primera aplicación.
-kt: 12421
-doc-type: tutorial
+jira: KT-12421
+doc-type: Tutorial
 duration: 197
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -52,7 +49,7 @@ Este tutorial se ha diseñado para que siga el orden de las páginas en la naveg
 * Expectativas de uso del módulo de ejemplo
 * Piezas reutilizables de en el módulo de muestra
 
->[!VIDEO](https://video.tv.adobe.com/v/3421023?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 
