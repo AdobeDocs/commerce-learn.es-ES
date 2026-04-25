@@ -13,9 +13,24 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: 1188
 ht-degree: 0%
 
 ---
@@ -249,30 +264,30 @@ rm -r vendor/antonevers/gra-bulk-foundation
 composer install --prefer-source
 ```
 
-El paquete masivo se ha extraído mediante Git. Cuando escribe el directorio `vendor/antonevers/gra-bulk-foundation`, también está entrando en el repositorio Git de base masiva. Puede crear, extraer y fusionar ramas en este directorio.
+The bulk package has been checked out using Git. When you enter the `vendor/antonevers/gra-bulk-foundation` directory, you are also entering the gra-bulk-foundation Git repository. You can create, checkout and merge branches in this directory.
 
-Agregue dependencias de Composer al archivo composer.json en la raíz del paquete masivo de GRA, que es el único archivo del paquete masivo que Composer evalúa.
+Add Composer dependencies to the composer.json file at the root of the GRA bulk package, which is the only file in the bulk package that Composer evaluates.
 
-## Incluir módulos de terceros en el paquete masivo de GRA
+## Include third-party modules to the GRA bulk package
 
-Agregue paquetes de terceros en la sección de requisitos del archivo composer.json en la raíz de la base de GRA para agregarlos a su GRA. De este modo, los paquetes siempre se instalan en todas las instancias a través de composer.
+Add third-party packages in the require section of the composer.json at the root of the GRA foundation to add them to your GRA. That way, the packages are always installed in all your instances through composer.
 
-## Entrega del código
+## Deliver your code
 
-Para enviar código a la rama principal, hay dos rutas. Primero los módulos locales, que se combinan en la rama principal. Ejecute la actualización del Compositor para esos módulos. No permita que los desarrolladores actualicen composer.lock en sus ramas de tickets para reducir los conflictos. Actualice únicamente el archivo composer.lock en las ramas de ensayo y producción, lo que reduce el riesgo de conflictos.
+To deliver code to the main branch, there are 2 paths. First the local modules, which are merged to the main branch. Run Composer update for those modules. Do not allow developers to update composer.lock in their ticket branches to reduce conflicts. Only update the composer.lock file in staging and production branches, which reduces the risk of conflicts.
 
-En segundo lugar, los paquetes GRA a granel, que se combinan en la rama principal del repositorio GRA a granel. A continuación, puede agregar una etiqueta Git a la rama principal, creando versiones del paquete Composer. Requiera su nueva versión del paquete masivo de GRA en el composer.json del repositorio de implementación para instalarlo.
+Secondly, the GRA bulk packages, which are merged into the main branch of the GRA bulk repository. Then you can add a Git tag to the main branch, versioning the Composer package. Require your new version of the GRA bulk package in the composer.json of the deployment repository to install it.
 
-## Estrategia de ramas
+## Branching strategy
 
-Este patrón GRA funciona con todas las estrategias de ramificación, siempre y cuando refleje la estrategia de ramificación de los repositorios de implementación en el repositorio masivo de GRA. Para las versiones, cree una rama de versión con el mismo nombre en ambos repositorios. Para el desarrollo, cree una rama de tickets en ambos repositorios.
+This GRA pattern works with all branching strategies so long as you mirror the branching strategy of the deployment repositories in your GRA bulk repository. For releases, create a release branch with the same name in both repositories. For development, create a ticket branch in both repositories.
 
-En las ramas de tickets, casi nunca debería tener que actualizar el archivo composer.lock. Solo tiene que consultar las ramas adecuadas en su entorno de desarrollo tanto para la tienda como para el repositorio de base GRA con Git. La excepción se produce al actualizar los requisitos en el archivo composer.json de base de GRA. La actualización de la base de GRA en el repositorio de implementación solo se realiza al crear la versión o al crear una rama de control de calidad.
+In ticket branches, you should almost never have to update the composer.lock file. Just check out the right branches in your development environment for both the store and the GRA foundation repository with Git. The exception is when you update requirements in the GRA foundation composer.json file. Upgrading the GRA foundation in the deployment repository is only done when building the release, or when building a QA branch.
 
-## Ejemplos de código
+## Code examples
 
-Los ejemplos de código de este artículo están disponibles como un conjunto de repositorios Git, que puede utilizar para probar la prueba de concepto.
+The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
 
-* Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-bulk-brand-x>
-* El repositorio de código GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
-* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
+* An example production store: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* The GRA code repository: <https://github.com/AntonEvers/gra-bulk-foundation>
+* An example local module: <https://github.com/AntonEvers/module-example-local>

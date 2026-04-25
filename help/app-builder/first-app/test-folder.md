@@ -1,18 +1,26 @@
 ---
-title: La carpeta de prueba
+title: The test folder
 description: Obtenga información sobre los tipos de archivos de la carpeta de prueba de esta aplicación de ejemplo.
 jira: KT-12424
 doc-type: Tutorial
 duration: 233
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-03-13T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/84OKfd7Xbb1q-EoEPOVt9l2bISkQJVqfXdIJFr4jCis
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 111
 ht-degree: 0%
 
 ---
@@ -27,7 +35,7 @@ Este es un ejemplo sencillo que se puede ampliar para crear pruebas completas pa
 
 * Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que deseen obtener más información sobre la carpeta `test`.
 
-## Contenido de vídeo
+## Video content
 
 * ¿Por qué usar la carpeta `test`?
 * Una breve explicación del archivo de prueba unitaria y sus componentes

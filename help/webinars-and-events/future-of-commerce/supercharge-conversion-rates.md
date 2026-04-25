@@ -1,45 +1,54 @@
 ---
-title: Tasas de conversión de recargo
-description: Descubra cómo Adobe Commerce cubre una amplia gama de funciones y herramientas diseñadas para mejorar el rendimiento del comercio electrónico.
+title: Supercharge conversion rates
+description: Learn how Adobe Commerce covers a range of features and tools designed to enhance e-commerce performance.
 feature: Cloud, Extensibility
 topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 816
-last-substantial-update: 2025-05-16T00:00:00Z
+last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18121
 exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/qKPOl-FmaMKvLomLiSlzzDegyZXDfKeS6Xvv1cZlEX4
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: 156
 ht-degree: 0%
 
 ---
 
-# Tasas de conversión de recargo
+# Supercharge conversion rates
 
-Descubra cómo Adobe Commerce está transformando las tiendas digitales con herramientas de vanguardia diseñadas para aumentar las tasas de conversión hasta en un 8 %. Al aprovechar la tecnología de entrega de Edge, la creación de contenido con tecnología de IA y la creación intuitiva sin código, las empresas pueden lograr un rendimiento del sitio increíblemente rápido, una SEO mejorada y pruebas A/B sin problemas. Con la administración de recursos integrada y la edición visual de Adobe Express y Firefly, los equipos pueden crear, probar y optimizar rápidamente experiencias de compra personalizadas, lo que impulsa el crecimiento y la participación como nunca antes.
+Discover how Adobe Commerce is transforming digital storefronts with cutting-edge tools designed to supercharge conversion rates by up to 8%. Leveraging edge delivery technology, AI-powered content creation, and intuitive no-code authoring, businesses can achieve lightning-fast site performance, enhanced SEO, and seamless A/B testing. With integrated asset management and visual editing from Adobe Express and Firefly, teams can rapidly create, test, and optimize personalized shopping experiences—driving growth and engagement like never before.
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Director de tecnología digital
-* Vicepresidente/Director de comercio electrónico
-* Director de tecnología
-* Arquitectos de Commerce
+* Chief Digital Officer
+* VP/Director of E-commerce
+* Chief Technology Officer
+* Commerce Architects
 
-## Contenido de vídeo {#video-content}
+## Video content {#video-content}
 
-* Optimización de rendimiento y SEO
-* Creación de contenido con tecnología de IA y sin código
-* Pruebas A/B y administración de recursos
-* Componentes y SDK preparados para desarrolladores
-* Herramientas integradas de edición visual
+* Performance &amp; SEO Optimization
+* AI-Powered Content &amp; No-Code Authoring
+* A/B Testing &amp; Asset Management
+* Developer-Ready Components &amp; SDK
+* Integrated Visual Editing Tools
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
-## Vídeos adicionales de esta serie
+## Additional Videos in this series
 
-[Nuevos anuncios de productos](./new-product-announcements.md)
-[Reducción drástica de costos](./drastically-cut-costs.md)
-[Expansión rápida](fast-track-expansion.md)
+[New Product Announcements](./new-product-announcements.md)
+[Drastically cut costs](./drastically-cut-costs.md)
+[Fast track expansion](fast-track-expansion.md)

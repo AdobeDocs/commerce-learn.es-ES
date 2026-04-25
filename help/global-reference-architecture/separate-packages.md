@@ -13,9 +13,26 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2132
 ht-degree: 0%
 
 ---
@@ -195,16 +212,16 @@ Hay soluciones que puede configurar y olvidar: Private Packagist <https://packag
 Con los metapaquetes, hay 3 pasos para entregar el código.
 
 1. Combine los cambios en paquetes y cree una versión de los paquetes modificados.
-2. (Opcional, solo si se agregan nuevos paquetes) Requiere los nuevos paquetes en los metapaquetes y la versión de los metapaquetes.
+2. (Optional, only if new packages are added) Require the new packages in metapackages and version the metapackages.
 3. (Opcional, solo si se agregan paquetes nuevos) Requiera los nuevos metapaquetes en Adobe Commerce e implemente.
 
-El ámbito de implementación se controla con las versiones de los paquetes. La creación de una versión estable de un paquete significa que este está listo para la implementación de producción.
+Deployment scope is controlled with package versions. La creación de una versión estable de un paquete significa que este está listo para la implementación de producción.
 
 Para generar una nueva versión, ejecute composer update en el proyecto principal de Composer, que contiene la instalación completa del almacén. Se instalan todas las versiones más recientes de los paquetes.
 
 ## Versiones
 
-El control de versiones en un GRA de paquetes separados es un sinónimo de etiquetado de módulos en Git. Las etiquetas Git crean versiones numeradas de los paquetes que instala Composer.
+El control de versiones en un GRA de paquetes separados es un sinónimo de etiquetado de módulos en Git. Git tags create numbered versions of your packages that Composer installs.
 El método de versiones adecuado permite que los paquetes fluyan automáticamente, sin dejar de ser seguros.
 
 Dos ejemplos:
@@ -242,7 +259,7 @@ Este ejemplo muestra una definición flexible de dependencias. Con `~1.0`, cualq
 Tan pronto como publique una nueva versión de cualquiera de los paquetes mencionados, se instalará automáticamente con Composer update.
 
 Aplicar versiones semánticas. Puede aprender todo sobre las versiones semánticas en <https://semver.org/>. En especial, las preguntas frecuentes son de lectura obligatoria. Con las versiones semánticas, los números de &quot;1.0.0&quot; se denominan MAJOR.MINOR.PATCH. Las versiones menores y de parches de un paquete deben introducirse con seguridad sin romper la aplicación.
-Puede incluir parches automáticamente y elegir actualizaciones menores de forma manual. Tenga en cuenta que, al hacerlo, se generan costes generales adicionales al seleccionar manualmente cada cambio menor:
+You can automatically include patches and manually choose minor upgrades. Be aware that doing so costs you extra overhead by picking each minor change manually:
 
 ```json
 {
@@ -256,25 +273,25 @@ Puede incluir parches automáticamente y elegir actualizaciones menores de forma
 }
 ```
 
-Por supuesto, todo esto solo funciona si aplica el control de versiones semántico de forma consistente, siempre. Y no solo en los metapaquetes, sino también en los requisitos de los paquetes normales, debe definir las dependencias de forma flexible. Si tiene una dependencia estricta en el sistema, ese paquete se limita a la definición estricta.
+Of course, all this only works if you apply semantic versioning consistently, always. And not only in metapackages, but the requirements of your regular packages should define dependencies loosely too. If you have one strict dependency in your system, that package is limited to the strict definition.
 
-Encuentre estas dependencias estrictas escribiendo composer depends \&lt;nombre del paquete\>. Consulte <https://getcomposer.org/doc/03-cli.md#depends-why> para obtener más información.
+Find these strict dependencies by typing composer depends \&lt;package name\>. See <https://getcomposer.org/doc/03-cli.md#depends-why> for more information.
 
-## Estrategia de ramas
+## Branching strategy
 
-Puede utilizar varias estrategias de ramificación para admitir este patrón de estrategia de referencia global, siempre que la rama principal sea la única en la que realice la versión de los paquetes. Si realiza la versión en varias ramas, existe el riesgo de perder la funcionalidad aleatoriamente entre versiones. Cree solo versiones estables en la rama principal.
+You can use various branching strategies to support this global reference strategy pattern, provided that the main branch is the only branch where you version your packages. If you version across several branches, it introduces the risk of randomly losing functionality between versions. Only create stable versions on the main branch.
 
-Cree únicamente ramas de funciones en los repositorios de paquetes. No en los repositorios de instalación de la tienda. Sigue siendo capaz de introducir cualquier cambio en tu tienda con solo utilizar Composer. Evite la necesidad de combinar Git en el repositorio de implementación.
+Only create feature branches in your package repositories. Not on your store installation repositories. Remain able to introduce any change to your store just by using Composer. Avoid the necessity of Git merges on the deployment repository.
 
-Tipos de ramas que son comunes en las estrategias de ramificación y repositorios en los que deberían existir:
+Branch types that are common in branching strategies and repositories they should exist in:
 
-**Ramas de características**: existen en sus repositorios de paquetes, en ningún otro lugar.
+**Feature branches**: exist in your package repositories, nowhere else.
 
-**Ramas de versiones**: se crean en cualquier repositorio: paquetes, metapaquetes, almacenen repositorios de instalación. Cuando planifique una versión, agrupe los cambios en las ramas de versiones de los paquetes antes de realizar el control de versiones. Imagine que está preparando una versión con el nombre en código &quot;Unicornio&quot;. Puede crear una rama release-unicorn en paquetes con cambios. Combine cualquier cosa allí y luego requiera &quot;dev-release-unicorn as 1.4.0&quot; en su metapaquete. Obtenga más información acerca de los alias para ver lo que está sucediendo allí: <https://getcomposer.org/doc/articles/aliases.md>.
+**Release branches**: are created in any repository: packages, metapackages, store installation repositories. When you plan a release, group changes in release branches of packages before versioning them. Suppose you are preparing a release with the code name &quot;Unicorn&quot;. You can create a release-unicorn branch in packages with changes. Merge anything in there and then require &quot;dev-release-unicorn as 1.4.0&quot; in your metapackage. Learn more about aliases to see what is happening there: <https://getcomposer.org/doc/articles/aliases.md>.
 
-**ramas de control de calidad/desarrollo**: similares a las ramas de versiones.
+**QA/Dev branches**: similar to release branches.
 
-**Rama principal**: debe existir en todos los repositorios y siempre debe ser la rama que represente el estado de producción o listo para la producción. La rama principal es donde se etiqueta el código para publicar versiones.
+**Main branch**: must exist in every repository and should always be the branch that represents production or a production-ready state. La rama principal es donde se etiqueta el código para publicar versiones.
 Asegúrese de elegir una estrategia de ramificación con poca sobrecarga de mantenimiento. Por ejemplo, volver a combinar la rama principal en las ramas QA, UAT, release o dev después de una versión de revisión es una tarea de mantenimiento general. Cuantos más paquetes, más repositorios y tareas generales más repetitivas.
 
 Use una herramienta como mixu/gr para realizar operaciones rutinarias en varios repositorios Git en un lote: <https://github.com/mixu/gr>
@@ -294,7 +311,7 @@ Los ejemplos de código de esta publicación de blog se han combinado en un conj
 * Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-separate-brand-x>
 * Un ejemplo de módulo base: <https://github.com/AntonEvers/module-example-gra>
 * Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>
-* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
-* Un ejemplo de metapaquete base: <https://github.com/AntonEvers/gra-meta-foundation>
-* Un ejemplo de metapaquete local (opcional): <https://github.com/AntonEvers/gra-meta-brand-x>
-* Un ejemplo de repositorio del Compositor: <https://github.com/AntonEvers/gra-composer-repository>
+* An example local module: <https://github.com/AntonEvers/module-example-local>
+* An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
+* An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
+* An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>

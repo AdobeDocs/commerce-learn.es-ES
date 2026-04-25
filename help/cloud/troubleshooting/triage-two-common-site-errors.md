@@ -8,17 +8,29 @@ role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 297
-last-substantial-update: 2024-10-30T00:00:00Z
+last-substantial-update: 2024-10-30T00:00:00.000Z
 jira: KT-16419
 exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-mN2UoNU6uKjUoHmZT59LgT4o7p4d4O2Zl1BR3x8y-8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 135
 ht-degree: 0%
 
 ---
 
-# El servicio de diagnóstico y corrección no está disponible y se produjo un error
+# Diagnose and fix service unavailable and an error occurred
 
 Aprenda a clasificar y resolver dos errores comunes que se ven en los proyectos de Adobe Commerce Cloud.  Comprenda cómo y por qué ocurren estos errores y cuáles son los pasos recomendados para resolverlos.
 
@@ -31,7 +43,7 @@ Aprenda a clasificar y resolver dos errores comunes que se ven en los proyectos 
 
 * Diagnosticar y resolver problemas de almacenamiento:
 * Administrar modo de mantenimiento
-* Sugerencias de solución de problemas eficientes
+* Efficient Troubleshooting tips
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447696?captions=spa&learn=on)
 
@@ -62,7 +74,7 @@ Mostrar el estado del modo de mantenimiento
 php bin/magento maintenance:status
 ```
 
-Desactivar el modo de mantenimiento
+Disable the maintenance mode
 
 ```SHELL
 php bin/magento maintenance:disable 

@@ -4,22 +4,31 @@ description: Empiece a utilizar la API Mesh de Adobe Commerce mediante flujos de
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
-last-substantial-update: 2025-06-27T00:00:00Z
+last-substantial-update: 2025-06-27T00:00:00.000Z
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: 8add45cc-f0cb-43a6-99d9-6b89beff6b19
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+TQID: https://experienceleague.adobe.com/OhEdoSE6OOV1QiwBAf7eusIAkHxxXBsgcaV3wzV0KWI
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: 130
 ht-degree: 0%
 
 ---
 
-# API Mesh Starter Kit mediante flujos de trabajo
+# API Mesh starter kit using workflows
 
-Obtenga información sobre los flujos de trabajo de GitHub incluidos en el kit de inicio de API Mesh para implementar la malla y realizar pruebas de carga.
+Learn about the GitHub workflows included in the API Mesh starter kit for deploying your mesh and performing load tests.
 
 ## ¿Para quién es este vídeo?
 
@@ -36,6 +45,6 @@ Obtenga información sobre los flujos de trabajo de GitHub incluidos en el kit d
 
 ## Documentación relacionada
 
-* [Kit de inicio de malla API para el repositorio de GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
-* [Guía de implementación de Adobe Developer OAuth de servidor a servidor](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Lista de reproducción de vídeos de API Mesh](https://experienceleague.adobe.com/es/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API mesh starter kit repositorio de GitHub](https://github.com/adobe-commerce/api-mesh-starter-kit)
+* [Adobe Developer OAuth server to server implementation guide](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
+* [Playlist of API Mesh videos](https://experienceleague.adobe.com/es/playlists/commerce-get-started-app-builder-and-api-mesh)

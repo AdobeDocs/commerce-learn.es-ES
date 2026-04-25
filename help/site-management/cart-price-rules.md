@@ -2,7 +2,7 @@
 title: Crear reglas de precio del carro
 description: Obtenga información sobre cómo crear reglas de precios de carro de compras que apliquen descuentos en el carro de compras cuando se cumplan las condiciones definidas.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00Z
+last-substantial-update: 2022-12-28T00:00:00.000Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -10,9 +10,23 @@ level: Beginner
 duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: 701
 ht-degree: 0%
 
 ---
@@ -100,7 +114,7 @@ Product 2 El valor nuevo es 2,00
 Se proporcionó un total de 3,99 como descuento al cliente.
 sin embargo, si redondeamos, mostraría que se dieron $4.00, y eso es incorrecto.
 
-2,00 + 2,00 = 4,00 $
+2.00 + 2.00 = $4.00
 
 >[!ENDSHADEBOX]
 
@@ -122,11 +136,11 @@ Product 2 El nuevo valor es 1,99
 Se proporcionó un total de 3,99 como descuento al cliente.
 sin embargo, si soltamos el tercer decimal, mostraría que se dieron 3,98 dólares, y eso es incorrecto.
 
-1,99 + 1,99 = 3,98 $
+1.99 + 1.99 = $3.98
 
 >[!ENDSHADEBOX]
 
 ## Recursos adicionales
 
-* [Crear una regla de precio de carro de compras - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=es){target="_blank"}
+* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=es){target="_blank"}
 * [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=es){target="_blank"}

@@ -1,42 +1,52 @@
 ---
-title: La carpeta de acciones
-description: Obtenga información sobre los tipos de archivos de la carpeta de acciones de esta aplicación de ejemplo.
+title: The actions folder
+description: Learn about the types of files in the actions folder for this sample application.
 jira: KT-12422
 doc-type: Tutorial
 duration: 465
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-03-13T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/v3hBL3cNfFO-xM8Dat2Be21-ihyORvvSrvZYZ-6wzf0
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 189
 ht-degree: 0%
 
 ---
 
-# Obtenga información sobre la carpeta de acciones {#actions-folder}
+# Learn about the actions folder {#actions-folder}
 
-La carpeta `actions` de esta aplicación de ejemplo contiene algunos archivos JavaScript y una carpeta denominada `commerce`. El JavaScript que se muestra es un excelente archivo de ejemplo que se puede reutilizar si es relevante para su trabajo. Esta carpeta puede ahorrarle tiempo en los esfuerzos de desarrollo al conectarse a la aplicación de Adobe Commerce mediante OAuth y REST.
+The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This folder can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST.
 
-Los nombres reales de las carpetas en este ejemplo son arbitrarios, pero saber sus nombres puede ayudarle a interpretar el código de ejemplo. Al utilizar una convención de nombres significativa, puede evitar confusiones si la aplicación se vuelve más compleja.
+The actual names of folders in this example are arbitrary, but knowing their names can help you interpret the sample code. By using a meaningful naming convention, you can avoid confusion if the application grows more complex.
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada con Adobe App Builder que aprenden sobre la carpeta de acciones en la aplicación de ejemplo.
+* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the actions folder in the sample application.
 
-## Contenido de vídeo
+## Video content
 
-* Introducción a App Builder y al módulo de ejemplo centrado en la carpeta `actions`
-* Cómo utilizar la carpeta &quot;acciones&quot;
-* El propósito del archivo JavaScript encontrado en las carpetas `actions` y `commerce`
-* Información general rápida sobre los archivos de autenticación de OAuth
+* Introduction to App Builder and the sample module focusing on the `actions` folder
+* How to use the &quot;actions&quot; folder
+* The purpose of the JavaScript file found in the `actions` and `commerce` folders
+* A quick overview of the OAuth authentication files
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421078?captions=spa&learn=on)
 
-## Ejemplos de código
+## Code Samples
 
 actions/oauth1a.js
 

@@ -13,9 +13,21 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/22ayPTG7ZgpcWr5l53Ide2sZeGTN-9P0jept0ZQ6njQ
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1371'
+source-wordcount: 1418
 ht-degree: 0%
 
 ---
@@ -292,7 +304,7 @@ bin/magento test:local
 Existen varias opciones para lograr la creación automatizada de paquetes. Algunas opciones son:
 
 1. [Empaquetador privado](https://packagist.com/)
-1. [Simplificar el generador de repositorios](https://github.com/symplify/monorepo-builder)
+1. [Simplifique el Generador de Monorepo](https://github.com/symplify/monorepo-builder)
 1. Cree su propia solución
 
 [Packagist privado](https://packagist.com/) automatiza el reconocimiento de paquetes en el monorepo de Git y los expone a través del Compositor. Es compatible con Adobe Commerce, rápido, de bajo mantenimiento y propenso a errores, por lo que esta guía se centra en la opción Private Packagist.

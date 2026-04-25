@@ -1,41 +1,53 @@
 ---
-title: Lenguaje de esquemas con GraphQL
-description: Obtenga información sobre el esquema relacionado con GraphQL. Lea una descripción del esquema, junto con algunos patrones interesantes y formas de leer el esquema.
-landing-page-description: Esta es una introducción a GraphQL. Explicación del esquema y cómo interpretar algunos de los elementos
-short-description: Esta es una introducción a GraphQL. Explicación del esquema y cómo interpretar algunos de los elementos
+title: Schema language with GraphQL
+description: Learn about the schema involved with GraphQL. Read a description of the schema, along with some interesting patterns and ways to read the schema.
+landing-page-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
+short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
 kt: 13939
 doc-type: video
 duration: 363
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/P9gopqc6BD8qZJlc1-gvVem4Gq3fqpX8AsRvglLAQYI
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: 436
 ht-degree: 0%
 
 ---
 
-# Idioma del esquema
+# Schema language
 
-Esta es la parte 4 de la serie para GraphQL y Adobe Commerce. Las consultas y mutaciones utilizadas dependen de un gráfico de datos específico que se implementa en el servidor, que el tiempo de ejecución de GraphQL consume y utiliza para resolver la consulta. La especificación de GraphQL define un lenguaje agnóstico para expresar los tipos y relaciones del gráfico de datos.
+This is part 4 of the series for GraphQL and Adobe Commerce. The queries and mutations used rely on a specific data graph being implemented at the server, which the GraphQL runtime consumes and uses to resolve the query. The GraphQL specification defines an agnostic language for expressing the types and relationships of your data graph.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446613?captions=spa&learn=on)
 
-## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
+## Related videos and tutorials on GraphQL in this series
 
-* [Parte 1 GraphQL: Introducción](../graphql-rest/intro-graphql.md)
-* [Parte 2 GraphQL: Consultas](../graphql-rest/graphql-queries.md)
-* [Parte 3 GraphQL - Mutaciones](../graphql-rest/graphql-mutations.md)
+* [Part 1 GraphQL - Introduction](../graphql-rest/intro-graphql.md)
+* [Part 2 GraphQL - Queries](../graphql-rest/graphql-queries.md)
+* [Part 3 GraphQL - Mutations](../graphql-rest/graphql-mutations.md)
 
-## Esquema de ejemplo
+## Example schema
 
-Este es un esquema de tipo abreviado que admite las consultas y mutaciones que ha visto hasta ahora:
+Here is an abbreviated type schema that supports the queries and mutations you&#39;ve looked at so far:
 
 ```graphql
 input FilterMatchTypeInput {
@@ -107,9 +119,9 @@ type Mutation {
 }
 ```
 
-Puede profundizar en [la documentación de GraphQL](https://graphql.org/learn/schema/){target="_blank"} para obtener más información sobre los detalles del sistema de tipos, incluida la sintaxis de algunos conceptos que no se representan aquí. Sin embargo, el ejemplo anterior se explica por sí mismo. (Tenga en cuenta también lo similar que es la sintaxis a la sintaxis de consulta). La definición de un esquema de GraphQL es simplemente una cuestión de expresar los argumentos y campos disponibles de un tipo determinado, junto con los tipos de esos campos. Cada tipo de campo complejo debe tener una definición, y así sucesivamente, a través del árbol, hasta que llegue a tipos escalares simples como `String`.
+You can delve into [the GraphQL documentation](https://graphql.org/learn/schema/){target="_blank"} to learn about the details of the type system, including syntax for some concepts not represented here. The above example, however, is self-explanatory. (Also, note how similar the syntax is to query syntax.) Defining a GraphQL schema is simply a matter of expressing the available arguments and fields of a given type, along with the types of those fields. Each complex field type must itself have a definition, and so on, through the tree, until you get to simple scalar types like `String`.
 
-La declaración `input` es similar en todos los aspectos a `type`, pero define un tipo que se puede utilizar como entrada para un argumento. Observe también la declaración `interface`. Esto sirve a una función más o menos igual que las interfaces en PHP. Otros tipos heredan de esta interfaz.
+The `input` declaration is in all respects like a `type` but defines a type that can be used as input for an argument. Also note the `interface` declaration. This serves a function more or less the same as interfaces in PHP. Otros tipos heredan de esta interfaz.
 
 La sintaxis `[CartItemInput!]!` parece complicada, pero al final es bastante intuitiva. El `!` _dentro_ del corchete declara que cada valor de la matriz no debe ser nulo, mientras que el _fuera_ declara que el valor de la matriz en sí debe ser no nulo (por ejemplo, una matriz vacía).
 
