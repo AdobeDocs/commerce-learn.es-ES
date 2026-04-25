@@ -52,6 +52,6 @@ Learn about Global Reference Architecture, some core concepts, and benefits for 
 * Overall considerations that must be considered
 * How to tell if GRA is a viable option
 
->[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454696?captions=spa&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

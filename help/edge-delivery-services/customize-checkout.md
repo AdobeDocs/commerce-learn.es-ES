@@ -46,7 +46,7 @@ Learn examples for customization of the Edge Delivery Services cart drop in chec
 * Implementation of Multi-Step Checkout&#x200B;
 * Reusing Existing Code and Best Practices
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442653?captions=spa&learn=on)
 
 ## Additional Documentation
 

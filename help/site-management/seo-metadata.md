@@ -47,7 +47,7 @@ Su tienda está cargada de lugares donde puede introducir metadatos enriquecidos
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411825?captions=spa&learn=on)
 
 ## Recursos adicionales
 

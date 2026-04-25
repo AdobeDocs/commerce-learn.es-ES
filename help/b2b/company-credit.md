@@ -53,7 +53,7 @@ You can set the following credit-related parameters for each company profile:
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410758?captions=spa&learn=on)
 
 ## Additional resources
 

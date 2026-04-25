@@ -48,7 +48,7 @@ Learn how to configure Adobe Commerce to expose the events. Encontrará document
 * Saving the unique identifier in the Commerce admin
 * Creación de un proveedor de eventos
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419712?captions=spa&learn=on)
 
 ## Comandos útiles {#useful-commands}
 

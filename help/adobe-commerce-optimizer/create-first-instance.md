@@ -41,7 +41,7 @@ Aprenda a crear la primera instancia de Adobe Commerce Optimizer de principio a 
 * Choose the right environment and region for your instance.
 * Quickly deploy and prepare for catalog setup in future tutorials.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469881?captions=spa&learn=on)
 
 ## Related Content
 

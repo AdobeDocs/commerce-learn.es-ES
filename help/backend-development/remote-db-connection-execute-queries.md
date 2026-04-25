@@ -36,7 +36,7 @@ Learn how to connect to an Adobe Commerce on cloud project, create a database du
 * Connect to a remote Adobe Commerce Cloud project with a GUI tool such as MySQL Workbench or TablePlus.
 * Connect to the project and run SQL from the command line.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450039?captions=spa&learn=on)
 
 You can access Adobe Commerce data from your cloud project using any of the following methods:
 

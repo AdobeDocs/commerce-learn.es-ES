@@ -44,7 +44,7 @@ Aprenda por qué utiliza el compendio pt-query y algunos ejemplos del mundo real
 * Learn about the benefits and shortcomings of this Percona Toolkit feature
 * Comprenda los resultados y aprenda qué posibles pasos de rendimiento deben tenerse en cuenta
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452294?captions=spa&learn=on)
 
 ## Referencias de código
 

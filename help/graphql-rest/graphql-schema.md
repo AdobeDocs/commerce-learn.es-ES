@@ -37,7 +37,7 @@ ht-degree: 0%
 
 This is part 4 of the series for GraphQL and Adobe Commerce. The queries and mutations used rely on a specific data graph being implemented at the server, which the GraphQL runtime consumes and uses to resolve the query. The GraphQL specification defines an agnostic language for expressing the types and relationships of your data graph.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446613?captions=spa&learn=on)
 
 ## Related videos and tutorials on GraphQL in this series
 

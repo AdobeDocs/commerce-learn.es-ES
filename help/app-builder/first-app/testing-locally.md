@@ -40,6 +40,6 @@ Obtenga información sobre cómo probar localmente la nueva aplicación de Adobe
 * E2E test
 * Manual test
 
->[!VIDEO](https://video.tv.adobe.com/v/3416594?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421054?captions=spa&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

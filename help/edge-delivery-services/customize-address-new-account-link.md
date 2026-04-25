@@ -54,7 +54,7 @@ Project Managers who need to track the progress of development tasks and underst
 * Validation and Error Handling for the address input fields, ensuring that users receive immediate feedback on incorrect or incomplete entries, enhancing the user experience.
 * Extension of User Account Dashboard that adds a new sidebar menu item to the user account dashboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442909?captions=spa&learn=on)
 
 ## Additional Documentation
 

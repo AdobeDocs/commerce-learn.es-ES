@@ -52,4 +52,4 @@ The document also covers the process of syncing tables to the Data Warehouse, ad
 
 ## Integrations and configurations
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452693?captions=spa&learn=on)

@@ -46,7 +46,7 @@ As a solution, if possible, batch your large operations to help the secondary da
 * Bulk executions only happen on the primary. Replications happen 1 at a time
 * Batch your large commits to help the replication keep up with the primary
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423545?captions=spa&learn=on)
 
 ## Useful resources
 

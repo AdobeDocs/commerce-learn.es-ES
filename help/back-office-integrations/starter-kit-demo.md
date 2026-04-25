@@ -52,4 +52,4 @@ Learn about the Adobe Commerce back office integration starter kit. This video t
 * Configure I/O events
 * Connecting to a third party to sync data
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452017?captions=spa&learn=on)
