@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 TQID: https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -49,5 +49,5 @@ El uso de plantillas le ahorra tiempo y esfuerzo al crear contenido (o reemplaza
 
 ## Recursos adicionales
 
-* [[!DNL Page Builder] plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [[!DNL Page Builder] plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=es)
 * [Agregar plantillas:  [!DNL Page Builder] Guía para desarrolladores](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

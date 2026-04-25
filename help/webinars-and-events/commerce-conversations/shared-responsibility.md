@@ -51,7 +51,7 @@ Learn how Adobe and merchants share the responsibility for keeping Adobe Commerc
 
 ## Additional Documentation
 
-* [Security patch release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Security patch release notes](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/security-patches/overview)
 * [Notification channels](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe Security bulletins](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Secure your commerce site and infrastructure](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Adobe Security bulletins](https://helpx.adobe.com/es/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Secure your commerce site and infrastructure](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

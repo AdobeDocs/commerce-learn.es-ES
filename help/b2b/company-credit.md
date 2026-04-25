@@ -57,5 +57,5 @@ You can set the following credit-related parameters for each company profile:
 
 ## Additional resources
 
-* [Configure payment on account](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-* [Manage Company Credit](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+* [Configure payment on account](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=es#configure-payment-on-account)
+* [Manage Company Credit](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=es)

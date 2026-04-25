@@ -50,4 +50,4 @@ Learn examples for customization of the Edge Delivery Services cart drop in chec
 
 ## Additional Documentation
 
-* [Multi-step guest checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Multi-step guest checkout](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=es)

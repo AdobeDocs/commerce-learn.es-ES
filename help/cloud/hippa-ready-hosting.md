@@ -58,6 +58,6 @@ Adobe Commerce ofrece una solución compatible con HIPAA diseñada para ayudar a
 
 ## Documentación adicional
 
-* [Preparación para HIPAA: conexión de datos](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
-* [Preparación para HIPAA: cumplimiento](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Instalar conexión de datos](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+* [Preparación para HIPAA: conexión de datos](https://experienceleague.adobe.com/es/docs/commerce/data-connection/hipaa-readiness)
+* [Preparación para HIPAA: cumplimiento](https://experienceleague.adobe.com/es/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Instalar conexión de datos](https://experienceleague.adobe.com/es/docs/commerce/data-connection/fundamentals/install)

@@ -50,5 +50,5 @@ En este vídeo, aprenderá a administrar los atributos de producto cuando tenga 
 
 ## Recursos adicionales
 
-* [Atributos del producto:  [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+* [Atributos del producto:  [!DNL Commerce] Guía de administración del catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=es)
 * [PWA Studio: documentación para desarrolladores](https://developer.adobe.com/commerce/pwa-studio/)

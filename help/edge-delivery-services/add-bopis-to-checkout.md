@@ -51,4 +51,4 @@ Learn how to use Adobe Commerce cart from Edge Delivery Services to provide BOPI
 
 ## Additional Documentation
 
-* [Buy Online Pickup in store](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Buy Online Pickup in store](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=es)

@@ -55,4 +55,4 @@ Aprenda a utilizar la función de colocación del carro de compras de Adobe Comm
 
 ## Documentación adicional
 
-* [Añadir líneas de producto al carro de compras](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Añadir líneas de producto al carro de compras](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=es)

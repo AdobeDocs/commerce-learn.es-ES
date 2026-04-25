@@ -49,5 +49,5 @@ Las reglas fiscales incorporan una combinación de clase de producto, clase de c
 
 ## Recursos adicionales
 
-* [Reglas de impuestos - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-* [Moneda - [!DNL Commerce] Guía de tiendas y de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+* [Reglas de impuestos - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=es)
+* [Moneda - [!DNL Commerce] Guía de tiendas y de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=es)

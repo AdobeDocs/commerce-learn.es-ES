@@ -51,4 +51,4 @@ Obtenga información sobre cómo utilizar la lista desplegable de carrito de Ado
 
 ## Documentación adicional
 
-* [Configurar resumen del carro](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Configurar resumen del carro](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=es)

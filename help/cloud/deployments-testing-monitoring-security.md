@@ -51,11 +51,11 @@ Obtenga información sobre las estrategias de implementación de Adobe Commerce 
 
 ## La documentación de Experience League que se menciona en el vídeo
 
-* [Proceso de implementación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-* [Herramienta de análisis de todo el sitio SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-* [Asistente inteligente de herramientas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-* [Análisis de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-* [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-* [Información general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+* [Proceso de implementación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=es)
+* [Herramienta de análisis de todo el sitio SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=es)
+* [Asistente inteligente de herramientas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=es)
+* [Análisis de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=es)
+* [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=es)
+* [Información general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=es)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

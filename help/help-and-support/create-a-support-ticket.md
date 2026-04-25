@@ -51,4 +51,4 @@ Obtenga información sobre cómo crear un vale de soporte en Experience League p
 
 ## Guía del centro de ayuda de Commerce Knowledge Base
 
-[Envío de un caso de asistencia](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Envío de un caso de asistencia](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

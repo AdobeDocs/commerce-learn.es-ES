@@ -46,13 +46,13 @@ To prevent unauthorized access to your data, all users who attempt to sign in to
 
 >[!NOTE]
 >
->The content in the video reflects the 2.4.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
+>The content in the video reflects the 2.4.0 release. For information about updates in later releases, see the [release notes](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## Additional resources
 
-* [Two-factor authentication (2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [Two-factor authentication setup for user accounts](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [Manage two-factor authentication](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [Two-factor authentication (2FA)](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [Two-factor authentication setup for user accounts](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [Manage two-factor authentication](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [Configuring two-factor authentication (2FA) - Developer documentation](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

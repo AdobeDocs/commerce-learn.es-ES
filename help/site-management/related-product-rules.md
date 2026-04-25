@@ -50,4 +50,4 @@ Las reglas de productos relacionados permiten seleccionar la selección de produ
 
 ## Recursos adicionales
 
-[Reglas del producto relacionadas:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Reglas del producto relacionadas:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=es)

@@ -58,4 +58,4 @@ Project Managers who need to track the progress of development tasks and underst
 
 ## Additional Documentation
 
-* [User Account](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [User Account](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=es)
