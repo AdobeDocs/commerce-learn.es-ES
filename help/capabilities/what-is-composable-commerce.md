@@ -10,16 +10,22 @@ duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c32adafa-ed01-4b31-997e-2413013911b0id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: 1305
 ht-degree: 0%
 
 ---
 
 # Comercio componible
 
-El comercio compuesto es un enfoque arquitectónico en el comercio electrónico que implica desacoplar la capa de presentación del front-end de la funcionalidad de comercio del back-end. Permite a las empresas seleccionar y combinar los mejores componentes o módulos para crear una solución personalizada. Este enfoque implica desglosar la plataforma monolítica tradicional de comercio electrónico en servicios o microservicios más pequeños e independientes que puedan estar compuestos juntos. El comercio de composición ofrece beneficios como flexibilidad, escalabilidad, personalización, agilidad y la capacidad de integraciones más sencillas con otros sistemas y tecnologías.
+El comercio de composición es un enfoque arquitectónico en el comercio electrónico que implica desacoplar la capa de presentación del front-end de la funcionalidad de comercio del back-end. Permite a las empresas seleccionar y combinar los mejores componentes o módulos para crear una solución personalizada. Este enfoque implica desglosar la plataforma monolítica tradicional de comercio electrónico en servicios o microservicios más pequeños e independientes que puedan estar compuestos juntos. El comercio de composición ofrece beneficios como flexibilidad, escalabilidad, personalización, agilidad y la capacidad de integraciones más sencillas con otros sistemas y tecnologías.
 
 Adobe Commerce proporciona muchas funciones y herramientas para ayudar a los comerciantes a adoptar e implementar el comercio componible. Adobe Commerce ofrece una metodología de comercio componible y experiencias front-end híbridas y sin encabezado. Con la extensibilidad fuera de proceso en mente, Adobe ofrece API Mesh para integrar varios servicios y Adobe App Builder para crear microservicios personalizados.
 

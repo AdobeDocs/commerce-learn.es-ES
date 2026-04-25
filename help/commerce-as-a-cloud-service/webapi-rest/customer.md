@@ -1,54 +1,61 @@
 ---
-title: Explorar las nuevas API de REST del cliente
-description: Descubra cómo utilizar las nuevas API de REST de cliente en Adobe Commerce Cloud Service. Ideal para arquitectos y desarrolladores.
+title: Explore New Customer REST APIs
+description: Discover how to use new customer REST APIs in Adobe Commerce Cloud Service. Ideal for architects and developers.
 feature: REST, Customers, Saas
 topic: Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00Z
+last-substantial-update: 2026-01-27T00:00:00.000Z
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: 505
 ht-degree: 0%
 
 ---
 
-# API de REST de cliente
+# Customer REST API
 
-Aprenda a utilizar las nuevas API de REST del cliente en Adobe Commerce as a Cloud Service. Este tutorial es perfecto para arquitectos y desarrolladores que buscan integrar y optimizar las soluciones de API de forma eficaz.
+Learn to use new customer REST APIs in Adobe Commerce as a Cloud Service. This tutorial is perfect for architects and developers looking to integrate and optimize API solutions effectively.
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Desarrolladores back-end responsables de crear integraciones con Adobe Commerce
-* Arquitectos técnicos que diseñan flujos de trabajo de administración de clientes para implementaciones de comercio sin encabezado
+* Backend developers responsible for building integrations with Adobe Commerce
+* Technical architects designing customer management workflows for headless commerce implementations
 
-## Contenido de vídeo
+## Video content
 
-* Autentique con Adobe IMS mediante credenciales de servidor a servidor para obtener un token de acceso para solicitudes de API
-* Utilice el formato de extremo de API de REST correcto para Commerce as a Cloud Service
-* Cree y actualice cuentas de cliente mediante programación utilizando solicitudes POST y PUT con cargas JSON adecuadas
+* Authenticate with Adobe IMS using server-to-server credentials to obtain an access token for API requests
+* Use the correct REST API endpoint format for Commerce as a Cloud Service
+* Create and update customer accounts programmatically using POST and PUT requests with proper JSON payloads
 
->[!VIDEO](https://video.tv.adobe.com/v/3479365?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
-## Muestras de código
+## Code samples
 
-Antes de empezar, recopile todos los valores necesarios de [Experience Cloud](https://experience.adobe.com) y [Adobe Developer Console](https://developer.adobe.com/console). Tener estos valores listos garantiza un proceso de configuración suave.
+Before starting, gather all the required values from [Experience Cloud](https://experience.adobe.com) and the [Adobe Developer Console](https://developer.adobe.com/console). Having these values ready ensures a smooth setup process.
 
 >[!NOTE]
 >
->Asegúrese de que está trabajando en la organización correcta. La selección de su organización afecta a qué instancias y entornos son visibles tanto en Experience Cloud como en Developer Console.
+>Make sure you are working in the correct organization. Your organization selection affects which instances and environments are visible in both Experience Cloud and the Developer Console.
 
-### Detalles de instancia: experience.adobe.com
+### Instance details - experience.adobe.com
 
-Los detalles de la instancia contienen elementos como su ID de instancia, puntos de conexión de GraphQL o credenciales.
+The instance details contain things like your Instance ID, GraphQL endpoints, credentials.
 
-### Detalles del desarrollador: https://developer.adobe.com/console/
+### Developer details - https://developer.adobe.com/console/
 
-En Developer Console es donde administra las credenciales de la API, incluidos los ID de cliente, los secretos de cliente y los tokens de acceso. También puede crear nuevos tipos de credenciales, como autenticación de servidor a servidor o de aplicación nativa.
+The Developer Console is where you manage your API credentials, including client IDs, client secrets, and access tokens. You can also create new credential types, such as Server-to-Server or Native App authentication.
 
 ## Requisitos previos
 
@@ -244,6 +251,6 @@ curl -s -X PUT \
 
 ## Referencias
 
-* [Notas de la versión de Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce/cloud-service/release-notes)
+* [Notas de la versión de Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Referencia de API de REST de SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guía de autenticación de usuario](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

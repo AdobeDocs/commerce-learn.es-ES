@@ -1,6 +1,6 @@
 ---
 title: Configuración de Adobe Commerce con la arquitectura de referencia global de Split Git
-description: Aprenda a configurar Adobe Commerce mediante la arquitectura de referencia global Split Git para una administración eficiente del código y una implementación optimizada.
+description: Aprenda a configurar Adobe Commerce mediante la arquitectura de referencia global Split Git para una administración eficiente del código y una implementación optimizada. ​
 kt: 16725
 doc-type: tutorial
 duration: 515
@@ -13,9 +13,15 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/dtuD15AYh-zU8In3X-Z2nHLKVKWGKgyrI9pwpVJsvvs
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: 1555
 ht-degree: 0%
 
 ---
@@ -51,9 +57,9 @@ Desventajas:
 
 ### La estructura del directorio
 
-El patrón Split Git GRA tiene dos tipos de repositorios: repositorios de desarrollo y repositorios de instalación. Los repositorios de desarrollo solo contienen parte de una instalación completa de Adobe Commerce. Los repositorios de instalación contienen la instalación completa de Adobe Commerce y se utilizan para la implementación, pero no para el desarrollo.
+El patrón Split Git GRA tiene dos tipos de repositorios: repositorios de desarrollo y repositorios de instalación. The development repositories only contain part of a full Adobe Commerce installation. The installation repositories contain the full Adobe Commerce installation and are used for deployment, but not for development.
 
-La estructura final de directorios de una instalación completa de Adobe Commerce con el patrón Split Git GRA tiene este aspecto:
+The final directory structure of a full Adobe Commerce installation with the Split Git GRA pattern looks like this:
 
 ```text
 .
@@ -69,23 +75,23 @@ La estructura final de directorios de una instalación completa de Adobe Commerc
     └── local/
 ```
 
-Los directorios `app/code`, `app/i18n` y `app/design` se omiten a propósito, porque Composer no evalúa el código de estos directorios. Como resultado, las dependencias que se declaran en los paquetes no se instalan automáticamente. El patrón Split Git GRA resuelve este problema instalando todo el código personalizado en `packages/` y tratando ese directorio como un repositorio de composición. El compositor enlaza simbólicamente paquetes dentro de `packages/` a `vendor/`.
+The `app/code`, `app/i18n` and `app/design` directories are omitted on purpose, because Composer does not evaluate code in these directories. As a result, dependencies that are declared in the packages are not automatically installed. The Split Git GRA pattern resolves this issue by installing all custom code in `packages/` and treating that directory as a composer repository. Composer symlinks packages inside `packages/` to `vendor/`.
 
-### Preparación de los repositorios de Git
+### Prepare the Git repositories
 
-Cree 3 repositorios Git para:
+Create 3 Git repositories for:
 
-1. Una instancia de Adobe Commerce
-2. Código de terceros que no se instala mediante Composer
-3. Sus personalizaciones en forma de módulos, temáticas, paquetes de idiomas y demás; su GRA
+1. An Adobe Commerce instance
+2. Third-party code that is not installed through Composer
+3. Your customizations in the form of modules, themes, language packs and such; your GRA
 
-En esta guía se utilizan los siguientes nombres para estos repositorios:
+In this guide the following names are used for these repositories:
 
 1. gra-split-brand-x
 2. gra-split-3rdparty
 3. gra-split-gra
 
-Todos los repositorios del patrón Split Git GRA se combinan en uno. Para que Git permita la combinación de varios repositorios, los tres repositorios necesitan un historial compartido. Cree un proyecto Git con una sola confirmación e inclúyalo en todos los remotos.
+All repositories in the Split Git GRA pattern are merged into one. For Git to allow merging multiple repositories, all three repositories need a shared history. Create a Git project with a single commit and push it to all remotes.
 
 ```bash
 mkdir gra-split-brand-x
@@ -102,9 +108,9 @@ git push 3rdparty main
 git push gra main
 ```
 
-Si se inserta el archivo temporal `.gitkeep` en todos los remotos, se crea la misma confirmación inicial con el mismo hash de confirmación, lo que crea un historial compartido. Cada cambio que se crea en un control remoto se puede combinar con los demás.
+Pushing the temporary file `.gitkeep` to all remotes creates the same initial commit with the same commit hash, making a shared history. Each change that is created in one remote can be merged to the others.
 
-Desde aquí, los repositorios divergen. El repositorio gra-split-brand-x contiene un código específico de la marca. El repositorio gra-split-3rdparty contiene solo código de terceros. El repositorio gra-split-gra contiene únicamente la base de la arquitectura de referencia global, que consta de todo el código personalizado.
+From here, the repositories diverge. The gra-split-brand-x repository contains brand specific code. The gra-split-3rdparty repository contains only third-party code. The gra-split-gra repository contains only your global reference architecture foundation, which consists of all your custom code.
 
 Instale Adobe Commerce en el repositorio gra-split-brand-x.
 
@@ -353,7 +359,7 @@ git push origin main
 
 ### Entrega de código a las instancias
 
-Combine los repositorios GRA y de terceros en el repositorio gra-split-brand-x para enviar el código a una instancia de Adobe Commerce. Ejecute `composer require`, `bin/magento module:enable` y confirme el resultado.
+Combine los repositorios GRA y de terceros en el repositorio gra-split-brand-x para enviar el código a una instancia de Adobe Commerce. Run `composer require`, `bin/magento module:enable` and commit the result.
 
 ```bash
 cd gra-split-brand-x
@@ -366,21 +372,21 @@ git commit -m 'install GRA and third-party modules'
 git push origin main
 ```
 
-## Estrategia de ramas
+## Branching strategy
 
-Este patrón GRA funciona con todas las estrategias de ramificación, si refleja la estrategia de ramificación de los repositorios de almacenamiento en los repositorios de terceros y GRA. Para las versiones, cree una rama de versión con el mismo nombre en los tres repositorios. Combine las ramas de la versión en el repositorio de almacenamiento durante la preparación de la versión.
+This GRA pattern works with all branching strategies, if you mirror the branching strategy of the store repositories in your third-party and GRA repositories. For releases, create a release branch with the same name in all three repositories. Merge the release branches together on the store repository during release preparation.
 
-A veces tiene una rama de tickets que requiere que se modifiquen tanto el código local como el código de terceros o el código GRA. En este caso, es necesario crear las ramas de tickets en todos los repositorios relacionados.
+Sometimes you have a ticket branch that requires both local code and third-party code or GRA code to be altered. In this case, the ticket branches need to be created in all related repositories.
 
-Nunca fusione los compromisos de terceros y GRA en el repositorio de la marca dentro de las ramas de los tickets. En su lugar, consulte las ramas adecuadas en su entorno de desarrollo para cada grupo de códigos. La combinación en el repositorio de marca solo se realiza al maquetar la versión o al maquetar una rama de control de calidad.
+Never merge third-party and GRA commits into the brand repository inside ticket branches. Instead, check out the right branches in your development environment for each code pool. Merging into the brand repository is only done when composing the release, or when composing a QA branch.
 
-## Ejemplos de código
+## Code examples
 
-Los ejemplos de código de este artículo están disponibles como un conjunto de repositorios Git, que puede utilizar para probar la prueba de concepto.
+The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
 
-* Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-split-brand-x>
-* El repositorio de código de terceros: <https://github.com/AntonEvers/gra-split-3rdparty>
-* El repositorio de código GRA: <https://github.com/AntonEvers/gra-split-gra>
-* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
-* Un ejemplo de módulo GRA: <https://github.com/AntonEvers/module-example-gra>
-* Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>
+* An example production store: <https://github.com/AntonEvers/gra-split-brand-x>
+* The third-party code repository: <https://github.com/AntonEvers/gra-split-3rdparty>
+* The GRA code repository: <https://github.com/AntonEvers/gra-split-gra>
+* An example local module: <https://github.com/AntonEvers/module-example-local>
+* An example GRA module: <https://github.com/AntonEvers/module-example-gra>
+* An example third-party module: <https://github.com/AntonEvers/module-example-3rdparty>

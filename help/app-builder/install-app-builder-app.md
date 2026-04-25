@@ -1,33 +1,39 @@
 ---
-title: Instalación de aplicaciones de App Builder desde Adobe Exchange
-description: Descubra cómo instalar y validar aplicaciones de Adobe Commerce App Builder mediante Adobe Exchange.
+title: Install App Builder Apps from Adobe Exchange
+description: Discover how to install and validate Adobe Commerce App Builder apps using Adobe Exchange.
 feature: App Builder
 topic: Commerce
 role: Developer, User
 level: Beginner
 doc-type: Tutorial
 duration: 273
-last-substantial-update: 2025-08-29T00:00:00Z
+last-substantial-update: 2025-08-29T00:00:00.000Z
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/s5NzZyNrLao2GX2PJkrQ9cxQhoOk64t-cRFVB9RXqEA
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 113
 ht-degree: 0%
 
 ---
 
-# Instalación de aplicaciones de App Builder desde Adobe Exchange
+# Install App Builder apps from Adobe Exchange
 
-Obtenga información sobre cómo buscar, instalar y validar aplicaciones de Adobe Commerce App Builder mediante Adobe Exchange. Se le guía a través del filtrado para aplicaciones relevantes, su adquisición y aprobación, la configuración de entornos de implementación y la verificación de la instalación correcta, todo ello con un ejemplo real con la aplicación Feed Generator. Tanto si es su primera vez en App Builder como si desea optimizar el flujo de trabajo, este tutorial le ofrece información general práctica paso a paso para ayudarle a empezar.
+Learn how to find, install, and validate Adobe Commerce App Builder apps using Adobe Exchange. You are guided through filtering for relevant apps, acquiring and approving them, setting up deployment environments, and verifying successful installation—all using a real-world example with the Feed Generator app. Whether you&#39;re new to App Builder or looking to streamline your workflow, this tutorial provides a practical, step-by-step overview to get you started.
 
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Desarrolladores de Adobe Commerce
-* Arquitectos técnicos
-* Administradores del sistema
+* Adobe Commerce Developers
+* Technical Architects
+* System Administrators
 
-## Contenido de vídeo
+## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3471527?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)

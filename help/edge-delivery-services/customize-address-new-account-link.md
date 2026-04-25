@@ -1,6 +1,6 @@
 ---
-title: Dirección personalizada de Edge Delivery Services, incluido completado automático
-description: Aprenda a personalizar los formularios de cierre de compra de comercio electrónico e integrar Búsqueda de direcciones de Google para mejorar la experiencia del usuario y reducir los errores de entrada.
+title: Edge Delivery Services customize address including auto complete
+description: Learn how to customize e-commerce checkout forms and integrate Google Address Lookup for improved user experience and reduced input errors.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,38 +10,43 @@ duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: cc250cf1-34eb-4863-80d0-d170d45ea067id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: 322
 ht-degree: 0%
 
 ---
 
+# Customize an address layout
 
-# Personalizar un diseño de dirección
+Learn how to customize the address form layout at checkout to ensure that all fields are 50% width, with the exception for the text area. Learn an approach to using an integrated third-party API, specifically the Google Address API, to enable auto address lookup and validation in the address form. &#x200B; Learn how to add a new sidebar menu item to the user account dashboard, linking to a custom page for a store locator.
 
-Aprenda a personalizar el diseño del formulario de dirección al cerrar la compra para asegurarse de que todos los campos tengan una anchura del 50 %, con la excepción del área de texto. Conozca el método para utilizar una API de terceros integrada, específicamente la API de direcciones de Google, para habilitar la búsqueda y validación automáticas de direcciones en el formulario de direcciones. Obtenga información sobre cómo agregar un nuevo elemento de menú de barra lateral al panel de cuentas de usuario, vinculándolo a una página personalizada para un localizador de tiendas.
+## Who is this video for?
 
-## ¿Para quién es este vídeo?
+Roles that would benefit from reading this transcript include:
 
-Las funciones que se beneficiarían de leer esta transcripción incluyen:
-
-* Directores de comercio electrónico con dos objetivos para comprender cómo se puede mejorar el proceso de cierre de compra y el tablero de cuentas de usuario para mejorar la experiencia del cliente.
-* Desarrolladores front-end que necesiten obtener información sobre las implementaciones prácticas de ajustes CSS, integraciones de API de terceros y personalizaciones de componentes de interfaz de usuario.
-* Diseñadores de UX/IU que buscan ver cómo se implementan y validan los cambios de diseño para garantizar una interfaz coherente y fácil de usar.
-Administradores de proyectos que necesiten realizar un seguimiento del progreso de las tareas de desarrollo y comprender los pasos técnicos involucrados en el logro de los objetivos del proyecto.
-* Los responsables técnicos que supervisan el proceso de desarrollo y garantizan que se sigan las prácticas recomendadas en la implementación y la integración del código.
+* E-commerce Managers with to goal to understand how the checkout process and user account dashboard can be improved to enhance customer experience.
+* Front-end Developers who need to gain insights into practical implementations of CSS adjustments, third-party API integrations, and UI component customizations.
+* UX/UI Designers looking to see how design changes are implemented and validated to ensure a consistent and user-friendly interface.
+Project Managers who need to track the progress of development tasks and understand the technical steps involved in achieving project goals.
+* Technical Leads that are overseeing the development process and ensure that best practices are followed in code implementation and integration.
 
 
-## Contenido de vídeo
+## Video content
 
-* Anchuras de campo coherentes en Checkout Forms para personalizar el formulario de dirección al realizar la compra y garantizar que todos los campos estén completos.
-* Integración de la API de direcciones de Google para habilitar la búsqueda y finalización automáticas de direcciones, reduciendo los errores de entrada de los usuarios y optimizando el proceso de cierre de compra.
-* Validación y control de errores para los campos de entrada de la dirección, lo que garantiza que los usuarios reciban comentarios inmediatos sobre las entradas incorrectas o incompletas, lo que mejora la experiencia del usuario.
-* Extensión del tablero de cuentas de usuario que agrega un nuevo elemento de menú de barra lateral al tablero de cuentas de usuario.
+* Consistent Field Widths in Checkout Forms to customize the address form at checkout to ensure all fields.
+* Integration of Google Address API to enable auto address lookup and completion, reducing user input errors and streamlining the checkout process.
+* Validation and Error Handling for the address input fields, ensuring that users receive immediate feedback on incorrect or incomplete entries, enhancing the user experience.
+* Extension of User Account Dashboard that adds a new sidebar menu item to the user account dashboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442909?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
-## Documentación adicional
+## Additional Documentation
 
-* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=es)
+* [User Account](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

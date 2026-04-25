@@ -1,35 +1,39 @@
 ---
-title: Pruebas con la URL de Adobe Developer App Builder
-description: Obtenga información sobre cómo probar la primera aplicación de Adobe Developer App Builder desde la URL de App Builder proporcionada para su proyecto.
+title: Testing using the Adobe Developer App Builder URL
+description: Learn how to test your first Adobe Developer App Builder app from the provided App Builder URL for your project.
 jira: KT-12427
 doc-type: Tutorial
 duration: 78
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-03-13T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/q7uWlhdokuwOT87govxSSfaN4EY84WHVtymgfwb3sG0
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: 93
 ht-degree: 0%
 
 ---
 
-# Pruebas mediante la URL de App Builder {#testing-app-builder-url}
+# Testing Using App Builder URL {#testing-app-builder-url}
 
-Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder con la dirección URL del proyecto.
+Learn how to test your new Adobe Developer App Builder application using the URL from your project.
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que están listos para probar su primera aplicación de Adobe Developer App Builder.
+* Developers new to Adobe Commerce with limited experience using Adobe App Builder who are ready to test their first Adobe Developer App Builder app.
 
-## Contenido de vídeo
+## Video content
 
-* Cómo implementar la aplicación
-* Dónde encontrar la URL después de la implementación
+* How to deploy the application
+* Where to find the URL after deployment
 
->[!VIDEO](https://video.tv.adobe.com/v/3421044?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

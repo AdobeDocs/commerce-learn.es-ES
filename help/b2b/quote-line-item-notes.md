@@ -1,36 +1,42 @@
 ---
-title: Uso de Adobe Commerce para mostrar las notas de los artículos de línea de una oferta
-description: Obtenga información acerca de las notas de elementos de línea de una cotización B2B en Adobe Commerce
+title: Using Adobe Commerce to show line item notes for a quote
+description: Learn about line item notes on a B2B quote in Adobe Commerce
 doc-type: Feature Video
 duration: 227
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00Z
+last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
-source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
+TQID: https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: 55
 ht-degree: 0%
 
 ---
 
-# Descuento de artículo de línea de presupuesto de ventas B2B
+# B2B Sales quote line item discount
 
-Aprenda a utilizar las notas de elementos de línea para una cotización B2B de Adobe Commerce.
+Learn how to use the line item notes for an Adobe Commerce B2B quote.
 
 {{b2b-feature}}
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Administradores de sitios web
-* Comerciantes de comercio electrónico
-* Desarrolladores
+* Website managers
+* eCommerce merchandisers
+* Developers
 
-## Contenido de vídeo
+## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/3423697?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

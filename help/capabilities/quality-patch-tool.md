@@ -7,12 +7,18 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 903
-last-substantial-update: 2024-07-17T00:00:00Z
+last-substantial-update: 2024-07-17T00:00:00.000Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/GpcJqSCn3XqLZtm-QdQ-ka9c-RdkG-C6Hd3FpXrh8-I
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75id: f42e0a1a-0d79-488d-a83f-f2c30672b137
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: 593
 ht-degree: 0%
 
 ---
@@ -39,7 +45,7 @@ La herramienta Parches de calidad es una utilidad de línea de comandos para Ado
 
 Estos parches han sido desarrollados por desarrolladores de Adobe y la comunidad de Magento Open Source para mejorar la estabilidad y el rendimiento. Tenga en cuenta que no se recomienda para aplicar grandes cantidades de parches, ya que puede complicar futuras actualizaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454071?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Por qué utilizar la herramienta parche de calidad
 
@@ -71,8 +77,8 @@ Antes de aplicar parches, es crucial probarlos en un entorno de ensayo. Asegúre
 
 ## Artículos y vídeos relacionados
 
-* [Búsqueda de herramientas de parches de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=es)
-* [Notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Búsqueda de herramientas de parches de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Notas de la versión](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github para parches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Uso de la herramienta de revisión de calidad](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vídeo técnico sobre QPT](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Uso de la herramienta de parche de calidad](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vídeo técnico sobre QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

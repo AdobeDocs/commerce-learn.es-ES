@@ -1,5 +1,5 @@
 ---
-title: Cómo crear la primera instancia de Adobe Commerce Optimizer
+title: How to Create Your First Adobe Commerce Optimizer Instance
 description: Aprenda a crear la primera instancia de Adobe Commerce Optimizer con este tutorial paso a paso.
 feature: Saas, Storefront
 topic: Commerce, Performance
@@ -7,12 +7,16 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00Z
+last-substantial-update: 2025-07-25T00:00:00.000Z
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 167
 ht-degree: 0%
 
 ---
@@ -25,17 +29,17 @@ Aprenda a crear la primera instancia de Adobe Commerce Optimizer de principio a 
 
 * Arquitecto de soluciones Commerce
 * Ingenieros técnicos de marketing
-* Administradores de eCommerce Platform
+* eCommerce Platform Administrators
 
 ## Contenido de vídeo
 
 * Configure su primera instancia de Adobe Commerce Optimizer paso a paso.
-* Elija el entorno y la región adecuados para su instancia.
-* Implemente y prepare rápidamente la configuración del catálogo en futuros tutoriales.
+* Choose the right environment and region for your instance.
+* Quickly deploy and prepare for catalog setup in future tutorials.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469881?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
-## Contenido relacionado
+## Related Content
 
-* [[!DNL Adobe Commerce Optimizer] Guía](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
-* [Información general de Adobe Commerce Optimizer](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Información general de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

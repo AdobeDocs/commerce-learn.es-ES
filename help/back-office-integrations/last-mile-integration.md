@@ -13,9 +13,14 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: 359
 ht-degree: 0%
 
 ---
@@ -36,15 +41,15 @@ Obtenga información acerca de la importancia de las actividades posteriores al 
 ## Público
 
 * Desarrolladores que deseen conocer la estructura y la funcionalidad de los vínculos de extensibilidad y cómo estos pueden mejorar la conectividad con sistemas de terceros.
-* Desarrolladores que deseen conocer los casos de uso típicos y las prácticas recomendadas asociadas con cada vínculo de extensibilidad, como validación, transformación, preprocesamiento, envío y posprocesamiento, para facilitar un flujo de datos fluido, la sincronización del sistema y el mantenimiento eficiente de la configuración de la integración.
+* Los desarrolladores que deseen conocer los casos de uso típicos y las prácticas recomendadas asociadas con cada vínculo de extensibilidad, como validación, transformación, preprocesamiento, envío y posprocesamiento, para facilitar un flujo de datos fluido, la sincronización del sistema y el mantenimiento eficaz de la configuración de la integración. &#x200B;
 
 ## Contenido de vídeo
 
 * Obtenga información acerca de la estructura de las acciones invocadas en la integración de última milla.
-* Comprenda los casos de uso habituales dentro del vínculo de validación, incluida la validación de datos entrantes con esquemas y la omisión de eventos específicos en función de determinados criterios.
+* Comprenda los casos de uso típicos dentro del vínculo de validación, incluida la validación de datos entrantes con esquemas y la omisión de eventos específicos basados en determinados criterios. &#x200B;
 * Conozca el papel del gancho de transformación en la transformación de objetos de datos entre los sistemas de origen y destino.
 * Obtenga información acerca de la importancia del vínculo de envío para facilitar los datos reales que se envían al sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451922?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
