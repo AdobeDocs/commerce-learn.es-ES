@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: e25c2abc470e1f3cb97b153d335482f8a004c644
+source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '915'
 ht-degree: 3%
 
 ---
@@ -67,37 +67,37 @@ ht-degree: 3%
    + Migración a Adobe Commerce{#migrating-to-adobe-commerce}
       + [Información general](../migrating-to-adobe-commerce/overview.md)
       + Preparación{#preparation}
-         + [Evaluar el equipo y el proyecto](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-      + Personalizaciones{#customizations}
-         + [Estándares de código en proceso](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+         + [Evaluate the team and project](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + Customizations{#customizations}
+         + [In-Process code standards](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
-         + [Congelación de código](../migrating-to-adobe-commerce/qa/code-freeze.md)
+         + [Code Freeze](../migrating-to-adobe-commerce/qa/code-freeze.md)
 
-   + Funcionalidades de Commerce {#capabilities}
-      + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
-      + [Conexión de datos](../capabilities/data-connection.md)
-      + [Demostración completa de Live Search](../capabilities/live-search-full-demonstration.md)
+   + Commerce Capabilities {#capabilities}
+      + [Available commerce options](../capabilities/adobes-available-commerce-options.md)
+      + [Data Connection](../capabilities/data-connection.md)
+      + [Live Search full demonstration](../capabilities/live-search-full-demonstration.md)
       + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
-      + [Herramienta Parche de calidad](../capabilities/quality-patch-tool.md)
-   + Crear productos {#create-products}
-      + [Producto simple](../site-management/create-simple-product.md)
-      + [Producto virtual](../site-management/create-virtual-product.md)
-      + [Producto descargable](../site-management/create-downloadable-product.md)
-      + [Producto agrupado](../site-management/create-grouped-product.md)
-      + [Producto configurable](../site-management/create-configurable-product.md)
-      + [Paquete de productos](../site-management/create-bundle-product.md)
-      + [Producto de tarjeta regalo](../site-management/create-gift-card-product.md)
-   + Kit de inicio de integración de back office {#back-office-integration-starter-kit}
-      + [Demostración del Starter Kit](../back-office-integrations/starter-kit-demo.md)
-      + [Integraciones](../back-office-integrations/integrations.md)
-      + [Organización de código Source](../back-office-integrations/source-code-organization.md)
-      + [Integración de última milla](../back-office-integrations/last-mile-integration.md)
-      + [Ingesta de webhook](../back-office-integrations/webhook-ingestion.md)
+      + [Quality Patch tool](../capabilities/quality-patch-tool.md)
+   + Create Products {#create-products}
+      + [Simple product](../site-management/create-simple-product.md)
+      + [Virtual product](../site-management/create-virtual-product.md)
+      + [Downloadable product](../site-management/create-downloadable-product.md)
+      + [Grouped product](../site-management/create-grouped-product.md)
+      + [Configurable product](../site-management/create-configurable-product.md)
+      + [Bundle product](../site-management/create-bundle-product.md)
+      + [Gift Card product](../site-management/create-gift-card-product.md)
+   + Back office integration starter kit {#back-office-integration-starter-kit}
+      + [Starter kit demonstration](../back-office-integrations/starter-kit-demo.md)
+      + [Integrations](../back-office-integrations/integrations.md)
+      + [Source Code Organization](../back-office-integrations/source-code-organization.md)
+      + [Last mile integration](../back-office-integrations/last-mile-integration.md)
+      + [Webhook ingestion](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de reintento](../back-office-integrations/retry-mechanism.md)
 
 + Extensibilidad {#extensibility}
    + Desarrollo back-end {#backend-development}
-      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creación de un módulo](../backend-development/create-module.md)
       + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
       + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -148,6 +148,7 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [Instalación de aplicaciones desde Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
+      + [Crear un POC de pagos divididos: Herramientas de App Builder e IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
       + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Crear tarifas de envío personalizadas con las herramientas de IA {#custom-shipping-rates-ai-tools}
          + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
@@ -170,59 +171,59 @@ ht-degree: 3%
          + [Instalación de Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
          + [Instalación de Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
          + [Crear un proyecto de App Builder](../io-events/create-app-builder-project.md)
-         + [Configuración de Adobe Commerce](../io-events/configure-commerce.md)
-         + [Desarrollo de módulo Adobe Commerce](../io-events/commerce-module-development.md)
-         + [Eventos condicionales de Adobe Commerce](../io-events/conditional-events.md)
+         + [Configure Adobe Commerce](../io-events/configure-commerce.md)
+         + [Adobe Commerce module development](../io-events/commerce-module-development.md)
+         + [Adobe Commerce conditional events](../io-events/conditional-events.md)
    + API Mesh {#api-mesh}
-      + [Kit de inicio de malla de API con GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
-      + [Flujos de trabajo del Starter Kit API Mesh](../api-mesh/starter-kit-workflows.md)
-      + [Introducción a API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Instalación del complemento de Adobe IO y mesh](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Uso de proyectos y espacios de trabajo](../api-mesh/aio-projects-workspaces.md)
-      + [Crear una malla de API de GraphQL de origen único](../api-mesh/graphql-single-source.md)
-      + [Crear una malla de API de GraphQL de varios orígenes](../api-mesh/graphql-multiple-source.md)
+      + [API Mesh starter kit using GitHub Codespaces](../api-mesh/starter-kit-github-codespaces.md)
+      + [API Mesh starter kit workflows](../api-mesh/starter-kit-workflows.md)
+      + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
+      + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
+      + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
-+ Observabilidad {#observability}
-   + [Resumen de observabilidad](../observability/overview.md)
-   + [Telemetría abierta](../observability/open-telemetry.md)
-   + [Configuración y configuración de la demostración](../observability/demo-setup-configuration.md)
-   + [Demostración](../observability/demo.md)
-+ Arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
++ Observability {#observability}
+   + [Observability overview](../observability/overview.md)
+   + [Open Telemetry](../observability/open-telemetry.md)
+   + [Demo setup and configuration](../observability/demo-setup-configuration.md)
+   + [Demo](../observability/demo.md)
++ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
    + [Información general](../global-reference-architecture/overview.md)
-   + [Dividir Git](../global-reference-architecture/split-git.md)
-   + [Paquetes masivos](../global-reference-architecture/bulk-packages.md)
-   + [Separar paquetes](../global-reference-architecture/separate-packages.md)
+   + [Split Git](../global-reference-architecture/split-git.md)
+   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+   + [Separate packages](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Ayuda y asistencia {#help-and-support}
-   + [Creación de una solicitud de asistencia](../help-and-support/create-a-support-ticket.md)
-   + [Buscar, rastrear, comentar y enviar ticket de asistencia](../help-and-support/search-track-comment-escalate-support-ticket.md)
-   + [Agregar y eliminar observadores, cerrar y volver a abrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Help and support {#help-and-support}
+   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Administración de tienda {#admin}
-   + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
-   + [Autenticación de doble factor](../site-management/two-factor-authentication.md)
-   + [Administrar reglas fiscales y de divisa](../site-management/currency-tax-rules.md)
-   + [Agregar sitios web, tiendas y vistas de tiendas](../site-management/add-websites-stores-views.md)
-   + [Cambiar una URL de tienda](../site-management/change-store-url.md)
-   + [Restablecer el URI de administrador](../site-management/reset-admin-uri.md)
-   + [Métodos de envío y entrega](../site-management/shipping-delivery.md)
-   + [Cuadrículas de administración y filtros](../site-management/admin-grids-and-filters.md)
++ Store Administration {#admin}
+   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
+   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
+   + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
+   + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
+   + [Change a Store URL](../site-management/change-store-url.md)
+   + [Reset the admin URI](../site-management/reset-admin-uri.md)
+   + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
+   + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-   + Servicios de Adobe Commerce {#adobe-commerce-services}
-      + [Configuración del conector de servicios de Commerce](../site-management/configure-adobe-commerce-services-connector.md)
-      + [Configurar servicios de pago](../site-management/configure-adobe-payment-services.md)
-      + [Usar servicios de pago](../site-management/payment-services.md)
-+ Administración de clientes {#customers}
-   + [Creación de segmentos de cliente](../site-management/customer-segments.md)
-   + [Crear grupos de clientes](../site-management/customer-groups.md)
-   + [Crear atributos del cliente](../site-management/customer-attributes.md)
-   + [Compras asistidas por el vendedor](../site-management/seller-assisted-shopping.md)
-+ Administración de catálogos {#catalog}
-   + [Crear una categoría](../site-management/category-create.md)
-   + [Administrar productos en una categoría](../site-management/category-products.md)
-   + [Inventory management](../site-management/inventory-management.md)
-   + [Crear atributos del producto](../site-management/product-attributes-create.md)
-   + [Uso de los Atributos del producto con PWA Studio](../site-management/product-attributes-pwa.md)
+   + Adobe Commerce Services {#adobe-commerce-services}
+      + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
+      + [Use Payment Services](../site-management/payment-services.md)
++ Customer Management {#customers}
+   + [Create Customer Segments](../site-management/customer-segments.md)
+   + [Create Customer Groups](../site-management/customer-groups.md)
+   + [Create Customer Attributes](../site-management/customer-attributes.md)
+   + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
++ Catalog Management {#catalog}
+   + [Create a Category](../site-management/category-create.md)
+   + [Manage Products in a Category](../site-management/category-products.md)
+   + [Inventory Management](../site-management/inventory-management.md)
+   + [Create Product Attributes](../site-management/product-attributes-create.md)
+   + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
    + [Administración de metadatos SEO](../site-management/seo-metadata.md)
    + [Administración de reescrituras de URL para SEO](../site-management/seo-url-rewrites.md)
    + [Visor de AR](../site-management/augmented-reality.md)
