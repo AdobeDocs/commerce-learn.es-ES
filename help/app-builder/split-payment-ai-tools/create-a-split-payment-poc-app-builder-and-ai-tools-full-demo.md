@@ -1,6 +1,6 @@
 ---
-title: 'Crear un POC de pago dividido: demostración completa de App Builder'
-description: Descubra cómo funcionan el pago dividido, REST, App Builder I/O y la aceptación/rechazo del operador en esta demostración de Luma, además de un total de pedido previo configurable que puede bloquear el carro de compras.
+title: 'Create a split payment POC: App Builder full demo'
+description: Learn how split payment, REST, App Builder I/O, and operator accept/decline work in this Luma demo, plus a configurable pre-order total that can block the cart.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -8,40 +8,40 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
-# Crear un POC de pago dividido: demostración completa de App Builder
+# Create a split payment POC: App Builder full demo
 
-Este es el tutorial completo de la prueba de concepto de pago dividido creada en Adobe Commerce y Adobe App Builder. La demostración supone que ya ha utilizado herramientas de IA y un indicador para producir la extensión de Commerce en proceso y la aplicación de App Builder; este vídeo muestra lo que sucede después de que se combine el código, se implemente en Commerce en la nube (Luma) y el proyecto de App Builder esté activo.
+This is the end-to-end walkthrough of the split payment proof of concept built on Adobe Commerce and Adobe App Builder. The demo assumes you have already used AI tools and a prompt to produce the in-process Commerce extension and the App Builder app; this video shows what happens after that code is merged, deployed to an Adobe Commerce Cloud website using the native Luma theme, and the App Builder project is live.
 
-Un comprador paga con parte en efectivo y parte **[!UICONTROL Store Credit]**. Commerce posee un cierre de compra sincrónico y las API que necesita la tienda; App Builder gestiona la orquestación, los flujos de trabajo del operador y los consumidores de eventos de E/S. La implementación de referencia utiliza un proyecto de Commerce (PaaS) y el proceso de cierre de compra nativo de Luma, en lugar de una tienda de Edge Delivery Services, que sigue siendo una ruta común para muchos comerciantes. Si usa **Adobe Commerce as a Cloud Service** en una topología diferente, el código de App Builder sigue siendo similar, pero el trabajo de tienda y en proceso tendría un aspecto diferente. Para las aplicaciones locales, autoalojadas y Commerce en la nube en Luma, este vídeo muestra una división práctica entre el código en proceso y App Builder para la nueva funcionalidad.
+A shopper pays with part cash and part **[!UICONTROL Store Credit]**. Commerce owns synchronous checkout and the APIs the storefront needs; App Builder handles orchestration, operator workflows, and I/O event consumers. The reference implementation uses a Commerce (PaaS) project and the Luma native checkout rather than an Edge Delivery Services storefront, which is still a common path for many merchants. If you use **Adobe Commerce as a Cloud service** in a different topology, the App Builder code stays similar but storefront and in-process work would look different. For on-premises, self-hosted, and Commerce in the cloud on Luma, this video shows a practical split between in-process code and App Builder for new functionality.
 
 ## Vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
-## ¿Para quién es este vídeo?
+## Who is this video for?
 
-* Arquitectos técnicos que planifican la extensibilidad de Commerce
-* Desarrolladores que implementan checkout e integraciones
-* Equipos de implementación que necesitan una división realista entre PHP y App Builder
+* Technical architects planning Commerce extensibility
+* Developers implementing checkout and integrations
+* Implementation teams who need a realistic split between PHP and App Builder
 
-## Configurar el escenario en la tienda
+## Set up the scenario on the storefront
 
-La cuenta de demostración tiene **[!UICONTROL Store Credit]** y usted ve ese saldo en el cierre de compra. Añada productos hasta que el total del pedido sea de unos 80 $. Ese tamaño le da espacio para mostrar tanto el camino de aceptación exitoso como un camino de declinación, similar a una caída de cartas, sin que las matemáticas se opongan a usted.
+The demo account has **[!UICONTROL Store Credit]** and you see that balance in checkout. Add products until the order total is about $80. That size gives you room to show both the successful accept path and a decline path, similar to a card decline, without the math fighting you.
 
-**[!UICONTROL Split payment]** solo se ofrece a los clientes que iniciaron sesión, ya que la sesión debe exponer el crédito de la tienda. El cierre de compra de invitado no muestra la opción de división.
+**[!UICONTROL Split payment]** is only offered to signed-in customers, because the session must expose store credit. Guest checkout does not show the split option.
 
-1. En el paso **[!UICONTROL Payment]**, elige el método de cobro (la demostración cambia el nombre de **[!UICONTROL Cash on delivery]** a **Solo cobro**).
-1. Aparecerá un área de pago dividido debajo del método de pago. El campo de efectivo está rellenado previamente en el total del pedido y el componente lee **[!UICONTROL Store Credit]** de la sesión.
-1. Para un carro de compras de ~$80, establezca **$50** efectivo y **$30** crédito de la tienda para que el componente muestre $50 + $30 = $80.
-1. Cuando las cantidades sean válidas, realice el pedido.
+1. On the **[!UICONTROL Payment]** step, choose the cash method (the demo renames **[!UICONTROL Cash on delivery]** to **Just Cash**).
+1. A split payment area appears under the payment method. The cash field is prefilled to the order total, and the component reads **[!UICONTROL Store Credit]** from the session.
+1. For an ~$80 cart, set **$50** cash and **$30** store credit so the component shows $50 + $30 = $80.
+1. When the amounts are valid, place the order.
 
 La interfaz de usuario déclencheur una llamada a una nueva API de REST **[!UICONTROL Commerce]** para la división. La desprotección se mantiene sincrónica: Commerce aplica el crédito de la tienda, almacena líneas divididas en el pedido y emite un evento de E/S que App Builder consume más adelante. La página de éxito es inmediata para el cliente.
 
