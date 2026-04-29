@@ -2,15 +2,15 @@
 title: 'Crear un POC de pagos divididos: Herramientas de App Builder e IA'
 description: Obtenga información acerca de la prueba de concepto de pago dividido con App Builder y Commerce PaaS, incluidos los objetivos, la arquitectura y lo que cubre esta primera sesión.
 feature: App Builder, Paas, Payments
-topic: App Builder, Commerce, Development, Integrations
+topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 259
+duration: 260
 jira: KT-20791
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Este es el primero de un conjunto de tutoriales que le presentan el uso del desa
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3483936?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
 
 ## Detalles importantes
 
@@ -31,11 +31,13 @@ Este tutorial reduce la brecha entre lo que la mayoría de los equipos de Adobe 
 ### Lo que realmente va a construir
 
 Un sistema de pago dividido en el que los clientes pagan mediante una combinación de Pago contra reembolso y Crédito de tienda. Una vez realizado el pedido, un operador (o sistema ERP) confirma o rechaza el pago en efectivo a través de un panel independiente, sin necesidad de abrir Commerce Admin. Todo el flujo de trabajo de aceptación/rechazo se ejecuta en App Builder.
-La lección de arquitectura (esta es la enseñanza básica)
+
+#### La lección de arquitectura (enseñanza básica)
+
 El tutorial muestra un marco de decisión deliberado y repetible:
 
-Qué debe permanecer en PHP: cualquier cosa que se ejecute sincrónicamente en el ciclo de petición Commerce o que llame a las API internas de Commerce sin una superficie externa limpia
-Qué se mueve a App Builder: todo lo demás: procesamiento de eventos, flujo de trabajo del operador, integraciones externas y herramientas orientadas al operador
+* **Lo que debe permanecer en PHP:** cualquier cosa que se ejecute sincrónicamente en el ciclo de petición de Commerce o que llame a las API internas de Commerce sin una superficie externa limpia
+* **Lo que se mueve a App Builder:** todo lo demás: procesamiento de eventos, flujo de trabajo de operadores, integraciones externas y herramientas de orientación de operadores
 
 Esto no es &quot;mover todo a App Builder&quot;. Es un punto de partida práctico y honesto para los equipos que necesitan comenzar la transición sin una reescritura.
 
@@ -45,10 +47,10 @@ El método de petición de datos de IA es en realidad mejor que el código de ej
 
 ### Qué se incluye
 
-Código completo de la aplicación App Builder (coherente en todos los proyectos; utilícelo directamente o como referencia)
-Un conjunto completo de peticiones de datos de IA numeradas diseñadas para Cursor y Claude que cubren el módulo de Commerce, App Builder orchestrator, el tablero del operador, las pruebas y la ruta a la producción
-Un script de simulación para probar el flujo de aceptación/rechazo en un sitio de Commerce activo sin necesidad de un ERP real.
-Documentación de arquitectura que explica cada decisión
+* Código completo de la aplicación App Builder (coherente en todos los proyectos; utilícelo directamente o como referencia)
+* Un conjunto completo de peticiones de datos de IA numeradas diseñadas para Cursor y Claude que cubren el módulo de Commerce, App Builder orchestrator, el tablero del operador, las pruebas y la ruta a la producción
+* Un script de simulación para probar el flujo de aceptación/rechazo en un sitio de Commerce activo sin necesidad de un ERP real.
+* Documentación de arquitectura que explica cada decisión
 
 ### Para quién es esto
 
@@ -61,3 +63,5 @@ Adobe Commerce 2.4.5 o posterior, acceso a una organización de Adobe Developer 
 ### Pensamientos finales
 
 Esto debería considerarse un debate de nivel inicial sobre el desarrollo asistido por IA. Este tutorial es una demostración del uso de las herramientas de IA en un flujo de trabajo de desarrollo de Commerce, no solo un tutorial sobre pagos divididos.
+
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}

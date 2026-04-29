@@ -3,9 +3,9 @@ user-guide-title: Vídeos y tutoriales
 user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open Source con vídeos y tutoriales.
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
-source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
+source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Extensibilidad {#extensibility}
    + Desarrollo back-end {#backend-development}
-      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creación de un módulo](../backend-development/create-module.md)
       + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
       + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -152,6 +152,15 @@ ht-degree: 3%
       + Utilice las herramientas de IA para crear POC de pago dividido {#create-a-split-payment-poc}
          + [Crear un POC de pagos divididos: Herramientas de App Builder e IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [Crear un POC de pago dividido: demostración completa de App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+         + [POC de pagos divididos: decisiones de arquitectura y diseño](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
+         + [POC de pagos divididos: requisitos previos y configuración del entorno](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
+         + [POC de pagos divididos: referencia de variables de entorno](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
+         + [POC de pago dividido: petición de API del módulo Commerce](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
+         + [POC de pago dividido: petición de App Builder orchestrator AI](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
+         + [POC de pagos divididos: petición de API de la extensión de IU de Experience Cloud](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
+         + [POC de pago fraccionado: guía de prueba y verificación](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
+         + [POC de pagos divididos: pasos siguientes después de la prueba de concepto](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
+         + [Split payment POC: referencia rápida del tutorial para autores](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
       + Crear tarifas de envío personalizadas con las herramientas de IA {#custom-shipping-rates-ai-tools}
          + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Herramientas de IA y Starter Kit de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
@@ -188,33 +197,33 @@ ht-degree: 3%
 + Observabilidad {#observability}
    + [Resumen de observabilidad](../observability/overview.md)
    + [Telemetría abierta](../observability/open-telemetry.md)
-   + [Configuración y configuración de la demostración](../observability/demo-setup-configuration.md)
-   + [Demostración](../observability/demo.md)
-+ Arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
+   + [Demo setup and configuration](../observability/demo-setup-configuration.md)
+   + [Demo](../observability/demo.md)
++ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
    + [Información general](../global-reference-architecture/overview.md)
-   + [Dividir Git](../global-reference-architecture/split-git.md)
-   + [Paquetes masivos](../global-reference-architecture/bulk-packages.md)
-   + [Separar paquetes](../global-reference-architecture/separate-packages.md)
+   + [Split Git](../global-reference-architecture/split-git.md)
+   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+   + [Separate packages](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Ayuda y asistencia {#help-and-support}
-   + [Creación de una solicitud de asistencia](../help-and-support/create-a-support-ticket.md)
-   + [Buscar, rastrear, comentar y enviar ticket de asistencia](../help-and-support/search-track-comment-escalate-support-ticket.md)
-   + [Agregar y eliminar observadores, cerrar y volver a abrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Help and support {#help-and-support}
+   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Administración de tienda {#admin}
-   + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
-   + [Autenticación de doble factor](../site-management/two-factor-authentication.md)
-   + [Administrar reglas fiscales y de divisa](../site-management/currency-tax-rules.md)
-   + [Agregar sitios web, tiendas y vistas de tiendas](../site-management/add-websites-stores-views.md)
-   + [Cambiar una URL de tienda](../site-management/change-store-url.md)
-   + [Restablecer el URI de administrador](../site-management/reset-admin-uri.md)
-   + [Métodos de envío y entrega](../site-management/shipping-delivery.md)
-   + [Cuadrículas de administración y filtros](../site-management/admin-grids-and-filters.md)
++ Store Administration {#admin}
+   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
+   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
+   + [Manage Currency and Tax Rules](../site-management/currency-tax-rules.md)
+   + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
+   + [Change a Store URL](../site-management/change-store-url.md)
+   + [Reset the admin URI](../site-management/reset-admin-uri.md)
+   + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
+   + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-   + Servicios de Adobe Commerce {#adobe-commerce-services}
-      + [Configuración del conector de servicios de Commerce](../site-management/configure-adobe-commerce-services-connector.md)
-      + [Configurar servicios de pago](../site-management/configure-adobe-payment-services.md)
-      + [Usar servicios de pago](../site-management/payment-services.md)
+   + Adobe Commerce Services {#adobe-commerce-services}
+      + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
+      + [Use Payment Services](../site-management/payment-services.md)
 + Administración de clientes {#customers}
    + [Creación de segmentos de cliente](../site-management/customer-segments.md)
    + [Crear grupos de clientes](../site-management/customer-groups.md)
