@@ -27,7 +27,7 @@ Copie todo desde **INICIO DEL MENSAJE** hasta **Final del mensaje** en el cursor
 ## Antes de ejecutar
 
 * Finalizar [POC de pago dividido: requisitos previos y configuración del entorno](split-payment-poc-prerequisites-and-setup.md).
-* Tenga preparados su POC de pagos divididos [de: variables de entorno ](split-payment-poc-env-reference.md) y el archivo `.env` en el proyecto.
+* Tenga preparados su POC de pagos divididos [de: variables de entorno &#x200B;](split-payment-poc-env-reference.md) y el archivo `.env` en el proyecto.
 
 
 ## El indicador
