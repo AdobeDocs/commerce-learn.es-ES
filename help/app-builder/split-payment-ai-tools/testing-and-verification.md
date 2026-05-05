@@ -1,6 +1,6 @@
 ---
 title: 'POC de pago fraccionado: guía de prueba y verificación'
-description: 'Obtenga información sobre cómo verificar el POC de pagos divididos: instalación de Commerce, REST, cierre de compra, umbral, aceptación y rechazo de simulación, panel de demostración y registros de App Builder.'
+description: Aprenda a verificar el POC de pagos divididos. Instalación de Commerce, REST, cierre de compra, umbral, aceptación y rechazo de simulación, tablero de demostración y registros de App Builder.
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -230,33 +230,33 @@ Para `payment-accept` o `payment-decline`:
 
 **Causa:** La lista de campos de `io_events.xml` no incluye `entity_id` o la forma de carga útil de evento cambió.
 
-**Fix:**
-* Confirm `io_events.xml` includes `entity_id` in the field list
-* In the action, log `JSON.stringify(params)` temporarily to see the full payload shape
-* Check that the `extractValue()` function is finding the right nesting level
+**Corrección:**
+* Confirmar `io_events.xml` incluye `entity_id` en la lista de campos
+* En la acción, registre `JSON.stringify(params)` temporalmente para ver la forma de carga útil completa
+* Compruebe que la función `extractValue()` encuentre el nivel de anidamiento correcto
 
-### Orders don&#39;t show in demo dashboard
+### Los pedidos no se muestran en el panel de demostración
 
-**Cause:** Commerce REST `orders` search criteria not returning orders, or `split_cash_status` field not in the REST response.
+**Causa:** los criterios de búsqueda de Commerce REST `orders` no devuelven pedidos o el campo `split_cash_status` no está en la respuesta REST.
 
-**Fix:**
-* Confirm `OrderRepositoryPlugin` is loading extension attributes correctly
-* Test directly: `GET /rest/V1/orders?searchCriteria[pageSize]=5` and check if `extension_attributes.split_cash_status` appears in the response
-* Check that `extension_attributes.xml` is correctly declaring the `split_cash_status` attribute on `OrderInterface`
+**Corrección:**
+* Confirme que `OrderRepositoryPlugin` está cargando correctamente los atributos de la extensión
+* Probar directamente: `GET /rest/V1/orders?searchCriteria[pageSize]=5` y comprobar si `extension_attributes.split_cash_status` aparece en la respuesta
+* Compruebe que `extension_attributes.xml` declara correctamente el atributo `split_cash_status` en `OrderInterface`
 
 
-## Verification Checklist
+## Lista de comprobación de verificación
 
-* [ ] `split_*` columns visible in `sales_order` table
-* [ ] REST endpoints return 401 (not 404) when called without auth
-* [ ] Split payment UI renders at checkout when Cash is selected
-* [ ] Validation messages work (overpayment, insufficient credit)
-* [ ] Threshold guard blocks orders > $100
-* [ ] Placed order has `pending_payment` status and App Builder comments
-* [ ] `simulate-split-payment.mjs list` shows the test order with split amounts
-* [ ] `simulate-split-payment.mjs accept <id>` moves order to `processing` with invoice and shipment
-* [ ] `simulate-split-payment.mjs decline <id>` cancels the order
-* [ ] Demo dashboard lists pending orders and accept/decline work from the UI
+* [ ] `split_*` columnas visibles en la tabla `sales_order`
+* [ Los extremos REST de ] devuelven 401 (no 404) cuando se les llama sin autenticación
+* [ ] La interfaz de usuario de pago dividido se procesa al pagar cuando se selecciona Efectivo
+* [ ] Los mensajes de validación funcionan (sobrepago, crédito insuficiente)
+* [ ] La protección de umbral bloquea pedidos > $100
+* [ ] El pedido realizado tiene `pending_payment` estado y comentarios de App Builder
+* [ ] `simulate-split-payment.mjs list` muestra el orden de prueba con importes divididos
+* [ ] `simulate-split-payment.mjs accept <id>` mueve el pedido a `processing` con factura y envío
+* [ ] `simulate-split-payment.mjs decline <id>` cancela el pedido
+* [ ] El panel de demostración enumera las solicitudes pendientes y acepta/rechaza el trabajo de la interfaz de usuario
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

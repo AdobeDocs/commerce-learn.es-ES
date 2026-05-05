@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # POC de pagos divididos: petición de API de la extensión de IU de Experience Cloud
 
-Este es el paso opcional que incrusta un panel de órdenes de pago divididas en el shell de administración de **[!UICONTROL Adobe Commerce]** (Experience Cloud) mediante el patrón `commerce-checkout-starter-kit` y `commerce-backend-ui-1`. El [tablero de demostración](split-payment-poc-app-builder-orchestrator-prompt.md) independiente de App Builder Orchestrator cubre el mismo flujo de aceptación y rechazo sin integración con Admin Shell.
+Este es el paso opcional que incrusta un panel de órdenes de pago divididas en el shell de administración de **[!UICONTROL Adobe Commerce]** (Experience Cloud) mediante el patrón `commerce-checkout-starter-kit` y `commerce-backend-ui-1`. El [tablero de demostración](./orchestrator-prompt.md) independiente de App Builder Orchestrator cubre el mismo flujo de aceptación y rechazo sin integración con Admin Shell.
 
 ## Cómo utilizar este indicador
 
@@ -26,8 +26,8 @@ Copie todo desde **INICIO DEL MENSAJE** hasta **Final del mensaje** en el cursor
 
 ## Antes de ejecutar
 
-* Esta ruta necesita **credenciales de IMS** además de los valores de OAuth (consulte [POC de pago dividido: referencia de variables de entorno](split-payment-poc-env-reference.md) para las variables `commerce-checkout-starter-kit`).
-* Complete [Split payment POC: el aviso de IA de App Builder orchestrator](split-payment-poc-app-builder-orchestrator-prompt.md) primero si desea comparar el mismo comportamiento de `payment-accept` y `payment-decline`; la extensión de la interfaz de usuario vuelve a utilizar esa lógica con `COMMERCE_INTEGRATION_*` nombres env.
+* Esta ruta necesita **credenciales de IMS** además de los valores de OAuth (consulte [POC de pago dividido: referencia de variables de entorno](./env-reference.md) para las variables `commerce-checkout-starter-kit`).
+* Complete [Split payment POC: el aviso de IA de App Builder orchestrator](./orchestrator-prompt.md) primero si desea comparar el mismo comportamiento de `payment-accept` y `payment-decline`; la extensión de la interfaz de usuario vuelve a utilizar esa lógica con `COMMERCE_INTEGRATION_*` nombres env.
 
 
 ## El indicador
@@ -96,44 +96,44 @@ commerce-checkout-starter-kit/commerce-backend-ui-1/
 
 **`actions/commerce/index.js`** — REST de Commerce autenticado por IMS
 * Utiliza el token de IMS proporcionado por el contexto de SDK de la IU de administración para llamar a Commerce REST
-* Fetches order list with `split_cash_status` filter
-* Returns the order list as JSON
+* Obtiene la lista de pedidos con el filtro `split_cash_status`
+* Devuelve la lista de pedidos como JSON
 
-**`actions/payment-accept/commerce-client.js`** — OAuth 1.0a client
-* Same implementation as `split-payment-orchestrator/actions/payment-orchestrator/commerce-client.js`
-* Uses `COMMERCE_INTEGRATION_*` prefixed env vars (to distinguish from IMS credentials)
+**`actions/payment-accept/commerce-client.js`** — Cliente de OAuth 1.0a
+* Misma implementación que `split-payment-orchestrator/actions/payment-orchestrator/commerce-client.js`
+* Utiliza variables env con prefijo `COMMERCE_INTEGRATION_*` (para distinguir las credenciales de IMS)
 
-**`actions/payment-accept/index.js`** — Accept action
-* Same logic as `split-payment-orchestrator/actions/payment-accept/index.js`
-* Calls `POST /V1/split-payment/orders/:orderId/cash-received` via OAuth 1.0a
+**`actions/payment-accept/index.js`** — Aceptar acción
+* La misma lógica que `split-payment-orchestrator/actions/payment-accept/index.js`
+* Llamadas `POST /V1/split-payment/orders/:orderId/cash-received` a través de OAuth 1.0a
 
-**`actions/payment-decline/index.js`** — Decline action
-* Calls `POST /V1/split-payment/orders/:orderId/cash-decline`
+**`actions/payment-decline/index.js`** — Rechazar acción
+* Llamadas `POST /V1/split-payment/orders/:orderId/cash-decline`
 
-**`actions/registration/index.js`** — Admin UI SDK registration
-* Registers the extension with the Commerce Admin Shell
-* Adds a menu item under Orders for the split payment dashboard
+**`actions/registration/index.js`** — Registro de SDK en la IU de administración
+* Registra la extensión con el shell de administración de Commerce
+* Agrega un elemento de menú en Pedidos para el panel de pagos divididos
 
 
-### React Frontend Components
+### Componentes de front-end de React
 
 **`SplitPaymentDashboard.jsx`**
-* Lists pending split payment orders in a Spectrum-styled table
-* Columns: Order # (increment_id), Date, Customer, Cash Due, Store Credit, Status
-* Accept and Decline buttons per row
-* Calls backend actions via `web-src/src/utils.js` fetch helpers
-* Shows loading/error states; refreshes on action completion
+* Enumera las órdenes de pago dividido pendientes en una tabla de tipo espectro
+* Columnas: Número de pedido (increment_id), Fecha, Cliente, Vencimiento de efectivo, Crédito de tienda, Estado
+* Botones Aceptar y Rechazar por fila
+* Llamadas a acciones de back-end a través de `web-src/src/utils.js` ayudantes de recuperación
+* Muestra estados de carga/error; se actualiza al finalizar la acción
 
 **`SplitPaymentOrderDetail.jsx`**
-* Shows split payment detail for a single order
-* Displays: cash amount, store credit amount, current split_cash_status
+* Muestra los detalles de pago dividido de un único pedido
+* Muestra: importe de efectivo, importe de crédito de almacén, split_cash_status actual
 
-**`useSplitPaymentOrders.js`** — React hook
-* Fetches split payment orders from `actions/commerce/index.js`
-* Returns `{ orders, loading, error, refresh }`
+**`useSplitPaymentOrders.js`** — Reaccionar gancho
+* Recupera órdenes de pago divididas de `actions/commerce/index.js`
+* Devuelve `{ orders, loading, error, refresh }`
 
 
-### Simulation Script
+### Script de simulación
 
 **`scripts/simulate-split-payment.mjs`**
 

@@ -1,6 +1,6 @@
 ---
 title: 'POC de pagos divididos: pasos siguientes después de la prueba de concepto'
-description: 'Aprenda a mover el POC de pago dividido a la producción: IU de Experience Cloud, ganchos de ERP, malla de API, ámbito de PHP, flujos de trabajo de App Builder e implementación de una lista de comprobación.'
+description: Aprenda a mover el POC de pago dividido a la producción. IU de Experience Cloud, enlaces de ERP, malla de API, ámbito de PHP, flujos de trabajo de App Builder e implementación de listas de comprobación.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ El tablero de demostración y el script de simulación que ha creado en este tut
 
 La acción web `demo-dashboard` proporciona HTML desde una cadena dentro de una función Node.js. Funciona, pero no es el patrón de producción.
 
-El reemplazo adecuado es la extensión `commerce-backend-ui-1` en `commerce-checkout-starter-kit`, una aplicación de React incrustada en Commerce Admin Shell a través de Adobe Admin UI SDK. Ver [POC de pago dividido: petición de API de la extensión de la interfaz de usuario de Experience Cloud](split-payment-poc-experience-cloud-ui-prompt.md) para la petición de datos de generación.
+El reemplazo adecuado es la extensión `commerce-backend-ui-1` en `commerce-checkout-starter-kit`, una aplicación de React incrustada en Commerce Admin Shell a través de Adobe Admin UI SDK. Ver [POC de pago dividido: petición de API de la extensión de la interfaz de usuario de Experience Cloud](./experience-cloud-ui-prompt.md) para la petición de datos de generación.
 
 **Qué cambios:**
 * Los operadores inician sesión a través de Commerce Admin Shell (autenticación IMS en lugar de un secreto compartido)
@@ -72,7 +72,7 @@ Actualmente, App Builder llama a Commerce REST directamente con las credenciales
 
 ## Paso 4: Reducir la huella de PHP
 
-El módulo PHP actual maneja cinco cosas que deben permanecer en proceso (ver [POC de pagos divididos: decisiones de arquitectura y diseño](split-payment-poc-architecture-and-decisions.md)). A medida que la superficie de la API de Adobe Commerce madura, algunas de estas pueden volverse móviles:
+El módulo PHP actual maneja cinco cosas que deben permanecer en proceso (ver [POC de pagos divididos: decisiones de arquitectura y diseño](./architecture-and-decisions.md)). A medida que la superficie de la API de Adobe Commerce madura, algunas de estas pueden volverse móviles:
 
 **Posiblemente movible en el futuro:**
 * La API de REST de crédito de tienda está evolucionando: las versiones futuras pueden admitir la aplicación de crédito después del pedido o a carros de compras inactivos

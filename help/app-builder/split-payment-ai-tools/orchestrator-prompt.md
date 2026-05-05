@@ -1,6 +1,6 @@
 ---
 title: 'POC de pago dividido: petición de App Builder orchestrator AI'
-description: 'Aprenda a utilizar este símbolo del sistema para crear la aplicación de pago dividido de Orchestrator: eventos de I/O, Oracle Payment Orchestrator, acciones web, tablero de demostración e implementación de aplicación de aio.'
+description: Aprenda a utilizar este mensaje para crear la aplicación de pago dividido de Orchestrator. Eventos de I/O, Payment-Orchestrator, acciones web, tablero de demostración e implementación de aplicación de aio.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 421
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '927'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Copie todo desde **INICIO DEL MENSAJE** hasta **Final del mensaje** en el cursor
 
 ## Antes de ejecutar
 
-* Finalizar [POC de pago dividido: requisitos previos y configuración del entorno](split-payment-poc-prerequisites-and-setup.md).
-* Tenga preparados su POC de pagos divididos [de: variables de entorno &#x200B;](split-payment-poc-env-reference.md) y el archivo `.env` en el proyecto.
+* Finalizar [POC de pago dividido: requisitos previos y configuración del entorno](./prerequisites-and-setup.md).
+* Tenga preparados su POC de pagos divididos [de: variables de entorno &#x200B;](./env-reference.md) y el archivo `.env` en el proyecto.
 
 
 ## El indicador
@@ -290,7 +290,7 @@ El tablero es una cadena de HTML devuelta con `Content-Type: text/html`. Deberí
 **Error al mostrar en la IU:**
 Cuando falle una llamada de REST de Commerce, incluya el estado HTTP y una breve descripción del cuerpo del error de Commerce (sanear: eliminar las etiquetas de HTML, truncar a 500 caracteres). No exponga las credenciales.
 
-**Response helpers:**
+**Ayudantes de respuesta:**
 
 ```javascript
 function jsonResponse(statusCode, obj, extraHeaders = {}) { ... }
@@ -321,9 +321,9 @@ DEMO_UI_BASE_URL=
 ```
 
 
-### Deploy Command
+### Comando Deploy
 
-After generating all files, from the `split-payment-orchestrator/` directory:
+Después de generar todos los archivos, en el directorio `split-payment-orchestrator/`:
 
 ```bash
 npm install
@@ -332,10 +332,10 @@ cp .env.example .env
 aio app deploy
 ```
 
-After deployment, note the action URLs printed by `aio app deploy`. The `demo-dashboard` URL is where you access the operator dashboard.
+Después de la implementación, anote las direcciones URL de acción impresas por `aio app deploy`. La dirección URL `demo-dashboard` es donde se accede al panel del operador.
 
 
-### End of prompt
+### Final del mensaje
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

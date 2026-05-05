@@ -1,6 +1,6 @@
 ---
 title: 'POC de pago dividido: petición de API del módulo Commerce'
-description: 'Aprenda a utilizar este símbolo del sistema para generar Client_SplitPayment: REST, complementos, JavaScript de cierre de compra y eventos de E/S, así como para habilitar, compilar e implementar comandos.'
+description: Aprenda a utilizar este mensaje para generar Client_SplitPayment. REST, complementos, JavaScript de cierre de compra, eventos de E/S y comandos de activación, compilación e implementación.
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%
@@ -263,43 +263,43 @@ Permitir el pago contra reembolso al `SplitPaymentSession::getAmounts()['cash'] 
 #### &#x200B;16. `LayoutProcessorPlugin` — en `Checkout\Block\Checkout\LayoutProcessor`
 
 Una vez procesado el diseño:
-* Inject the `Client_SplitPayment/js/view/payment/split-payment` component into the `additional` children of the `cashondelivery` payment method component at `components.checkout.children.steps.children.billing-step.children.payment.children.renders.children.offline-payments.children.cashondelivery.children.additional`
-* Remove the native store credit UI component (`customerBalance`, `useStoreCredit`) from the payment step — the split payment component owns store credit display/application
+* Inyectar el componente `Client_SplitPayment/js/view/payment/split-payment` en los elementos secundarios `additional` del componente de método de pago `cashondelivery` en `components.checkout.children.steps.children.billing-step.children.payment.children.renders.children.offline-payments.children.cashondelivery.children.additional`
+* Quitar el componente de interfaz de usuario de crédito de tienda nativa (`customerBalance`, `useStoreCredit`) del paso de pago: el componente de pago dividido posee la visualización o la aplicación de crédito de tienda
 
-#### 17. `OrderRepositoryPlugin` — on `OrderRepositoryInterface`
+#### &#x200B;17. `OrderRepositoryPlugin` — en `OrderRepositoryInterface`
 
-After `get()` and `getList()`, hydrate the order&#39;s extension attributes from the flat `sales_order` columns (`split_store_credit_amount`, `split_cash_amount`, `split_cash_status`).
+Después de `get()` y `getList()`, hidrate los atributos de extensión del pedido desde las columnas planas `sales_order` (`split_store_credit_amount`, `split_cash_amount`, `split_cash_status`).
 
-#### 18. `AdminSplitPaymentTitlePlugin` — on `Payment\Block\Info`
+#### &#x200B;18. `AdminSplitPaymentTitlePlugin` — en `Payment\Block\Info`
 
-After `getTitle()` returns, if the payment method is `cashondelivery` and the order has a split payment, append `" (Split: Cash $X.XX + Store Credit $Y.YY)"` to the title.
+Después de que `getTitle()` regrese, si el método de pago es `cashondelivery` y el pedido tiene un pago dividido, anexe `" (Split: Cash $X.XX + Store Credit $Y.YY)"` al título.
 
-#### 19. `OrderPaymentPlugin` — on `Sales\Block\Adminhtml\Order\Payment`
+#### &#x200B;19. `OrderPaymentPlugin` — el `Sales\Block\Adminhtml\Order\Payment`
 
-In `_beforeToHtml` or via afterToHtml, append split payment detail (cash amount, store credit amount, status) to the payment block HTML in the Commerce Admin order view.
+En `_beforeToHtml` o a través de afterToHtml, anexe detalles de pago dividido (importe en efectivo, importe de crédito de almacenamiento, estado) al HTML de bloque de pago en la vista de pedido del administrador de Commerce.
 
-#### 20. Storefront Store Credit Balance Controller
+#### &#x200B;20. Controlador de saldo de crédito de Storefront Store
 
-`Controller/Checkout/StoreCreditBalance.php` — route: `GET /splitpayment/checkout/storecreditbalance`
+`Controller/Checkout/StoreCreditBalance.php` — ruta: `GET /splitpayment/checkout/storecreditbalance`
 
-Returns JSON: `{"balance": float, "logged_in": bool}`. If customer is not logged in, returns `{"balance": 0, "logged_in": false}`. Reads balance from `Magento\CustomerBalance\Model\Balance`.
+Devuelve JSON: `{"balance": float, "logged_in": bool}`. Si el cliente no ha iniciado sesión, devuelve `{"balance": 0, "logged_in": false}`. Lee el saldo de `Magento\CustomerBalance\Model\Balance`.
 
-Register the frontend route in `etc/frontend/routes.xml` with `frontName="splitpayment"`.
+Registre la ruta de front-end en `etc/frontend/routes.xml` con `frontName="splitpayment"`.
 
-#### 21. Checkout KnockoutJS Component — `split-payment.js`
+#### &#x200B;21. Componente KnockoutJS de cierre de compra — `split-payment.js`
 
-A `uiComponent` that:
-* Detects when the `cashondelivery` payment method is selected (`quote.paymentMethod.subscribe`)
-* Loads the customer&#39;s store credit balance via `GET /splitpayment/checkout/storecreditbalance`
-* Pre-fills the cash amount field with the full order total (calculated from `total_segments` excluding `grand_total` and `customerbalance` — never uses `grand_total` directly since it may be set to the cash remainder)
-* As the customer changes the cash amount input: computes store credit needed = order total − cash; validates; posts to `POST /V1/split-payment/set`
-* Shows validation messages for: cash > order total, insufficient store credit, not logged in
-* Shows a success message when a valid split is entered: `"The remaining $X.XX will automatically be applied from your store credit."`
-* Resets when another payment method is selected (posts `{storeCreditAmount: 0, cashAmount: 0}` to clear session)
+Un `uiComponent` que:
+* Detecta cuándo se selecciona el método de pago `cashondelivery` (`quote.paymentMethod.subscribe`)
+* Carga el saldo de crédito de tienda del cliente mediante `GET /splitpayment/checkout/storecreditbalance`
+* Rellena previamente el campo Importe en efectivo con el total del pedido completo (calculado a partir de `total_segments`, excluyendo `grand_total` y `customerbalance` — nunca utiliza `grand_total` directamente, ya que se puede establecer en el resto en efectivo)
+* A medida que el cliente cambia la entrada del importe en efectivo: calcula el crédito de tienda necesario = total del pedido − efectivo; valida; registra en `POST /V1/split-payment/set`
+* Muestra mensajes de validación para: efectivo > total del pedido, crédito de almacén insuficiente, sin sesión iniciada
+* Muestra un mensaje de confirmación cuando se escribe una división válida: `"The remaining $X.XX will automatically be applied from your store credit."`
+* Se restablece cuando se selecciona otra forma de pago (publica `{storeCreditAmount: 0, cashAmount: 0}` para borrar la sesión)
 
 #### 22. `cashondelivery-method.js`
 
-Extends `Magento_OfflinePayments/js/view/payment/offline-payments`. Uses `payment-method-helper.js` to detect the cash method code. Registra el componente `split-payment` en su región `additional`.
+Extiende `Magento_OfflinePayments/js/view/payment/offline-payments`. Utiliza `payment-method-helper.js` para detectar el código de método de cobro. Registra el componente `split-payment` en su región `additional`.
 
 #### 23. `payment-method-helper.js`
 
