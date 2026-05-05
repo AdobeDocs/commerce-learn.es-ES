@@ -21,7 +21,7 @@ Este es el primero de un conjunto de tutoriales que le presentan el uso del desa
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483936?captions=spa&learn=on)
 
 ## Detalles importantes
 
