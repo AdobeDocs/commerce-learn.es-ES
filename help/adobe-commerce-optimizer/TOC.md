@@ -2,10 +2,10 @@
 user-guide-title: Vídeos y tutoriales de Adobe Commerce Optimizer
 user-guide-description: Obtenga información sobre Adobe Commerce Optimizer a través de vídeos y tutoriales.
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: 57aa5e9ed4a83c66eeb7f3226c3c30dc92f82ab1
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '74'
+ht-degree: 5%
 
 ---
 
@@ -23,3 +23,6 @@ ht-degree: 6%
    + [Instalación del cartucho de SFCC](./sfcc-starter-kit/installation-sfcc-cartridge.md)
    + [Kit de inicio del creador de aplicaciones](./sfcc-starter-kit/app-builder-starter-kit.md)
    + [Demostración de extremo a extremo](./sfcc-starter-kit/end-to-end-demo.md)
++ Modelo de datos de catálogo maquetable {#composable-catalog-data-model}
+   + [Por qué existe CCDM](./composable-catalog-data-model/why-ccdm-exists.md)
+   + [Más información sobre las Vistas de catálogo](./composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
