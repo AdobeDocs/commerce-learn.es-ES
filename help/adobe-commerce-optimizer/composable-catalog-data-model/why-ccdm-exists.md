@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Los equipos comerciales modernos suelen vender en **marcas**, **regiones**, **co
 * Cómo las vistas de catálogo actúan como la &quot;lente&quot; entre un catálogo base compartido y una tienda o audiencia específica
 * Cómo consumen esas vistas las API de servicios de comercialización, de modo que las experiencias sin encabezado permanecen alineadas con el catálogo configurado
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491288?captions=spa&learn=on)
 
 ## El desafío de los catálogos en silo
 

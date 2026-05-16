@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Las vistas de catálogo son la forma en que se sirve a cada audiencia de forma d
 * Cómo utiliza una tienda una vista de catálogo para filtrar productos y precios (por ejemplo, Celport)
 * ID únicos de vista de catálogo y el valor comercial de una única fuente fiable
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491265?captions=spa&learn=on)
 
 ## Escenario: Carvelo Automobiles
 
