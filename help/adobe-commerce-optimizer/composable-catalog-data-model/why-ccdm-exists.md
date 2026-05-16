@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -53,14 +53,14 @@ Esta separación (**de dónde provienen los datos** (origen del catálogo) frent
 
 ## Vistas de catálogo como vista de tienda
 
-Como se describe en [Vistas del catálogo para servicios de comercialización](https://experienceleague.adobe.com/es/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, una vista del catálogo se comporta como una **vista**: los compradores solo ven los productos, los precios y las reglas que la vista permite, mientras que el **catálogo base** sigue siendo el sistema de registro compartido. Ese modelo se vincula directamente con **Servicios de comercialización**, de manera que los clientes de API pasan la vista correcta (y los encabezados relacionados) y reciben una respuesta coherente basada en directivas para cada experiencia.
+Como se describe en [Vistas del catálogo para servicios de comercialización](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, una vista del catálogo se comporta como una **vista**: los compradores solo ven los productos, los precios y las reglas que la vista permite, mientras que el **catálogo base** sigue siendo el sistema de registro compartido. Ese modelo se vincula directamente con **Servicios de comercialización**, de manera que los clientes de API pasan la vista correcta (y los encabezados relacionados) y reciben una respuesta coherente basada en directivas para cada experiencia.
 
 Para ver un tutorial más detallado sobre cómo esas piezas se ajustan a un flujo de extremo a extremo, consulte el tutorial para desarrolladores [Crear un catálogo maquetable para tu tienda](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}.
 
 ## Contenido relacionado
 
 * [Más información sobre las Vistas de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vistas del catálogo de servicios de comercialización](https://experienceleague.adobe.com/es/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Vistas del catálogo de servicios de comercialización](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Crea un catálogo maquetable para tu tienda](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case/){target="_blank"}
-* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
+* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Introducción a la API de comercialización](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
