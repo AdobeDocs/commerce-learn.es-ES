@@ -31,7 +31,7 @@ Las vistas de catálogo son la forma en que se sirve a cada audiencia de forma d
 * Cómo utiliza una tienda una vista de catálogo para filtrar productos y precios (por ejemplo, Celport)
 * ID únicos de vista de catálogo y el valor comercial de una única fuente fiable
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491265?captions=spa&learn=on)
 
 ## Escenario: Carvelo Automobiles
 
