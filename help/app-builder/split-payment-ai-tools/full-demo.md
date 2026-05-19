@@ -24,7 +24,7 @@ Un comprador paga con parte en efectivo y parte **[!UICONTROL Store Credit]**. C
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3484102?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
 ## ¿Para quién es este vídeo?
 
