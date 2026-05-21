@@ -94,6 +94,6 @@ Las directivas son filtros ligeros en un **catálogo compartido**, no reglas que
 
 * [Por qué existe el modelo de datos de catálogo maquetable](./why-ccdm-exists.md)
 * [Más información sobre las Vistas de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vistas del catálogo de servicios de comercialización](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Vistas del catálogo de servicios de comercialización](https://experienceleague.adobe.com/es/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
 * [Introducción a la API de comercialización](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
