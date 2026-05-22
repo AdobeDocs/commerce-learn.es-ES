@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,7 @@ Si una **vista de catálogo** es la lente que da forma a lo que los compradores 
 * Directivas de déclencheur activadas por los encabezados de solicitud de API (por ejemplo, `AC-Policy-Brand`)
 * Actualización de directivas en operaciones diarias sin regeneración de catálogos
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## Escenario: Carvelo Automobiles y Celport
-
-**Carvelo Automobiles** es una compañía ficticia de autopartes que se usa en demostraciones de Adobe Commerce. Carvelo vende piezas de tres marcas: **Aurora**, **Bolt** y **Cruz**, a través de concesionarios como **Celport**.
-
-En la [vista del catálogo Celport](./learn-about-the-ccdm-feature-catalog-views.md), dos directivas funcionan juntas:
-
-1. **Filtro de marca** — solo permite las marcas **Bolt** y **Cruz**. Los productos de Aurora no pasan este filtro.
-2. **Filtro de categoría**: restringe los productos visibles sólo a **frenos** y **suspensión**.
-
-Un producto debe cumplir **todas las directivas activas** para ser visible. Todo lo demás se filtra.
-
-Las directivas evalúan atributos de productos como **marca**, **modelo de vehículo** o **categoría de artículo**, y definen qué productos se permiten en esa vista de catálogo.
-
-## ¿Qué es una directiva?
+>[!VIDEO](https://video.tv.adobe.com/v/3491427?captions=spa&learn=on)
 
 Una **directiva** es un **filtro de acceso a datos**. Inspecciona los atributos del producto y aplica reglas que determinan qué productos puede exponer una vista del catálogo. Las directivas se sitúan sobre el catálogo maquetable compartido, no duplican los datos del catálogo.
 
