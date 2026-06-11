@@ -37,4 +37,4 @@ La búsqueda tradicional de palabras clave coincide con palabras exactas, pero l
 
 ## Recursos adicionales
 
-[Información general de [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[Información general de [!DNL Live Search]](https://experienceleague.adobe.com/es/docs/commerce/live-search/overview){target="_blank"}
