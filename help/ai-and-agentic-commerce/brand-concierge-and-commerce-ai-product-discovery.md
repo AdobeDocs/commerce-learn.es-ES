@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Descubrimiento de productos de IA de Brand Concierge y Commerce
 
-[!BADGE Beta]{type=Informative tooltip="Esta función se encuentra actualmente en versión beta y está sujeta a cambios."}
+[!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
 
 Incluso los catálogos de productos más ricos tienen solo una visibilidad parcial de los modelos de lenguaje grande (LLM). Los atributos enriquecidos como las variantes de producto, el tipo de molienda, las notas de sabor y el empaquetado suelen ocultarse detrás de paneles y ventanas emergentes contraíbles que los rastreadores de IA no pueden leer. El agente de catálogo de Brand Concierge identifica automáticamente estas lagunas de visibilidad y las resuelve, sin cambiar la tienda orientada al comprador.
 

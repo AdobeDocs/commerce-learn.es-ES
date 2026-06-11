@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21575
 duration: 225
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Desarrollo agéntico
 
-[!BADGE Beta]{type=Informative tooltip="Esta función se encuentra actualmente en versión beta y está sujeta a cambios."}
+[!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
 
 Tradicionalmente, para crear personalizaciones de comercio se han necesitado varios equipos, herramientas y días de esfuerzo que se extienden por el análisis, el diseño, el desarrollo y la implementación. El desarrollo agéntico en Adobe Commerce colapsa eso en un único bucle inteligente. Un agente de IA comprende el sistema existente, no solo lo que hace el código, sino lo que debe hacer, genera un modelo, escribe código listo para la producción, lo valida a medida que se genera y organiza la implementación sin traspasos ni pérdida de contexto.
 
