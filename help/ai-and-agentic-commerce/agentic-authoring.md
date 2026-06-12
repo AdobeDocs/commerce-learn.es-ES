@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: cac02a33a2fcbfb83989178b6b2b41f364da1d43
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
 
-Experience Workspace es el entorno de creación auténtico integrado en la tienda de Adobe Commerce. Proporciona a los especialistas en marketing y a los desarrolladores una superficie unificada (estructura de archivos, contenido de página, metadatos y vista previa en directo) en un solo lugar. Su asistente de creación de IA se ejecuta en MCP. Se conecta directamente al catálogo de productos y al contenido de la marca para que pueda describir lo que desea crear y ver cómo aparece, sin cambiar de pestaña, copiar y pegar ni rellenar tickets.
+Experience Workspace es el entorno de creación auténtico que ofrece a los especialistas en marketing y a los desarrolladores una superficie unificada (estructura de archivos, contenido de página, metadatos y vista previa en directo) en un solo lugar. Su asistente de creación de IA se ejecuta en MCP. Se conecta directamente al catálogo de productos y al contenido de la marca para que pueda describir lo que desea crear y ver cómo aparece, sin cambiar de pestaña, copiar y pegar ni rellenar tickets.
 
 ## ¿Para quién es este vídeo?
 
@@ -34,7 +34,7 @@ Experience Workspace es el entorno de creación auténtico integrado en la tiend
 * Peticiones de datos en lenguaje natural para consultar el catálogo y generar páginas de campaña completas
 * Edición en el nivel de bloque y previsualización de procesamiento perimetral en directo antes de publicar
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492299?captions=spa)
 
 <!-- ## Additional resources -->
 
