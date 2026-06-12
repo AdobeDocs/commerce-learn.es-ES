@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
 
-Incluso los catálogos de productos más ricos tienen solo una visibilidad parcial de los modelos de lenguaje grande (LLM). Los atributos enriquecidos como las variantes de producto, el tipo de molienda, las notas de sabor y el empaquetado suelen ocultarse detrás de paneles y ventanas emergentes contraíbles que los rastreadores de IA no pueden leer. El agente de catálogo de Brand Concierge identifica automáticamente estas lagunas de visibilidad y las resuelve, sin cambiar la tienda orientada al comprador.
+Incluso los catálogos de productos más ricos tienen solo una visibilidad parcial de los modelos de lenguaje grande (LLM). Los atributos enriquecidos como las variantes de producto, el tipo de molienda, las notas de sabor y el empaquetado suelen ocultarse detrás de paneles y ventanas emergentes contraíbles que los rastreadores de IA no pueden leer. El agente de catálogo comercial identifica automáticamente estas lagunas de visibilidad y las resuelve, sin cambiar la tienda orientada al comprador.
 
 ## ¿Para quién es este vídeo?
 
@@ -38,4 +38,4 @@ Incluso los catálogos de productos más ricos tienen solo una visibilidad parci
 
 ## Recursos adicionales
 
-[Documentación de [!DNL Brand Concierge]](https://experienceleague.adobe.com/es/docs/brand-concierge/content/home){target="_blank"}
+[Documentación de [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
