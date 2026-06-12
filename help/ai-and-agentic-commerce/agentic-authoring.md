@@ -34,7 +34,7 @@ Experience Workspace es el entorno de creación auténtico que ofrece a los espe
 * Peticiones de datos en lenguaje natural para consultar el catálogo y generar páginas de campaña completas
 * Edición en el nivel de bloque y previsualización de procesamiento perimetral en directo antes de publicar
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492299?captions=spa)
 
 <!-- ## Additional resources -->
 
