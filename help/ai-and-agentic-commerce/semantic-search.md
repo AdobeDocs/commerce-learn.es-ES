@@ -33,7 +33,7 @@ La búsqueda tradicional de palabras clave coincide con palabras exactas, pero l
 * Indexación automática de catálogos que transforma los datos del producto en señales semánticas.
 * Aumento de resultados, umbrales de similitud y configuración de búsqueda parcial
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492308?captions=spa)
 
 ## Recursos adicionales
 

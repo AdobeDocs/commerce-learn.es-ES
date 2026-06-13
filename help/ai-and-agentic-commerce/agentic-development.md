@@ -34,7 +34,7 @@ Tradicionalmente, para crear personalizaciones de comercio se han necesitado var
 * Validación y optimización simultáneas en toda la vista del sistema
 * Flujo de implementación continua sin transferencia ni pérdida de contexto
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492290?captions=spa)
 
 <!-- ## Additional resources -->
 
