@@ -32,7 +32,7 @@ Si una **vista de catálogo** es la lente que da forma a lo que los compradores 
 * Directivas de déclencheur activadas por los encabezados de solicitud de API (por ejemplo, `AC-Policy-Brand`)
 * Actualización de directivas en operaciones diarias sin regeneración de catálogos
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491427?captions=spa&learn=on)
 
 Una **directiva** es un **filtro de acceso a datos**. Inspecciona los atributos del producto y aplica reglas que determinan qué productos puede exponer una vista del catálogo. Las directivas se sitúan sobre el catálogo maquetable compartido, no duplican los datos del catálogo.
 

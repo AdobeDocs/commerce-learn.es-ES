@@ -31,7 +31,7 @@ Los equipos comerciales modernos suelen vender en **marcas**, **regiones**, **co
 * Cómo las vistas de catálogo actúan como la &quot;lente&quot; entre un catálogo base compartido y una tienda o audiencia específica
 * Cómo consumen esas vistas las API de servicios de comercialización, de modo que las experiencias sin encabezado permanecen alineadas con el catálogo configurado
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491288?captions=spa&learn=on)
 
 ## El desafío de los catálogos en silo
 
