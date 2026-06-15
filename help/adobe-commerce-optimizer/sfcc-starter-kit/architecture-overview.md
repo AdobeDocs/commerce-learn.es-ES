@@ -1,6 +1,6 @@
 ---
-title: Información general de arquitectura para el conector Commerce Cloud de Salesforce
-description: Obtenga información acerca de la arquitectura de Salesforce Commerce Cloud con Adobe Commerce Optimizer.
+title: Arquitectura del conector de Salesforce Commerce Cloud
+description: Descubra cómo el Starter Kit Salesforce Commerce Cloud Connector utiliza acciones de tiempo de ejecución de App Builder y exportaciones delta para sincronizar catálogos con Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ Obtenga información acerca de la arquitectura y la funcionalidad del Starter Ki
 * Los cartuchos y las API personalizados de SFC detectan cambios de catálogo a través de exportaciones delta, lo que permite una sincronización de datos eficaz con Adobe App Builder.
 * Las acciones de tiempo de ejecución de App Builder administran las sincronizaciones completas y delta, la validación y el seguimiento de estado para garantizar actualizaciones precisas y sin conflictos en Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476054?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)

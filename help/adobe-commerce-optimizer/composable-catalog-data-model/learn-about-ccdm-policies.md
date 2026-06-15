@@ -1,17 +1,17 @@
 ---
 title: Obtenga información acerca de las directivas de CCDM en el modelo de datos de catálogo maquetable
-description: Obtenga información sobre cómo las directivas del modelo de datos de catálogo componible de Adobe filtran los productos con reglas ESTÁTICAS y encabezados de DÉCLENCHEUR en cada vista de catálogo.
+description: Aprenda cómo las políticas ESTÁTICAS y de DÉCLENCHEUR del modelo de datos de catálogo componible de Adobe controlan la visibilidad del producto en las vistas de catálogo sin reconstruir el catálogo.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Si una **vista de catálogo** es la lente que da forma a lo que los compradores 
 * Directivas de déclencheur activadas por los encabezados de solicitud de API (por ejemplo, `AC-Policy-Brand`)
 * Actualización de directivas en operaciones diarias sin regeneración de catálogos
 
->[!VIDEO](https://video.tv.adobe.com/v/3491427?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Una **directiva** es un **filtro de acceso a datos**. Inspecciona los atributos del producto y aplica reglas que determinan qué productos puede exponer una vista del catálogo. Las directivas se sitúan sobre el catálogo maquetable compartido, no duplican los datos del catálogo.
 
@@ -79,6 +79,6 @@ Las directivas son filtros ligeros en un **catálogo compartido**, no reglas que
 
 * [Por qué existe el modelo de datos de catálogo maquetable](./why-ccdm-exists.md)
 * [Más información sobre las Vistas de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vistas del catálogo de servicios de comercialización](https://experienceleague.adobe.com/es/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
-* [Introducción a la API de comercialización](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Vistas del catálogo de servicios de comercialización](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Introducción a la API de comercialización](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
