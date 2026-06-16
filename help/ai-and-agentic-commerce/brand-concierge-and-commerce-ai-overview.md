@@ -34,7 +34,7 @@ Brand Concierge integrado con Adobe Commerce convierte las conversaciones en con
 * Cierre de compra completado en la conversación, sin salir
 * Directrices contextuales posteriores a la compra específicas del producto comprado
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492317?captions=spa)
 
 ## Recursos adicionales
 
