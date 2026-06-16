@@ -1,20 +1,20 @@
 ---
-title: Descubrimiento de productos de IA de Brand Concierge y Commerce
-description: Descubra cómo Brand Concierge utiliza un agente de catálogo para cerrar las lagunas de visibilidad de la IA, lo que enriquece los datos de productos de Commerce para que los LLM puedan descubrir y recomendar sus productos.
+title: Descubrimiento del producto de Commerce AI
+description: Descubra cómo el agente de catálogo de Commerce cierra las brechas de visibilidad de la IA, enriqueciendo los datos de productos de Commerce para que los LLM puedan descubrir y recomendar sus productos.
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Descubrimiento de productos de IA de Brand Concierge y Commerce
+# Descubrimiento del producto de Commerce AI
 
 [!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
 
@@ -35,8 +35,4 @@ Incluso los catálogos de productos más ricos tienen solo una visibilidad parci
 * Validación de mejoras mediante el Comprobador de Visibilidades del contenido de IA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492326?captions=spa)
-
-## Recursos adicionales
-
-[Documentación de [!DNL Brand Concierge]](https://experienceleague.adobe.com/es/docs/brand-concierge/content/home){target="_blank"}
 
