@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -34,8 +34,9 @@ Incluso los catálogos de productos más ricos tienen solo una visibilidad parci
 * Enriquecimiento del catálogo que genera nombres y descripciones de productos optimizados para IA
 * Validación de mejoras mediante el Comprobador de Visibilidades del contenido de IA
 
->[!VIDEO](https://video.tv.adobe.com/v/3492326?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 
 ## Recursos adicionales
 
-[Documentación de [!DNL Brand Concierge]](https://experienceleague.adobe.com/es/docs/brand-concierge/content/home){target="_blank"}
+[Documentación de [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+
