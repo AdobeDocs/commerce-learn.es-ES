@@ -3,13 +3,13 @@ title: 'POC de pagos divididos: referencia rápida del tutorial'
 description: Obtenga información acerca del mapa de archivos POC de pagos divididos. La página de Experience League que coincide con cada petición de datos de IA, orden de sección sugerido y notas del autor para la comprobación de Luma.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** sección &quot;Generar la aplicación de App Builder&quot;. Acompañante del mensaje del módulo de Commerce.
 
 
-### [POC de pago dividido: petición de API de la extensión Experience Cloud UI](./experience-cloud-ui-prompt.md)
+### [POC de pago dividido: solicitud de API de la extensión de IU de Experience Cloud](./experience-cloud-ui-prompt.md)
 
 
 **Propósito:** petición de datos de IA para generar la extensión opcional SDK de la IU de administración de Experience Cloud.
@@ -165,7 +165,7 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 
 **Propósito:** hoja de ruta para convertir el PoC en patrones listos para la producción.
 
-**Por qué es necesario:** Un tutorial de PoC corre el riesgo de dejar a los desarrolladores con un &quot;¿qué pasa ahora?&quot; sensación. Este documento asigna las progresiones naturales desde la demostración a la producción: reemplazando el panel de demostración con una extensión de Experience Cloud, conectando un ERP real, añadiendo API Mesh, expandiendo el flujo de trabajo de App Builder y la lista de comprobación de implementación de producción.
+**Por qué es necesario:** Un tutorial de PoC corre el riesgo de dejar a los desarrolladores con un &quot;¿qué pasa ahora?&quot; sensación. Este documento asigna las progresiones naturales desde la demostración a la producción: reemplazar el panel de demostración con una extensión de Experience Cloud, conectar un ERP real, añadir la malla de API, expandir el flujo de trabajo de App Builder y la lista de comprobación de implementación de producción.
 
 **Contenido de clave:**
 
@@ -192,7 +192,7 @@ En función de estos archivos, una estructura típica para los lectores es:
 | Paso 1: Generación del módulo de Commerce | [POC de pago dividido: petición de API del módulo Commerce](./commerce-module-prompt.md) |
 | Paso 2: Creación de App Builder Orchestrator | [POC de pago dividido: petición de App Builder orchestrator AI](./orchestrator-prompt.md) |
 | Paso 3: Prueba del flujo de extremo a extremo | [POC de pago dividido: guía de prueba y verificación](./testing-and-verification.md) |
-| Paso 4 (opcional): Extensión de la IU de administración | [POC de pago dividido: petición de API de la extensión Experience Cloud UI](./experience-cloud-ui-prompt.md) |
+| Paso 4 (opcional): Extensión de la IU de administración | [POC de pago dividido: solicitud de API de la extensión de IU de Experience Cloud](./experience-cloud-ui-prompt.md) |
 | Pasos siguientes y ruta de producción | [POC de pago dividido: pasos siguientes después de la prueba de concepto](./next-steps.md) |
 
 

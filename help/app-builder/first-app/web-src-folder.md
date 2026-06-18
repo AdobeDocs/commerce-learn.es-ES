@@ -1,7 +1,7 @@
 ---
-title: The web-src folder
-description: Learn about the types of files in the web-src folder and the nested files and folders for this sample application.
-jira: KT-12425
+title: La carpeta web-src
+description: Obtenga información sobre la estructura de carpetas web-src, sus archivos JavaScript y carpetas anidadas, y cómo esta carpeta admite la interfaz de usuario en la aplicación de ejemplo de App Builder.
+jira: KT-21683
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,39 +11,34 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 TQID: https://experienceleague.adobe.com/SavAwkQQnKIE64PlRHPKPU9RBT37dWsLm8W7FXYm9Mc
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 179
 ht-degree: 0%
 
 ---
 
-# Discover the purpose of the web-src folder {#web-src-folder}
+# Descubra el propósito de la carpeta web-src {#web-src-folder}
 
-The web-src folder for this sample app contains many JavaScript files and folders. This folder is used for applications that have a user interface. Not all applications use this feature. For example, a Commerce integration with an external inventory management system may not require a frontend interface and code.
+La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y carpetas de JavaScript. Esta carpeta se utiliza para aplicaciones que tienen una interfaz de usuario. No todas las aplicaciones utilizan esta característica. Por ejemplo, una integración de Commerce con un sistema de administración de inventario externo no requiere una interfaz de front-end y código.
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who are learning about the `web-src` folder and its contents.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que están aprendiendo acerca de la carpeta `web-src` y su contenido.
 
-## Video content
+## Contenido de vídeo
 
-* What is the main purpose for the `web-src` folder?
-* Typically included files and folders
-* How the `web-src` folder and the contents inside are used in the sample application
+* ¿Cuál es el propósito principal de la carpeta `web-src`?
+* Archivos y carpetas incluidos normalmente
+* Uso de la carpeta `web-src` y del contenido de la aplicación de ejemplo
 
->[!VIDEO](https://video.tv.adobe.com/v/3421038?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
-## Code samples
+## Muestras de código
 
 web-src/src/components/Orders.js
 
@@ -137,7 +132,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-In the example below, the code sample is `not` limiting the request. To avoid a 400 error, reduce the size of the response by using `searchCriteria`.
+En el ejemplo siguiente, el ejemplo de código es `not` que limita la solicitud. Para evitar un error 400, reduzca el tamaño de la respuesta usando `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

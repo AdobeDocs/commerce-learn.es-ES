@@ -3,13 +3,13 @@ title: 'POC de pagos divididos: requisitos previos y configuración del entorno'
 description: Obtenga información sobre cómo configurar Commerce, Admin para COD y crédito de tienda, integración de OAuth, eventos de I/O, App Builder y CLI de aio antes de que la compilación de pago dividido solicite.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
