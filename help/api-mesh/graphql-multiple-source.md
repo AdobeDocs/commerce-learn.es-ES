@@ -1,14 +1,14 @@
 ---
 title: Crear un GraphQL de varias fuentes para utilizarlo en la malla de API
 description: Descubra cómo usar varias fuentes para API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Obtenga información sobre algunos errores comunes y cómo resolverlos.
-jira: KT-11804
+jira: KT-21677
 doc-type: Tutorial
-duration: 409
+duration: 381
 last-substantial-update: 2023-02-08T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 TQID: https://experienceleague.adobe.com/O6ONn4NzMP-VqN0nsCoD-OPkZGMBelLWB-KNP1fZqmA
 product_v2:
@@ -22,16 +22,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: 198
 ht-degree: 0%
 
 ---
 
 # Creación de una malla con varias fuentes
 
-Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con varias fuentes en API Mesh para Adobe Developer App Builder. Este vídeo muestra cómo crear una malla con varias fuentes e identificar errores. Para obtener más detalles y ejemplos de código, visite [Crear una malla](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con varias fuentes en API Mesh para Adobe Developer App Builder. Este vídeo muestra cómo crear una malla con varias fuentes e identificar errores. Para obtener más detalles y ejemplos de código, visite [Crear una malla](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -40,15 +40,15 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con v
 
 ## Contenido de vídeo
 
-* Cómo usar [transforms](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar el esquema de origen predeterminado
+* Cómo usar [transforms](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/transforms/){target="_blank"} para modificar el esquema de origen predeterminado
 * Solucionar errores, como conflictos de nombres, disponibilidad de esquemas y otros problemas de sintaxis de esquemas
 * Actualización de la malla con una configuración modificada
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419786?captions=spa&learn=on)
 
-## Cree el archivo de configuración json.
+## Cree el archivo de configuración JSON.
 
-API Mesh utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene una matriz `sources` que contiene los orígenes de la malla. Este es un ejemplo de una malla con varias fuentes.
+API Mesh utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene una matriz `sources` que contiene los orígenes de la malla. A continuación se muestra un ejemplo de una malla con varias fuentes.
 
 ```json
 {

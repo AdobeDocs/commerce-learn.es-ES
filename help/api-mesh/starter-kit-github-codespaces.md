@@ -1,6 +1,6 @@
 ---
 title: Kit de inicio de malla de API con GitHub Codespaces
-description: Empiece a usar Adobe Commerce API Mesh con un Starter Kit basado en GitHub, no se requiere configuración local.
+description: Obtenga información sobre cómo empezar a usar Adobe Commerce API Mesh mediante un Starter Kit de GitHub Codespaces, sin necesidad de configurar el entorno local.
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
@@ -19,16 +19,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: 188
 ht-degree: 0%
 
 ---
 
 # Kit de inicio de malla de API con GitHub Codespaces
 
-Esta sesión presenta el kit de inicio de malla de API de Adobe Commerce, diseñado para ayudar a los desarrolladores a explorar rápidamente la malla de API mediante GitHub Codespaces sin configuración local. Se explica la configuración de un repositorio, la configuración de puntos de conexión y el uso de herramientas integradas como GraphQL Yoga para pruebas.
+Esta sesión presenta el Starter Kit Adobe Commerce API Mesh. Está diseñado para ayudar a los desarrolladores a explorar rápidamente la malla de API mediante GitHub Codespaces sin configuración local. Se explica la configuración de un repositorio, la configuración de puntos de conexión y el uso de herramientas integradas como GraphQL Yoga para pruebas.
 
 ## ¿Para quién es este vídeo?
 
