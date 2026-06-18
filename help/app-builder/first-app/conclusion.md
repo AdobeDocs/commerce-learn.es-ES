@@ -39,7 +39,7 @@ Después de crear la primera aplicación de Adobe Developer App Builder, obtenga
 * Métodos de conexión con otros desarrolladores
 * Comentarios de cierre
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421072?captions=spa&learn=on)
 
 ## Recursos adicionales de App Builder
 
