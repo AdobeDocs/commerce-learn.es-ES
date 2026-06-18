@@ -1,25 +1,25 @@
 ---
 title: Creación de una malla de fuente única de GraphQL en API Mesh
-description: Descubra cómo usar API Mesh en Adobe Commerce y  [!DNL Adobe App Builder]. Aprenda a crear una malla que tenga una fuente.
+description: Aprenda a utilizar API Mesh en Adobe Commerce y Adobe App Builder. Descubra cómo crear una malla con una sola fuente de GraphQL y acceder al nuevo punto de conexión.
 jira: KT-11804
 doc-type: Tutorial
-duration: 510
+duration: 485
 last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
 # Creación de una malla con un solo origen
 
-Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con una sola fuente en API Mesh para Adobe Developer App Builder. Para que este ejemplo básico funcione según lo esperado, necesita un punto final de GraphQL o API accesible públicamente. En el vídeo también se explica cómo crear un archivo `mesh.json` simple para utilizarlo con la instancia de Commerce. Para obtener más detalles y ejemplos de código, visite [Crear una malla](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con una sola fuente en API Mesh para Adobe Developer App Builder. Para que este ejemplo básico funcione, necesita un punto final de GraphQL o API accesible públicamente. En el vídeo también se explica cómo crear un archivo `mesh.json` simple para utilizarlo con la instancia de Commerce. Para obtener más detalles y ejemplos de código, visite [Crear una malla](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -33,11 +33,11 @@ Este vídeo ayuda a los desarrolladores a comprender cómo crear una malla con u
 * Creación de una malla a partir de un archivo de configuración JSON
 * Acceder al punto de conexión de GraphQL recién creado
 
->[!VIDEO](https://video.tv.adobe.com/v/3419718?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
-## Cree el archivo de configuración json.
+## Cree el archivo de configuración JSON.
 
-API Mesh utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene una matriz `sources` que contiene los orígenes de la malla. Este es un ejemplo de una malla con una sola fuente.
+API Mesh utiliza un archivo de configuración JSON para definir los controladores de origen. El archivo JSON contiene una matriz `sources` que contiene los orígenes de la malla. El siguiente es un ejemplo de una malla con una sola fuente.
 
 ```json
 {
