@@ -1,14 +1,14 @@
 ---
-title: Manage Company Credit
-description: Learn how to B2B company account users can make purchases on their account up to the credit limit that is granted.
-doc-type: Feature Video
+title: Administrar crédito de la compañía
+description: Conozca cómo los usuarios de cuentas de empresa B2B pueden comprar a cuenta hasta un límite de crédito y cómo los administradores pueden configurar la moneda de crédito, los límites y la configuración de aprobación.
+doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 TQID: https://experienceleague.adobe.com/XJ1zsz-XBkOoy6C3lWC-hRiXPX4Q3fe4AvMptfwhC0E
 product_v2:
@@ -25,37 +25,37 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
-# Manage Company Credit
+# Administrar crédito de la compañía
 
-For companies that have _[!UICONTROL Payment on Account]_&#x200B;enabled and have company credit available, they can make purchases on their account up to the credit limit that is granted. With this feature, customers can check the status of their company credit from their account dashboard.
+Las empresas que tienen _[!UICONTROL Payment on Account]_&#x200B;habilitado y tienen crédito de empresa disponible pueden realizar compras en su cuenta hasta el límite de crédito concedido. Con esta función, los clientes pueden comprobar el estado del crédito de su compañía desde su panel de cuentas.
 
-You can set the following credit-related parameters for each company profile:
+Puede establecer los siguientes parámetros relacionados con el crédito para cada perfil de compañía:
 
-* Credit Currency
-* Credit Limit
-* Allow to Exceed Credit Limit
-* Reason for Change
+* Divisa de crédito
+* Límite de crédito
+* Permitir que se supere el límite de crédito
+* Motivo del cambio
 
 {{b2b-feature}}
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
-* Website managers
-* Sales representatives
-* Customer service representatives
+* Administradores de sitios web
+* Representantes de ventas
+* Representantes de servicio al cliente
 
-## Video content
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410758?captions=spa&learn=on)
 
-## Additional resources
+## Recursos adicionales
 
-* [Configure payment on account](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=es#configure-payment-on-account)
-* [Manage Company Credit](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=es)
+* [Configuración del pago a cuenta](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Administrar crédito de la compañía](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/credit-company)

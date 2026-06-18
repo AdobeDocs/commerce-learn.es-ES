@@ -1,14 +1,14 @@
 ---
 title: Administrar cuentas de empresa
-description: Obtenga información sobre cómo administrar las cuentas de empresa B2B, incluidas las solicitudes de aprobación pendientes.
-doc-type: Feature Video
+description: 'Obtenga información sobre cómo administrar las cuentas de empresa B2B en Adobe Commerce: revise las aprobaciones pendientes, filtre la lista de cuentas, ajuste los diseños de columna y exporte datos.'
+doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 TQID: https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg
 product_v2:
@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 124
 ht-degree: 0%
 
 ---
@@ -52,5 +52,5 @@ Para los comerciantes B2B, la página _[!UICONTROL Companies]_&#x200B;enumera to
 
 ## Recursos adicionales
 
-* [Cuentas de empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=es){target="_blank"}
-* [Administrar cuentas de empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=es){target="_blank"}
+* [Cuentas de empresa](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Administrar cuentas de empresa](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

@@ -1,14 +1,14 @@
 ---
-title: Using Adobe Commerce to show line item notes for a quote
-description: Learn about line item notes on a B2B quote in Adobe Commerce
-doc-type: Feature Video
-duration: 227
+title: Uso de Adobe Commerce para mostrar las notas de los artículos de línea de una oferta
+description: Obtenga información sobre cómo añadir y ver notas de artículos de línea en una oferta B2B en Adobe Commerce, lo que permite a compradores y vendedores compartir detalles de nivel de artículo durante el proceso de cotización.
+doc-type: Technical Video
+duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
 TQID: https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA
 product_v2:
@@ -23,26 +23,26 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 55
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
-# B2B Sales quote line item discount
+# Descuento de artículo de línea de presupuesto de ventas B2B
 
-Learn how to use the line item notes for an Adobe Commerce B2B quote.
+Aprenda a utilizar las notas de elementos de línea para una cotización B2B de Adobe Commerce.
 
 {{b2b-feature}}
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
-* Website managers
-* eCommerce merchandisers
-* Developers
+* Administradores de sitios web
+* Comerciantes de comercio electrónico
+* Desarrolladores
 
-## Video content
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423697?captions=spa&learn=on)
 

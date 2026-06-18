@@ -1,14 +1,14 @@
 ---
 title: Administrar catálogos compartidos
-description: Aprenda a utilizar catálogos compartidos B2B para mantener catálogos cerrados con precios personalizados para diferentes empresas.
+description: Aprenda a utilizar catálogos compartidos B2B en Adobe Commerce para mantener catálogos de productos cerrados con estructuras de precios personalizadas para diferentes cuentas de compañía.
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 TQID: https://experienceleague.adobe.com/Fk8p57LTFTqSPxjVCPsxvubqnmr0wCUCINIsK8xqmW0
 product_v2:
@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: 164
 ht-degree: 0%
 
 ---
@@ -53,5 +53,5 @@ Si la función Catálogo compartido está activada en la configuración, el cat�
 
 ## Recursos adicionales
 
-* [Uso de catálogos compartidos](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=es){target="_blank"}
-* [Crear un catálogo compartido](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=es){target="_blank"}
+* [Uso de catálogos compartidos](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [Crear un catálogo compartido](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
