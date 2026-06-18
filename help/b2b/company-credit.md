@@ -57,5 +57,5 @@ Puede establecer los siguientes parámetros relacionados con el crédito para ca
 
 ## Recursos adicionales
 
-* [Configuración del pago a cuenta](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Administrar crédito de la compañía](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
+* [Configuración del pago a cuenta](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Administrar crédito de la compañía](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/credit-company)

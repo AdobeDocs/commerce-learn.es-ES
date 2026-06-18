@@ -59,5 +59,5 @@ Con los permisos necesarios para su función, los clientes B2B pueden configurar
 
 ## Recursos adicionales
 
-* [Pedidos de compra para empresas](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
-* [Reglas de aprobación de pedidos](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
+* [Pedidos de compra para empresas](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [Reglas de aprobación de pedidos](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
