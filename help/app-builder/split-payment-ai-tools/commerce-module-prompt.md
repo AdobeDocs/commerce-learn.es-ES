@@ -1,15 +1,15 @@
 ---
-title: 'POC de pago dividido: petición de API del módulo Commerce'
+title: 'POC de pagos divididos: petición de API del módulo Commerce'
 description: Aprenda a utilizar este mensaje para generar Client_SplitPayment. REST, complementos, JavaScript de cierre de compra, eventos de E/S y comandos de activación, compilación e implementación.
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%

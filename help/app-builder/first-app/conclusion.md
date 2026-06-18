@@ -1,7 +1,7 @@
 ---
 title: Conclusión
-description: Descubra adónde ir para obtener más información sobre App Builder.
-jira: KT-12428
+description: Obtenga información sobre recursos, documentación y opciones de la comunidad adicionales de Adobe Developer App Builder después de completar su primera aplicación de App Builder con Adobe Commerce.
+jira: KT-21686
 doc-type: Tutorial
 duration: 100
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,16 +18,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: 130
 ht-degree: 0%
 
 ---
 
 # Conclusión {#conclusion}
 
-Ahora que ha creado su primera aplicación de Adobe Developer App Builder, obtenga información acerca de otros recursos que proporciona Adobe.
+Después de crear la primera aplicación de Adobe Developer App Builder, obtenga información sobre los demás recursos que proporciona Adobe.
 
 ## ¿Para quién es este vídeo?
 
@@ -45,8 +45,7 @@ Ahora que ha creado su primera aplicación de Adobe Developer App Builder, obten
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Prueba de Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Documentos de Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Foros de Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=es){target="_blank"}
-* [Directrices de contribución de Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Documentos de Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/intro_and_overview){target="_blank"}
+* [Directrices de contribución de Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/guides/contribution_guide){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

@@ -1,7 +1,7 @@
 ---
 title: El archivo .env
-description: Obtenga información sobre los tipos de archivos del archivo .env para esta aplicación de ejemplo
-jira: KT-12423
+description: Obtenga información sobre cómo generar y configurar el archivo .env para la aplicación de Adobe Developer App Builder, incluida la administración de secretos y la prevención de confirmaciones accidentales en el control de código fuente.
+jira: KT-21681
 doc-type: Tutorial
 duration: 177
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -22,9 +22,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 147
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 * Introducción al archivo .env y su propósito
 * Cómo generar el archivo .env
-* Cómo anexar el archivo para agregar nuevos secretos
+* Para agregar nuevos secretos, anexe el archivo
 * Evite confirmar este archivo porque contiene información confidencial
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421066?captions=spa&learn=on)

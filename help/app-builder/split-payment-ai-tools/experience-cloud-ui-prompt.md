@@ -1,15 +1,15 @@
 ---
 title: 'POC de pagos divididos: petición de API de la extensión de IU de Experience Cloud'
-description: 'Aprenda a utilizar este mensaje opcional para incrustar el pago dividido en Commerce Admin: SDK de la IU de administración, IMS, OAuth, aceptar y rechazar, y el script de simulación.'
+description: 'Aprenda a utilizar este mensaje opcional para incrustar el pago dividido en Commerce Admin: IU de administración de SDK, IMS, OAuth, aceptar y rechazar y el script de simulación.'
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

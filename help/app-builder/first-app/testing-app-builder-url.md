@@ -1,7 +1,7 @@
 ---
-title: Testing using the Adobe Developer App Builder URL
-description: Learn how to test your first Adobe Developer App Builder app from the provided App Builder URL for your project.
-jira: KT-12427
+title: Pruebas con la URL de Adobe Developer App Builder
+description: Obtenga información sobre cómo implementar y probar la primera aplicación de Adobe Developer App Builder mediante la dirección URL del proyecto, incluido dónde encontrar la dirección URL después de una implementación correcta.
+jira: KT-21684
 doc-type: Tutorial
 duration: 78
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,25 +18,25 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: 100
 ht-degree: 0%
 
 ---
 
-# Testing Using App Builder URL {#testing-app-builder-url}
+# Pruebas mediante la URL de App Builder {#testing-app-builder-url}
 
-Learn how to test your new Adobe Developer App Builder application using the URL from your project.
+Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder con la dirección URL del proyecto.
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who are ready to test their first Adobe Developer App Builder app.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que están listos para probar su primera aplicación de Adobe Developer App Builder.
 
-## Video content
+## Contenido de vídeo
 
-* How to deploy the application
-* Where to find the URL after deployment
+* Cómo implementar la aplicación
+* Dónde encontrar la URL después de la implementación
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421044?captions=spa&learn=on)
 

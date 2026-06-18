@@ -1,7 +1,7 @@
 ---
-title: The test folder
-description: Obtenga información sobre los tipos de archivos de la carpeta de prueba de esta aplicación de ejemplo.
-jira: KT-12424
+title: La carpeta de prueba
+description: Obtenga información acerca del archivo de prueba unitaria de JavaScript en la carpeta de prueba de App Builder y cómo se puede expandir para realizar pruebas completas de la aplicación de muestra de Adobe Commerce.
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,9 +18,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 122
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 La carpeta `test` de esta aplicación de ejemplo contiene un solo archivo JavaScript, que se utiliza al ejecutar pruebas unitarias en la aplicación.
 
-Este es un ejemplo sencillo que se puede ampliar para crear pruebas completas para las aplicaciones específicas.
+Este punto de partida se puede ampliar para crear pruebas completas para las aplicaciones específicas.
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que utilizan Adobe App Builder y que deseen obtener más información sobre la carpeta `test`.
+* Desarrolladores nuevos en Adobe Commerce con experiencia limitada que usan Adobe App Builder y que desean obtener más información sobre la carpeta `test`.
 
-## Video content
+## Contenido de vídeo
 
 * ¿Por qué usar la carpeta `test`?
 * Una breve explicación del archivo de prueba unitaria y sus componentes

@@ -1,6 +1,6 @@
 ---
-title: Install App Builder Apps from Adobe Exchange
-description: Discover how to install and validate Adobe Commerce App Builder apps using Adobe Exchange.
+title: Instalación de aplicaciones de App Builder desde Adobe Exchange
+description: Descubra cómo buscar, instalar y validar aplicaciones de Adobe Commerce App Builder desde Adobe Exchange, incluidos el filtrado, la aprobación, la configuración del entorno y la verificación de la instalación.
 feature: App Builder
 topic: Commerce
 role: Developer, User
@@ -22,24 +22,24 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 120
 ht-degree: 0%
 
 ---
 
-# Install App Builder apps from Adobe Exchange
+# Instalación de aplicaciones de App Builder desde Adobe Exchange
 
-Learn how to find, install, and validate Adobe Commerce App Builder apps using Adobe Exchange. You are guided through filtering for relevant apps, acquiring and approving them, setting up deployment environments, and verifying successful installation—all using a real-world example with the Feed Generator app. Whether you&#39;re new to App Builder or looking to streamline your workflow, this tutorial provides a practical, step-by-step overview to get you started.
+Obtenga información sobre cómo buscar, instalar y validar aplicaciones de Adobe Commerce App Builder mediante Adobe Exchange. Se le guía a través del filtrado para aplicaciones relevantes, su adquisición y aprobación, la configuración de entornos de implementación y la verificación de la instalación correcta, todo ello con un ejemplo de la aplicación Feed Generator. Tanto si es su primera vez en App Builder como si desea optimizar el flujo de trabajo, este tutorial le ofrece información general práctica paso a paso para ayudarle a empezar.
 
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
-* Adobe Commerce Developers
-* Technical Architects
-* System Administrators
+* Desarrolladores de Adobe Commerce
+* Arquitectos técnicos
+* Administradores del sistema
 
-## Video content
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471527?captions=spa&learn=on)

@@ -1,17 +1,17 @@
 ---
-title: 'Crear un POC de pago dividido: demostración completa de App Builder'
+title: 'POC de pagos divididos: demostración completa de App Builder'
 description: Descubra cómo funcionan el pago dividido, REST, App Builder I/O y la aceptación/rechazo del operador en esta demostración de Luma, además de un total de pedido previo configurable que puede bloquear el carro de compras.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 933
+duration: 861
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---

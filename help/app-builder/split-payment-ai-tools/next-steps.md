@@ -3,13 +3,13 @@ title: 'POC de pagos divididos: pasos siguientes después de la prueba de concep
 description: Aprenda a mover el POC de pago dividido a la producción. IU de Experience Cloud, enlaces de ERP, malla de API, ámbito de PHP, flujos de trabajo de App Builder e implementación de listas de comprobación.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 El tablero de demostración y el script de simulación que ha creado en este tutorial son intencionadamente aproximados. Existen para probar el patrón. En esta página se describe una ruta práctica que abarca desde la prueba de concepto hasta el desarrollo de App Builder de estilo de producción.
 
 
-## Paso 1: Reemplazo del panel de demostración con una extensión de la interfaz de usuario de Experience Cloud
+## Paso 1: Reemplazo del tablero de demostración con una extensión de la interfaz de usuario de Experience Cloud
 
 La acción web `demo-dashboard` proporciona HTML desde una cadena dentro de una función Node.js. Funciona, pero no es el patrón de producción.
 
-El reemplazo adecuado es la extensión `commerce-backend-ui-1` en `commerce-checkout-starter-kit`, una aplicación de React incrustada en Commerce Admin Shell a través de Adobe Admin UI SDK. Ver [POC de pago dividido: petición de API de la extensión de la interfaz de usuario de Experience Cloud](./experience-cloud-ui-prompt.md) para la petición de datos de generación.
+El reemplazo adecuado es la extensión `commerce-backend-ui-1` en `commerce-checkout-starter-kit`, una aplicación de React incrustada en Commerce Admin Shell a través de Adobe Admin UI SDK. Consulte [PDC de pago dividido: petición de datos de IA de la extensión de la interfaz de usuario de Experience Cloud](./experience-cloud-ui-prompt.md) para ver la petición de datos de generación.
 
 **Qué cambios:**
 * Los operadores inician sesión a través de Commerce Admin Shell (autenticación IMS en lugar de un secreto compartido)
