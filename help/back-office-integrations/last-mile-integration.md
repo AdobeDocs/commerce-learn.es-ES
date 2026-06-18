@@ -1,17 +1,14 @@
 ---
-title: Integración de la última milla en el Starter Kit de integración de Commerce.
-description: Integración de la última milla en Commerce, que resalta los vínculos de extensibilidad como validación, transformación, preprocesamiento, envío y posprocesamiento​
-landing-page-description: Conozca la estructura y las funciones de los enlaces de extensibilidad en la integración de la última milla para los sistemas Commerce.
-kt: 15869
-doc-type: video
+title: Integración de última milla en el Starter Kit de Commerce
+description: Obtenga información sobre la integración de última milla en Commerce mediante los vínculos de extensibilidad para la validación, transformación, preprocesamiento, envío y posprocesamiento.
+doc-type: Technical Video
 duration: 557
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15869
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
 TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
 product_v2:
@@ -24,16 +21,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 359
+source-wordcount: 342
 ht-degree: 0%
 
 ---
 
 # Integración de la última milla con Adobe Starter Kit
 
-Obtenga información acerca de los elementos que debe tener en cuenta al iniciar la integración de la última milla con Adobe Commerce, centrándose en el uso de enlaces de extensibilidad para mejorar la conectividad con sistemas de terceros. Este vídeo describe un enfoque estructurado en el que varios vínculos como validación, transformación, preprocesamiento, envío y posprocesamiento garantizan un flujo de datos y una sincronización del sistema sin problemas. Cada vínculo tiene un propósito distinto, que incluye:
+Obtenga información acerca de los elementos que debe tener en cuenta al iniciar la integración de la última milla con Adobe Commerce, centrándose en los enlaces de extensibilidad para mejorar la conectividad con sistemas de terceros. Este vídeo describe un enfoque estructurado en el que varios vínculos como validación, transformación, preprocesamiento, envío y posprocesamiento garantizan un flujo de datos y una sincronización del sistema sin problemas. Cada vínculo tiene un propósito distinto, que incluye:
 
 * Validación de datos entrantes con esquemas
 * Transformación de objetos de datos entre sistemas
@@ -47,12 +44,12 @@ Obtenga información acerca de la importancia de las actividades posteriores al 
 ## Público
 
 * Desarrolladores que deseen conocer la estructura y la funcionalidad de los vínculos de extensibilidad y cómo estos pueden mejorar la conectividad con sistemas de terceros.
-* Los desarrolladores que deseen conocer los casos de uso típicos y las prácticas recomendadas asociadas con cada vínculo de extensibilidad, como validación, transformación, preprocesamiento, envío y posprocesamiento, para facilitar un flujo de datos fluido, la sincronización del sistema y el mantenimiento eficaz de la configuración de la integración. &#x200B;
+* Los desarrolladores que deseen conocer los casos de uso típicos y las prácticas recomendadas asociadas con cada vínculo de extensibilidad, como validación, transformación, preprocesamiento, envío y posprocesamiento, para facilitar un flujo de datos fluido, la sincronización del sistema y el mantenimiento eficaz de la configuración de la integración. palo de golf
 
 ## Contenido de vídeo
 
 * Obtenga información acerca de la estructura de las acciones invocadas en la integración de última milla.
-* Comprenda los casos de uso típicos dentro del vínculo de validación, incluida la validación de datos entrantes con esquemas y la omisión de eventos específicos basados en determinados criterios. &#x200B;
+* Comprenda los casos de uso típicos dentro del vínculo de validación, incluida la validación de datos entrantes con esquemas y la omisión de eventos específicos basados en determinados criterios. palo de golf
 * Conozca el papel del gancho de transformación en la transformación de objetos de datos entre los sistemas de origen y destino.
 * Obtenga información acerca de la importancia del vínculo de envío para facilitar los datos reales que se envían al sistema de destino.
 

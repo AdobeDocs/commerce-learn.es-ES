@@ -1,17 +1,14 @@
 ---
 title: Uso de la funcionalidad nativa de un mecanismo de reintento
-description: Aproveche el mecanismo de reintentos de Adobe I/O Events para aplicaciones resistentes, incluidas las condiciones de reintento y los indicadores visuales.
-landing-page-description: Comprenda y utilice el mecanismo de reintentos integrado de Adobe I/O Events para mejorar la resiliencia de la aplicación y administrar las activaciones de eventos de forma eficaz.
-kt: 15872
-doc-type: video
+description: Aprenda a utilizar el mecanismo de reintentos de Adobe I/O Events para crear aplicaciones resistentes, lo que abarca condiciones de reintentos, estrategias de retroceso e indicadores visuales.
+doc-type: Technical Video
 duration: 402
-audience: all
-last-substantial-update: 2024-7-31
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
 product_v2:
@@ -22,14 +19,14 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: 382
 ht-degree: 0%
 
 ---
 
-# Aproveche el mecanismo de reintentos de Adobe I/O Events para la resiliencia de la aplicación
+# Uso del mecanismo de reintentos de Adobe I/O Events para la resiliencia de la aplicación
 
 El vídeo describe una guía completa sobre cómo aprovechar el mecanismo de reintentos integrado de Adobe I/O Events para mejorar la resistencia de la aplicación. Descubra cómo los códigos de estado de respuesta HTTP específicos almacenan en déclencheur los reintentos de eventos. Adobe I/O Events emplea estrategias de back-off exponenciales y fijas para los reintentos, con intervalos que aumentan de un minuto a 15 minutos. La documentación también detalla cómo aparecen los indicadores de reintento en la consola del desarrollador, con indicaciones visuales como iconos de advertencia y flechas circulares que indican eventos fallidos y reintentos, respectivamente.
 
