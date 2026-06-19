@@ -44,7 +44,7 @@ Para ayudar a que las bases de datos de réplica se mantengan sincronizadas con 
 * Las ejecuciones masivas solo se producen en la principal. Las replicaciones se producen de una en una
 * Para ayudar a la replicación a seguir el ritmo de las confirmaciones principales, agrupe las confirmaciones grandes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423545?captions=spa&learn=on)
 
 ## Recursos útiles
 

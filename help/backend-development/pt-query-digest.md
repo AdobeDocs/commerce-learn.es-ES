@@ -42,7 +42,7 @@ Aprenda por qué utilizar pt-query-digest y algunos ejemplos prácticos para mej
 * Conozca los beneficios y las deficiencias de esta función de Percona Toolkit
 * Comprenda los resultados y aprenda qué posibles pasos de rendimiento deben tenerse en cuenta
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452294?captions=spa&learn=on)
 
 ## Referencias de código
 
