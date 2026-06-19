@@ -7,16 +7,14 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # Búsqueda semántica
-
-[!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
 
 La búsqueda tradicional de palabras clave coincide con palabras exactas, pero los compradores rara vez conocen las correctas. La búsqueda semántica en Adobe Commerce utiliza IA para comprender la intención detrás de una consulta, lo que hace que los compradores coincidan con los productos en función del significado en lugar del texto literal. Esto mejora el descubrimiento de productos, aumenta la participación e impulsa una mayor conversión al devolver resultados que reflejan lo que desean los compradores.
 
@@ -33,8 +31,9 @@ La búsqueda tradicional de palabras clave coincide con palabras exactas, pero l
 * Indexación automática de catálogos que transforma los datos del producto en señales semánticas.
 * Aumento de resultados, umbrales de similitud y configuración de búsqueda parcial
 
->[!VIDEO](https://video.tv.adobe.com/v/3492308?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## Recursos adicionales
 
-[Información general de [!DNL Live Search]](https://experienceleague.adobe.com/es/docs/commerce/live-search/overview){target="_blank"}
+- Para implementaciones en Adobe Commerce en la nube, en Prem y en Adobe Commerce as a Cloud Service, consulte [[!DNL Live Search] búsqueda semántica](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} en la _Guía de Live Search_.
+- Para implementaciones que usan Adobe Commerce Optimizer, consulte [Configuración - Búsqueda avanzada](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} en la _Guía de Commerce Optimizer_.
