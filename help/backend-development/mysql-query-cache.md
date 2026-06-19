@@ -47,5 +47,5 @@ Aprenda qué es la caché de consultas MySQL y una comprensión básica de cómo
 
 ## Recursos útiles
 
-* [Directrices generales de MySQL](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [Replicación galera y consultas lentas](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
+* [Directrices generales de MySQL](https://experienceleague.adobe.com/es/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [Replicación galera y consultas lentas](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
