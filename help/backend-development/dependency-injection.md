@@ -1,15 +1,14 @@
 ---
 title: Ejemplo de inyección de dependencia
-description: La inyección de dependencias permite que un objeto declare sus dependencias, que las proporciona un objeto externo, lo que promueve la flexibilidad y la modularidad.
-kt: 5621
-doc-type: video
+description: Obtenga información sobre la inyección de dependencias en Adobe Commerce, un patrón de diseño en el que los objetos declaran sus dependencias para inyección externa, lo que mejora la flexibilidad.
+doc-type: Technical Video
 duration: 313
-activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
-role: Admin, Developer
+role: Developer
 level: Beginner, Intermediate
+jira: KT-5621
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 TQID: https://experienceleague.adobe.com/YeGW-u2OTpZLdYjV7P6lToQ-C0L8Qh9Uco8bNPIvjuA
 product_v2:
@@ -25,9 +24,9 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: 85
 ht-degree: 0%
 
 ---
@@ -36,7 +35,7 @@ ht-degree: 0%
 
 La inyección de dependencias es un patrón de diseño que permite a un objeto A declarar sus dependencias en un objeto externo B que proporciona esas dependencias. Las dependencias declaradas por A suelen ser interfaces de clase y las dependencias B proporcionan implementaciones concretas para esas interfaces.
 
-## ¿Para quién es este vídeo?
+## Destinatarios previstos
 
 * Desarrolladores
 
@@ -46,5 +45,4 @@ La inyección de dependencias es un patrón de diseño que permite a un objeto A
 
 ## Recursos útiles
 
-* [Inyección de dependencia](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 * [Guía para desarrolladores de PHP](https://developer.adobe.com/commerce/php/development/)

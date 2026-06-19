@@ -1,16 +1,14 @@
 ---
-title: Learn how to find slow queries in mysql slow query logs and why the Galera DB replication design method may be the reason
-description: Galera DB has a design method that makes the replication of data to secondary databases take longer than the primary. Learn how to find these events in mysql slow query log, and the underlying reason why you see entries in the slow query logs and perhaps how to prevent them in the future.
-kt: 13635
-doc-type: video
+title: Diagnosticar replicación de Galera DB en registros de consulta lentos de MySQL
+description: Aprenda cómo el diseño de replicación de Galera DB ralentiza las sincronizaciones de bases de datos secundarias, cómo identificar estos eventos en los registros de consultas lentas de MySQL y formas de minimizar el impacto.
+doc-type: Technical Video
 duration: 452
-activity: use
-last-substantial-update: 2023-7-18
+last-substantial-update: 2023-07-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-13635
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
 TQID: https://experienceleague.adobe.com/NYapiIjnRv5RAS1glm8do16M4jUPmbgfVCs6ICQwbUc
 product_v2:
@@ -19,35 +17,35 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: 262
 ht-degree: 0%
 
 ---
 
-# Learn about Galera DB replication and related MySQL slow queries
+# Obtenga información acerca de la replicación de Galera DB y las consultas lentas de MySQL relacionadas
 
-Galera clusters help with performance and scalability. When considering secondary databases, it is important to understand the way the data replication happens is different than on the primary. The primary database can perform bulk operations. When the replication happens for all the secondary databases, they do actions one at a time. For example, if you have 67,000,000 items in a delete, on the secondary databases each one happens one at a time. When reviewing the Mysql slow query logs, you find this action can take a long time. Because the secondary databases are performing things one at a time, is a reason for things to not be in sync and performance impacts can be detected.
+Los clústeres Galera ayudan a mejorar el rendimiento y la escalabilidad. Cuando se tienen en cuenta las bases de datos de réplica, es importante comprender que la forma en que se produce la replicación de datos es diferente que en la base de datos principal. La base de datos primaria puede realizar operaciones masivas. Cuando la replicación se produce en todas las bases de datos de réplica, realizan las acciones de una en una. Por ejemplo, si tiene 67.000.000 de elementos en una eliminación, en las bases de datos de réplica, cada uno de ellos se produce de uno en uno. Al revisar los registros de consultas lentas de MySQL, encuentra que esta acción puede tomar mucho tiempo. El hecho de que las bases de datos de réplica estén realizando operaciones secuencialmente es una razón para que las cosas no estén sincronizadas y se puedan detectar los impactos en el rendimiento.
 
-As a solution, if possible, batch your large operations to help the secondary databases keep in sync with the primary. By doing things in batch, it allows the actions to be executed in a timely manner and performance impacts are kept down to a minimum.
+Para ayudar a que las bases de datos de réplica se mantengan sincronizadas con la base de datos primaria, realice las operaciones grandes por lotes siempre que sea posible. Al hacer las cosas por lotes, permite que las acciones se ejecuten de manera oportuna y que los impactos en el rendimiento se mantengan al mínimo.
 
-## Who is this video for?
+## Destinatarios previstos
 
-* Architects
-* Developers
+* Arquitectos
+* Desarrolladores
 * DevOps
 
-## Video content
+## Contenido de vídeo
 
-* Galera replication to secondary database
-* Learn about flow control
-* Finding thread numbers in mysql slow query logs
-* Bulk executions only happen on the primary. Replications happen 1 at a time
-* Batch your large commits to help the replication keep up with the primary
+* Replicación de Galera a base de datos de réplica
+* Más información sobre el control de flujo
+* Búsqueda de números de subproceso en registros de consulta lentos de mysql
+* Las ejecuciones masivas solo se producen en la principal. Las replicaciones se producen de una en una
+* Para ayudar a la replicación a seguir el ritmo de las confirmaciones principales, agrupe las confirmaciones grandes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423545?captions=spa&learn=on)
 
-## Useful resources
+## Recursos útiles
 
-* [Galera Cluster](https://galeracluster.com/)
+* [Clúster Galera](https://mariadb.com/products/enterprise/galera-cluster/)

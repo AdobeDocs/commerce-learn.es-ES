@@ -1,15 +1,14 @@
 ---
 title: Crear un atributo de producto
-description: Cree una página que devuelva json con un parámetro.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: Obtenga información sobre cómo crear un atributo de producto mediante programación en Adobe Commerce, incluidos los atributos de tipo desplegable con modelos de back-end, front-end y de origen personalizados.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
 product_v2:
@@ -23,16 +22,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # Crear un atributo de producto
 
-Agregar un atributo de producto es una de las operaciones más populares en [!DNL Commerce]. Los atributos son una forma eficaz de resolver muchas tareas prácticas relacionadas con un producto. Hay un proceso sencillo para añadir un atributo de tipo desplegable a un producto.
+Agregar un atributo de producto es una de las operaciones más populares en [!DNL Commerce]. Los atributos son una forma eficaz de abordar muchas tareas prácticas relacionadas con un producto. Hay un proceso sencillo para añadir un atributo de tipo desplegable a un producto.
 
 En este vídeo:
 
@@ -43,7 +42,7 @@ En este vídeo:
 
 ## ¿Para quién es este vídeo?
 
-* Desarrolladores nuevos en el comercio que necesitan aprender a crear un atributo de producto mediante programación
+* Desarrolladores nuevos en [!DNL Commerce] que necesitan aprender a crear un atributo de producto mediante programación
 
 ## Contenido de vídeo
 
@@ -84,7 +83,7 @@ ComponentRegistrar::register(
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
