@@ -1,6 +1,6 @@
 ---
 title: Funciones de administrador para usuarios de back office
-description: Descubra cómo los usuarios empresariales inician sesión en Adobe Commerce Admin Portal y cómo los administradores de tiendas crean y administran el acceso basado en roles al portal de administración.
+description: Obtenga información sobre cómo los usuarios empresariales inician sesión en Adobe Commerce Admin Portal y cómo los administradores de tiendas crean, administran y asignan permisos de acceso basados en funciones a los usuarios.
 feature: Admin Workspace, Roles/Permissions, Security
 topic: Administration, Commerce, Security
 role: Admin, User
@@ -24,16 +24,16 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e17ffe0eba640671baacbc7e8aef3a97c7785307
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: 192
 ht-degree: 0%
 
 ---
 
 # Funciones de administrador de Adobe Commerce
 
-Conozca el proceso de inicio de sesión en el Adobe Commerce Admin Portal mediante Adobe ID o Federated ID y detalla cómo los administradores de tienda pueden crear y administrar el acceso basado en funciones. Conozca los pasos para crear una nueva función con permisos específicos, como una función &quot;Vendedor&quot; responsable de administrar las ofertas y plantillas de los clientes. Obtenga información sobre cómo asignar usuarios a estas funciones, asegurándose de que tengan los niveles de acceso adecuados, e incluye una demostración de cómo asignar un usuario a una función recién creada y verificar la asignación.
+Conozca el proceso de inicio de sesión en Adobe Commerce Admin Portal mediante Adobe ID o Federated ID y descubra cómo los administradores de tienda pueden crear y administrar el acceso basado en funciones. Comprenda los pasos para crear una nueva función con permisos específicos, como una función &quot;Vendedor&quot; responsable de administrar las ofertas y plantillas de los clientes. Obtenga información sobre cómo asignar usuarios a estas funciones, asegurándose de que tengan los niveles de acceso adecuados, e incluya una demostración de cómo asignar un usuario a una función recién creada y verificar la asignación.
 
 ## Para quién es este vídeo
 
@@ -44,7 +44,7 @@ Conozca el proceso de inicio de sesión en el Adobe Commerce Admin Portal median
 ## Contenido de vídeo
 
 * Conozca los métodos de inicio de sesión más recientes.
-* Obtenga una buena comprensión de la creación y administración de funciones
-* Comprender la asignación de usuarios y los niveles de acceso. &#x200B;
+* Comprender la creación y administración de funciones
+* Comprender la asignación de usuarios y los niveles de acceso. palo de golf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433516?captions=spa&learn=on)
