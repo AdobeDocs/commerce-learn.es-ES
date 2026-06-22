@@ -47,4 +47,4 @@ Conozca el proceso de inicio de sesión en Adobe Commerce Admin Portal mediante 
 * Comprender la creación y administración de funciones
 * Comprender la asignación de usuarios y los niveles de acceso. palo de golf
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433516?captions=spa&learn=on)
