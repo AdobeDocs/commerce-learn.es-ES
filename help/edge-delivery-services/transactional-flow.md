@@ -51,4 +51,4 @@ Aprenda a utilizar la lista desplegable de carrito de Adobe Commerce y ajuste el
 
 ## Documentación adicional
 
-* [Configurar resumen del carro](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Configurar resumen del carro](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=es)

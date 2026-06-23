@@ -58,4 +58,4 @@ Las funciones que se benefician de leer esta transcripción incluyen:
 
 ## Documentación adicional
 
-* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)
+* [Cuenta de usuario](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=es)

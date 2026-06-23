@@ -52,4 +52,4 @@ Aprenda a utilizar la lista desplegable de carritos de Adobe Commerce y a ajusta
 
 ## Documentación adicional
 
-* [Resumen de pedidos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Resumen de pedidos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=es)

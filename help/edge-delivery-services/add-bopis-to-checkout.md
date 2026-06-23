@@ -51,4 +51,4 @@ Aprenda a utilizar el carro de compras de Adobe Commerce de Edge Delivery Servic
 
 ## Documentación adicional
 
-* [Comprar Online Pickup en nuestra tienda](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Comprar Online Pickup en nuestra tienda](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=es)

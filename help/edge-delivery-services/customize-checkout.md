@@ -50,4 +50,4 @@ Aprenda a personalizar la experiencia de colocación del carro de compras de Edg
 
 ## Documentación adicional
 
-* [Cierre de compra de varios pasos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Cierre de compra de varios pasos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=es)
