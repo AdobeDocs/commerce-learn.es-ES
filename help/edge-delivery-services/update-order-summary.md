@@ -1,6 +1,6 @@
 ---
 title: Resumen de pedidos de Edge Delivery Services en cierre de compra
-description: Obtenga información acerca de Adobe Edge Delivery Services y cómo actualizar la sección de resumen de pedidos del menú desplegable de Commerce al finalizar la compra.
+description: Obtenga información sobre cómo actualizar el resumen de pedido desplegable del carro de compras de Adobe Commerce, incluidas las estimaciones de envío, la visualización del ahorro total y el diseño de sección contraíble.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -22,25 +22,25 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: 197
 ht-degree: 0%
 
 ---
 
 # Actualizar el resumen del carro de compras en cierre de compra
 
-Aprenda a realizar cambios en el resumen de pedidos de la lista desplegable de carrito de Adobe Commerce para Edge Delivery Services.  Existen varios ejemplos de cómo mejorar rápidamente el diseño o la información proporcionada a un cliente al realizar la compra.
+Obtenga información sobre cómo realizar cambios en el resumen de pedidos de la lista desplegable de carrito de Adobe Commerce para Edge Delivery Services. Existen varios ejemplos de cómo mejorar el diseño de la información proporcionada a un cliente al realizar la compra.
 
 ## Qué va a aprender
 
-Aprenda a utilizar el carrito de compras de Adobe Commerce para acceder y ajustar la experiencia del carrito.  Existen varias formas de mejorar el carro realizando algunos cambios o actualizaciones menores en el código.
+Aprenda a utilizar la lista desplegable de carritos de Adobe Commerce y a ajustar la experiencia con el carrito. Existen varias formas de mejorar el carro realizando cambios o actualizaciones menores en el código.
 
 ## ¿Para quién es este vídeo?
 
 * Desarrolladores que necesiten aprender a implementar estas personalizaciones para el resumen de pedidos.
-* Los comerciantes deben comprender qué opciones están disponibles utilizando las funciones nativas para mejorar la experiencia del cliente en cuanto al resumen del pedido.
+* Los comerciantes que deseen comprender qué opciones están disponibles mediante funciones nativas para mejorar la experiencia del cliente en torno al resumen del pedido.
 
 ## Contenido de vídeo
 

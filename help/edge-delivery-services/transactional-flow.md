@@ -1,6 +1,6 @@
 ---
 title: Flujo transaccional de Edge Delivery Services
-description: Obtenga información acerca de Adobe Edge Delivery Services y cómo cambiar el flujo transaccional.
+description: Aprenda a ajustar el flujo transaccional en el cierre de compra de Adobe Commerce mediante la lista desplegable de carrito de Edge Delivery Services, incluida la cantidad, los descuentos y las pruebas A/B.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,9 +20,9 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: 228
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Aprenda a ajustar el flujo transaccional para el cierre de compra mediante la li
 
 ## Qué va a aprender
 
-Obtenga información sobre cómo utilizar la lista desplegable de carrito de Adobe Commerce y ajustar el flujo transaccional para mostrar a los clientes un nuevo conjunto de funciones cambiando unas pocas líneas de código.  Además, aprenda a convertir estos cambios para que se administren desde Sharepoint con el fin de realizar pruebas AB.
+Aprenda a utilizar la lista desplegable de carrito de Adobe Commerce y ajuste el flujo transaccional para mostrar a los clientes un nuevo conjunto de funciones cambiando algunas líneas de código. Además, aprenda a convertir estos cambios para que se administren desde SharePoint y realicen pruebas A/B.
 
 ## ¿Para quién es este vídeo?
 
 * Los desarrolladores y propietarios de tiendas están aprendiendo a usar Edge Delivery Services con la necesidad de cambiar algunos elementos desplegables del carro de compras.
-* Especialistas en marketing y otras personas interesadas en utilizar SharePoint para administrar funciones y pruebas AB.
+* Especialistas en marketing y otras personas interesadas en utilizar SharePoint para administrar funciones y pruebas A/B.
 
 ## Contenido de vídeo
 
