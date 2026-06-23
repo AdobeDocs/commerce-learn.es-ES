@@ -54,7 +54,7 @@ Las funciones que se benefician de leer esta transcripción incluyen:
 * Validación y control de errores para los campos de entrada de la dirección, lo que garantiza que los usuarios reciban comentarios inmediatos sobre las entradas incorrectas o incompletas, lo que mejora la experiencia del usuario.
 * Extensión del tablero de cuentas de usuario que agrega un nuevo elemento de menú de barra lateral al tablero de cuentas de usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442909?captions=spa&learn=on)
 
 ## Documentación adicional
 

@@ -46,7 +46,7 @@ Aprenda a personalizar la experiencia de colocación del carro de compras de Edg
 * Implementación del cierre de compra de varios pasos
 * Reutilización del código existente y prácticas recomendadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442653?captions=spa&learn=on)
 
 ## Documentación adicional
 
