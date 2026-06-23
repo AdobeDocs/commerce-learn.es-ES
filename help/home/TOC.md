@@ -4,7 +4,7 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
+source-git-commit: f5b1e429dc7c3732d0c9e7be4b2ac972d259143e
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 3%
@@ -98,7 +98,7 @@ ht-degree: 3%
 
 + Extensibilidad {#extensibility}
    + Desarrollo back-end {#backend-development}
-      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+      + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Creación de un módulo](../backend-development/create-module.md)
       + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
       + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -162,7 +162,7 @@ ht-degree: 3%
             + [Referencia de variables de entorno](../app-builder/split-payment-ai-tools/env-reference.md)
             + [Mensaje de Commerce module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
             + [petición de datos de App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-            + [Mensaje de API de extensión de IU de Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+            + [Solicitud de API de extensión de IU de Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + Crear tarifas de envío personalizadas con las herramientas de IA {#custom-shipping-rates-ai-tools}
          + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Herramientas de IA y Starter Kit de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
@@ -289,4 +289,3 @@ ht-degree: 3%
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Preparándose para el futuro](../business-intelligence/prepare-for-future.md)
-
