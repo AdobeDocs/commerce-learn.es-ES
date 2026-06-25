@@ -33,5 +33,5 @@ Obtenga información acerca de la configuración e implementación del Starter K
 * Clone el Starter Kit de App Builder y configure los archivos de entorno utilizando la CLI de Adobe IO.
 * Implemente la aplicación y confirme el registro correcto de acciones y eventos en el espacio de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476085?captions=spa&learn=on)
 
