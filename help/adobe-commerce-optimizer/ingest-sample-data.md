@@ -18,7 +18,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 153
 ht-degree: 0%
@@ -49,3 +49,4 @@ Obtenga información sobre cómo introducir los datos de ejemplo para la instanc
 * [Caso de uso de administrador](https://experienceleague.adobe.com/es/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
 * [Introducción a Adobe Commerce Optimizer](https://experienceleague.adobe.com/es/docs/commerce/optimizer/get-started){target="_blank"}
 * [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
+

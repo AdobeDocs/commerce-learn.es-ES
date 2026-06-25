@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -64,3 +64,4 @@ Para ver un tutorial más detallado sobre cómo esas piezas se ajustan a un fluj
 * [Crea un catálogo maquetable para tu tienda](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
 * [Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
 * [Introducción a la API de comercialización](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

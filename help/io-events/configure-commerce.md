@@ -26,18 +26,18 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 151
 ht-degree: 0%
 
 ---
 
-# Configure Adobe Commerce
+# Configuración de Adobe Commerce
 
-Learn how to configure Adobe Commerce to expose the events. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo configurar Adobe Commerce para que exponga los eventos. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
 * Desarrolladores nuevos en Adobe Commerce y Adobe Developer App Builder que utilizan eventos de E/S y que necesitan crear un proyecto de App Builder de Adobe.
 
@@ -45,7 +45,7 @@ Learn how to configure Adobe Commerce to expose the events. Encontrará document
 
 * Configuración de los eventos de Adobe I/O en el administrador de Commerce
 * Guardar una clave privada en el administrador de Commerce
-* Saving the unique identifier in the Commerce admin
+* Guardado del identificador único en el administrador de Commerce
 * Creación de un proveedor de eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419712?captions=spa&learn=on)
@@ -59,3 +59,4 @@ bin/magento events:subscribe observer.catalog_product_save_after --fields=name -
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
