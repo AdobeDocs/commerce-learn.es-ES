@@ -1,16 +1,15 @@
 ---
-title: Page Builder for developers - Themes
-description: Learn about theming practices and conventions​, including the location for each part of the Page Builder theme.
-kt: 5652
-doc-type: video
+title: 'Page Builder para desarrolladores: temas'
+description: Obtenga información sobre las prácticas y convenciones de creación de temas de Page Builder, incluida la ubicación de cada componente de tema y cómo aplicar estilos personalizados a su tienda.
+jira: KT-5652
+doc-type: Technical Video
 duration: 204
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
-badgePaas: label="PaaS only" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Applies to Adobe Commerce on Cloud projects (Adobe-managed PaaS infrastructure) and on-premises projects only."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 TQID: https://experienceleague.adobe.com/dAPwxoXoJ-mHMu0WVXfQ1-RMFrkIxSEBIVubAs-nwNI
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -23,38 +22,38 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: 151
 ht-degree: 0%
 
 ---
 
-# Page Builder for developers - Themes
+# Page Builder para desarrolladores: temas
 
 {{only-for-on-prem-commerce-cloud}}
 
-In this video:
+En este vídeo:
 
-* Overview of theming practices
-* Description of the theming conventions&#x200B;
-* Where each part of the Page Builder theme is located &#x200B;
+* Resumen de las prácticas temáticas
+* Descripción de las convenciones de temas
+* Ubicación de cada componente del tema de Page Builder
 
-## Who is this video for?
+## ¿Para quién es este vídeo?
 
-* Content creators
-* Frontend developers
+* Creadores de contenido
+* Desarrolladores de front-end
 
-## Video content
+## Contenido de vídeo
 
 >[!NOTE]
 >
->This content reflects the Page Builder 1.0.0 release for Adobe Commerce 2.3.1. For information about updates in later releases, see the [Page Builder release notes](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=es).
+>Este contenido refleja la versión 1.0.0 del Page Builder para Adobe Commerce 2.3.1. Para obtener información sobre las actualizaciones de versiones posteriores, consulte [Notas de la versión de Page Builder](https://experienceleague.adobe.com/es/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430896?captions=spa&learn=on)
 
-## Useful resources
+## Recursos útiles
 
-[Page Builder developer documentation](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Documentación para desarrolladores de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder Guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=es)
+[Guía del Page Builder](https://experienceleague.adobe.com/es/docs/commerce-admin/page-builder/introduction)
