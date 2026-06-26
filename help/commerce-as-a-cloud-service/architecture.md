@@ -1,14 +1,13 @@
 ---
 title: Arquitectura de Commerce as a Cloud Service
 description: Descubra la arquitectura de Adobe Commerce as a Cloud Service y las funciones clave para obtener soluciones de comercio electrónico escalables, seguras y flexibles.
-kt: 17220
+jira: KT-17220
 doc-type: Technical Video
 duration: 235
-audience: all
-last-substantial-update: 2025-1-30
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
 TQID: https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY
@@ -29,33 +28,33 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: 291
 ht-degree: 0%
 
 ---
 
 # Arquitectura de Adobe Commerce as a Cloud Service
 
-Adobe Commerce as a cloud service ofrece una plataforma de alojamiento segura y automatizada con funciones de autoservicio para administrar aplicaciones de comercio. Las funciones clave incluyen la administración de recursos a través de Adobe Experience Manager, una cobertura de API completa con API de GraphQL y REST y servicios de comercialización inteligentes. La plataforma admite una arquitectura sin encabezado, lo que permite a los desarrolladores utilizar varios marcos de trabajo front-end como React y Angular. También ofrece una tienda moderna sin encabezado con creación basada en documentos y pruebas A/B nativas. Además, Adobe Commerce se integra con Adobe Experience Cloud para ofrecer experiencias de comercio personalizadas y ofrece amplias herramientas para desarrolladores, incluida la malla de Adobe Developer App Builder y API.
+Adobe Commerce as a Cloud Service ofrece una plataforma de alojamiento segura y automatizada con funciones de autoservicio para administrar aplicaciones de comercio. Las funciones clave incluyen la administración de recursos a través de Adobe Experience Manager, una cobertura de API completa con API de GraphQL y REST y servicios inteligentes de Adobe Merchandising. La plataforma admite una arquitectura sin encabezado, lo que permite a los desarrolladores utilizar varios marcos de trabajo front-end como React y Angular. También ofrece una tienda moderna sin encabezado con creación basada en documentos y pruebas A/B nativas. Además, Adobe Commerce se integra con Adobe Experience Cloud para ofrecer experiencias de comercio personalizadas y amplias herramientas para desarrolladores, incluidas las mallas de Adobe Developer App Builder y API.
 
 ## Qué va a aprender
 
-Obtenga información acerca de la arquitectura y las funciones clave de Adobe Commerce as a Cloud Service. Elementos que incluyen alojamiento seguro, cobertura de API, arquitectura sin encabezado y capacidades de integración
+Obtenga información acerca de la arquitectura y las funciones clave de Adobe Commerce as a Cloud Service. Los elementos incluyen alojamiento seguro, cobertura de API, arquitectura sin encabezado y funcionalidades de integración.
 
 ## ¿Para quién es este vídeo?
 
 * Administradores de comercio electrónico para comprender las capacidades y características de Adobe Commerce.
 * Los desarrolladores deben conocer la arquitectura, las API y las herramientas de integración de la plataforma.
 * Los especialistas en marketing digital exploran cómo Adobe Commerce puede mejorar las experiencias de los clientes.
-* Los administradores de TI deben comprender los aspectos de seguridad y alojamiento del servicio en la nube.
-* Los responsables de producto quieren ver cómo la plataforma admite varios objetivos comerciales y servicios de comercialización.
+* Los administradores de TI deben comprender los aspectos de seguridad y alojamiento de Cloud Service.
+* Los responsables de producto quieren saber cómo admite la plataforma distintos objetivos empresariales y servicios de Adobe Merchandising.
 
 ## Contenido de vídeo
 
 * Alojamiento seguro y automatizado: Adobe Commerce proporciona una plataforma de alojamiento segura y automatizada con funciones de autoservicio para administrar aplicaciones de comercio.
 * Amplia cobertura de API: La plataforma admite una amplia cobertura de API mediante las API de GraphQL y REST, lo que permite una integración perfecta con sistemas de terceros.
-* Arquitectura sin encabezado: la arquitectura totalmente disociada permite a los desarrolladores utilizar varios marcos front-end, lo que ofrece flexibilidad y rendimiento.
+* Arquitectura disociada: la arquitectura totalmente disociada permite a los desarrolladores utilizar varios marcos front-end, lo que ofrece flexibilidad y rendimiento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443270?captions=spa&learn=on)

@@ -1,14 +1,13 @@
 ---
 title: Información general sobre Adobe Commerce as a Cloud Service
 description: Obtenga información sobre Adobe Commerce as a Cloud Service. Una solución flexible, escalable y eficiente para operaciones digitales dinámicas con una arquitectura componible.
-kt: 17219
+jira: KT-17219
 doc-type: Technical Video
-duration: 232
-audience: all
-last-substantial-update: 2025-2-3
+duration: 231
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
@@ -25,7 +24,7 @@ role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 267
 ht-degree: 0%
@@ -34,9 +33,9 @@ ht-degree: 0%
 
 # Información general sobre Adobe Commerce as a Cloud Service
 
-Adobe Commerce as a Cloud Service ofrece una solución flexible, escalable y eficiente para las empresas, con funcionalidades nativas de la nube como escalado automático elástico y actualizaciones automáticas. Simplifica la incorporación con el aprovisionamiento de autoservicio y cuenta con una arquitectura componible para la implementación de servicios independientes y la extensibilidad de la API primero. Pre-configured services and continuous delivery of new features ensure optimal performance and ease of use, making it ideal for dynamic and growing businesses
+Adobe Commerce as a Cloud Service ofrece una solución flexible, escalable y eficiente para las empresas, con funcionalidades nativas de la nube como escalado automático elástico y actualizaciones automáticas. Simplifica la incorporación con el aprovisionamiento de autoservicio y ofrece una arquitectura componible para la implementación de servicios independientes y la extensibilidad de la API primero. Los servicios preconfigurados y la entrega continua de nuevas funciones garantizan un rendimiento y una facilidad de uso óptimos, lo que lo hace ideal para empresas dinámicas y en crecimiento
 
-## What you&#39;ll learn
+## Qué va a aprender
 
 Adobe Commerce as a Cloud Service proporciona una solución flexible, escalable y eficiente para las empresas, con funciones como actualizaciones automáticas y una arquitectura maquetable.
 
@@ -44,11 +43,11 @@ Adobe Commerce as a Cloud Service proporciona una solución flexible, escalable 
 
 * Propietarios empresariales que buscan mejorar sus operaciones digitales con una solución escalable y eficiente.
 * Administradores de Commerce digital que busquen plataformas de comercio electrónico flexibles e innovadoras.
-* IT Professionals who are interested in cloud-native capabilities and simplified onboarding processes.
+* Profesionales de TI interesados en las capacidades nativas de la nube y en los procesos de incorporación simplificados.
 * Desarrolladores que buscan obtener más información sobre la extensibilidad y la arquitectura componible que dan prioridad a las API para facilitar la integración.
 * Comerciantes que desean herramientas preconfiguradas y tiendas optimizadas para un mejor rendimiento.
 
-## Video content
+## Contenido de vídeo
 
 * Funciones nativas de la nube, incluido el escalado automático elástico, que garantizan un rendimiento excepcional y una latencia reducida.
 * Incorporación simplificada y aprovisionamiento de autoservicio para una configuración rápida y eficaz de las instancias de zona protegida o producción.

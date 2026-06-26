@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20089
 exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
 TQID: https://experienceleague.adobe.com/9DrRRAPjTyRJ8pb7ss-oytdMDNXGKXVui9x0oTyPG8k
@@ -26,14 +26,14 @@ topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 114
 ht-degree: 0%
 
 ---
 
-# Optimize storefronts with built-in experimentation
+# Optimizar las tiendas con la experimentación integrada
 
 Descubra cómo Adobe Commerce as a Cloud Service permite a los equipos empresariales ejecutar pruebas A/B y optimizar el contenido de la tienda sin depender de desarrolladores ni herramientas de terceros. Aprenda a medir el impacto en las conversiones y la participación mediante funciones de experimentación nativas.
 
@@ -43,9 +43,9 @@ Descubra cómo Adobe Commerce as a Cloud Service permite a los equipos empresari
 * Especialista en marketing digital
 * Analista de optimización de conversión
 
-## Video content
+## Contenido de vídeo
 
 * Obtenga información sobre cómo configurar y ejecutar pruebas A/B directamente en Adobe Commerce para mejorar el rendimiento de la tienda.
-* Discover how built-in experimentation and product recommendations help boost conversions and engagement.
+* Descubra cómo la experimentación integrada y las recomendaciones de productos ayudan a impulsar las conversiones y la participación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478795?learn=on)
