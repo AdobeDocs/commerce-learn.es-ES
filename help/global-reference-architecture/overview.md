@@ -1,38 +1,25 @@
 ---
 title: Optimización de la reutilización del código con Adobe Commerce
 description: Aprenda a optimizar la reutilización del código en Adobe Commerce con patrones de arquitectura de referencia global, mejorando el rendimiento y la conformidad en varias instancias.
-kt: 15773
-doc-type: tutorial
-duration: 287
-audience: all
-last-substantial-update: 2025-1-6
+jira: KT-15773
+doc-type: Tutorial
+duration: 284
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Colaboró Tony Evers, arquitecto técnico senior de Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Colaboró Tony Evers"
+badge: label="Colaboró Tony Evers, arquitecto técnico senior de Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Colaboró Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 TQID: https://experienceleague.adobe.com/1-cE8TS4syjsMuX3VmhQu5zhFX-z3yxV-GlwxVl7eqM
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: 1116
 ht-degree: 0%
 
 ---
@@ -45,13 +32,13 @@ Existen varias formas de optimizar la reutilización del código con Adobe Comme
 
 ## Cuándo utilizar la arquitectura de referencia global
 
-La arquitectura de referencia global puede ser útil, según el número de instancias que tenga. Una instancia de es una instalación independiente de Adobe Commerce que utiliza su propia base de datos. Haga un recuento de las bases de datos de producción para saber cuántas instancias tiene. Si mantiene más de una instancia de o si prevé este escenario en el futuro, puede beneficiarse de la arquitectura de referencia global. Cuanta más funcionalidad compartan las instancias, más valor añadirá una arquitectura de referencia global.
+La arquitectura de referencia global puede ser útil, según el número de instancias que tenga. Una instancia de es una instalación independiente de Adobe Commerce que utiliza su propia base de datos. Para saber cuántas instancias tiene, cuente el número de bases de datos de producción. Si mantiene más de una instancia de o si prevé este escenario en el futuro, puede beneficiarse de la arquitectura de referencia global. Cuanta más funcionalidad compartan las instancias, más valor añadirá una arquitectura de referencia global.
 
 En cualquiera de estos casos, es aconsejable explorar con varias instancias de Adobe Commerce.
 
-1. **Diferentes propietarios de tiendas**: Si mantiene código para varios propietarios de tiendas, cada uno con su propio almacén, pueden ser necesarias instancias independientes para mantener sus requisitos individuales de forma eficaz.
+1. **Operadores de tienda diferentes**: Si mantiene código para varios operadores de tienda, cada uno con su propio almacén, se necesitan instancias independientes para mantener sus requisitos individuales de forma eficaz.
 2. **Cumplimiento de las regulaciones nacionales**: ciertas regulaciones exigen que los datos de los clientes se almacenen dentro de regiones específicas. En tales casos, es esencial contar con instancias separadas para asegurar el cumplimiento de estas regulaciones.
-3. **Desviaciones operativas entre regiones geográficas**: Operar en varias regiones puede significar diferentes calendarios y requisitos de mantenimiento. El uso de instancias independientes permite flexibilidad para administrar estas variaciones de forma eficaz.
+3. **Desviaciones operativas entre regiones geográficas**: Operar en varias regiones significa que existen diferentes requisitos y programas de mantenimiento. El uso de instancias independientes permite flexibilidad para administrar estas variaciones de forma eficaz.
 4. **Ventas de flash de alta intensidad**: Las tiendas que realizan ventas de flash a gran escala a menudo requieren un rendimiento de servidor optimizado. La infraestructura dedicada proporcionada por instancias independientes garantiza un rendimiento óptimo durante estos períodos de alta demanda.
 5. **Diferencias significativas entre marcas o países**: cuando la diferencia entre marcas o países es grande, el uso de una sola instancia genera código que solo se utiliza para algunas marcas o países. Las instancias independientes pueden mejorar el rendimiento y la estabilidad al eliminar el código innecesario para las marcas y los países que no lo necesitan.
 
@@ -73,7 +60,7 @@ Cuando no se utiliza un patrón GRA, cada instancia de Adobe Commerce es una apl
 
 ![Un icono que representa el patrón de GRA &quot;dividido&quot;](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
-Este patrón consiste en repositorios Git para desarrollo y un repositorio Git por instancia. Cada archivo de la instancia se mantiene en uno de los repositorios de desarrollo. Se juntan como una trenza formando todo el GRA. Cada línea de código solo existe en un único repositorio de desarrollo y se instala en las instancias mediante la técnica de entrelazado, lo que provoca la reutilización del código.
+Este patrón consiste en repositorios Git para desarrollo y un repositorio Git por instancia. Cada archivo de la instancia se mantiene en un repositorio de desarrollo. Se combinan para formar el GRA completo. Cada línea de código solo existe en un único repositorio de desarrollo y se instala en las instancias mediante la técnica de entrelazado, lo que provoca la reutilización del código.
 
 ![Diagrama que muestra dónde se almacena el código en un patrón GRA dividido](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"}
 
@@ -103,7 +90,7 @@ Todo el desarrollo tiene lugar en un único repositorio de código. La automatiz
 
 ## Elección de un patrón GRA
 
-La elección de un patrón GRA se realiza mediante la evaluación de la complejidad del proyecto, la necesidad de flexibilidad y la capacidad del equipo de desarrollo para adaptarse.
+Evalúe la complejidad del proyecto, la necesidad de flexibilidad y la capacidad del equipo de desarrollo para adaptarse a elegir un patrón de GRA.
 
 Los equipos con poca experiencia en Adobe Commerce deberían empezar de forma sencilla. Sin embargo, si el proyecto exige un patrón de GRA más complejo debido a sus características, no comprometa.
 
@@ -111,9 +98,9 @@ Características comunes del proyecto relacionadas con cada patrón:
 
 1. **Sin patrón GRA**: instancia única de Adobe Commerce sin planes de extensión. Varias instancias de Adobe Commerce con un mínimo de elementos comunes entre ellas.
 
-2. **Patrón Split Git GRA**: Los equipos que desean evitar Composer para sus personalizaciones, en la mayoría de los casos el patrón Bulk packages es el preferido para Split Git.
+2. **Patrón Split Git GRA**: Equipos que desean evitar Composer para sus personalizaciones; en la mayoría de los casos, el patrón Bulk packages es un patrón preferido para Split Git.
 
-3. **Patrón GRA de paquete masivo**: base de código de personalización con alta interdependencia. Todas las instancias tienen combinaciones muy similares de paquetes personalizados. No hay promociones ni descensos frecuentes de paquetes individuales. Equipos con poca experiencia en gestión de código y con necesidad de simplicidad.
+3. **Patrón GRA de paquete masivo**: base de código de personalización con alta interdependencia. Las instancias tienen combinaciones muy similares de paquetes personalizados. No hay promociones ni descensos frecuentes de paquetes individuales. Equipos con poca experiencia en la administración de código y una necesidad de simplicidad.
 
 4. **Patrón GRA de paquetes independientes**: se necesita una administración flexible del ámbito de lanzamiento. Se prevén 50 paquetes personalizados o menos en los próximos 5 años. Capas globales y regionales de código común. No hay planes para migrar a un patrón de Monorepo. El equipo es técnicamente experto y tiene una estricta adherencia al proceso.
 

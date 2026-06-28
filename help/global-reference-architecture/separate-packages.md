@@ -2,37 +2,24 @@
 title: Arquitectura de referencia global de paquetes independientes
 description: Optimizar Adobe Commerce con paquetes separados GRA. Conozca la configuración, las ventajas y las prácticas recomendadas para una administración flexible y con versiones de los paquetes.
 jira: KT-16727
-doc-type: tutorial
-duration: 594
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 340
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Colaboró Tony Evers, arquitecto técnico senior de Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Colaboró Tony Evers"
-old-role: Architect, Developer
+badge: label="Colaboró Tony Evers, arquitecto técnico senior de Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Colaboró Tony Evers"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
 TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 2132
+source-wordcount: 2099
 ht-degree: 0%
 
 ---
@@ -45,7 +32,7 @@ En esta guía se explica cómo configurar Adobe Commerce con el patrón de arqui
 
 El patrón GRA de paquetes independientes implica un repositorio Git para cada paquete común y un repositorio Git para cada instancia de Adobe Commerce. Los paquetes comunes se exponen a través de Composer con un repositorio privado de Composer.
 
-Este patrón de arquitectura de referencia global se basa completamente en el Compositor y está diseñado para aprovechar al máximo todas las funciones del Compositor.
+Este patrón de arquitectura de referencia global se basa en el Compositor y está diseñado para aprovechar al máximo todas las funciones del Compositor.
 
 ![Diagrama que muestra dónde se almacena el código en un patrón GRA de paquetes separados](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
@@ -62,7 +49,7 @@ Ventajas:
 Desventajas:
 
 * El desarrollo dentro de este patrón GRA es ligeramente más difícil al principio, hay una pequeña curva de aprendizaje
-* Posible implementar combinaciones de paquetes que no se desarrollaron en la misma configuración, necesidad de procedimientos de prueba estrictos
+* Posible implementar combinaciones de paquetes que no se desarrollaron en la misma configuración; necesidad de procedimientos de prueba estrictos
 
 ## Configurar Adobe Commerce con el patrón de paquetes separados GRA
 
@@ -127,7 +114,7 @@ Los metapaquetes controlan el alcance de la base de código común GRA en este p
 }
 ```
 
-El fragmento anterior es composer.json de un metapaquete. Porque los metapaquetes solo contienen un archivo composer.json y ningún otro código. El código anterior también es el metapaquete completo. Alójelo en un repositorio Git y tendrá un repositorio instalable del compositor de metapaquetes. Requiere un módulo GRA de ejemplo y un módulo de terceros, así como el núcleo de Adobe Commerce. También requiere la gra-component-foundation, que se explicará en el capítulo siguiente.
+El fragmento anterior es composer.json de un metapaquete. Los metapaquetes sólo contienen un archivo composer.json y ningún otro código. El código anterior también es el metapaquete completo. Alójelo en un repositorio Git y tendrá un repositorio instalable del compositor de metapaquetes. Requiere un módulo GRA de ejemplo y un módulo de terceros, así como el núcleo de Adobe Commerce. También requiere gra-component-foundation, que se explica en el capítulo siguiente.
 
 Los metapaquetes son una forma de empaquetar paquetes sin crear dependencias entre ellos. Por lo tanto, incluso cuando no hay dependencia técnica entre paquetes, con un metapaquete puede hacer que se instalen juntos. Si necesita este metapackage en el proyecto, se instalará cualquier paquete o metapackage que requiera el metapackage. Por lo tanto, si crea un proyecto de Composer en blanco y solo necesita este paquete, Composer instala Adobe Commerce, GRA y el módulo de terceros.
 
@@ -146,11 +133,11 @@ Puede definir de forma similar un metapaquete que defina la x del almacén. Requ
 }
 ```
 
-El metapaquete Brand-X es opcional. También puede omitir el metapaquete de marca y requerir estas dependencias directamente en su proyecto de Compositor de tiendas. La ventaja de crear un metapaquete para módulos locales es que no tiene ramas de funciones ni solicitudes de extracción de funciones en el repositorio de Git de almacenamiento, solo en los repositorios de paquetes. Es una medida de seguridad. Además, puede optar por aplicar el control de versiones semántico en los repositorios de paquetes y utilizar diferentes etiquetas Git en el proyecto principal, por ejemplo, para rastrear versiones con nombre. Depende de ti.
+El metapaquete Brand-X es opcional. Omita el metapaquete de marca y requiera estas dependencias directamente en su proyecto de Compositor de tiendas. La ventaja de crear un metapaquete para módulos locales es que no tiene ramas de funciones ni solicitudes de extracción de funciones en el repositorio de Git de almacenamiento, solo en los repositorios de paquetes. Es una medida de seguridad. Además, puede optar por aplicar el control de versiones semántico en los repositorios de paquetes y utilizar diferentes etiquetas Git en el proyecto principal, por ejemplo, para rastrear versiones con nombre. Depende de ti.
 
 ### Archivos de base GRA fuera del directorio de proveedores
 
-A veces, es necesario almacenar los archivos fuera del directorio del proveedor. Como `.gitignore`, archivos que van al directorio `dev/` o archivos de verificación de dominio. El tipo de paquete de componentes magento2 está diseñado para este fin. Mire <https://github.com/AntonEvers/gra-component-foundation>.
+A veces, es necesario almacenar los archivos fuera del directorio del proveedor. Como `.gitignore`, archivos que van al directorio `dev/`o archivos de verificación de dominio. El tipo de paquete de componentes magento2 está diseñado para este fin. Mire <https://github.com/AntonEvers/gra-component-foundation>.
 
 ```json
 {
@@ -176,18 +163,18 @@ De este modo, también puede incluir archivos fuera del directorio de proveedore
 
 ### Desarrollar un módulo de base GRA
 
-El desarrollo se produce dentro del directorio de proveedores. Pida al Compositor que instale los paquetes de base desde el origen. Al hacerlo, extrae paquetes de Git en lugar de instalarlos desde un archivo descargado.
+El desarrollo se produce dentro del directorio de proveedores. Pida al Compositor que instale los paquetes de base desde el origen. Al hacerlo, se extraen paquetes de Git en lugar de instalarlos desde un archivo descargado.
 
 ```bash
 rm -r vendor/antonevers/*
 composer install --prefer-source
 ```
 
-Con este comando, los paquetes del área de nombres antonevers se han desprotegido mediante Git. Al introducir el directorio provider/antonevers/module-gra, también está introduciendo el repositorio Git module-gra. Ahora puede crear, desproteger y combinar ramas directamente desde el directorio de proveedores, y así desarrollarlas.
+Con este comando, los paquetes del área de nombres antonevers se han desprotegido mediante Git. Al introducir el directorio provider/antonevers/module-gra, también está introduciendo el repositorio Git module-gra. Ahora puede crear, desproteger y combinar ramas en contexto y desarrollar de este modo, desde el directorio de proveedores.
 
 ### Incluir módulos de terceros en la base de GRA
 
-Agregue paquetes de terceros al metapaquete GRA. Si el código de terceros no está disponible para su instalación en un repositorio de Composer, cree un paquete para él. Cree un repositorio Git, añada el contenido de los paquetes (todo lo que estaría en app/code/Vendor/Package) y asegúrese de que haya un archivo composer.json válido en la raíz del repositorio. Ahora puede instalar este paquete mediante Composer.
+Agregue paquetes de terceros al metapaquete GRA. Si el código de terceros no está disponible para su instalación en un repositorio de Composer, cree un paquete para él. Cree un repositorio Git, añada el contenido de los paquetes (todo lo que hay en app/code/Vendor/Package) y asegúrese de que haya un archivo composer.json válido en la raíz del repositorio. Ahora puede instalar este paquete mediante Composer.
 
 ## Configuración de un repositorio privado de Composer
 
@@ -195,7 +182,7 @@ Un repositorio privado no es obligatorio en la arquitectura de referencia global
 
 Además, algunos repositorios privados ofrecen funcionalidades adicionales, como notificaciones por correo electrónico cuando uno de sus almacenes contiene una vulnerabilidad de seguridad en una de sus dependencias.
 
-El problema de lentitud es lo que ocurre cuando tiene varios repositorios VCS en composer.json. Cada repositorio de Composer debe leerse al realizar actualizaciones y tener 50 repositorios para 50 paquetes tiene al menos 50 veces la sobrecarga de un único repositorio de Composer.
+El problema de lentitud es lo que ocurre cuando tiene varios repositorios VCS en composer.json. Cada repositorio del Compositor debe leerse al realizar actualizaciones y tener 50 repositorios para 50 paquetes tiene una sobrecarga 50 veces mayor que un único repositorio del Compositor.
 
 ![Diagrama que muestra dónde se produce la lentitud cuando falta un repositorio de composición](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
@@ -212,17 +199,16 @@ Hay soluciones que puede configurar y olvidar: Private Packagist <https://packag
 Con los metapaquetes, hay 3 pasos para entregar el código.
 
 1. Combine los cambios en paquetes y cree una versión de los paquetes modificados.
-2. (Optional, only if new packages are added) Require the new packages in metapackages and version the metapackages.
+2. (Opcional, solo si se agregan nuevos paquetes) Requiere los nuevos paquetes en los metapaquetes y la versión de los metapaquetes.
 3. (Opcional, solo si se agregan paquetes nuevos) Requiera los nuevos metapaquetes en Adobe Commerce e implemente.
 
-Deployment scope is controlled with package versions. La creación de una versión estable de un paquete significa que este está listo para la implementación de producción.
+El ámbito de implementación se controla con las versiones de los paquetes. La creación de una versión estable de un paquete significa que este está listo para la implementación de producción.
 
 Para generar una nueva versión, ejecute composer update en el proyecto principal de Composer, que contiene la instalación completa del almacén. Se instalan todas las versiones más recientes de los paquetes.
 
 ## Versiones
 
-El control de versiones en un GRA de paquetes separados es un sinónimo de etiquetado de módulos en Git. Git tags create numbered versions of your packages that Composer installs.
-El método de versiones adecuado permite que los paquetes fluyan automáticamente, sin dejar de ser seguros.
+El control de versiones en un GRA de paquetes separados es un sinónimo de etiquetado de módulos en Git. Las etiquetas Git crean versiones numeradas de los paquetes que instala Composer.El método de versiones adecuado permite que los paquetes fluyan automáticamente, sin dejar de ser seguros.
 
 Dos ejemplos:
 
@@ -258,8 +244,7 @@ Este ejemplo muestra una definición flexible de dependencias. Con `~1.0`, cualq
 
 Tan pronto como publique una nueva versión de cualquiera de los paquetes mencionados, se instalará automáticamente con Composer update.
 
-Aplicar versiones semánticas. Puede aprender todo sobre las versiones semánticas en <https://semver.org/>. En especial, las preguntas frecuentes son de lectura obligatoria. Con las versiones semánticas, los números de &quot;1.0.0&quot; se denominan MAJOR.MINOR.PATCH. Las versiones menores y de parches de un paquete deben introducirse con seguridad sin romper la aplicación.
-You can automatically include patches and manually choose minor upgrades. Be aware that doing so costs you extra overhead by picking each minor change manually:
+Aplicar versiones semánticas. Puede aprender todo sobre las versiones semánticas en <https://semver.org/>. En especial, se recomienda leer las preguntas frecuentes. Con las versiones semánticas, los números de &quot;1.0.0&quot; se denominan MAJOR.MINOR.PATCH. Las versiones menores y de parches de un paquete son seguras de introducir sin romper la aplicación.Puede incluir parches automáticamente y elegir actualizaciones menores de forma manual. Tenga en cuenta que, al hacerlo, se generan costes generales adicionales al seleccionar manualmente cada cambio menor:
 
 ```json
 {
@@ -273,26 +258,25 @@ You can automatically include patches and manually choose minor upgrades. Be awa
 }
 ```
 
-Of course, all this only works if you apply semantic versioning consistently, always. And not only in metapackages, but the requirements of your regular packages should define dependencies loosely too. If you have one strict dependency in your system, that package is limited to the strict definition.
+Por supuesto, todo esto solo funciona si aplica el control de versiones semántico de forma consistente, siempre. Y no solo en los metapaquetes, sino también en los requisitos de los paquetes normales, se definen las dependencias de forma flexible. Si tiene una dependencia estricta en el sistema, ese paquete se limita a la definición estricta.
 
-Find these strict dependencies by typing composer depends \&lt;package name\>. See <https://getcomposer.org/doc/03-cli.md#depends-why> for more information.
+Encuentre estas dependencias estrictas escribiendo composer depends \&lt;nombre del paquete\>. Consulte <https://getcomposer.org/doc/03-cli.md#depends-why> para obtener más información.
 
-## Branching strategy
+## Estrategia de ramas
 
-You can use various branching strategies to support this global reference strategy pattern, provided that the main branch is the only branch where you version your packages. If you version across several branches, it introduces the risk of randomly losing functionality between versions. Only create stable versions on the main branch.
+Puede utilizar varias estrategias de ramificación para admitir este patrón de estrategia de referencia global, siempre que la rama principal sea la única en la que realice la versión de los paquetes. Si realiza la versión en varias ramas, existe el riesgo de perder la funcionalidad aleatoriamente entre versiones. Cree solo versiones estables en la rama principal.
 
-Only create feature branches in your package repositories. Not on your store installation repositories. Remain able to introduce any change to your store just by using Composer. Avoid the necessity of Git merges on the deployment repository.
+Cree únicamente ramas de funciones en los repositorios de paquetes. No en los repositorios de instalación de la tienda. Puede introducir cualquier cambio en su tienda con Composer. Evite la necesidad de combinar Git en el repositorio de implementación.
 
-Branch types that are common in branching strategies and repositories they should exist in:
+Tipos de ramas que son comunes en las estrategias de ramificación y en los repositorios en los que existen:
 
-**Feature branches**: exist in your package repositories, nowhere else.
+**Ramas de características**: existen en sus repositorios de paquetes, en ningún otro lugar.
 
-**Release branches**: are created in any repository: packages, metapackages, store installation repositories. When you plan a release, group changes in release branches of packages before versioning them. Suppose you are preparing a release with the code name &quot;Unicorn&quot;. You can create a release-unicorn branch in packages with changes. Merge anything in there and then require &quot;dev-release-unicorn as 1.4.0&quot; in your metapackage. Learn more about aliases to see what is happening there: <https://getcomposer.org/doc/articles/aliases.md>.
+**Ramas de versiones**: se crean en cualquier repositorio: paquetes, metapaquetes, almacenen repositorios de instalación. Cuando planifique una versión, agrupe los cambios en las ramas de versiones de los paquetes antes de realizar el control de versiones. Imagine que está preparando una versión con el nombre en código &quot;Unicornio&quot;. Puede crear una rama release-unicorn en paquetes con cambios. Combine cualquier cosa allí y luego requiera &quot;dev-release-unicorn as 1.4.0&quot; en su metapaquete. Obtenga más información acerca de los alias para ver lo que está sucediendo allí: <https://getcomposer.org/doc/articles/aliases.md>.
 
-**QA/Dev branches**: similar to release branches.
+**ramas de control de calidad/desarrollo**: similares a las ramas de versiones.
 
-**Main branch**: must exist in every repository and should always be the branch that represents production or a production-ready state. La rama principal es donde se etiqueta el código para publicar versiones.
-Asegúrese de elegir una estrategia de ramificación con poca sobrecarga de mantenimiento. Por ejemplo, volver a combinar la rama principal en las ramas QA, UAT, release o dev después de una versión de revisión es una tarea de mantenimiento general. Cuantos más paquetes, más repositorios y tareas generales más repetitivas.
+**Rama principal**: existe en todos los repositorios y siempre es la rama que representa el estado de producción o listo para la producción. La rama principal es donde se etiqueta el código para publicar versiones.Asegúrese de elegir una estrategia de ramificación con poca sobrecarga de mantenimiento. Por ejemplo, volver a combinar la rama principal en las ramas QA, UAT, release o dev después de una versión de revisión es una tarea de mantenimiento general. Cuantos más paquetes, más repositorios y tareas generales más repetitivas.
 
 Use una herramienta como mixu/gr para realizar operaciones rutinarias en varios repositorios Git en un lote: <https://github.com/mixu/gr>
 
@@ -300,18 +284,18 @@ Use una herramienta como mixu/gr para realizar operaciones rutinarias en varios 
 
 Con el patrón GRA de Paquetes separados, los paquetes son parte de la base GRA si el metapaquete de base los requiere. Agregar o quitar paquetes del metapaquete para moverlos dentro y fuera de la base.
 
-Los metapaquetes proporcionan flexibilidad al ámbito de instalación de los paquetes. Es de suma importancia que los nombres de los envases no contengan ninguna palabra que se refiera al uso previsto del envase. El nombre antonevers/module-gra-store-locator puede resultar confuso cuando decide sacar ese paquete de la base de GRA. Evite el ámbito (GRA, base, local). Evite la región (EMEA, España, Global). Evite definitivamente el nombre de la tienda para la que está creado un paquete. Elija nombres que solo estén relacionados con la funcionalidad agregada en el paquete. De esta forma podrás reutilizarlos donde quieras, también en escenarios futuros imprevistos. El nombre antonevers/module-store-locator sería excelente.
+Los metapaquetes proporcionan flexibilidad al ámbito de instalación de los paquetes. Es de suma importancia que los nombres de los envases no contengan ninguna palabra que se refiera al uso previsto del envase. El nombre antonevers/module-gra-store-locator puede resultar confuso cuando decide sacar ese paquete de la base de GRA. Evite el ámbito (GRA, base, local). Evite la región (EMEA, España, Global). Evite definitivamente el nombre de la tienda para la que está creado un paquete. Elija nombres que solo estén relacionados con la funcionalidad agregada en el paquete. De esta forma podrás reutilizarlas en cualquier entorno, también en escenarios futuros imprevistos. El nombre antonevers/module-store-locator sería excelente.
 
 Asegúrese de que los paquetes relacionados se muestren juntos en las descripciones generales. Generar nombres de genéricos a específicos. Entonces, antonevers/module-b2b-tax-exento en lugar de antonevers/tax-exento-module-b2b.
 
 ## Ejemplos de código
 
-Los ejemplos de código de esta publicación de blog se han combinado en un conjunto de repositorios Git, que puede utilizar para jugar con la prueba de concepto.
+Los ejemplos de código de este artículo se han combinado en un conjunto de repositorios Git, que puede utilizar para explorar la prueba de concepto.
 
 * Un almacén de producción de ejemplo: <https://github.com/AntonEvers/gra-separate-brand-x>
 * Un ejemplo de módulo base: <https://github.com/AntonEvers/module-example-gra>
 * Un ejemplo de módulo de terceros: <https://github.com/AntonEvers/module-example-3rdparty>
-* An example local module: <https://github.com/AntonEvers/module-example-local>
-* An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
-* An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
-* An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>
+* Ejemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
+* Un ejemplo de metapaquete base: <https://github.com/AntonEvers/gra-meta-foundation>
+* Un ejemplo de metapaquete local (opcional): <https://github.com/AntonEvers/gra-meta-brand-x>
+* Un ejemplo de repositorio del Compositor: <https://github.com/AntonEvers/gra-composer-repository>
