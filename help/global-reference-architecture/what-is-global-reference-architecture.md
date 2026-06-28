@@ -1,17 +1,14 @@
 ---
-title: Introduction to the concept of Global Reference Architecture
-description: Learn about the technique used for managing complex commerce projects called Global Reference Architecture
-landing-page-description: Learn about Global Reference Architecture and how it is used with Adobe Commerce
-kt: 14039
-doc-type: video
-duration: 1165
-audience: all
-last-substantial-update: 2023-9-27
+title: Introducción al concepto de arquitectura de referencia global
+description: Conozca la técnica utilizada para administrar proyectos de comercio complejos llamada Arquitectura de referencia global
+jira: KT-14039
+doc-type: Value Video
+duration: 1143
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
 TQID: https://experienceleague.adobe.com/dxP-u56ARgMmP8DD5-upAzhzQYieMLN0GPvdnrc-DR8
 product_v2:
@@ -29,28 +26,28 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 87
+source-wordcount: 74
 ht-degree: 1%
 
 ---
 
-# Global Reference Architecture
+# Arquitectura de referencia global
 
-Learn about Global Reference Architecture, some core concepts, and benefits for this approach.
+Obtenga información acerca de la arquitectura de referencia global, algunos conceptos básicos y las ventajas de este enfoque.
 
 ## Público
 
-* Anyone needing to understand this concept.
-* Large projects with multiple brands
+* Cualquiera que necesite entender este concepto.
+* Proyectos grandes con varias marcas
 
-## Video content
+## Contenido de vídeo
 
-* Overview of Global Reference Architecture
-* Key benefits
-* Overall considerations that must be considered
-* How to tell if GRA is a viable option
+* Descripción general de la arquitectura de referencia global
+* Ventajas principales
+* Consideraciones generales que deben abordarse
+* Cómo saber si GRA es una opción viable
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454696?captions=spa&learn=on)
 

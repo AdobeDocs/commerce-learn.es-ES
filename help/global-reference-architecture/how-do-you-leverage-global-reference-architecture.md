@@ -1,17 +1,14 @@
 ---
 title: Cómo aprovechar la arquitectura de referencia global
 description: Aprenda a aprovechar una arquitectura de referencia global para establecer una experiencia comercial escalable y flexible
-landing-page-description: Obtenga información acerca de la arquitectura de referencia global y cómo se utiliza con Adobe Commerce
-kt: 14040
-doc-type: video
-duration: 1833
-audience: all
-last-substantial-update: 2023-9-27
+jira: KT-14040
+doc-type: Value Video
+duration: 1817
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
 TQID: https://experienceleague.adobe.com/TrXRXs3ZSuBgwQvua-27DM5tc9Y4EfxlLzobqGiVxns
 product_v2:
@@ -31,16 +28,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 128
+source-wordcount: 113
 ht-degree: 0%
 
 ---
 
 # Aprovechamiento de la arquitectura de referencia global
 
-Aprenda a aprovechar la arquitectura de referencia global o GRA para abreviar. Para preparar mejor un GRA para una implementación exitosa, los expertos de Adobe analizan las diferentes fases del proyecto y detallan la fase de descubrimiento. Se analizan los recursos de control de calidad y cómo son un recurso valioso para una implementación de GRA.
+Aprenda a aprovechar la arquitectura de referencia global o GRA. Con el fin de preparar mejor un GRA para una implementación exitosa, los expertos de Adobe analizan las diferentes fases del proyecto y detallan la fase de descubrimiento. Se analizan los recursos de control de calidad y por qué son un recurso valioso para una implementación de GRA.
 
 ## Público
 
