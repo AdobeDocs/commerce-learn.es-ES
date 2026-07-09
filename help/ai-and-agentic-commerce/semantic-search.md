@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
+source-git-commit: 676b83020173983f2045c715e3b3ee28f7bb1c6b
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -26,14 +26,16 @@ La búsqueda tradicional de palabras clave coincide con palabras exactas, pero l
 
 ## Contenido de vídeo
 
-* Selección de atributos para que la búsqueda semántica comprenda su catálogo
-* Configuración de prioridad para ponderar las señales más relevantes para la coincidencia de intención del comprador
-* Indexación automática de catálogos que transforma los datos del producto en señales semánticas.
-* Aumento de resultados, umbrales de similitud y configuración de búsqueda parcial
+* Introducción a la búsqueda semántica y cómo mejora el descubrimiento de productos
+* Cómo habilitar la búsqueda semántica en la configuración de Live Search
+* Qué pueden esperar los comerciantes después de habilitar la búsqueda semántica
+* Indexación automática de catálogos y comprensión de los datos de productos mediante IA
+* Ejemplos reales de la intención del comprador y de la relevancia de búsqueda mejorada
+* Ventajas clave: mayor relevancia, menos búsquedas sin resultados y mejores experiencias de comprador
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492308?captions=spa)
 
 ## Recursos adicionales
 
-&#x200B;- Para implementaciones en Adobe Commerce en la nube, en Prem y en Adobe Commerce as a Cloud Service, consulte [[!DNL Live Search] búsqueda semántica](https://experienceleague.adobe.com/es/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} en la _Guía de Live Search_.
-&#x200B;- Para implementaciones que usan Adobe Commerce Optimizer, consulte [Configuración - Búsqueda avanzada](https://experienceleague.adobe.com/es/docs/commerce/optimizer/settings#advanced-search){target="_blank"} en la _Guía de Commerce Optimizer_.
+&#x200B;- Para implementaciones en Adobe Commerce en la nube, local y Adobe Commerce as a Cloud Service, consulte [[!DNL Live Search] búsqueda semántica](https://experienceleague.adobe.com/es/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} en la _Guía de Live Search_.
+&#x200B;- Para implementaciones que usan Adobe Commerce Optimizer, consulte [Búsqueda semántica](https://experienceleague.adobe.com/es/docs/commerce/optimizer/setup/semantic-search){target="_blank"} en la _Guía de Commerce Optimizer_.
