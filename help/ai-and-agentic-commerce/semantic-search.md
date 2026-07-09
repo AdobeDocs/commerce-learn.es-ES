@@ -33,7 +33,7 @@ La búsqueda tradicional de palabras clave coincide con palabras exactas, pero l
 * Ejemplos reales de la intención del comprador y de la relevancia de búsqueda mejorada
 * Ventajas clave: mayor relevancia, menos búsquedas sin resultados y mejores experiencias de comprador
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492308?captions=spa)
 
 ## Recursos adicionales
 
