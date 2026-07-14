@@ -46,7 +46,7 @@ Obtenga información sobre cómo crear un vale de soporte en Adobe Experience Le
 * Descubra cómo cambian los artículos recomendados en función de la información utilizada en el formulario
 * Cómo ayuda el texto de marcador de posición encontrado en los campos del formulario a comprender el tipo de información necesaria para una buena solicitud de asistencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449556?captions=spa&learn=on)
 
 ## Guía del Centro de ayuda de Adobe de la Base de conocimiento de Commerce
 

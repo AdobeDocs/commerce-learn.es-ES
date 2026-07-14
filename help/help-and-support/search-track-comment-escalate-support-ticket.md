@@ -38,7 +38,7 @@ Obtenga información sobre cómo buscar, revisar, comentar y enviar un ticket de
 * Obtenga información sobre cómo agregar un comentario a un ticket de asistencia abierto
 * Descubra cómo y algunas razones para escalar un ticket de asistencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445314?captions=spa&learn=on)
 
 ## Guía del Centro de ayuda de Adobe de la Base de conocimiento de Commerce
 
