@@ -42,4 +42,4 @@ Obtenga información sobre cómo buscar, revisar, comentar y enviar un ticket de
 
 ## Guía del Centro de ayuda de Adobe de la Base de conocimiento de Commerce
 
-[Envío de un caso de asistencia](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Envío de un caso de asistencia](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
