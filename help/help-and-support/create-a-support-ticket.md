@@ -1,10 +1,10 @@
 ---
 title: Creación de una solicitud de asistencia
-description: Obtenga información sobre cómo crear un vale de soporte para Adobe Commerce en Experience League
+description: Obtenga información sobre cómo crear un vale de soporte para Adobe Commerce en Adobe Experience League, incluido cómo rellenar campos de formulario dinámico y crear contactos de CC.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 355
 last-substantial-update: 2024-08-23T00:00:00.000Z
@@ -20,35 +20,34 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 6001d4daa94035f4165a760bd97d4be1d5c0f319
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: 166
 ht-degree: 0%
 
 ---
 
-# Uso de Experience League para crear un ticket de asistencia
+# Uso de Adobe Experience League para crear un ticket de asistencia
 
-Obtenga información sobre cómo crear un vale de soporte en Experience League para Adobe Commerce.
+Obtenga información sobre cómo crear un vale de soporte en Adobe Experience League para Adobe Commerce.
 
 ## ¿Para quién es este vídeo?
 
-* Cualquiera que tenga la capacidad de crear solicitudes de soporte para Adobe Commerce en Experience League
+* Usuarios que tienen la capacidad de crear solicitudes de asistencia para Adobe Commerce en Adobe Experience League
 
 ## Contenido de vídeo {#video-content}
 
-* Obtenga información sobre cómo iniciar sesión en Experience League
+* Obtenga información sobre cómo iniciar sesión en Adobe Experience League
 * Obtenga información acerca de los elementos de formulario dinámico al crear un nuevo vale de soporte
-* Descubra cómo cambian los artículos recomendados según la información utilizada en el formulario
-* Comprender cómo el texto de marcador de posición encontrado en los campos del formulario ayuda a comprender el tipo de información necesaria para una buena solicitud de soporte técnico
+* Descubra cómo cambian los artículos recomendados en función de la información utilizada en el formulario
+* Cómo ayuda el texto de marcador de posición encontrado en los campos del formulario a comprender el tipo de información necesaria para una buena solicitud de asistencia
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449556?captions=spa&learn=on)
 
-## Guía del centro de ayuda de Commerce Knowledge Base
+## Guía del Centro de ayuda de Adobe de la Base de conocimiento de Commerce
 
-[Envío de un caso de asistencia](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Envío de un caso de asistencia](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
