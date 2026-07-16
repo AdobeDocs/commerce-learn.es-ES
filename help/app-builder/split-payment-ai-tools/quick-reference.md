@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 
 ## Referencia archivo por archivo
 
-### [Crear un POC de pago dividido: herramientas de App Builder e IA](./overview.md)
+### Crear un POC de pagos divididos: Herramientas de App Builder e IA
+
+[Crear un POC de pagos divididos: Herramientas de App Builder e IA](./overview.md)
 
 **Propósito:** Introducción y orientación para el tutorial.
 
@@ -32,8 +34,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** Sección de apertura. Establece el contexto antes de cualquier paso técnico.
 
 
-### [POC de pago dividido: decisiones de arquitectura y diseño](./architecture-and-decisions.md)
+### POC de pagos divididos: decisiones de arquitectura y diseño
 
+[POC de pagos divididos: decisiones de arquitectura y diseño](./architecture-and-decisions.md)
 
 **Propósito:** explicación detallada de cada decisión arquitectónica en el PoC.
 
@@ -50,8 +53,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso de tutorial:** sección &quot;Arquitectura&quot; o &quot;Cómo funciona&quot;. Los desarrolladores de Commerce experimentados pueden omitirlo, pero es esencial para los recién llegados a App Builder.
 
 
-### [POC de pago dividido: requisitos previos y configuración del entorno](./prerequisites-and-setup.md)
+### POC de pagos divididos: requisitos previos y configuración del entorno
 
+[POC de pagos divididos: requisitos previos y configuración del entorno](./prerequisites-and-setup.md)
 
 **Propósito:** Complete la lista de comprobación previa al vuelo antes de escribir código o de ejecutar mensajes.
 
@@ -66,8 +70,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** Sección &quot;Requisitos previos&quot; o &quot;Introducción&quot;. Debe completarse de forma interactiva, no solo leerse.
 
 
-### [POC de pago dividido: referencia de variables de entorno](./env-reference.md)
+### POC de pagos divididos: referencia de variables de entorno
 
+[POC de pagos divididos: referencia de variables de entorno](./env-reference.md)
 
 **Propósito:** todas las variables de entorno para los tres componentes en un solo lugar.
 
@@ -82,8 +87,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** Barra lateral de referencia o sección &quot;Configuración&quot;. También se utiliza como complemento de las indicaciones de compilación.
 
 
-### [POC de pago dividido: petición de API del módulo Commerce](./commerce-module-prompt.md)
+### POC de pago dividido: petición de API del módulo Commerce
 
+[POC de pago dividido: petición de API del módulo Commerce](./commerce-module-prompt.md)
 
 **Propósito:** Mensaje de IA completo e independiente para generar todo el módulo PHP `Client_SplitPayment`.
 
@@ -101,8 +107,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** sección &quot;Generar el módulo Commerce&quot;. El indicador en sí es el artefacto: los desarrolladores lo copian en su herramienta de IA y lo ejecutan.
 
 
-### [POC de pago dividido: petición de App Builder orchestrator AI](./orchestrator-prompt.md)
+### POC de pago dividido: petición de App Builder orchestrator AI
 
+[POC de pago dividido: petición de App Builder orchestrator AI](./orchestrator-prompt.md)
 
 **Propósito:** Mensaje de IA completo e independiente para generar la aplicación de App Builder `split-payment-orchestrator`.
 
@@ -120,8 +127,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** sección &quot;Generar la aplicación de App Builder&quot;. Acompañante del mensaje del módulo de Commerce.
 
 
-### [POC de pago dividido: solicitud de API de la extensión de IU de Experience Cloud](./experience-cloud-ui-prompt.md)
+### POC de pagos divididos: petición de API de la extensión de IU de Experience Cloud
 
+[POC de pagos divididos: petición de API de la extensión de IU de Experience Cloud](./experience-cloud-ui-prompt.md)
 
 **Propósito:** petición de datos de IA para generar la extensión opcional SDK de la IU de administración de Experience Cloud.
 
@@ -137,8 +145,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** Sección opcional &quot;Yendo más lejos&quot; o &quot;Ruta de producción&quot;. Se puede omitir si el tutorial se centra únicamente en el PoC.
 
 
-### [POC de pago dividido: guía de prueba y verificación](./testing-and-verification.md)
+### POC de pago fraccionado: guía de prueba y verificación
 
+[POC de pago fraccionado: guía de prueba y verificación](./testing-and-verification.md)
 
 **Propósito:** Guía de pruebas paso a paso que cubre todos los componentes en el orden de verificación correcto.
 
@@ -160,8 +169,9 @@ Esta página resume cómo se organiza la serie de tutoriales de prueba de concep
 **Uso del tutorial:** Sección &quot;Pruebas&quot; o &quot;Verificación&quot;. También es útil como referencia para la resolución de problemas.
 
 
-### [POC de pago dividido: pasos siguientes después de la prueba de concepto](./next-steps.md)
+### POC de pagos divididos: pasos siguientes después de la prueba de concepto
 
+[POC de pagos divididos: pasos siguientes después de la prueba de concepto](./next-steps.md)
 
 **Propósito:** hoja de ruta para convertir el PoC en patrones listos para la producción.
 
