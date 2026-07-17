@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -62,7 +62,9 @@ Antes de empezar, recopile todos los valores necesarios de [Experience Cloud](ht
 
 Los detalles de la instancia contienen elementos como su ID de instancia, puntos de conexión de GraphQL o credenciales.
 
-### Detalles del desarrollador: [developer.adobe.com/console](https://developer.adobe.com/console/)
+### Detalles del desarrollador: developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 En Developer Console es donde administra las credenciales de la API, incluidos los ID de cliente, los secretos de cliente y los tokens de acceso. También puede crear nuevos tipos de credenciales, como autenticación de servidor a servidor o de aplicación nativa.
 
