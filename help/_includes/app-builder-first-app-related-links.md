@@ -1,24 +1,24 @@
 ---
 title: Páginas relacionadas con la primera aplicación de App Builder
 description: Vínculos a páginas relacionadas en la sección Primera aplicación de App Builder
-source-git-commit: 021098545e4666f43f02452358464701f30002fd
+source-git-commit: 9f538a231ac017a77092aecc912aab99ef0e6d9a
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 2%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
-# Vínculos relacionados con la aplicación App Builder First
+# Vínculos relacionados con la primera aplicación de App Builder
 
-## App Builder: Creación de sus primeras páginas relacionadas con la aplicación
+## App Builder: Primeras páginas relacionadas con la aplicación
 
-* [Información general](../app-builder/first-app/overview.md)
-* [El &#x200B;](../app-builder/first-app/env-file.md)
-* [El &#x200B;](../app-builder/first-app/app-config-yaml-file.md)
-* [&quot;actions&quot;](../app-builder/first-app/actions-folder.md)
-* [`test`](../app-builder/first-app/test-folder.md)
-* [&quot;web-src&quot;](../app-builder/first-app/web-src-folder.md)
-* [Pruebas locales](../app-builder/first-app/testing-locally.md)
-* [Pruebas mediante la URL de App Builder](../app-builder/first-app/testing-app-builder-url.md)
-* [Conclusión](../app-builder/first-app/conclusion.md)
+* [Información general](/help/app-builder/first-app/overview.md)
+* [El archivo `.env`](/help/app-builder/first-app/env-file.md)
+* [El archivo `app.config.yaml`](/help/app-builder/first-app/app-config-yaml-file.md)
+* [`actions` carpeta](/help/app-builder/first-app/actions-folder.md)
+* [`test` carpeta](/help/app-builder/first-app/test-folder.md)
+* [`web-src` carpeta](/help/app-builder/first-app/web-src-folder.md)
+* [Pruebas locales](/help/app-builder/first-app/testing-locally.md)
+* [Pruebas mediante la URL de App Builder](/help/app-builder/first-app/testing-app-builder-url.md)
+* [Conclusión](/help/app-builder/first-app/conclusion.md)
 * [Código fuente del módulo de ejemplo](https://github.com/magento/app-builder-samples){target="_blank"}
