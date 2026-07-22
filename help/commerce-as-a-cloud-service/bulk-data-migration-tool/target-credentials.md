@@ -33,4 +33,4 @@ Establezca las direcciones URL de la instancia de destino, las credenciales de A
 * Recupere el ID de cliente IMS de Adobe y el secreto de cliente de **Project** > **OAuth Server-to-Server** en Adobe Developer Console.
 * Copie el ID de organización de destino y configure el host de CDMS, el puerto y el servidor local para que coincidan con su entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496170?captions=spa&learn=on)
