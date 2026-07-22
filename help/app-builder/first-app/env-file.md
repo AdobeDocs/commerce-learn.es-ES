@@ -44,7 +44,7 @@ ht-degree: 0%
 * Para agregar nuevos secretos, anexe el archivo
 * Evite confirmar este archivo porque contiene información confidencial
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421066?captions=spa&learn=on)
 
 ## Ejemplo de código
 
