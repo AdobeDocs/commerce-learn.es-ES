@@ -41,7 +41,7 @@ Este punto de partida se puede ampliar para crear pruebas completas para las apl
 * Una breve explicación del archivo de prueba unitaria y sus componentes
 * Introducción a las pruebas de extremo a extremo
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421060?captions=spa&learn=on)
 
 ## Ejemplos de código
 
