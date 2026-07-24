@@ -1,17 +1,13 @@
 ---
 title: Obtenga información sobre cómo instalar eventos de IO para Adobe Commerce 2.4.6
 description: Obtenga información sobre cómo instalar los módulos necesarios para eventos de E/S en Adobe Commerce 2.4.6 para utilizarlos en Adobe Developer App Builder
-landing-page-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.6.
-short-description: Obtenga información sobre cómo instalar varios módulos necesarios para Adobe Commerce 2.4.6.
-kt: 11887
-doc-type: tutorial
-duration: 167
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11887
+doc-type: Tutorial
+duration: 136
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
@@ -26,18 +22,18 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: 141
 ht-degree: 0%
 
 ---
 
 # Instalación de Adobe Commerce 2.4.6
 
-Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.6. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
-## ¿Para quién es este vídeo?
+## Destinatarios previstos
 
 * Desarrolladores nuevos en Adobe Commerce y Adobe Developer App Builder que utilizan eventos de I/O.
 
@@ -51,7 +47,7 @@ Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commer
 
 ## Comandos útiles {#useful-commands}
 
-Existen varios comandos que difieren ligeramente, según si se encuentra en un entorno autoalojado o utiliza Adobe Commerce Cloud.
+Existen varios comandos que difieren ligeramente, en función de si se encuentra en un entorno autoalojado o utiliza Adobe Commerce Cloud.
 
 ### Alojamiento local {#on-premise}
 
@@ -78,4 +74,5 @@ stage:
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

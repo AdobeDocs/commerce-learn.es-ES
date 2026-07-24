@@ -1,16 +1,12 @@
 ---
-title: Introducción a los eventos de E/S con Adobe App Builder y Adobe Commerce
-description: Introducción a Adobe I/O Events. Cree una acción de tiempo de ejecución de App Builder para eventos de Adobe Commerce.
-landing-page-description: Aprenda a utilizar la acción de tiempo de ejecución de App Builder para los eventos de Adobe Commerce.
-short-description: Creación de una acción de tiempo de ejecución de App Builder para eventos de Adobe Commerce.
-kt: 14583
-doc-type: tutorial
-duration: 750
-audience: all
-last-substantial-update: 2023-11-27T00:00:00.000Z
+title: Introducción a los eventos de I/O para Commerce y App Builder
+description: Obtenga información sobre cómo empezar a usar Adobe I/O Events creando una acción de tiempo de ejecución de App Builder para eventos de Adobe Commerce.
+jira: KT-14583
+doc-type: Tutorial
+duration: 725
+last-substantial-update: 2023-11-27
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
@@ -25,25 +21,25 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 151
 ht-degree: 0%
 
 ---
 
 # Introducción a los eventos de E/S para Adobe Commerce
 
-Obtenga información sobre los eventos de Adobe I/O. En esta demostración, se envía un evento de Adobe Commerce a un canal de Slack mediante Adobe Developer App Builder y el evento de Adobe Commerce.
+Obtenga información sobre Adobe I/O Events. En esta demostración, se envía un evento de Adobe Commerce a un canal de Slack mediante Adobe Developer App Builder.
 
 ## ¿Para quién es este vídeo?
 
-* Los desarrolladores aprenden a crear aplicaciones impulsadas por eventos con Adobe Commerce y Adobe IO Events.
+* Los desarrolladores aprenden a crear aplicaciones impulsadas por eventos con Adobe Commerce y Adobe I/O Events.
 
 ## Contenido de vídeo {#video-content}
 
-* Obtenga información sobre los eventos de Adobe IO
-* Comprender los diferentes puntos finales de los eventos de Adobe IO, incluido Amazon EventBridge
+* Más información sobre Adobe I/O Events
+* Comprender los diferentes extremos de Adobe I/O Events, incluido Amazon EventBridge
 * Obtenga información sobre cómo configurar un proyecto de App Builder
 * Uso de comandos de Adobe I/O en la CLI
 * Creación de una acción de tiempo de ejecución para controlar eventos
@@ -56,4 +52,5 @@ Obtenga información sobre los eventos de Adobe I/O. En esta demostración, se e
 [Libro de Adobe I/O Events](../assets/io-events/IO-Events-Workbook.pdf)
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

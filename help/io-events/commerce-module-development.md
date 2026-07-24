@@ -1,16 +1,12 @@
 ---
-title: Obtenga información sobre cómo crear un módulo en Adobe Commerce para utilizar eventos.
+title: Creación de un módulo de Adobe Commerce para utilizar eventos de E/S
 description: Obtenga información sobre cómo crear un módulo de Commerce para utilizar eventos.
-landing-page-description: Obtenga información sobre cómo crear un módulo de Adobe Commerce para utilizar eventos.
-short-description: Obtenga información sobre cómo crear un módulo de Adobe Commerce para utilizar eventos.
-kt: 11891
-doc-type: tutorial
-duration: 348
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11891
+doc-type: Tutorial
+duration: 314
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
@@ -25,16 +21,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 140
 ht-degree: 0%
 
 ---
 
 # Desarrollo del módulo Adobe Commerce
 
-Obtenga información sobre cómo registrar eventos, buscar eventos admitidos y cómo utilizar un nuevo archivo XML `io_events.xml` en el desarrollo de módulos personalizados. El vídeo también mostrará a los desarrolladores cómo encontrar eventos registrados que se pueden utilizar, así como cancelar la suscripción de cualquier evento que ya esté definido. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo registrar eventos, buscar eventos compatibles y utilizar un nuevo archivo XML `io_events.xml` en el desarrollo de módulos personalizados. El vídeo también muestra a los desarrolladores cómo buscar eventos registrados para utilizar y cómo quitar eventos que ya están definidos. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -42,7 +38,7 @@ Obtenga información sobre cómo registrar eventos, buscar eventos admitidos y c
 
 ## Contenido de vídeo {#video-content}
 
-* Registro de eventos en Commerce para su uso en Adobe Developer App Builder
+* Registro de eventos de Commerce para Adobe Developer App Builder
 * Identificar eventos que se pueden registrar
 * Obtenga información sobre cómo registrar eventos en io_events.xml
 * Obtenga información sobre cómo registrar eventos en las instancias de Commerce `app/etc/config.php`
@@ -67,4 +63,5 @@ bin/magento events:list
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

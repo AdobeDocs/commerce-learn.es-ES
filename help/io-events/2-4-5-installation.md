@@ -1,17 +1,13 @@
 ---
 title: Obtenga información sobre cómo instalar eventos de IO para Adobe Commerce 2.4.5
 description: Obtenga información sobre cómo instalar los módulos necesarios para eventos de E/S en Adobe Commerce 2.4.5 para utilizarlos en Adobe Developer App Builder
-landing-page-description: Aprenda a instalar varios módulos necesarios para Adobe Commerce 2.4.5 con Composer.
-short-description: Aprenda a instalar varios módulos necesarios para Adobe Commerce 2.4.5 con Composer.
-kt: 11886
-doc-type: tutorial
-duration: 214
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11886
+doc-type: Tutorial
+duration: 179
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
@@ -26,16 +22,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
 # Instalación de Adobe Commerce 2.4.5
 
-Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.5. Esto configura los módulos necesarios para utilizarlos en la aplicación de Adobe Commerce. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commerce mediante Composer para la versión 2.4.5. Esto configura los módulos necesarios para utilizarlos en la aplicación de Adobe Commerce. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -50,9 +46,9 @@ Obtenga información sobre cómo instalar varios módulos nuevos en Adobe Commer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419826?captions=spa&learn=on)
 
-## Comandos útiles {#useful-commands}
+## Comandos disponibles {#useful-commands}
 
-Existen varios comandos que difieren ligeramente, según si se encuentra en un entorno autoalojado o utiliza Adobe Commerce Cloud.
+Existen varios comandos que difieren ligeramente, en función de si se encuentra en un entorno autoalojado o utiliza Adobe Commerce Cloud.
 
 ### Alojamiento local {#on-premise}
 
@@ -87,4 +83,5 @@ stage:
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

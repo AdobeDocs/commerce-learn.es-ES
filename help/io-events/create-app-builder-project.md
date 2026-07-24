@@ -1,16 +1,12 @@
 ---
-title: Obtenga información sobre cómo crear un proyecto de App Builder con eventos de Commerce
+title: Creación de un proyecto de App Builder con eventos de Commerce
 description: Obtenga información sobre cómo crear un proyecto de App Builder para utilizarlo con eventos de Commerce
-landing-page-description: Obtenga información sobre cómo crear un proyecto de Adobe App Builder para utilizar eventos de Adobe Commerce
-short-description: Obtenga información sobre cómo crear un proyecto de Adobe App Builder para utilizar eventos de Adobe Commerce
-kt: 11888
-doc-type: tutorial
-duration: 372
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11888
+doc-type: Tutorial
+duration: 342
+last-substantial-update: 2023-02-22
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
@@ -25,16 +21,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 105
 ht-degree: 0%
 
 ---
 
 # Creación de un proyecto de App Builder
 
-Obtenga información sobre cómo crear un proyecto de Adobe Developer App Builder para consumir eventos de Adobe Commerce. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Obtenga información sobre cómo crear un proyecto de Adobe Developer App Builder para consumir eventos de Adobe Commerce. Encontrará documentación adicional en [Instalar Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## ¿Para quién es este vídeo?
 
@@ -61,4 +57,5 @@ aio app run
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 
