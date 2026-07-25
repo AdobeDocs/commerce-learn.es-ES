@@ -33,4 +33,4 @@ Configure la conexión de base de datos de origen en el archivo `.my.cnf` antes 
 * Utilice los comandos del túnel CLI de Magento Cloud para obtener los valores de host, usuario, contraseña, puerto y base de datos.
 * Confirme la conectividad de host y puerto antes de ejecutar la herramienta si el origen es local.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496160?captions=spa&learn=on)

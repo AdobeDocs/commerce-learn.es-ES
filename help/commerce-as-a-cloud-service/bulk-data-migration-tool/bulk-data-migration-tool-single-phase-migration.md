@@ -34,4 +34,4 @@ Ejecute una migración de una sola fase cuando su entorno de origen pueda perman
 * Compruebe el informe de resumen de la migración: el paso 8 (verificación de la integridad de los datos) registra los errores sin detener la canalización, de modo que una ejecución completada no garantiza una verificación limpia.
 * Este comando de una sola fase es una canalización completa e independiente; no lo utilice como paso dentro del flujo de trabajo del modo de mantenimiento (migración por fases), que tiene sus propios comandos dedicados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496319?captions=spa&learn=on)
