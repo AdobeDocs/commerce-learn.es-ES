@@ -33,4 +33,4 @@ Establezca la URL de instancia de origen y las credenciales de autenticación en
 * Para generar los cuatro tokens necesarios, active la integración.
 * Recupere el token de CLI de Magento de account.magento.cloud si su fuente es Adobe Commerce as a Cloud Service (PaaS).
 
->[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496145?captions=spa&learn=on)

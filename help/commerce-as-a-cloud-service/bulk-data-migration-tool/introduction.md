@@ -33,4 +33,4 @@ Prepare Docker y acceda a la herramienta de migración masiva de datos para migr
 * Extraiga el paquete de herramientas y establezca los permisos de carpeta correctos.
 * Revise el archivo `.env.example` configurado en los siguientes vídeos de esta serie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496125?captions=spa&learn=on)
