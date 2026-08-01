@@ -32,4 +32,4 @@ Ejecute una migración de varias fases cuando el entorno de origen deba congelar
 * La fase uno se ejecuta mientras el origen sigue activo: `bin console migration:before-maintenance` comprueba la configuración, inicializa el entorno, se conecta a CDMS, registra la migración, ejecuta pruebas funcionales y crea datos de prueba sintéticos. No activar el modo de mantenimiento hasta que finalice esta fase.
 * La fase tres es la extracción de un entorno congelado: `bin/console migration:during-maintenance` vuelve a abrir los túneles PaaS si es necesario, extrae del origen, limpia las vistas de ensayo, carga en el destino ACCS, ejecuta la verificación y limpia los datos de prueba en el destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496416?captions=spa&learn=on)
