@@ -1,9 +1,9 @@
 ---
 title: Páginas relacionadas con la arquitectura de referencia global
 description: Enlaces a páginas relacionadas en GRA
-source-git-commit: 2a7ad32a6cab1236b94e3ba988cbc06e1046daec
+source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## Recursos relacionados
 
-* [Arquitectura de referencia global](../global-reference-architecture/what-is-global-reference-architecture.md)
-* [Cómo aprovechar la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-* [¿Cómo crea la arquitectura de referencia global?](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-* [Implementación de la arquitectura de referencia global](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+* [¿Qué es la arquitectura de referencia global?](../global-reference-architecture/what-is-global-reference-architecture.md)
+* [Cómo utilizar la arquitectura de referencia global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
+* [Cómo crear la arquitectura de referencia global](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
+* [Implementación de la arquitectura de referencia global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
