@@ -42,6 +42,6 @@ Aprenda a utilizar el descuento por artículo de línea y vea los valores con Gr
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420419?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430577?captions=spa&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
