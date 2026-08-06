@@ -3,12 +3,12 @@ title: Sesión de arquitectura sin encabezado 1
 description: Obtenga información acerca la arquitectura sin encabezado, el comercio componible y las experiencias personalizadas con Adobe Commerce, y explore las ventajas de una tienda disociada.
 jira: KT-13144
 doc-type: Value Video
-duration: 1952
-last-substantial-update: 2023-04-25T00:00:00.000Z
+duration: 1951
+last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-role: Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer
+level: Beginner
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 TQID: https://experienceleague.adobe.com/f-pR5V-DQaw-dn5KrcD1jrtb5kZq2EHKNgsnHwdzUaE
 product_v2:
@@ -30,7 +30,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 58b3a0c27f74abac23412518e4a5747bbe4cf240
+source-git-commit: 1306693fd0e2277c671adb2d609de2533a2a13ae
 workflow-type: tm+mt
 source-wordcount: 141
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 # Arquitectura sin encabezado de Adobe Commerce
 
-Información general de alto nivel sobre el historial de Adobe Commerce y cómo se han estado moviendo las cosas para admitir totalmente el sin encabezado. Entre las ventajas de la arquitectura sin encabezado se incluyen la paridad entre puntos de contacto, la separación de las actividades de desarrollo, la escalabilidad mejorada y las ventajas adicionales.
+Información general de alto nivel sobre el historial de Adobe Commerce y cómo ha evolucionado la plataforma para admitir completamente el sin encabezado. Entre las ventajas de la arquitectura sin encabezado se incluyen la paridad entre puntos de contacto, la separación de las actividades de desarrollo, la escalabilidad mejorada y las ventajas adicionales.
 
 ## Qué va a aprender
 

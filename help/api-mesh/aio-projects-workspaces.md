@@ -4,13 +4,13 @@ description: Aprenda a utilizar Adobe Developer Console para trabajar con proyec
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2023-02-08T00:00:00Z
+last-substantial-update: 2026-08-03T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+source-git-commit: 8155d699c1dd34cba776ffb928ab2d835b5a4d4b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Este tutorial analiza la creación de un proyecto y un espacio de trabajo para c
 
 ## Obtenga información acerca de Adobe Developer Console
 
-En Adobe Developer Console, la jerarquía siguiente representa la organización de las API en su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre Adobe App Builder, el inicio de sesión en la consola y la solución de problemas básica, visita [Creación de tu primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
+En Adobe Developer Console, la jerarquía siguiente describe cómo están organizadas las API dentro de su organización: `Organization > Project > Workspace > [API]`. Para obtener más información sobre Adobe App Builder, el inicio de sesión en la consola y la solución de problemas básica, visita [Creación de tu primera aplicación de App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introducción a los proyectos en Adobe Developer Console
 
