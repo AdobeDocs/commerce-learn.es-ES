@@ -54,5 +54,5 @@ Si la función Catálogo compartido está activada en la configuración, el cat�
 
 ## Recursos adicionales
 
-* [Uso de catálogos compartidos](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [Crear un catálogo compartido](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [Uso de catálogos compartidos](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [Crear un catálogo compartido](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
