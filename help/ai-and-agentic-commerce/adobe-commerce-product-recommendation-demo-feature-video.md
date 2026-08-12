@@ -33,4 +33,4 @@ Adobe Commerce permite a los usuarios añadir recomendaciones de productos basad
 * Exclusión de productos agotados y de existencias bajas, con un umbral de existencias configurable
 * Activar la recomendación y confirmar que aparece en el PDP
 
->[!VIDEO](https://video.tv.adobe.com/v/3484916?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3484913)
