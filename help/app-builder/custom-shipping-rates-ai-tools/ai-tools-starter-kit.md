@@ -10,7 +10,7 @@ duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -34,8 +34,7 @@ Descubra cómo utilizar las herramientas de Adobe con tecnología de IA para opt
 * Las herramientas de MCP exponen comandos y datos que el agente utiliza para planificar y generar código.
 * La IA automatiza los requisitos, la arquitectura y las decisiones de implementación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481347?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
-
 
