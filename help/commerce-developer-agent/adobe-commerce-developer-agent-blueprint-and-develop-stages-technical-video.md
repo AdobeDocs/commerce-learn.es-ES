@@ -35,7 +35,7 @@ Las fases de modelo y desarrollo son el lugar en el que una regla en inglés sin
 * Generación, prueba y autocorrección automáticas, y el agente haciendo una pausa para preguntar cuándo necesita aclaración
 * Validación de la configuración generada, el esquema de configuración empresarial y los detalles del gancho web
 
->[!VIDEO](https://video.tv.adobe.com/v/3502479)
+>[!VIDEO](https://video.tv.adobe.com/v/3502505?captions=spa)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
