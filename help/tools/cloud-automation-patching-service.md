@@ -43,7 +43,7 @@ La automatización de parches de Adobe Commerce es una función de la herramient
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476250?captions=spa&learn=on)
 
 ## Documentación relacionada
 
