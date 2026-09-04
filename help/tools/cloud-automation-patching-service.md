@@ -47,4 +47,4 @@ La automatización de parches de Adobe Commerce es una función de la herramient
 
 ## Documentación relacionada
 
-* [Documentación de automatización de parches](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentación de automatización de parches](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/caps-tool/intro)
