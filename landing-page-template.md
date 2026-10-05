@@ -5,29 +5,27 @@ description: descripción de guía
 seo-description: seo-description
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '128'
 ht-degree: 0%
-
 ---
-
 
 # Información general {#overview}
 
-Una descripción general de entre 1 y 2 frases del producto en el que se centra esta guía del usuario. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de *xyz*.
+Una descripción general de entre 1 y 2 frases del producto en el que se centra esta guía del usuario. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas características y funcionalidades de *xyz*.
 
 ## Novedades de la versión
 
-* **[Nuevo vídeo de funciones (vídeo)](README.md)**
+* **[Nuevo vídeo de características (vídeo)](README.md)**
   <br>
-  *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
+  *Obtenga información acerca de esta nueva funcionalidad.*
 
-* **[Nuevo vídeo de funciones (vídeo)](README.md)**
+* **[Nuevo vídeo de características (vídeo)](README.md)**
   <br>
-  *Obtenga información acerca de esta nueva y atractiva funcionalidad.*
+  *Obtenga información acerca de esta nueva funcionalidad.*
 
-* **[Un nuevo artículo (Artículo)](README.md)**
+* **[Un nuevo artículo (artículo)](README.md)**
   <br>
-  *Haga clic aquí para leer más sobre la función xyz!*
+  *Haga clic aquí para obtener más información sobre la característica xyz!*
 
 ## Selección de personal
 
