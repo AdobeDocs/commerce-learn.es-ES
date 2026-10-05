@@ -5,9 +5,7 @@ source-git-commit: 52972b476a1be405bee727e50df635028fd87050
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
-
 ---
-
 # Vínculos relacionados con API Mesh
 
 ## Recursos útiles de API Mesh
