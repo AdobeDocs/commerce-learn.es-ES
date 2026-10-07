@@ -35,7 +35,7 @@ Explore el espacio de trabajo de administración de Adobe Commerce, desde filtra
 * Cambie entre la vista predeterminada y las vistas guardadas, y actualice una vista existente.
 * Vaya a la configuración de la tienda y explore las configuraciones generales, de catálogo, de seguridad, de cliente y de ventas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473174?captions=spa&learn=on)
 
 ## Vistas de cuadrícula guardadas
 
