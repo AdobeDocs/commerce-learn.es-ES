@@ -52,7 +52,7 @@ Los grupos de clientes de Adobe Commerce le permiten ofrecer promociones segment
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473321?captions=spa&learn=on)
 
 ## Recursos adicionales
 
