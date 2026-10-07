@@ -4,13 +4,11 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Vídeos y tutoriales de Adobe Commerce {#tutorials}
 
@@ -114,7 +112,7 @@ ht-degree: 3%
     + [Conclusión](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Ejecución en seco de App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desarrollo back-end {#backend-development}
-    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creación de un módulo](../backend-development/create-module.md)
     + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
     + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [Métodos de envío y entrega](../site-management/shipping-delivery.md)
   + [Cuadrículas de administración y filtros](../site-management/admin-grids-and-filters.md)
   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
+  + [Vaya a la configuración de la tienda y al menú Sistema](../site-management/store-configuration-and-system-menu.md)
   + Servicios de Adobe Commerce {#adobe-commerce-services}
     + [Configuración del conector de servicios de Commerce](../site-management/configure-adobe-commerce-services-connector.md)
     + [Configurar servicios de pago](../site-management/configure-adobe-payment-services.md)
