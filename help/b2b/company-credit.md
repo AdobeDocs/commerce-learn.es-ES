@@ -51,7 +51,7 @@ ht-degree: 0%
 ---
 # Administrar crédito de la compañía
 
-Las empresas que tienen _[!UICONTROL Payment on Account]_habilitado y tienen crédito de empresa disponible pueden realizar compras en su cuenta hasta el límite de crédito concedido. Con esta función, los clientes pueden comprobar el estado del crédito de su compañía desde su panel de cuentas.
+Las empresas que tienen _[!UICONTROL Payment on Account]_&#x200B;habilitado y tienen crédito de empresa disponible pueden realizar compras en su cuenta hasta el límite de crédito concedido. Con esta función, los clientes pueden comprobar el estado del crédito de su compañía desde su panel de cuentas.
 
 Puede establecer los siguientes parámetros relacionados con el crédito para cada perfil de compañía:
 
