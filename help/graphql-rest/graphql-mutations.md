@@ -1,8 +1,8 @@
 ---
 title: Realización de una mutación con GraphQL
-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
-landing-page-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
-short-description: Obtenga una introducción sobre cómo realizar una mutación usando GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
+description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
+landing-page-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
+short-description: Obtenga una introducción sobre cómo realizar una mutación con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Realice su primera mutación mediante llamadas POST.
 kt: 13938
 doc-type: video
 duration: 268
@@ -14,29 +14,37 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-TQID: https://experienceleague.adobe.com/DyzC0YLv2eWrfSAUZb-32cMAePHjurmp1RyynMbsa7Q
+TQID: 'https://experienceleague.adobe.com/DyzC0YLv2eWrfSAUZb-32cMAePHjurmp1RyynMbsa7Q'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '414'
 ht-degree: 0%
-
 ---
-
 # Mutaciones
 
 Esta es la parte 3 de la serie para GraphQL y Adobe Commerce. Las mutaciones son la capacidad de guardar, actualizar y devolver valores mediante GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441926?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
 

@@ -4,16 +4,23 @@ description: Descubra cómo el agente de catálogo de Commerce cierra las brecha
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21572
 duration: 451
-source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Descubrimiento del producto de Commerce AI
 
 [!BADGE Próximamente]{type=Informative tooltip="Esta función estará disponible próximamente y sujeta a cambios."}
@@ -32,7 +39,7 @@ Incluso los catálogos de productos más ricos tienen solo una visibilidad parci
 * El panel Oportunidades de optimización presenta recomendaciones de enriquecimiento de alto impacto
 * Enriquecimiento de la página de detalles del producto para exponer los atributos ocultos a los rastreadores LLM
 * Enriquecimiento del catálogo que genera nombres y descripciones de productos optimizados para IA
-* Validación de mejoras mediante el Comprobador de Visibilidades del contenido de IA
+* Validación de mejoras con AI Content Visibility Checker
 
->[!VIDEO](https://video.tv.adobe.com/v/3492326?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 

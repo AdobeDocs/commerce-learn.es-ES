@@ -12,28 +12,44 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-TQID: https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU
+TQID: 'https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: 601e4abe-d9bf-58de-a779-32ed6794dcbe
+    internal-label: Data Import/Export
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 898
+source-wordcount: '907'
 ht-degree: 0%
-
 ---
-
 # Opciones para importar un catálogo
 
 Existen algunos métodos nativos para importar un catálogo en Adobe Commerce. Cada método tiene su propio razonamiento para el uso, junto con los pros y los contras que deben tenerse en cuenta.
@@ -46,7 +62,7 @@ Elija una de las opciones a continuación para obtener más información.
 
 ## Creación manual de los productos {#manual-import}
 
-Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearlas manualmente podría ser la mejor opción. Se requiere tiempo para introducir cada producto y cierta formación limitada sobre cómo utilizar el administrador de Commerce. La gestión manual de catálogos no es la opción adecuada para la mayoría de las tiendas, pero en determinadas situaciones puede tener sentido. Para ver documentación adicional para este proceso, visita [Crear un producto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=es){target="_blank"}. No olvide que puede utilizar más de un método para administrar el catálogo. Sin embargo, una vez que se utiliza la automatización, las ediciones manuales deben estar limitadas. Las actualizaciones automatizadas tienen la oportunidad de sobrescribir cualquier cambio realizado manualmente y, por lo tanto, causar confusión. Una vez que la integración con Adobe Commerce para administrar el catálogo esté usando automatización y API, se recomienda restringir la administración del catálogo desde el administrador a través de [roles de usuario y permisos](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=es){target="_blank"}.
+Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearlas manualmente podría ser la mejor opción. Se requiere tiempo para introducir cada producto y cierta formación limitada sobre cómo utilizar el administrador de Commerce. La gestión manual de catálogos no es la opción adecuada para la mayoría de las tiendas, pero en determinadas situaciones puede tener sentido. Para ver documentación adicional para este proceso, visita [Crear un producto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. No olvide que puede utilizar más de un método para administrar el catálogo. Sin embargo, una vez que se utiliza la automatización, las ediciones manuales deben estar limitadas. Las actualizaciones automatizadas tienen la oportunidad de sobrescribir cualquier cambio realizado manualmente y, por lo tanto, causar confusión. Una vez que la integración con Adobe Commerce para administrar el catálogo esté usando automatización y API, se recomienda restringir la administración del catálogo desde el administrador a través de [roles de usuario y permisos](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 ### Cuándo considerar este enfoque
 
@@ -61,7 +77,7 @@ Si tiene un catálogo limitado y las actualizaciones son poco frecuentes, crearl
 ## Herramienta de importación CSV de administrador {#admin-csv}
 
 Esta herramienta permite al propietario de una tienda importar un catálogo con un CSV desde el administrador de comercio.
-[Importar datos del administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=es){target="_blank"}
+[Importar datos del administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
 Ventajas:
 Cargar un CSV del administrador es un enfoque directo para la administración de catálogos. Permite actualizaciones de productos de catálogo más rápidas para un catálogo de tamaño moderado.
@@ -117,7 +133,7 @@ Ventajas:
 
 Desventajas:
 
-* No se admiten las solicitudes de GET
+* No se admiten las solicitudes GET
 
 ### Cuándo considerar este enfoque
 
@@ -155,6 +171,6 @@ Desventajas:
 ## Recursos adicionales
 
 * [Importación de datos con el nuevo CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Documentación principal de importación de datos](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=es){target="_blank"}
-* [Notas de la versión de Adobe Commerce 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=es){target="_blank"}
+* [Documentación principal de importación de datos](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+* [Notas de la versión de Adobe Commerce 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 * [Usuarios, funciones y permisos](../site-management/users-roles-permissions.md){target="_blank"}

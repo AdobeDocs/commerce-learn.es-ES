@@ -12,29 +12,39 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-TQID: https://experienceleague.adobe.com/qTfhGEqQBLAn6E7kRLLFaIgSLer4toyskNEyIXfACdk
+TQID: 'https://experienceleague.adobe.com/qTfhGEqQBLAn6E7kRLLFaIgSLer4toyskNEyIXfACdk'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: '129'
 ht-degree: 0%
-
 ---
-
 # Crear atributos del cliente
 
 Los atributos del cliente proporcionan la información necesaria para respaldar los procesos de pedido, cumplimiento y gestión de clientes. Como su empresa es única, es posible que necesite campos además de los campos predeterminados que proporciona el sistema. Puede agregar atributos personalizados a las secciones Información de cuenta, Libreta de direcciones e Información de facturación de la cuenta del cliente.
@@ -46,9 +56,9 @@ Los atributos del cliente proporcionan la información necesaria para respaldar 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411827?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## Recursos adicionales
 
-* [Propiedades de atributos del cliente:  [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=es)
-* [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=es)
+* [Propiedades de atributos del cliente:  [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

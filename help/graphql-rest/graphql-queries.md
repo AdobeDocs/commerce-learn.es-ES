@@ -1,31 +1,46 @@
 ---
 title: Realización de una consulta con GraphQL
-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
-landing-page-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
-short-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
+description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
+landing-page-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
+short-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
 kt: 13937
 doc-type: video
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '1000'
 ht-degree: 0%
-
 ---
-
 # Consultas de GraphQL
 
 Esta es la parte 2 de la serie para GraphQL y Adobe Commerce. En este tutorial y vídeo, aprenderá acerca de las consultas de GraphQL y cómo realizarlas con Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450061?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
 
@@ -130,7 +145,7 @@ de forma similar a la propia consulta.
 
 >[!NOTE]
 >
->Los clientes de GraphQL ofuscan la forma de la solicitud HTTP real que se envía, pero esto es fácil de descubrir. Si utiliza un cliente basado en explorador, observe la ficha [!UICONTROL Network] cuando se envíe una consulta. Verá que la solicitud contiene un cuerpo sin procesar formado por &quot;consulta: `{string}`&quot;, donde `{string}` es simplemente la cadena sin procesar de toda la consulta. Si la solicitud se envía como GET, puede que se codifique en el parámetro de cadena de consulta &quot;query&quot;. A diferencia de REST, el tipo de solicitud HTTP no importa, solo el contenido de la consulta.
+>Los clientes de GraphQL ofuscan la forma de la solicitud HTTP real que se envía, pero esto es fácil de descubrir. Si utiliza un cliente basado en explorador, observe la ficha [!UICONTROL Network] cuando se envíe una consulta. Verá que la solicitud contiene un cuerpo sin procesar formado por &quot;consulta: `{string}`&quot;, donde `{string}` es simplemente la cadena sin procesar de toda la consulta. Si la solicitud se envía como un GET, la consulta puede codificarse en el parámetro de cadena de consulta &quot;query&quot; en su lugar. A diferencia de REST, el tipo de solicitud HTTP no importa, solo el contenido de la consulta.
 
 
 ## Consulta de lo que desea

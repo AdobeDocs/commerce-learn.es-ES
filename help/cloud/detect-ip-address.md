@@ -10,26 +10,33 @@ duration: 624
 last-substantial-update: 2025-04-07T00:00:00.000Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-TQID: https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c
+TQID: 'https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: '1127'
 ht-degree: 0%
-
 ---
-
 # Detectar direcciones IP para diferentes entornos
 
 Obtenga información sobre cómo detectar direcciones IP para diferentes entornos en un proyecto de Adobe Commerce Cloud. Mediante una serie de comandos que incluyen Adobe Commerce CLI, sed, xargs, dig, grep y sort -u, los usuarios pueden identificar direcciones IP para entornos de desarrollo, ensayo y producción.
@@ -63,7 +70,7 @@ La herramienta CLI de Magento en la nube está diseñada para ayudar a los desar
 
 En esta sección inicial del código de ejemplo, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`, se solicita la dirección URL del entorno. El valor devuelto se parece a este `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De vez en cuando se parece más a este `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Este primer comando es bastante simple, y ahora es el momento de pasar al siguiente comando.
 
-Para obtener más información, lea [Descripción general de la CLI en la nube](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Para obtener más información, lea [Descripción general de la CLI en la nube](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Usando `sed` para buscar y reemplazar
 
@@ -133,4 +140,4 @@ Estos entornos de nivel inferior son de varios inquilinos y comparten servidores
 
 ## Documentación relacionada
 
-* [Direcciones IP regionales](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Direcciones IP regionales](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

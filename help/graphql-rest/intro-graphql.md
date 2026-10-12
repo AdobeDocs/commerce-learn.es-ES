@@ -1,32 +1,47 @@
 ---
 title: Introducción a GraphQL
-description: Aprenda a utilizar GraphQL en Adobe Commerce y  [!DNL Magento Open Source]. Use llamadas de GraphQL GET y POST para Adobe Commerce y  [!DNL Magento Open Source].
-short-description: Aprenda a utilizar las llamadas de GraphQL GET y POST para Adobe Commerce y  [!DNL Magento Open Source].
+description: Descubra cómo utilizar GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Utilice llamadas de GET y POST de GraphQL para Adobe Commerce y [!DNL Magento Open Source].
+short-description: Aprenda a utilizar las llamadas de GET y POST de GraphQL para Adobe Commerce y [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 duration: 286
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 0%
-
+source-wordcount: '514'
+ht-degree: 6%
 ---
-
 # Introducción a GraphQL
 
 Esta es la primera parte de la serie para GraphQL y Adobe Commerce. GraphQL se ha convertido rápidamente en el estándar del sector por lo potentes que son las aplicaciones del lado del cliente con respecto al servidor. Es un tema cada vez más relevante para los desarrolladores de Adobe Commerce, ya que la plataforma sigue ampliando sus capacidades en el ámbito de las implementaciones sin encabezado.
 
 Si es nuevo en GraphQL, esta sección le guía por los conceptos y el uso básicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443943?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## Vídeos y tutoriales relacionados sobre GraphQL en esta serie
 

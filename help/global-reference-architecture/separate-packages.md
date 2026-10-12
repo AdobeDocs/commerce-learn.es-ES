@@ -4,37 +4,50 @@ description: Optimizar Adobe Commerce con paquetes separados GRA. Conozca la con
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Colaboró Tony Evers, arquitecto técnico senior de Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Colaboró Tony Evers"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # Patrón de arquitectura de referencia global de paquetes separados
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ Para generar una nueva versión, ejecute composer update en el proyecto principa
 
 ## Versiones
 
-El control de versiones en un GRA de paquetes separados es un sinónimo de etiquetado de módulos en Git. Las etiquetas Git crean versiones numeradas de los paquetes que instala Composer.El método de versiones adecuado permite que los paquetes fluyan automáticamente, sin dejar de ser seguros.
+El control de versiones en un GRA de paquetes separados es un sinónimo de etiquetado de módulos en Git. Las etiquetas Git crean versiones numeradas de los paquetes que instala Composer.
+El método de versiones adecuado permite que los paquetes fluyan automáticamente, sin dejar de ser seguros.
 
 Dos ejemplos:
 
@@ -255,7 +269,8 @@ Este ejemplo muestra una definición flexible de dependencias. Con `~1.0`, cualq
 
 Tan pronto como publique una nueva versión de cualquiera de los paquetes mencionados, se instalará automáticamente con Composer update.
 
-Aplicar versiones semánticas. Puede aprender todo sobre las versiones semánticas en <https://semver.org/>. En especial, se recomienda leer las preguntas frecuentes. Con las versiones semánticas, los números de &quot;1.0.0&quot; se denominan MAJOR.MINOR.PATCH. Las versiones menores y de parches de un paquete son seguras de introducir sin romper la aplicación.Puede incluir parches automáticamente y elegir actualizaciones menores de forma manual. Tenga en cuenta que, al hacerlo, se generan costes generales adicionales al seleccionar manualmente cada cambio menor:
+Aplicar versiones semánticas. Puede aprender todo sobre las versiones semánticas en <https://semver.org/>. En especial, se recomienda leer las preguntas frecuentes. Con las versiones semánticas, los números de &quot;1.0.0&quot; se denominan MAJOR.MINOR.PATCH. Las versiones menores y de parches de un paquete son seguras de introducir sin romper la aplicación.
+Puede incluir parches automáticamente y elegir actualizaciones menores de forma manual. Tenga en cuenta que, al hacerlo, se generan costes generales adicionales al seleccionar manualmente cada cambio menor:
 
 ```json
 {
@@ -287,7 +302,8 @@ Tipos de ramas que son comunes en las estrategias de ramificación y en los repo
 
 **ramas de control de calidad/desarrollo**: similares a las ramas de versiones.
 
-**Rama principal**: existe en todos los repositorios y siempre es la rama que representa el estado de producción o listo para la producción. La rama principal es donde se etiqueta el código para publicar versiones.Asegúrese de elegir una estrategia de ramificación con poca sobrecarga de mantenimiento. Por ejemplo, volver a combinar la rama principal en las ramas QA, UAT, release o dev después de una versión de revisión es una tarea de mantenimiento general. Cuantos más paquetes, más repositorios y tareas generales más repetitivas.
+**Rama principal**: existe en todos los repositorios y siempre es la rama que representa el estado de producción o listo para la producción. La rama principal es donde se etiqueta el código para publicar versiones.
+Asegúrese de elegir una estrategia de ramificación con poca sobrecarga de mantenimiento. Por ejemplo, volver a combinar la rama principal en las ramas QA, UAT, release o dev después de una versión de revisión es una tarea de mantenimiento general. Cuantos más paquetes, más repositorios y tareas generales más repetitivas.
 
 Use una herramienta como mixu/gr para realizar operaciones rutinarias en varios repositorios Git en un lote: <https://github.com/mixu/gr>
 

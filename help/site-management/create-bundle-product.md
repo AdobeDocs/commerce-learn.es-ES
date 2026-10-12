@@ -12,26 +12,44 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+TQID: 'https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Optimization
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 673
+source-wordcount: '673'
 ht-degree: 0%
-
 ---
-
 # Crear un producto del paquete
 
 Un producto agrupado es una forma de agrupar varios productos bajo un producto principal. Estos productos secundarios pueden ser un conjunto definido de productos u ofrecer algunas variaciones que proporcionen opciones de configuración flexibles para los clientes. Los tipos de productos agrupados tardan un poco más en configurarse y debe realizar una cierta planificación antes de configurarlos. Sin embargo, al ofrecer productos agrupados, se mejora la experiencia de compra al facilitar a los clientes la personalización de las selecciones de productos.
@@ -47,9 +65,9 @@ Cuando se desea una flexibilidad adicional, se recomienda permitir varias opcion
 * Una tabla de surf estándar
 * Una típica correa de tabla de surf
 * Elección del color de aleta:
-   * Rojo
-   * Azul
-   * Amarillo
+  * Rojo
+  * Azul
+  * Amarillo
 
 Ya sea que el paquete sea un grupo estático de productos simples o varios productos con variaciones, las opciones de configuración flexibles hacen que los tipos de producto del paquete sean una herramienta de comercialización única y potente para la tienda Adobe Commerce.
 
@@ -75,7 +93,7 @@ Al crear productos agrupados desde el administrador de Adobe Commerce, puede cre
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454500?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## Creación de productos con REST
 
@@ -444,6 +462,6 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 ## Recursos adicionales
 
 * [Tutorial de creación de un paquete de producto](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=es){target="_blank"}
+* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 * [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

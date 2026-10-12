@@ -6,15 +6,22 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00Z
+last-substantial-update: 2026-07-27T00:00:00.000Z
 jira: KT-22157
-source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 601e4abe-d9bf-58de-a779-32ed6794dcbe
+    internal-label: Data Import/Export
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
-
 ---
-
 
 # Ejecute una migración de varias fases con la herramienta de migración masiva de datos
 
@@ -32,4 +39,4 @@ Ejecute una migración de varias fases cuando el entorno de origen deba congelar
 * La fase uno se ejecuta mientras el origen sigue activo: `bin console migration:before-maintenance` comprueba la configuración, inicializa el entorno, se conecta a CDMS, registra la migración, ejecuta pruebas funcionales y crea datos de prueba sintéticos. No activar el modo de mantenimiento hasta que finalice esta fase.
 * La fase tres es la extracción de un entorno congelado: `bin/console migration:during-maintenance` vuelve a abrir los túneles PaaS si es necesario, extrae del origen, limpia las vistas de ensayo, carga en el destino ACCS, ejecuta la verificación y limpia los datos de prueba en el destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496416?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)

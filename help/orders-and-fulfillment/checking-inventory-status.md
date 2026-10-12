@@ -7,10 +7,10 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 496
-last-substantial-update: 2024-05-09
+last-substantial-update: 2024-05-09T00:00:00.000Z
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
-TQID: https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24
+TQID: 'https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,6 +23,10 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 8dc0e58b-adf0-51bb-8db5-bb36e3e656fb
+    internal-label: Inventory
 subfeature_v2:
   - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
     internal-label: 2FA
@@ -34,6 +38,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
@@ -41,14 +47,14 @@ topic_v2:
     internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: fcf0f5116ba75bd618f4ed80591ecc96132cdb45
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '1834'
 ht-degree: 0%
 ---
 # El estado del inventario comprueba las consideraciones de desarrollo y rendimiento
 
-La precisión con el inventario es una consideración importante. Existen algunas funciones nativas que pueden ayudar a garantizar que este riesgo sea lo más bajo posible, como los pedidos pendientes y la configuración del umbral de falta de existencias. Ambos temas se pueden leer en [Adobe Experience League](https://experienceleague.adobe.com/es/docs/commerce-admin/inventory/configuration/backorders) para obtener más información.
+La precisión con el inventario es una consideración importante. Existen algunas funciones nativas que pueden ayudar a garantizar que este riesgo sea lo más bajo posible, como los pedidos pendientes y la configuración del umbral de falta de existencias. Ambos temas se pueden leer en [Adobe Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) para obtener más información.
 
 Hay proyectos y casos de uso en los que se solicitan comprobaciones del estado del inventario en tiempo real para una tienda Adobe Commerce. Este tutorial proporciona insight para gestionar esta conversación con consideraciones de desarrollo y rendimiento.
 
@@ -62,7 +68,7 @@ Otra consideración es el coste para desarrollar, probar y mantener esta funció
 
 Intente considerar las comprobaciones de inventario y cómo se logra en tres enfoques. Cada uno tiene beneficios y limitaciones. También aumentan en complejidad y requieren más pruebas y reflexión para la gestión de errores. Recuerde, cuando decide implementar una solución personalizada, hay responsabilidades y consideraciones añadidas. Algunos ejemplos son un proceso de reserva, monitorización, pruebas y solución de problemas, que corresponden al equipo de desarrollo. Algunos elementos buenos que se deben incluir son nueva documentación de soporte, formación y monitorización para garantizar que el equipo de desarrollo pueda admitir toda la función. Un efecto secundario es que el equipo de desarrollo es propietario del proceso y ya no aprovecha la funcionalidad nativa proporcionada por la aplicación principal de Adobe Commerce. El soporte de Adobe no puede ayudar con este nivel de personalización.
 
-El primer método es utilizar la funcionalidad nativa. El uso de la funcionalidad nativa es la menor cantidad de riesgo y tiene muchas ventajas. Este método significa que puede confiar en toda la documentación y los tutoriales existentes que Adobe Commerce proporciona para el uso de la función. La administración del inventario tiene muchos aspectos, así que use lo que viene con la aplicación como primera consideración. Sin embargo, hay casos de uso en los que los datos encontrados en el comercio en el momento del pedido no son precisos. Un ejemplo de cómo los datos se desincronizan es que las ventas están permitidas fuera de la aplicación de Adobe Commerce directamente en el sistema de Order Management. Un motivo es que, para garantizar que los niveles de inventario exactos se representen en Adobe Commerce, se requiere algún tipo de integración para mantener la información de Adobe Commerce lo más cercana posible a la precisión. Si la sobreventa no es aceptable, entonces añadir un umbral de existencias es un buen método para detener la venta de artículos antes de que llegue a cero. La funcionalidad de sincronización nativa para Adobe Commerce se establece como máximo una vez al día. Esta frecuencia es suficiente para algunos casos de uso, sin embargo, no es lo suficientemente frecuente para otros. Lea [Importación y exportación programadas](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) para obtener información detallada.
+El primer método es utilizar la funcionalidad nativa. El uso de la funcionalidad nativa es la menor cantidad de riesgo y tiene muchas ventajas. Este método significa que puede confiar en toda la documentación y los tutoriales existentes que Adobe Commerce proporciona para el uso de la función. La administración del inventario tiene muchos aspectos, así que use lo que viene con la aplicación como primera consideración. Sin embargo, hay casos de uso en los que los datos encontrados en el comercio en el momento del pedido no son precisos. Un ejemplo de cómo los datos se desincronizan es que las ventas están permitidas fuera de la aplicación de Adobe Commerce directamente en el sistema de Order Management. Un motivo es que, para garantizar que los niveles de inventario exactos se representen en Adobe Commerce, se requiere algún tipo de integración para mantener la información de Adobe Commerce lo más cercana posible a la precisión. Si la sobreventa no es aceptable, entonces añadir un umbral de existencias es un buen método para detener la venta de artículos antes de que llegue a cero. La funcionalidad de sincronización nativa para Adobe Commerce se establece como máximo una vez al día. Esta frecuencia es suficiente para algunos casos de uso, sin embargo, no es lo suficientemente frecuente para otros. Lea [Importación y exportación programadas](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) para obtener información detallada.
 
 El segundo enfoque es `near real-time`. Casi en tiempo real sigue utilizando la funcionalidad nativa. Sin embargo, esto incluye algo de trabajo adicional para proporcionar una integración que alimente al comercio con frecuencia para actualizar su inventario según un programa. Por ejemplo, cada hora. Esta opción requiere que se piense cómo funciona una integración, pero el uso de la &quot;api masiva&quot; y el hecho de que algún middleware haga la transformación de los datos y los lleve al comercio es un buen enfoque. Considere la posibilidad de utilizar Adobe App Builder o plataformas similares para realizar la mayor parte del trabajo e insertar la información en Adobe Commerce en una cadencia más frecuente.
 
