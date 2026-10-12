@@ -41,5 +41,5 @@ Incluso los catálogos de productos más ricos tienen solo una visibilidad parci
 * Enriquecimiento del catálogo que genera nombres y descripciones de productos optimizados para IA
 * Validación de mejoras con AI Content Visibility Checker
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492326?captions=spa)
 
