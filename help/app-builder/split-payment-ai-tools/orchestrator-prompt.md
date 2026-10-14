@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # POC de pago dividido: petición de App Builder orchestrator AI
 
 Utilice esta página para copiar el aviso completo que genera el proyecto **split-payment-orchestrator**: el consumidor de eventos de E/S de **payment-orchestrator**, **payment-accept** y **payment-declina** acciones web, el **tablero de demostración** y el cliente REST de Commerce.
@@ -27,7 +25,7 @@ Copie todo desde **INICIO DEL MENSAJE** hasta **Final del mensaje** en el cursor
 ## Antes de ejecutar
 
 * Finalizar [POC de pago dividido: requisitos previos y configuración del entorno](./prerequisites-and-setup.md).
-* Tenga preparados su POC de pagos divididos [de: variables de entorno &#x200B;](./env-reference.md) y el archivo `.env` en el proyecto.
+* Tenga preparados su POC de pagos divididos [de: variables de entorno ](./env-reference.md) y el archivo `.env` en el proyecto.
 
 
 ## El indicador
@@ -217,8 +215,8 @@ Los eventos de Adobe Commerce I/O pueden entregar la carga útil de varias forma
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * Dividir importes de `value.extension_attributes` (comprobar tanto `extension_attributes` como `extensionAttributes`):
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **Flujo:**
 1. Extraer valor; si falta `orderId`, registrar error y devolver `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`

@@ -56,9 +56,9 @@ Los clientes a veces necesitan ayuda para completar una compra. A algunos client
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411830?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Recursos adicionales
 
-* [Proporcionar asistencia al comprador - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=es)
-* [Asistencia para las compras:  [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=es#shopping-assistance)
+* [Proporcionar asistencia al comprador - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Asistencia para las compras:  [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

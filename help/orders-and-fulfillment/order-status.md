@@ -51,9 +51,9 @@ Cuando un cliente realiza un pedido, se crea un pedido de venta como un registro
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410796?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
 
 ## Recursos adicionales
 
-* [Procesar un pedido:  [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=es#process-an-order)
-* [Estado del pedido - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=es)
+* [Procesar un pedido:  [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+* [Estado del pedido - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
