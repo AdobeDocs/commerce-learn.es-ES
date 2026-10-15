@@ -7,14 +7,12 @@ role: Developer
 level: Intermediate
 doc-type: Tutorial
 duration: 438
-last-substantial-update: 2026-08-28T00:00:00Z
+last-substantial-update: 2026-08-28
 source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
-
 ---
-
 # Ejecución en seco de Adobe Commerce Developer Agent App Builder
 
 Un tutorial práctico para crear, implementar y probar casos de uso de extensibilidad de Commerce con Adobe Commerce Developer Agent (CDA). Esta ejecución en seco cubre tres casos de uso: un webhook de límite de cantidad de carritos, una retención de pedidos de alto valor y un archivado controlado por evento para pedidos retenidos, desde el modelo hasta las pruebas funcionales.
