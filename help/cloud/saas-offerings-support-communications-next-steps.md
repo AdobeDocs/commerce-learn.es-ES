@@ -122,7 +122,7 @@ Obtenga información acerca de las ofertas de SaaS de Adobe Commerce Cloud, la a
 * [Foro de la comunidad Commerce](https://community.magento.com/)
 * [Configurar rápidamente](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 * [Pruebas de rendimiento](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
-* [Herramienta de análisis de todo el sitio - SWAT](¿https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
+* [Herramienta de análisis de todo el sitio - SWAT] (¿https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 * [New Relic Observation for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
 * [Parches de seguridad](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
 * [Iniciar lista de comprobación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
