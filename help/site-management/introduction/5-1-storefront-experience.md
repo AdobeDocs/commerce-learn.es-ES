@@ -42,7 +42,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -64,12 +64,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330200?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36188?learn=on)
 
 ## Recursos adicionales
 
-[Ámbito de la cuenta del cliente:  [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=es)
+[Ámbito de la cuenta del cliente:  [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Experiencia de la tienda de la lista de deseos - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=es)
+[Experiencia de la tienda de la lista de deseos - [!DNL Commerce] Tiendas y Guía de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

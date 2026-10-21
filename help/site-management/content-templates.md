@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 TQID: 'https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -61,9 +61,9 @@ El uso de plantillas le ahorra tiempo y esfuerzo al crear contenido (o reemplaza
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410841?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
 
 ## Recursos adicionales
 
-* [[!DNL Page Builder] plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=es)
+* [[!DNL Page Builder] plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 * [Agregar plantillas:  [!DNL Page Builder] Guía para desarrolladores](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

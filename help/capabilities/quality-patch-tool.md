@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -78,7 +78,7 @@ La herramienta Parches de calidad es una utilidad de línea de comandos para Ado
 
 Estos parches han sido desarrollados por desarrolladores de Adobe y la comunidad de Magento Open Source para mejorar la estabilidad y el rendimiento. Tenga en cuenta que no se recomienda para aplicar grandes cantidades de parches, ya que puede complicar futuras actualizaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454071?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Por qué utilizar la herramienta parche de calidad
 
@@ -110,8 +110,8 @@ Antes de aplicar parches, es crucial probarlos en un entorno de ensayo. Asegúre
 
 ## Artículos y vídeos relacionados
 
-* [Búsqueda de herramientas de parches de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=es)
-* [Notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Búsqueda de herramientas de parches de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Notas de la versión](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github para parches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Uso de la herramienta de parche de calidad](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vídeo técnico sobre QPT](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Uso de la herramienta de parche de calidad](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vídeo técnico sobre QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Administrar crédito de la compañía
 
-Las empresas que tienen _[!UICONTROL Payment on Account]_&#x200B;habilitado y tienen crédito de empresa disponible pueden realizar compras en su cuenta hasta el límite de crédito concedido. Con esta función, los clientes pueden comprobar el estado del crédito de su compañía desde su panel de cuentas.
+Las empresas que tienen _[!UICONTROL Payment on Account]_habilitado y tienen crédito de empresa disponible pueden realizar compras en su cuenta hasta el límite de crédito concedido. Con esta función, los clientes pueden comprobar el estado del crédito de su compañía desde su panel de cuentas.
 
 Puede establecer los siguientes parámetros relacionados con el crédito para cada perfil de compañía:
 
@@ -70,9 +70,9 @@ Puede establecer los siguientes parámetros relacionados con el crédito para ca
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410758?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Recursos adicionales
 
-* [Configuración del pago a cuenta](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Administrar crédito de la compañía](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/credit-company)
+* [Configuración del pago a cuenta](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Administrar crédito de la compañía](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

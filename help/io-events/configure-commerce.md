@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Obtenga información sobre cómo configurar Adobe Commerce para que exponga los 
 * Guardado del identificador único en el administrador de Commerce
 * Creación de un proveedor de eventos
 
->[!VIDEO](https://video.tv.adobe.com/v/3419712?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
 
 ## Comandos útiles {#useful-commands}
 

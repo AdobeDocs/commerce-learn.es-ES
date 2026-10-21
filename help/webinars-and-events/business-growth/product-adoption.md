@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -63,4 +63,4 @@ Adobe Commerce facilita el crecimiento de las empresas al ayudarlas a pasar a Ad
 * La extensibilidad de App Builder permite separar la lógica personalizada en funciones sin servidor para facilitar el mantenimiento.
 * Las mejoras en la tienda mejoran el rendimiento y la creación de contenido con componentes integrados y entrega de Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475751?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

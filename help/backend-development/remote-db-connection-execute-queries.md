@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Aprenda a conectarse a un proyecto de Adobe Commerce en la nube, crear un volcad
 * Conéctese a un proyecto remoto de Adobe Commerce Cloud con una herramienta de administración de bases de datos como MySQL Workbench o TablePlus.
 * Conéctese al proyecto y ejecute SQL desde la línea de comandos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450039?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 Puede acceder a los datos de Adobe Commerce desde su proyecto en la nube mediante cualquiera de los siguientes métodos:
 
@@ -62,7 +62,7 @@ Prefiera un volcado de la base de datos que limpie para eliminar la información
 
 ## Uso de la herramienta CLI de Adobe Commerce Cloud
 
-Necesita instalar la [CLI](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview) de Adobe Commerce Cloud para crear un volcado de la base de datos. En el equipo local, abra un directorio y ejecute el siguiente comando. Reemplace `your-project-id` por su ID de proyecto (similar a `asasdasd45q`). Reemplace `your-environment-name` con su nombre de entorno, como `master` o `staging`.
+Necesita instalar la [CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview) de Adobe Commerce Cloud para crear un volcado de la base de datos. En el equipo local, abra un directorio y ejecute el siguiente comando. Reemplace `your-project-id` por su ID de proyecto (similar a `asasdasd45q`). Reemplace `your-environment-name` con su nombre de entorno, como `master` o `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -298,7 +298,7 @@ Para acceder directamente a la base de datos MariaDB, utilice SSH para iniciar s
    magento-cloud ssh
    ```
 
-2. Recupere las credenciales de inicio de sesión de MySQL de las propiedades `database` y `type` en la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships).
+2. Recupere las credenciales de inicio de sesión de MySQL de las propiedades `database` y `type` en la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -344,7 +344,7 @@ Después de configurar la conexión, puede utilizar una GUI de MySQL para ejecut
 
 ## Conectarse directamente a la base de datos del proyecto en la nube para ejecutar SQL
 
-El siguiente método utiliza la CLI `magento-cloud` para conectarse directamente a la base de datos MySQL y ejecutar SQL para realizar consultas más rápidas. Si necesita una copia de esta base de datos, use uno de los métodos alternativos para [crear un volcado de la base de datos](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
+El siguiente método utiliza la CLI `magento-cloud` para conectarse directamente a la base de datos MySQL y ejecutar SQL para realizar consultas más rápidas. Si necesita una copia de esta base de datos, use uno de los métodos alternativos para [crear un volcado de la base de datos](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
 
 ```bash
 magento-cloud db:sql    
@@ -404,7 +404,7 @@ MariaDB [main]>
 
 ## Recursos adicionales
 
-* [CLI de Adobe Commerce Cloud](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
-* [Configurar el servicio MySQL](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/configure/service/mysql)
-* [Configurar una conexión de base de datos MySQL remota](https://experienceleague.adobe.com/es/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
-* [Crear volcado de base de datos en Adobe Commerce en la infraestructura en la nube](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)
+* [CLI de Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
+* [Configurar el servicio MySQL](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/service/mysql)
+* [Configurar una conexión de base de datos MySQL remota](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
+* [Crear volcado de base de datos en Adobe Commerce en la infraestructura en la nube](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)

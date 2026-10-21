@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -73,12 +73,12 @@ ht-degree: 0%
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430758?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?learn=on)
 
 
 ## Recursos adicionales
 
-* [Introducción a  [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=es)
-* [Información general de [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=es)
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=es)
-* [Introducción a las recomendaciones de productos](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=es)
+* [Introducción a  [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+* [Información general de [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Introducción a las recomendaciones de productos](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

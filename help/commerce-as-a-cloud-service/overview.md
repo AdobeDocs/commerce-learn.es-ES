@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Adobe Commerce as a Cloud Service proporciona una solución flexible, escalable 
 * Incorporación simplificada y aprovisionamiento de autoservicio para una configuración rápida y eficaz de las instancias de zona protegida o producción.
 * Arquitectura componible para la implementación, ampliación y actualización independientes de servicios con extensibilidad de API-First.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443314?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Documentación relacionada
 
-* [Guía de Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce/cloud-service/overview)
+* [Guía de Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

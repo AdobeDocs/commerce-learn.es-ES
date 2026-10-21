@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -56,15 +56,15 @@ Obtenga información acerca de la infraestructura en la nube y algunas práctica
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432800?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
 
 ## La documentación de Experience League que se menciona en el vídeo
 
-* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=es#migrate-files-using-rsync)
-* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=es#sftp)
-* [CLI de Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=es)
-* [Actualización de Adobe Commerce y aplicación de parches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=es)
-* [Lista de comprobación previa al inicio de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=es)
-* [Creación de tickets de asistencia](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=es)
+* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+* [CLI de Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [Actualización de Adobe Commerce y aplicación de parches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+* [Lista de comprobación previa al inicio de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+* [Creación de tickets de asistencia](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

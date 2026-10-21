@@ -35,7 +35,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -54,4 +54,4 @@ Obtenga información sobre cómo buscar y ajustar filtros para utilizarlos en el
 * Obtenga información sobre cómo utilizar un filtro para limitar los resultados de una cuadrícula de administración
 * Descubra cómo los filtros afectan a otros administradores en Adobe Commerce Admin Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3440385?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)

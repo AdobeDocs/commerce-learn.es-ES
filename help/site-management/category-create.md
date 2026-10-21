@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -63,10 +63,10 @@ Antes de añadir productos al catálogo, debe establecer la estructura básica d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411823?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## Recursos adicionales
 
-* [Crear categorías:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=es)
-* [Permisos de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=es)
-* [Navegación superior:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=es)
+* [Crear categorías:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Permisos de categoría - [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Navegación superior:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

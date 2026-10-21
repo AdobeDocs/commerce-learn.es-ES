@@ -47,7 +47,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 4%
@@ -64,7 +64,7 @@ Obtenga información sobre cómo crear un producto descargable mediante la API d
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453945?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Dominios descargables permitidos
 
@@ -88,7 +88,7 @@ Una vez que finalice, `env.php` se modifica dentro de la matriz _downloadable_ d
 
 Ahora que el dominio se agrega a `env.php`, puede crear un producto descargable en el administrador de Adobe Commerce o mediante la API de REST.
 
-Consulte [Referencia de configuración](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=es#downloadable_domains) para obtener más información.
+Consulte [Referencia de configuración](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) para obtener más información.
 
 >[!IMPORTANT]
 >En algunas versiones de Adobe Commerce, es posible que reciba el siguiente error cuando se edita un producto en el administrador de Adobe Commerce. El producto se crea usando la API de REST pero la descarga vinculada tiene un precio de `null`.
@@ -270,7 +270,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Recursos adicionales
 
-* [Tipo de producto descargable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=es){target="_blank"}
-* [Guía de configuración de dominios descargables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=es#downloadable_domains){target="_blank"}
+* [Tipo de producto descargable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Guía de configuración de dominios descargables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 * [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

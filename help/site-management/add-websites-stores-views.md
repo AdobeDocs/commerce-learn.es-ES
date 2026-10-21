@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -61,11 +61,11 @@ Cada instalación de Adobe Commerce y Magento Open Source admite una jerarquía 
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Recursos adicionales
 
-* [Sitios web, tiendas y vistas:  [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=es)
-* [Categoría y jerarquía raíz:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html?lang=es)
+* [Sitios web, tiendas y vistas:  [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+* [Categoría y jerarquía raíz:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

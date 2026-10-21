@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -63,9 +63,9 @@ En este vídeo, aprenderá sobre la Herramienta de observación para Adobe Comme
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410746?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
 
 ## Recursos adicionales
 
-* [Observación para Adobe Commerce: artículo de asistencia] (¿https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=es&)
-* [Usar observación para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=es)
+* [Observación para Adobe Commerce: artículo de asistencia](¿https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+* [Usar observación para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

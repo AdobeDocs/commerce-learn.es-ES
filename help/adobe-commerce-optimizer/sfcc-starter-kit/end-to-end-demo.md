@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Vea una demostración completa que muestra la configuración y ejecución exitos
 * Los cambios en los detalles y precios del producto en el catálogo Salesforce Commerce Cloud se detectan y actualizan automáticamente en Commerce Optimizer a través del proceso de sincronización delta.
 * Actualizaciones en tiempo real que muestran un flujo de datos y una sincronización fluidos entre sistemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476096?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
 

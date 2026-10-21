@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -63,9 +63,9 @@ El equipo de asistencia de Adobe Commerce y la comunidad de Magento Open Source 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410782?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
 
 ## Recursos adicionales
 
-* [Herramienta Parche de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=es)
+* [Herramienta Parche de calidad](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 * [Herramienta Parche de calidad en GitHub](https://github.com/magento/quality-patches)

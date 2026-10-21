@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -58,13 +58,13 @@ Obtenga información acerca del uso de Fastly en la nube para Adobe Commerce.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432810?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
 
 ## Documentación de Experience League y el comprobador de Fastly Adobe Commerce mencionado en el vídeo
 
 * [Comprobador rápido](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-* [Servicios rápidos en Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=es)
-* [Preguntas frecuentes sobre Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=es)
-* [Optimización de imagen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=es)
+* [Servicios rápidos en Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+* [Preguntas frecuentes sobre Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+* [Optimización de imagen](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

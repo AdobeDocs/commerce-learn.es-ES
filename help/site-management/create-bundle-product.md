@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Al crear productos agrupados desde el administrador de Adobe Commerce, puede cre
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454500?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## Creación de productos con REST
 
@@ -462,6 +462,6 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 ## Recursos adicionales
 
 * [Tutorial de creación de un paquete de producto](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=es){target="_blank"}
+* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 * [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

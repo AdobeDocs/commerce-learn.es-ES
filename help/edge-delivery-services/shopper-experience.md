@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -77,4 +77,4 @@ Aprenderá a navegar por la tienda de Adobe Commerce en Edge Delivery Services, 
 * Trabajar con el carro y los pedidos: añadir artículos, cerrar la compra como invitado, cancelar pedidos, reordenar y procesar devoluciones.
 * Actualice la información de la cuenta, fusione los carros de compras de invitados y clientes y mantenga la coherencia del cierre de compra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446765?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

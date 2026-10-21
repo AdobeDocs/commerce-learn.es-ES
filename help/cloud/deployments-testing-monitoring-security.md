@@ -39,7 +39,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -60,11 +60,11 @@ Obtenga información sobre las estrategias de implementación de Adobe Commerce 
 
 ## La documentación de Experience League que se menciona en el vídeo
 
-* [Proceso de implementación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=es)
-* [Herramienta de análisis de todo el sitio SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=es)
-* [Asistente inteligente de herramientas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=es)
-* [Análisis de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=es)
-* [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=es)
-* [Información general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=es)
+* [Proceso de implementación](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+* [Herramienta de análisis de todo el sitio SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [Asistente inteligente de herramientas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+* [Análisis de seguridad](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+* [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+* [Información general del servicio New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

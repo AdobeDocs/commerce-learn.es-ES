@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -58,4 +58,4 @@ Adobe Commerce permite a las empresas administrar varias tiendas, marcas o sitio
 * Localización y personalización
 * Escalabilidad y flexibilidad
 
->[!VIDEO](https://video.tv.adobe.com/v/3434030?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

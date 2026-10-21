@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Descubra por qué la observabilidad centralizada es esencial para las arquitectu
 * La Observabilidad centralizada es clave: correlacionar registros y métricas en todos los componentes.
 * Aumentar el rendimiento de cierre de compra: identifique los cuellos de botella rápidamente para mantener las compras sin problemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478291?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

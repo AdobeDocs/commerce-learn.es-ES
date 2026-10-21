@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Administration
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Aprenda a utilizar las configuraciones y ajustes de búsqueda de Adobe Live. Obt
 * Tipos de clasificación basados en reglas explicados
 * Introducción a API de GraphQL
 
->[!VIDEO](https://video.tv.adobe.com/v/3454457?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

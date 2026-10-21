@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Aprenda por qué utilizar pt-query-digest y algunos ejemplos prácticos para mej
 * Conozca los beneficios y las deficiencias de esta función de Percona Toolkit
 * Comprenda los resultados y aprenda qué posibles pasos de rendimiento deben tenerse en cuenta
 
->[!VIDEO](https://video.tv.adobe.com/v/3452294?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## Referencias de código
 

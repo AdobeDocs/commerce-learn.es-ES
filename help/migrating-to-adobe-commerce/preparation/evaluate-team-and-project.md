@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -69,8 +69,8 @@ En el front-end, la experiencia con implementaciones sin encabezado puede simpli
 * Conozca algunas consideraciones sobre front-end y back-end.
 * Planifique una migración sin problemas evaluando los módulos existentes, actualizando las aplicaciones principales e integrándolo con otras soluciones de Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447447?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## Documentación relacionada
 
-[¿Qué es Adobe Commerce?](https://experienceleague.adobe.com/es/docs/commerce-admin/start/about)
+[¿Qué es Adobe Commerce?](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

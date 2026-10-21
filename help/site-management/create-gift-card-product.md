@@ -49,7 +49,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Obtenga información sobre cómo crear un producto de tarjeta regalo mediante la
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453080?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## Crear una tarjeta regalo con una carga útil simple
 
@@ -360,6 +360,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Recursos adicionales
 
-* [Cree un producto de tarjeta regalo desde el administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=es){target="_blank"}
+* [Cree un producto de tarjeta regalo desde el administrador de Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 * [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

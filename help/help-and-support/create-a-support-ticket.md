@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ Obtenga información sobre cómo crear un vale de soporte en Adobe Experience Le
 * Descubra cómo cambian los artículos recomendados en función de la información utilizada en el formulario
 * Cómo ayuda el texto de marcador de posición encontrado en los campos del formulario a comprender el tipo de información necesaria para una buena solicitud de asistencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3449556?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Guía del Centro de ayuda de Adobe de la Base de conocimiento de Commerce
 
-[Envío de un caso de asistencia](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Envío de un caso de asistencia](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

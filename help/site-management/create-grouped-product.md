@@ -40,7 +40,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Al crear productos agrupados desde el administrador de Adobe Commerce, cree prim
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454041?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
 ## Configuración del producto agrupado
 
@@ -251,6 +251,6 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 ## Recursos adicionales
 
 * [Creación y administración de productos agrupados](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=es){target="_blank"}
+* [Producto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
 * [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

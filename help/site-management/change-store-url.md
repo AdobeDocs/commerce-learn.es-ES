@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -59,11 +59,11 @@ Cada sitio web de una instalación de Adobe Commerce o Magento Open Source tiene
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Recursos adicionales
 
-* [URL de la tienda - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=es)
-* [Usar una URL de administración personalizada - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=es#use-a-custom-admin-url)
+* [URL de la tienda - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+* [Usar una URL de administración personalizada - [!DNL Commerce] Guía de tiendas y experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

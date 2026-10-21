@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Explore el espacio de trabajo de administración de Adobe Commerce, desde filtra
 * Cambie entre la vista predeterminada y las vistas guardadas, y actualice una vista existente.
 * Vaya a la configuración de la tienda y explore las configuraciones generales, de catálogo, de seguridad, de cliente y de ventas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473174?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## Vistas de cuadrícula guardadas
 
@@ -70,6 +70,6 @@ El menú [!UICONTROL Stores] proporciona acceso a la configuración de la tienda
 
 * [Filtros de cuadrícula de administración](admin-grids-and-filters.md)
 * [Ver y establecer configuraciones de administración mediante la línea de comandos](view-update-store-configuration-cli.md)
-* [Las herramientas de administración y el espacio de trabajo](https://experienceleague.adobe.com/es/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Controles de cuadrícula de administración](https://experienceleague.adobe.com/es/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Sitio, almacén y ámbito de visualización](https://experienceleague.adobe.com/es/docs/commerce-admin/start/setup/websites-stores-views)
+* [Las herramientas de administración y el espacio de trabajo](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Controles de cuadrícula de administración](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Sitio, almacén y ámbito de visualización](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
