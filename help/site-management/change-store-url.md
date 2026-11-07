@@ -61,7 +61,7 @@ Cada sitio web de una instalación de Adobe Commerce o Magento Open Source tiene
 >
 >El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507854?captions=spa&learn=on)
 
 ## Recursos adicionales
 

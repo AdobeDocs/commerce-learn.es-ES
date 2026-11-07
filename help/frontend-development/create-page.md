@@ -70,7 +70,7 @@ Cree una página que devuelva JSON con un parámetro.
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/35816?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507764?captions=spa&learn=on)
 
 ## Recursos útiles
 
