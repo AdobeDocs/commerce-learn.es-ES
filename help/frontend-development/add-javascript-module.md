@@ -66,7 +66,7 @@ Aprenda a desarrollar un módulo JavaScript simple que muestre el saludo &quot;H
 * Conecte el script mediante una actualización de diseño y una plantilla.
 * Compruebe el saludo en la página.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507646?captions=spa&learn=on)
 
 ## Recursos útiles
 

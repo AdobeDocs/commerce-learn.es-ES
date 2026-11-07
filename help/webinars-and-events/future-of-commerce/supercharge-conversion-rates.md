@@ -52,7 +52,7 @@ Descubra cómo Adobe Commerce está transformando las tiendas digitales con herr
 * Componentes y SDK preparados para desarrolladores
 * Herramientas integradas de edición visual
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505709?captions=spa&learn=on)
 
 ## Vídeos adicionales de esta serie
 

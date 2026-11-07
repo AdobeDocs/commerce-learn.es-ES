@@ -57,4 +57,4 @@ Obtenga información acerca de los aceleradores de éxito de Adobe para la prepa
 * Cambiar estrategias de gestión y comunicación
 * Revisión digital y referencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505733?captions=spa&learn=on)

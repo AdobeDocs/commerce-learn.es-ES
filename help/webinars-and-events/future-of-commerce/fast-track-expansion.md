@@ -58,7 +58,7 @@ Descubra cómo Adobe Commerce permite a las empresas acelerar su expansión digi
 * Integración perfecta de surtidos de productos de origen y de terceros
 * Desarrollo acelerado de tiendas con menús desplegables y temas
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505303?captions=spa&learn=on)
 
 ## Vídeos adicionales de esta serie
 
