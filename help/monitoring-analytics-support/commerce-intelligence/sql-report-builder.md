@@ -1,14 +1,15 @@
 ---
 title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: Aprenda a utilizar Adobe Commerce Intelligence SQL Report Builder para consultar el almacén de datos, ver resultados y crear gráficos sin esperar a los ciclos de actualización de informes.
+description: Obtenga información sobre cómo consultar un almacén de datos con Adobe Commerce Intelligence SQL Report Builder, revisar resultados y crear gráficos sin esperar ciclos de actualización de informes.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 last-substantial-update: 2023-02-10T00:00:00.000Z
+jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
 product_v2:
@@ -36,13 +37,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # SQL REPORT BUILDER
 
 Adobe Commerce Intelligence SQL Report Builder le permite consultar el almacén de datos, revisar los resultados y convertirlos en gráficos. Cuando se generan informes con SQL, no se espera en los ciclos de actualización para restringir las columnas que se crean. Si algo no parece correcto, edite y vuelva a ejecutar la consulta hasta que el resultado coincida con lo esperado.
