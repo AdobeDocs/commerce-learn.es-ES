@@ -44,9 +44,9 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '182'
 ht-degree: 0%
 ---
 # Utilice Fastly para denegar el acceso a todo un sitio web
@@ -63,7 +63,7 @@ Restringir el acceso al sitio de Adobe Commerce con ACL de Fastly Edge y VCL per
 * Adobe Commerce Developer
 * Ingeniero de confiabilidad del sitio
 
->[!VIDEO](https://video.tv.adobe.com/v/3464782?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
 
 ## Ejemplo de código
 
@@ -75,6 +75,6 @@ if ( !(client.ip ~ allowlist) && !req.http.Fastly-FF) { error 403 "Forbidden";}
 
 ## Documentación relacionada
 
-* [Detectar direcciones IP malintencionadas](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/tools/new-relic/malicious-ip)
-* [VCL personalizado para permitir solicitudes](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
-* [VCL personalizado para bloquear solicitudes](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
+* [Detectar direcciones IP malintencionadas](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip)
+* [VCL personalizado para permitir solicitudes](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-allowlist)
+* [VCL personalizado para bloquear solicitudes](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/custom-vcl-snippets/fastly-vcl-blocking)
