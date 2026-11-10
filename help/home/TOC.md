@@ -4,9 +4,9 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -87,6 +87,29 @@ ht-degree: 3%
         + [Localización de una IP malintencionada](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
         + [Configuración de notificaciones de alerta](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
         + [Alertas personalizadas](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+  + Administración de tiendas {#store-administration}
+    + [Administrar funciones y permisos de usuario](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+    + [Autenticación de doble factor](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+    + [Administrar reglas fiscales y de divisa](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+    + [Agregar sitios web, tiendas y vistas de tiendas](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+    + [Cambiar una URL de tienda](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+    + [Restablecer el URI de administrador](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+    + [Métodos de envío y entrega](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+    + [Cuadrículas de administración y filtros](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+    + [Commerce cli](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+    + [Vaya a la configuración de la tienda y al menú Sistema](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+    + Configuración de servicios de Commerce {#adobe-commerce-services}
+      + [Configuración del conector de servicios de Commerce](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+      + [Configurar servicios de pago](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+      + [Usar servicios de pago](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+    + Clientes {#customers}
+      + [Creación de segmentos de cliente](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+      + [Crear grupos de clientes](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+      + [Crear atributos del cliente](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+      + [Compras asistidas por el vendedor](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+    + Pedidos y cumplimiento {#orders}
+      + [Administrar estado de pedidos](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+      + [Comprobación del estado de inventario](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
 + Primeros pasos {#getting-started}
   + Funcionalidades de Commerce {#capabilities}
     + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
@@ -124,7 +147,7 @@ ht-degree: 3%
     + [Conclusión](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Ejecución en seco de App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desarrollo back-end {#backend-development}
-    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Creación de un módulo](../backend-development/create-module.md)
     + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
     + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
@@ -247,26 +270,6 @@ ht-degree: 3%
     + [Buscar, revisar, comentar y escalar tickets de asistencia](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Administrar los vigilantes de tickets de asistencia y su estado](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Administración de tienda {#admin}
-  + [Administrar funciones y permisos de usuario](../site-management/users-roles-permissions.md)
-  + [Autenticación de doble factor](../site-management/two-factor-authentication.md)
-  + [Administrar reglas fiscales y de divisa](../site-management/currency-tax-rules.md)
-  + [Agregar sitios web, tiendas y vistas de tiendas](../site-management/add-websites-stores-views.md)
-  + [Cambiar una URL de tienda](../site-management/change-store-url.md)
-  + [Restablecer el URI de administrador](../site-management/reset-admin-uri.md)
-  + [Métodos de envío y entrega](../site-management/shipping-delivery.md)
-  + [Cuadrículas de administración y filtros](../site-management/admin-grids-and-filters.md)
-  + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-  + [Vaya a la configuración de la tienda y al menú Sistema](../site-management/store-configuration-and-system-menu.md)
-  + Servicios de Adobe Commerce {#adobe-commerce-services}
-    + [Configuración del conector de servicios de Commerce](../site-management/configure-adobe-commerce-services-connector.md)
-    + [Configurar servicios de pago](../site-management/configure-adobe-payment-services.md)
-    + [Usar servicios de pago](../site-management/payment-services.md)
-+ Administración de clientes {#customers}
-  + [Creación de segmentos de cliente](../site-management/customer-segments.md)
-  + [Crear grupos de clientes](../site-management/customer-groups.md)
-  + [Crear atributos del cliente](../site-management/customer-attributes.md)
-  + [Compras asistidas por el vendedor](../site-management/seller-assisted-shopping.md)
 + Administración de catálogos {#catalog}
   + [Crear una categoría](../site-management/category-create.md)
   + [Administrar productos en una categoría](../site-management/category-products.md)
@@ -292,9 +295,6 @@ ht-degree: 3%
   + [Introducción a Live Search](../site-management/live-search.md)
   + [Búsqueda activa de recomendaciones](../site-management/live-search-recommendations.md)
   + [Integración de Commerce con AJO](../site-management/integrate-commerce-ajo.md)
-+ Pedidos y cumplimiento {#orders}
-  + [Administrar estado de pedidos](../orders-and-fulfillment/order-status.md)
-  + [Comprobación del estado de inventario](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B para Adobe Commerce {#b2b}
   + [Administrar cuentas de empresa](../b2b/company-accounts.md)
   + [Administrar catálogos compartidos](../b2b/shared-catalogs.md)
