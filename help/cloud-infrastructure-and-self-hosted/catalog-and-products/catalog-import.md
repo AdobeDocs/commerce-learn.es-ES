@@ -62,7 +62,7 @@ Elija una de las opciones a continuación para obtener más información.
 
 ## Creación manual de los productos {#manual-import}
 
-Considere la creación manual de productos para un catálogo pequeño con actualizaciones poco frecuentes. La introducción de cada producto lleva tiempo y requiere formación básica sobre el administrador de Commerce. La administración manual de catálogos se adapta a situaciones específicas en lugar de a la mayoría de las tiendas. Para obtener instrucciones, consulte [Crear un producto](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Si combina métodos de administración de catálogos, limite las ediciones manuales una vez que introduzca la automatización. Las actualizaciones automatizadas pueden sobrescribir los cambios manuales y causar confusión. Cuando una integración administra el catálogo a través de la automatización y las API, limite la administración del catálogo en el administrador a través de [funciones de usuario y permisos](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
+Considere la creación manual de productos para un catálogo pequeño con actualizaciones poco frecuentes. La introducción de cada producto lleva tiempo y requiere formación básica sobre el administrador de Commerce. La administración manual de catálogos se adapta a situaciones específicas en lugar de a la mayoría de las tiendas. Para obtener instrucciones, consulte [Crear un producto](https://experienceleague.adobe.com/es/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Si combina métodos de administración de catálogos, limite las ediciones manuales una vez que introduzca la automatización. Las actualizaciones automatizadas pueden sobrescribir los cambios manuales y causar confusión. Cuando una integración administra el catálogo a través de la automatización y las API, limite la administración del catálogo en el administrador a través de [funciones de usuario y permisos](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
 
 ### Cuándo considerar este enfoque
 
@@ -77,7 +77,7 @@ Considere la creación manual de productos para un catálogo pequeño con actual
 ## Herramienta de importación CSV de administrador {#admin-csv}
 
 Esta herramienta permite al propietario de una tienda importar un catálogo con un CSV desde el administrador de comercio.
-[Importar datos del administrador de Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[Importar datos del administrador de Commerce](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 Ventajas:
 Cargar un CSV del administrador es un enfoque directo para la administración de catálogos. Permite actualizaciones de productos de catálogo más rápidas para un catálogo de tamaño moderado.
@@ -171,6 +171,6 @@ Desventajas:
 ## Recursos adicionales
 
 * [Importación de datos con el nuevo CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Documentación principal de importación de datos](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Notas de la versión de Adobe Commerce 2.4.6](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [Documentación principal de importación de datos](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Notas de la versión de Adobe Commerce 2.4.6](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [Usuarios, funciones y permisos](../store-administration/users-roles-permissions.md){target="_blank"}
