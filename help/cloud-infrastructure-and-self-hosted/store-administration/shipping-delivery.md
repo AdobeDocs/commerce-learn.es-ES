@@ -56,7 +56,7 @@ Administre los métodos de envío y entrega para entregar los productos a sus cl
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411831?captions=spa&learn=on)
 
 ## Recursos adicionales
 

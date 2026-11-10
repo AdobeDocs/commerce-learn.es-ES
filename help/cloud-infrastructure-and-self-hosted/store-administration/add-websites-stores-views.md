@@ -63,7 +63,7 @@ Cada instalación de Adobe Commerce y Magento Open Source admite una jerarquía 
 >
 >El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507655?captions=spa&learn=on)
 
 ## Recursos adicionales
 
