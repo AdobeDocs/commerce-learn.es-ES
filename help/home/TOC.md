@@ -4,9 +4,9 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,19 @@ ht-degree: 3%
     + [Uso de plantillas de contenido](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [Ensayo de contenido](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [Administrar la galería de medios](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + Marketing y comercialización {#marketing-and-merchandising}
+    + [Crear reglas de precios de catálogo](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [Crear reglas de precio del carro](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [Administrar reglas de producto relacionadas](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [Configurar recomendaciones de productos](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Introducción a Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [Live Search de recomendaciones](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [Demostración completa de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [Integración de Commerce con AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
 + Primeros pasos {#getting-started}
   + Funcionalidades de Commerce {#capabilities}
     + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Conexión de datos](../capabilities/data-connection.md)
-    + [Demostración completa de Live Search](../capabilities/live-search-full-demonstration.md)
     + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
   + Kit de inicio de integración de back office {#back-office-integration-starter-kit}
     + [Demostración del Starter Kit](../back-office-integrations/starter-kit-demo.md)
@@ -287,14 +295,6 @@ ht-degree: 3%
     + [Buscar, revisar, comentar y escalar tickets de asistencia](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Administrar los vigilantes de tickets de asistencia y su estado](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Herramientas de marketing {#marketing}
-  + [Crear reglas de precios de catálogo](../site-management/catalog-price-rules.md)
-  + [Crear reglas de precio del carro](../site-management/cart-price-rules.md)
-  + [Administrar reglas de producto relacionadas](../site-management/related-product-rules.md)
-  + [Configurar recomendaciones de productos](../site-management/product-recommendations.md)
-  + [Introducción a Live Search](../site-management/live-search.md)
-  + [Búsqueda activa de recomendaciones](../site-management/live-search-recommendations.md)
-  + [Integración de Commerce con AJO](../site-management/integrate-commerce-ajo.md)
 + B2B para Adobe Commerce {#b2b}
   + [Administrar cuentas de empresa](../b2b/company-accounts.md)
   + [Administrar catálogos compartidos](../b2b/shared-catalogs.md)

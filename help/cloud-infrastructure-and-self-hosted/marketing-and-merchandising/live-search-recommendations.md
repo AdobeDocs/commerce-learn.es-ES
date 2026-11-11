@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Live Search] para recomendaciones'
 description: Aprenda a agregar [!DNL Live Search] para recomendaciones de productos a su tienda y produzca experiencias de compra muy atractivas, relevantes y personalizadas.
-doc-type: feature video
+doc-type: Feature Video
 duration: 1897
 audience: all
 activity: use
-kt: 13792
+jira: KT-13792
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
@@ -55,9 +55,9 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # [!DNL Live Search] para recomendaciones
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ## Recursos adicionales
 
-* [Introducción a  [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=es)
+* [Introducción a  [!DNL Live Search]](live-search.md)
 * [Información general de [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=es)
 * [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=es)
 * [Introducción a las recomendaciones de productos](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=es)

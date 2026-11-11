@@ -38,14 +38,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '680'
 ht-degree: 0%
 ---
 # Crear reglas de precio del carro
 
-Las reglas de precios del carro de compras aplican descuentos a los artículos del carro de compras en función de las condiciones establecidas. El descuento se puede aplicar automáticamente cuando se cumplen las condiciones o cuando el cliente introduce un código de cupón válido. El descuento aparece en el carro de compras bajo el subtotal. Puede activar o desactivar una regla para una temporada o promoción cambiando su estado y el intervalo de fechas.
+Las reglas de precios del carro de compras aplican descuentos a los artículos del carro de compras en función de las condiciones establecidas. Los descuentos se aplican cuando se cumplen las condiciones o un cliente introduce un código de cupón válido. El descuento aparece en el carro de compras bajo el subtotal. Active o desactive una regla para una temporada o promoción cambiando su estado y el intervalo de fechas.
 
 ## ¿Para quién es este vídeo?
 
@@ -61,7 +61,7 @@ Las reglas de precios del carro de compras aplican descuentos a los artículos d
 
 ## Problemas de visualización de precios
 
-En algunos casos, cada elemento de línea debe mostrar el descuento aplicado, pero es posible que los valores mostrados no coincidan exactamente. Esto sucede cuando una regla de precio del carro de compras aplica un descuento en varios productos y la división no se divide uniformemente en dos decimales.
+Los descuentos de artículos de línea mostrados a veces difieren debido al redondeo. Esta diferencia se produce cuando una regla de precio del carro de compras aplica un descuento en varios productos y la división produce cantidades con más de dos decimales.
 
 >[!BEGINSHADEBOX]
 
@@ -102,9 +102,9 @@ Producto 2 = 1,99
 El descuento total de los dos productos ahora, cuando se suman, coincide con el descuento real proporcionado a un cliente.
 >[!ENDSHADEBOX]
 
-Esta es una captura de pantalla como se mostraría en el administrador para un pedido que tenga este escenario:
+La captura de pantalla Administración que aparece a continuación muestra los descuentos de elemento de línea para este ejemplo:
 
-![Vista de administrador que muestra elementos ordenados con valores diferentes](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Vista de administrador que muestra elementos ordenados con valores diferentes](../../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Otras soluciones potenciales y por qué no se utilizaron
 
@@ -130,7 +130,7 @@ sin embargo, si redondeamos, mostraría que se dieron $4.00, y eso es incorrecto
 
 >[!ENDSHADEBOX]
 
-Problema similar si se elimina el tercer decimal para todos los artículos, se mostraría muy poco descuento proporcionado.
+Si se suelta el tercer decimal para todos los elementos, se produce un descuento total demasiado pequeño.
 
 >[!BEGINSHADEBOX]
 
@@ -154,5 +154,5 @@ sin embargo, si soltamos el tercer decimal, mostraría que se dieron 3,98 dólar
 
 ## Recursos adicionales
 
-* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=es){target="_blank"}
-* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=es){target="_blank"}
+* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/es/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/es/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
