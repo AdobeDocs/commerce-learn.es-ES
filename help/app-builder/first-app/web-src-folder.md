@@ -1,6 +1,6 @@
 ---
 title: La carpeta web-src
-description: Obtenga información sobre la estructura de carpetas web-src, sus archivos JavaScript y carpetas anidadas, y cómo esta carpeta admite la interfaz de usuario en la aplicación de ejemplo de App Builder.
+description: Explore la carpeta web-src de App Builder, sus archivos JavaScript y carpetas anidadas, y cómo admiten la interfaz de usuario en la aplicación de ejemplo.
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
@@ -29,13 +29,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-08-11T19:18:31.875Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # Descubra el propósito de la carpeta web-src {#web-src-folder}
 
 La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y carpetas de JavaScript. Esta carpeta se utiliza para aplicaciones que tienen una interfaz de usuario. No todas las aplicaciones utilizan esta característica. Por ejemplo, una integración de Commerce con un sistema de administración de inventario externo no requiere una interfaz de front-end y código.
@@ -50,7 +48,7 @@ La carpeta web-src de esta aplicación de ejemplo contiene muchos archivos y car
 * Archivos y carpetas incluidos normalmente
 * Uso de la carpeta `web-src` y del contenido de la aplicación de ejemplo
 
->[!VIDEO](https://video.tv.adobe.com/v/3421038?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
 ## Muestras de código
 

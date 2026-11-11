@@ -1,6 +1,6 @@
 ---
 title: La carpeta de prueba
-description: Obtenga información acerca del archivo de prueba unitaria de JavaScript en la carpeta de prueba de App Builder y cómo se puede expandir para realizar pruebas completas de la aplicación de muestra de Adobe Commerce.
+description: Explore las pruebas unitarias de JavaScript de la aplicación de ejemplo de App Builder y aprenda a expandirlas en pruebas completas para integraciones de Adobe Commerce.
 jira: KT-21682
 doc-type: Tutorial
 duration: 233
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:25.321Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # Obtenga información sobre la carpeta de prueba {#test-folder}
 
 La carpeta `test` de esta aplicación de ejemplo contiene un solo archivo JavaScript, que se utiliza al ejecutar pruebas unitarias en la aplicación.
@@ -46,7 +44,7 @@ Este punto de partida se puede ampliar para crear pruebas completas para las apl
 * Una breve explicación del archivo de prueba unitaria y sus componentes
 * Introducción a las pruebas de extremo a extremo
 
->[!VIDEO](https://video.tv.adobe.com/v/3421060?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## Ejemplos de código
 

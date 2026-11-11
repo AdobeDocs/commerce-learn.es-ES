@@ -1,6 +1,6 @@
 ---
 title: Pruebas con la URL de Adobe Developer App Builder
-description: Obtenga información sobre cómo implementar y probar la primera aplicación de Adobe Developer App Builder mediante la dirección URL del proyecto, incluido dónde encontrar la dirección URL después de una implementación correcta.
+description: Obtenga información sobre cómo implementar y probar la aplicación de Adobe Developer App Builder mediante la dirección URL del proyecto, incluido dónde encontrar la dirección URL después de la implementación.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # Pruebas mediante la URL de App Builder {#testing-app-builder-url}
 
 Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer App Builder con la dirección URL del proyecto.
@@ -43,7 +41,7 @@ Obtenga información sobre cómo probar la nueva aplicación de Adobe Developer 
 * Cómo implementar la aplicación
 * Dónde encontrar la URL después de la implementación
 
->[!VIDEO](https://video.tv.adobe.com/v/3421044?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 

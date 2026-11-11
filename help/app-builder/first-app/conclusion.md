@@ -1,6 +1,6 @@
 ---
 title: Conclusión
-description: Obtenga información sobre recursos, documentación y opciones de la comunidad adicionales de Adobe Developer App Builder después de completar su primera aplicación de App Builder con Adobe Commerce.
+description: Encuentre recursos, documentación y opciones de la comunidad de Adobe Developer App Builder después de completar su primera aplicación de App Builder para Adobe Commerce.
 jira: KT-21686
 doc-type: Tutorial
 duration: 100
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:17.783Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: '128'
 ht-degree: 0%
-
 ---
-
 # Conclusión {#conclusion}
 
 Después de crear la primera aplicación de Adobe Developer App Builder, obtenga información sobre los demás recursos que proporciona Adobe.
@@ -44,7 +42,7 @@ Después de crear la primera aplicación de Adobe Developer App Builder, obtenga
 * Métodos de conexión con otros desarrolladores
 * Comentarios de cierre
 
->[!VIDEO](https://video.tv.adobe.com/v/3421072?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416741?learn=on)
 
 ## Recursos adicionales de App Builder
 

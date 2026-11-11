@@ -1,6 +1,6 @@
 ---
 title: El archivo .env
-description: Obtenga información sobre cómo generar y configurar el archivo .env para la aplicación de Adobe Developer App Builder, incluida la administración de secretos y la prevención de confirmaciones accidentales en el control de código fuente.
+description: Obtenga información sobre cómo generar y configurar el archivo .env para la aplicación de App Builder, administrar secretos y evitar confirmaciones accidentales en el control de código fuente.
 jira: KT-21681
 doc-type: Tutorial
 duration: 177
@@ -33,13 +33,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:20.957Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: '143'
 ht-degree: 0%
-
 ---
-
 # Generación y configuración del archivo .env {#env-file}
 
 `.env` es un archivo especial que no forma parte del módulo de ejemplo, pero es importante para su uso en la aplicación Adobe Developer App Builder. Este archivo contiene secretos y otra información. Evite enviar este archivo a cualquier repositorio de código.
@@ -55,7 +53,7 @@ ht-degree: 0%
 * Para agregar nuevos secretos, anexe el archivo
 * Evite confirmar este archivo porque contiene información confidencial
 
->[!VIDEO](https://video.tv.adobe.com/v/3421066?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
 
 ## Ejemplo de código
 
