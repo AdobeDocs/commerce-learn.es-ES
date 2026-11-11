@@ -4,9 +4,9 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,66 @@ ht-degree: 3%
     + [Live Search de recomendaciones](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [Demostración completa de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [Integración de Commerce con AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + B2B para Adobe Commerce {#b2b}
+    + [Administrar cuentas de empresa](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [Administrar catálogos compartidos](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [Administrar crédito de la compañía](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [Pedidos de compra y aprobaciones](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + Comillas {#quotes}
+      + [El representante de ventas inicia la oferta](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [Validación de presupuesto del administrador](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [Descuentos de artículos de línea de oferta](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [Notas de artículo de línea de oferta](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + Desarrollo y actualizaciones de aplicaciones {#application-development-and-upgrades}
+    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
+    + [Creación de un módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [Añadir un atributo de producto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [Ejemplo de inyección de dependencia](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Replicación lenta de Galera Cluster](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [Caché de consultas MySQL](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [Resumen de consulta PT](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [Conexión y ejecución de consultas en la base de datos de Adobe Commerce](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Actualizaciones de Commerce {#upgrades}
+      + [Taller de actualización de Adobe Commerce 2.4](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [Información general sobre la herramienta de compatibilidad de actualización](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [Uso de la herramienta de compatibilidad de actualización en PhpStorm](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + Técnicas de implementación de la arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
+      + [Información general](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [Dividir Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [Paquetes masivos](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [Separar paquetes](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + Fundamentos {#foundations}
+    + [Introducción a App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+    + [Marco de extensibilidad y eventos de Commerce](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [Instalación de aplicaciones de App Builder desde Adobe Exchange](../app-builder/foundations/install-app-builder-app.md)
+  + Cree su primera aplicación {#first-app}
+    + [Información general](../app-builder/first-app/overview.md)
+    + [Generar y configurar el archivo .env](../app-builder/first-app/env-file.md)
+    + [Descripción y uso del archivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+    + [Obtenga información sobre la carpeta de acciones](../app-builder/first-app/actions-folder.md)
+    + [Obtenga información sobre la carpeta de prueba](../app-builder/first-app/test-folder.md)
+    + [Descubra el propósito de la carpeta web-src](../app-builder/first-app/web-src-folder.md)
+    + [Pruebas locales](../app-builder/first-app/testing-locally.md)
+    + [Pruebas mediante la URL de App Builder](../app-builder/first-app/testing-app-builder-url.md)
+    + [Conclusión](../app-builder/first-app/conclusion.md)
+    + [Código fuente del módulo de ejemplo](https://github.com/magento/app-builder-samples){target="_blank"}
+
+  + Utilice las herramientas de IA para crear POC de pago dividido {#create-a-split-payment-poc}
+    + [Herramientas de App Builder e IA](../app-builder/split-payment-ai-tools/overview.md)
+    + [Demostración completa](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [Guía de implementación paso a paso](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [Decisiones de arquitectura y diseño](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [Requisitos previos y configuración del entorno](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [Pruebas y verificación](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [Pasos siguientes](../app-builder/split-payment-ai-tools/next-steps.md)
+    + Recursos de referencia {#split-payment-resources}
+      + [Referencia de variables de entorno](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Mensaje de Commerce module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [petición de datos de App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [Solicitud de API de extensión de IU de Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
 + Primeros pasos {#getting-started}
   + Funcionalidades de Commerce {#capabilities}
     + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +220,10 @@ ht-degree: 3%
 + API e integración {#apis-and-integration}
   + Ejemplos prácticos de REST y GraphQL {#examples}
     + [Clientes con REST](../apis-and-integration/examples/customer.md)
+    + Cotizaciones B2B {#b2b-quotes}
+      + [El representante de ventas inicia la API de REST de oferta](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [Oferta de descuento de artículo de línea GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [API REST de notas de artículos de línea de oferta](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Extensibilidad {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -171,19 +235,6 @@ ht-degree: 3%
     + [Migrar código existente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusión](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Ejecución en seco de App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Desarrollo back-end {#backend-development}
-    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
-    + [Creación de un módulo](../backend-development/create-module.md)
-    + [Añadir un atributo de producto](../backend-development/add-product-attribute.md)
-    + [Ejemplo de inyección de dependencia](../backend-development/dependency-injection.md)
-    + [Replicación lenta de Galera Cluster](../backend-development/galera-db-slow-replication.md)
-    + [Caché de consultas MySQL](../backend-development/mysql-query-cache.md)
-    + [Resumen de consulta PT](../backend-development/pt-query-digest.md)
-    + [Conexión y ejecución de consultas en la base de datos de Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
-    + Actualizaciones de Commerce {#upgrade}
-      + [Taller de actualización de Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
-      + [Información general sobre la herramienta de compatibilidad de actualización](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [Uso de la herramienta de compatibilidad de actualización en PhpStorm](../upgrade/uct-phpstorm.md)
   + Desarrollo front-end de Luma {#frontend-development}
     + Page Builder de PaaS/SaaS para desarrolladores {#page-builder}
       + [1 - Introducción](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -220,39 +271,12 @@ ht-degree: 3%
     + [Consultas](../graphql-rest/graphql-queries.md)
     + [Mutaciones](../graphql-rest/graphql-mutations.md)
     + [Esquema](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [Instalación de aplicaciones desde Adobe Exchange](../app-builder/install-app-builder-app.md)
-    + [Introducción a App Builder](../app-builder/introduction-to-app-builder.md)
-    + [Marco de extensibilidad para App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-    + Utilice las herramientas de IA para crear POC de pago dividido {#create-a-split-payment-poc}
-      + [Herramientas de App Builder e IA](../app-builder/split-payment-ai-tools/overview.md)
-      + [Demostración completa](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [Guía de implementación paso a paso](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [Decisiones de arquitectura y diseño](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [Requisitos previos y configuración del entorno](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [Pruebas y verificación](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [Pasos siguientes](../app-builder/split-payment-ai-tools/next-steps.md)
-      + Recursos de referencia {#split-payment-resources}
-        + [Referencia de variables de entorno](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Mensaje de Commerce module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [petición de datos de App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [Solicitud de API de extensión de IU de Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+  + Más tutoriales de App Builder y eventos de I/O {#adobe-developer-app-builder}
     + Crear tarifas de envío personalizadas con las herramientas de IA {#custom-shipping-rates-ai-tools}
       + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
       + [Herramientas de IA y Starter Kit de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
       + [Implementación y pruebas](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
       + [Proporcionar comentarios a Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + Cree su primera aplicación de App Builder {#first-app}
-      + [Información general](../app-builder/first-app/overview.md)
-      + [Generar y configurar el archivo .env](../app-builder/first-app/env-file.md)
-      + [Descripción y uso del archivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [Obtenga información sobre la carpeta de acciones](../app-builder/first-app/actions-folder.md)
-      + [Obtenga información sobre la carpeta de prueba](../app-builder/first-app/test-folder.md)
-      + [Descubra el propósito de la carpeta web-src](../app-builder/first-app/web-src-folder.md)
-      + [Pruebas locales](../app-builder/first-app/testing-locally.md)
-      + [Pruebas mediante la URL de App Builder](../app-builder/first-app/testing-app-builder-url.md)
-      + [Conclusión](../app-builder/first-app/conclusion.md)
-      + [Código fuente del módulo de ejemplo](https://github.com/magento/app-builder-samples){target="_blank"}
     + Eventos de E/S para Adobe Commerce {#io-events}
       + [Introducción a los eventos de E/S](../io-events/getting-started-io-events.md)
       + [Instalación de Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -270,12 +294,6 @@ ht-degree: 3%
     + [Crear una malla de API de GraphQL de origen único](../api-mesh/graphql-single-source.md)
     + [Crear una malla de API de GraphQL de varios orígenes](../api-mesh/graphql-multiple-source.md)
 
-+ Arquitectura de referencia global {#global-reference-architecture-implementation-techniques}
-  + [Información general](../global-reference-architecture/overview.md)
-  + [Dividir Git](../global-reference-architecture/split-git.md)
-  + [Paquetes masivos](../global-reference-architecture/bulk-packages.md)
-  + [Separar paquetes](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)
 + Monitorización, análisis y asistencia {#monitoring-analytics-support}
   + Observabilidad {#observability}
     + [Resumen de observabilidad](../monitoring-analytics-support/observability/overview.md)
@@ -294,17 +312,3 @@ ht-degree: 3%
     + [Creación de una solicitud de asistencia](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Buscar, revisar, comentar y escalar tickets de asistencia](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Administrar los vigilantes de tickets de asistencia y su estado](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ B2B para Adobe Commerce {#b2b}
-  + [Administrar cuentas de empresa](../b2b/company-accounts.md)
-  + [Administrar catálogos compartidos](../b2b/shared-catalogs.md)
-  + [Administrar crédito de la compañía](../b2b/company-credit.md)
-  + [Pedidos de compra y aprobaciones](../b2b/purchase-orders.md)
-  + Cita {#b2b-quote}
-    + [El representante de ventas inicia la oferta](../b2b/sales-rep-initiates-quote.md)
-    + [Validación de presupuesto del administrador](../b2b/quote-validation-admin-panel.md)
-    + [El representante de ventas inicia la API de REST de oferta](../b2b/sales-rep-initiates-quote-api.md)
-    + [Descuentos de artículos de línea de oferta](../b2b/quote-line-item-discount.md)
-    + [Notas de artículo de línea de oferta](../b2b/quote-line-item-notes.md)
-    + [Oferta de descuento de artículo de línea GraphQL](../b2b/quote-graphql-line-item-discount.md)
-    + [API REST de descuento de artículo de línea de oferta](../b2b/quote-rest-api-line-item-notes.md)

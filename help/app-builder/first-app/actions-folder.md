@@ -1,6 +1,6 @@
 ---
 title: La carpeta de acciones
-description: Obtenga información acerca de los archivos y carpetas de JavaScript en la carpeta de acciones de App Builder, incluidos los patrones de autenticación OAuth y conexión Commerce para la aplicación de ejemplo.
+description: Explore la carpeta de acciones de App Builder y sus archivos JavaScript, incluidos los patrones de autenticación OAuth y conexión Commerce en la aplicación de ejemplo.
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # Obtenga información sobre la carpeta de acciones {#actions-folder}
 
 La carpeta `actions` de esta aplicación de ejemplo contiene algunos archivos JavaScript y una carpeta denominada `commerce`. El JavaScript mostrado es un archivo de ejemplo útil que se puede reutilizar si es relevante para su trabajo. Esta carpeta puede ahorrarle tiempo en los esfuerzos de desarrollo al conectarse a la aplicación de Adobe Commerce mediante OAuth y REST.

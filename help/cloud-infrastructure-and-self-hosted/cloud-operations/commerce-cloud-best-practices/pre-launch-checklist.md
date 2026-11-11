@@ -49,9 +49,9 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2371'
 ht-degree: 0%
 ---
 # Lista de comprobación previa al inicio
@@ -120,7 +120,7 @@ Adobe Commerce Cloud utiliza un clúster MariaDB Galera como base de datos para 
 * [Prácticas recomendadas de configuraciones de MySQL](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Alertas administradas en Adobe Commerce: [alertas de MariaDB](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * Prácticas recomendadas para [configuración de la base de datos](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* [Replicación de clúster de Galera y control de flujo](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (análisis más profundo)
+* [Replicación de clúster de Galera y control de flujo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"} (análisis más profundo)
 
 1. Se recomienda la conexión esclava [MySQL](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} para mejorar el rendimiento durante cargas altas de la base de datos.
 2. Asegúrese de que el formato de fila de todas las tablas de base de datos esté establecido en [DINÁMICO en lugar de COMPACTO](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (esto es especialmente cierto para las migraciones locales a la nube).
