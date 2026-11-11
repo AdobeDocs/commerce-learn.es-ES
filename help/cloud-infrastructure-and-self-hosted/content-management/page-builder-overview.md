@@ -1,8 +1,8 @@
 ---
 title: Información general de [!DNL Page Builder]
-description: Obtenga información sobre cómo crear páginas [!DNL Commerce] almacenar páginas en el administrador mediante [!DNL Page Builder].
-kt: 5563
-doc-type: feature video
+description: Obtenga información sobre cómo generar páginas [!DNL Commerce] que almacenan páginas en el administrador mediante [!DNL Page Builder].
+jira: KT-5563
+doc-type: Feature Video
 duration: 317
 audience: all
 activity: use
@@ -35,13 +35,11 @@ topic_v2:
     internal-label: Customer engagement
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '177'
 ht-degree: 1%
-
 ---
-
 # Información general de [!DNL Page Builder]
 
 [!DNL Page Builder] facilita la creación de páginas con contenido enriquecido con diseños personalizados que mejoran la narración visual y aumentan la participación y lealtad de los clientes.

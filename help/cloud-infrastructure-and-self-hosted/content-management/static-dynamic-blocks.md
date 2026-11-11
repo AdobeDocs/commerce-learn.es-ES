@@ -1,18 +1,19 @@
 ---
-title: Crear plantillas de contenido
-description: Descubra cómo las plantillas pueden ahorrar tiempo y esfuerzo al crear contenido o reemplazar contenido antiguo.
-doc-type: feature video
-duration: 182
+title: Creación de bloques estáticos y dinámicos
+description: Aprenda a crear bloques estáticos y dinámicos para las páginas de CMS de la tienda.
+doc-type: Feature Video
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00.000Z
-feature: Configuration, System, Personalization, Native Luma Frontend Development
+feature: Configuration, System, Personalization, Native Luma Frontend Development, Page Content
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
+jira: KT-17150
+duration: 302
+exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
 badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
-TQID: 'https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM'
+TQID: 'https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -25,6 +26,8 @@ feature_v2:
     internal-label: System
   - id: f37757d8-3174-5335-b977-1161792f965d
     internal-label: Personalization
+  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
+    internal-label: Page Content
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
 subfeature_v2:
@@ -45,14 +48,14 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '181'
 ht-degree: 0%
 ---
-# Crear plantillas de contenido
+# Creación de bloques estáticos y dinámicos
 
-El uso de plantillas le ahorra tiempo y esfuerzo al crear contenido (o reemplazar contenido antiguo). Por ejemplo, puede guardar el contenido existente del Page Builder como una plantilla y, a continuación, aplicar esa plantilla (con todo su contenido y diseños) a otra área para crear rápidamente contenido del Page Builder.
+Un bloque es una unidad modular de contenido que se puede colocar en la mayoría de los lugares de la página. Los bloques de contenido a veces se denominan bloques estáticos o bloques de CMS. Se pueden utilizar para mostrar información fija, como texto, imágenes y vídeo incrustado, así como información dinámica proporcionada por un widget u originada en una base de datos u otra fuente. La mayoría de los elementos de la página principal son bloques que se pueden administrar fácilmente. En este vídeo, aprenderá a crear bloques estáticos y dinámicos.
 
 ## ¿Para quién es este vídeo?
 
@@ -61,9 +64,9 @@ El uso de plantillas le ahorra tiempo y esfuerzo al crear contenido (o reemplaza
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410841?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411067?captions=spa&learn=on)
 
 ## Recursos adicionales
 
-* [[!DNL Page Builder] plantillas - [!DNL Page Builder] Guía del usuario](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=es)
-* [Agregar plantillas:  [!DNL Page Builder] Guía para desarrolladores](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+* [Bloques:  [!DNL Commerce] Guía de diseño y contenido](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=es)
+* [Bloques dinámicos:  [!DNL Commerce] Guía de contenido y diseño](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=es)
