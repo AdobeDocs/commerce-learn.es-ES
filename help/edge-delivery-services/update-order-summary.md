@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Aprenda a utilizar la lista desplegable de carritos de Adobe Commerce y a ajusta
 * Obtenga información sobre cómo incluir una cantidad total guardada para el resumen del carro de compras.
 * Obtenga información sobre cómo combinar líneas en el resumen del carro de compras en una sección plegable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441188?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Documentación adicional
 
-* [Resumen de pedidos](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=es)
+* [Resumen de pedidos](https://experienceleague.adobe.com/en/tools/commerce-storefront/how-tos/order-summary-lines)
