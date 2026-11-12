@@ -61,4 +61,4 @@ En este vídeo:
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/35716?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507709?captions=spa&learn=on)
