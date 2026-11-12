@@ -3,7 +3,7 @@ title: Integración de última milla en el Starter Kit de Commerce
 description: Obtenga información sobre la integración de última milla en Commerce mediante los vínculos de extensibilidad para la validación, transformación, preprocesamiento, envío y posprocesamiento.
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -63,6 +63,6 @@ Obtenga información acerca de la importancia de las actividades posteriores al 
 * Conozca el papel del gancho de transformación en la transformación de objetos de datos entre los sistemas de origen y destino.
 * Obtenga información acerca de la importancia del vínculo de envío para facilitar los datos reales que se envían al sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451922?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

@@ -3,7 +3,7 @@ title: Uso de la funcionalidad nativa de un mecanismo de reintento
 description: Aprenda a utilizar el mecanismo de reintentos de Adobe I/O Events para crear aplicaciones resistentes, lo que abarca condiciones de reintentos, estrategias de retroceso e indicadores visuales.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '377'
 ht-degree: 0%
 ---
 # Uso del mecanismo de reintentos de Adobe I/O Events para la resiliencia de la aplicación
@@ -53,11 +53,11 @@ Obtenga información sobre cómo funciona el mecanismo de reintentos en el conte
 * Indicadores visuales en Developer Console, como iconos de advertencia para eventos fallidos e iconos de flecha circulares para eventos reintentados.
 * Las acciones de tiempo de ejecución &quot;consumidor&quot; desempeñan un papel crucial a la hora de determinar los códigos de estado de respuesta HTTP adecuados para la gestión de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449076?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Documentación relacionada
 
-* [Webhook no puede gestionar un evento](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Gancho web hacia abajo y marcado como inestable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook no puede gestionar un evento](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Gancho web hacia abajo y marcado como inestable](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)
