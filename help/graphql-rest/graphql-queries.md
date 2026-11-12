@@ -3,11 +3,11 @@ title: Realización de una consulta con GraphQL
 description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
 landing-page-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
 short-description: Obtenga información sobre cómo realizar una consulta con GraphQL en Adobe Commerce y [!DNL Magento Open Source]. Introducción a GraphQL mediante llamadas GET y POST.
-kt: 13937
-doc-type: video
+jira: KT-13937
+doc-type: Tutorial
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -31,7 +31,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
