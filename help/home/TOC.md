@@ -4,7 +4,7 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '1035'
 ht-degree: 3%
@@ -204,6 +204,12 @@ ht-degree: 3%
       + [petición de datos de App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
       + [Solicitud de API de extensión de IU de Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
 
+  + Crear tarifas de envío personalizadas con las herramientas de IA {#custom-shipping-rates-ai-tools}
+    + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [Herramientas de IA y Starter Kit de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [Implementación y pruebas](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [Proporcionar comentarios a Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+
 + Primeros pasos {#getting-started}
   + Funcionalidades de Commerce {#capabilities}
     + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
@@ -272,11 +278,6 @@ ht-degree: 3%
     + [Mutaciones](../graphql-rest/graphql-mutations.md)
     + [Esquema](../graphql-rest/graphql-schema.md)
   + Más tutoriales de App Builder y eventos de I/O {#adobe-developer-app-builder}
-    + Crear tarifas de envío personalizadas con las herramientas de IA {#custom-shipping-rates-ai-tools}
-      + [Introducción y configuración](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [Herramientas de IA y Starter Kit de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [Implementación y pruebas](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [Proporcionar comentarios a Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
     + Eventos de E/S para Adobe Commerce {#io-events}
       + [Introducción a los eventos de E/S](../io-events/getting-started-io-events.md)
       + [Instalación de Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
