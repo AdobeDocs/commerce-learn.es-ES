@@ -155,7 +155,7 @@ ht-degree: 2%
       + [Descuentos de artículos de línea de oferta](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notas de artículo de línea de oferta](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Desarrollo y actualizaciones de aplicaciones {#application-development-and-upgrades}
-    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [Prácticas recomendadas para modificar tablas de base de datos](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=es)
     + [Creación de un módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Añadir un atributo de producto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Ejemplo de inyección de dependencia](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
