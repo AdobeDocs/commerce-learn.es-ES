@@ -54,7 +54,7 @@ Esta guía proporciona información general sobre cómo localizar, validar y adm
 * Obtenga información sobre cómo editar y anular valores de configuración a través del panel de administración, el repositorio de código y los archivos específicos del entorno.
 * Descubra prácticas recomendadas para mantener configuraciones coherentes en diferentes entornos mediante herramientas como app:config:dump y la IU de administración de Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505786?captions=spa&learn=on)
 
 ## Documentación de Experience League relacionada
 
