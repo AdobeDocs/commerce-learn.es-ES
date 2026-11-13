@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ## Infraestructura en la nube y tutoriales de implementación autoalojados
 
-* [Información general sobre la implementación de Global Reference Architecture](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview)
-* [Dividir Git](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git)
-* [Paquetes masivos](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages)
-* [Separar paquetes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages)
-* [Monorepo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo)
+* [Información general sobre la implementación de Global Reference Architecture](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview)
+* [Dividir Git](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git)
+* [Paquetes masivos](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages)
+* [Separar paquetes](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages)
+* [Monorepo](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo)
