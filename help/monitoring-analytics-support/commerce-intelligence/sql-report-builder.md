@@ -8,7 +8,7 @@ level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
 solution: Adobe Commerce
-last-substantial-update: 2023-02-10T00:00:00.000Z
+last-substantial-update: 2023-02-10
 jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Adobe Commerce Intelligence SQL Report Builder le permite consultar el almacén 
 
 >[!TIP]
 >
-> Si no tiene experiencia en Commerce Intelligence, en la [guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es){target="_blank"} se explica cómo agregar, analizar y visualizar datos para obtener perspectivas comerciales más sólidas.
+> Si no tiene experiencia en Commerce Intelligence, en la [guía del usuario de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} se explica cómo agregar, analizar y visualizar datos para obtener perspectivas comerciales más sólidas.
 
 ## ¿Para quién es este vídeo?
 
@@ -65,9 +65,9 @@ Adobe Commerce Intelligence SQL Report Builder le permite consultar el almacén 
 * Cree una visualización a partir de los resultados de la consulta.
 * Guarde el informe en un tablero para su equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/346408?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
 
 ## Recursos útiles
 
-* [Uso de SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=es){target="_blank"} (guía del usuario de Commerce Intelligence)
-* [Creación de visualizaciones a partir de consultas SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=es){target="_blank"} (guía del usuario de Commerce Intelligence)
+* [Uso de SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (guía del usuario de Commerce Intelligence)
+* [Creación de visualizaciones a partir de consultas SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} (guía del usuario de Commerce Intelligence)
