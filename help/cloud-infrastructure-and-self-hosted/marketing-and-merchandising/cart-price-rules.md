@@ -154,5 +154,5 @@ sin embargo, si soltamos el tercer decimal, mostraría que se dieron 3,98 dólar
 
 ## Recursos adicionales
 
-* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/es/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/es/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
