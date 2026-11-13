@@ -46,7 +46,7 @@ ht-degree: 0%
 
 Para recuperar el acceso al administrador después de un cambio de URL incorrecto, restablezca el URI de administrador con la CLI de Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439695?captions=spa&learn=on)
 
 ## Algunos comandos utilizados en el tutorial
 
