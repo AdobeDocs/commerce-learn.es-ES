@@ -34,9 +34,9 @@ topic_v2:
     internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # Expansión rápida
@@ -62,7 +62,7 @@ Descubra cómo Adobe Commerce permite a las empresas acelerar su expansión digi
 
 ## Tutoriales relacionados
 
-* [Adobe Commerce Optimizer: vistas de catálogo](https://experienceleague.adobe.com/es/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce Optimizer: vistas de catálogo](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
 * [Adobe Commerce as a Cloud Service: gestión y comercialización de catálogos](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## Vídeos adicionales de esta serie

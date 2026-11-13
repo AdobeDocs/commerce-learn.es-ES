@@ -1,6 +1,6 @@
 ---
 title: Implementación de la arquitectura de referencia global
-description: Aprenda a implementar una arquitectura de referencia global. Conozca ideas para distribuir sus sitios web, las claves de éxito y las funciones necesarias para garantizar que su proyecto de arquitectura de referencia global comience por el camino correcto.
+description: Aprenda a implementar la arquitectura de referencia global para Adobe Commerce, incluida la distribución de sitios web, los factores de éxito, el desarrollo de funciones y las funciones de equipo.
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -40,12 +40,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # Implementación de la arquitectura de referencia global
+
+>[!NOTE]
+>
+>Esta serie abarca Adobe Commerce sobre la infraestructura en la nube y las implementaciones autoalojadas.
 
 Aprenda a implementar la arquitectura de referencia global o GRA. Obtenga información acerca de las decisiones anticipadas que ayudan a configurar un GRA exitoso. Obtenga ideas sobre cómo separar los sitios web, las claves del éxito y algunos conceptos para desarrollar funciones de forma organizada.
 

@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
 ---
 # Crecimiento empresarial con innovación en IA
@@ -76,5 +76,5 @@ Descubra cómo Adobe Commerce está revolucionando el comercio electrónico con 
 ## Tutoriales relacionados
 
 * [Información general de Commerce MCP](https://experienceleague.adobe.com/es/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
-* [Ruta de aprendizaje de Commerce Developer Agent](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer: modelo de datos de catálogo maquetable](https://experienceleague.adobe.com/es/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Ruta de aprendizaje de Commerce Developer Agent](https://experienceleague.adobe.com/es/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: modelo de datos de catálogo maquetable](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

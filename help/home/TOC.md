@@ -4,15 +4,20 @@ user-guide-description: Obtenga información sobre Adobe Commerce y Magento Open
 breadcrumb-title: Vídeos y tutoriales
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1137'
 ht-degree: 2%
 ---
 
 # Vídeos y tutoriales de Adobe Commerce {#tutorials}
 
 + [[!DNL Commerce] Tutoriales](overview.md)
++ Primeros pasos {#getting-started}
+  + Funcionalidades de Commerce {#capabilities}
+    + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
+    + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
   + [Información general](../commerce-as-a-cloud-service/overview.md)
   + [Arquitectura](../commerce-as-a-cloud-service/architecture.md)
@@ -37,6 +42,23 @@ ht-degree: 2%
     + [Credenciales de Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [Migración en una sola fase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [Migración en varias fases](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+  + [Información general](../adobe-commerce-optimizer/overview.md)
+  + [Cree su primera instancia de Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
+  + [Administrar instancias de Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
+  + [Ingesta de datos de muestra](../adobe-commerce-optimizer/ingest-sample-data.md)
+  + [Primera consulta con GraphQL](../adobe-commerce-optimizer/first-query.md)
+  + Starter Kit de Salesforce Commerce Cloud {#sfcc-starter-kit}
+    + [Información general](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+    + [Descripción general de la arquitectura](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+    + [Instalación del cartucho de SFCC](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+    + [Kit de inicio del creador de aplicaciones](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+    + [Demostración de extremo a extremo](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
+  + Modelo de datos de catálogo maquetable {#composable-catalog-data-model}
+    + [Por qué existe CCDM](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+    + [Más información sobre las Vistas de catálogo](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+    + [Obtenga información acerca de las políticas CCDM](../adobe-commerce-optimizer/composable-catalog-data-model/learn-about-ccdm-policies.md)
+
 + Infraestructura en la nube y alojamiento propio {#cloud-infrastructure-and-self-hosted}
   + Plataforma y migración {#platform-and-migration}
     + [Mercadotecnia](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
@@ -173,6 +195,7 @@ ht-degree: 2%
       + [Paquetes masivos](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Separar paquetes](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
+
 + App Builder {#app-builder}
   + Fundamentos {#foundations}
     + [Introducción a App Builder](../app-builder/foundations/introduction-to-app-builder.md)
@@ -209,11 +232,6 @@ ht-degree: 2%
     + [Herramientas de IA y Starter Kit de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
     + [Implementación y pruebas](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
     + [Proporcionar comentarios a Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ Primeros pasos {#getting-started}
-  + Funcionalidades de Commerce {#capabilities}
-    + [Opciones de comercio disponibles](../capabilities/adobes-available-commerce-options.md)
-    + [Composable Commerce](../capabilities/what-is-composable-commerce.md)
 
 + API e integración {#apis-and-integration}
   + Fundamentos de GraphQL {#graphql-rest}
@@ -260,7 +278,7 @@ ht-degree: 2%
 
 + Extensibilidad {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
-    + [Ruta de aprendizaje del agente de desarrollador](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [Ruta de aprendizaje del agente de desarrollador](https://experienceleague.adobe.com/es/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Desarrollo de tiendas {#storefront-development}
   + tienda de Commerce en Edge Delivery Services {#edge-delivery-services}
@@ -295,6 +313,8 @@ ht-degree: 2%
     + [Desarrollo de PWA Docker](../pwa/pwa-docker-development.md)
     + [Configuración de Venia para desarrollo](../pwa/set-up-venia-for-dev.md)
 
++ [IA y comercio agéntico](https://experienceleague.adobe.com/es/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + Monitorización, análisis y asistencia {#monitoring-analytics-support}
   + Observabilidad {#observability}
     + [Resumen de observabilidad](../monitoring-analytics-support/observability/overview.md)
@@ -313,3 +333,5 @@ ht-degree: 2%
     + [Creación de una solicitud de asistencia](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Buscar, revisar, comentar y escalar tickets de asistencia](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Administrar los vigilantes de tickets de asistencia y su estado](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [Seminarios web y eventos](https://experienceleague.adobe.com/es/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
