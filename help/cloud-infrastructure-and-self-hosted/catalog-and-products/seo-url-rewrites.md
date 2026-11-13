@@ -6,13 +6,13 @@ doc-type: Feature Video
 duration: 150
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Search, Site Navigation
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 TQID: 'https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -61,9 +61,9 @@ La herramienta de reescritura de URL permite cambiar cualquier URL asociada a un
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411821?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
 
 ## Recursos adicionales
 
-* [Reescrituras de URL:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=es)
-* [General > Web:  [!DNL Commerce] Guía de referencia de configuración](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=es)
+* [Reescrituras de URL:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+* [General > Web:  [!DNL Commerce] Guía de referencia de configuración](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

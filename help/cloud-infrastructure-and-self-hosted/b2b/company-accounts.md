@@ -4,7 +4,7 @@ description: 'Obtenga información sobre cómo administrar las cuentas de empres
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 ---
 # Administrar cuentas de empresa
 
-Para los comerciantes B2B, la página _[!UICONTROL Companies]_&#x200B;enumera todas las cuentas de compañía actuales y su estado. Puede administrar las cuentas de su compañía aquí. Cualquier solicitud de aprobación pendiente aparecerá en la parte superior de la lista. Los controles estándar del área de trabajo se pueden utilizar para filtrar la lista, cambiar el diseño de la columna, guardar vistas y exportar datos.
+Para los comerciantes B2B, la página _[!UICONTROL Companies]_enumera todas las cuentas de compañía actuales y su estado. Puede administrar las cuentas de su compañía aquí. Cualquier solicitud de aprobación pendiente aparecerá en la parte superior de la lista. Los controles estándar del área de trabajo se pueden utilizar para filtrar la lista, cambiar el diseño de la columna, guardar vistas y exportar datos.
 
 {{b2b-feature}}
 
@@ -63,9 +63,9 @@ Para los comerciantes B2B, la página _[!UICONTROL Companies]_&#x200B;enumera to
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410770?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Recursos adicionales
 
-* [Cuentas de empresa](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Administrar cuentas de empresa](https://experienceleague.adobe.com/es/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Cuentas de empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Administrar cuentas de empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

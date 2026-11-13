@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 348
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -56,10 +56,10 @@ Adobe Commerce utiliza atributos para administrar la información asociada a pro
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411822?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## Recursos adicionales
 
-[Descripción general de atributos de producto:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=es)
+[Descripción general de atributos de producto:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[Conjuntos de atributos:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=es)
+[Conjuntos de atributos:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

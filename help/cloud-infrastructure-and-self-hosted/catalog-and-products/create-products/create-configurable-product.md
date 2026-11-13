@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 1760
 audience: all
 activity: use
-last-substantial-update: 2023-12-15T00:00:00.000Z
+last-substantial-update: 2023-12-15
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -42,7 +42,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '998'
 ht-degree: 0%
@@ -59,7 +59,7 @@ En este tutorial, aprenderá a crear un producto configurable mediante la API de
 
 Utilice la API de REST para crear un producto configurable:
 
-1. Obtenga los atributos de un [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=es) para usar los números de identificación en llamadas de API posteriores.
+1. Obtenga los atributos de un [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) para usar los números de identificación en llamadas de API posteriores.
 1. Cree productos simples para utilizarlos en el producto configurable.
 1. Cree un producto configurable vacío y asocie los productos simples.
 1. Establezca los atributos del producto para el producto configurable.
@@ -78,7 +78,7 @@ Al crear productos configurables desde el administrador de Adobe Commerce, puede
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3455038?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
 
 ## Obtener los atributos de color mediante cURL
 
@@ -377,6 +377,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Recursos adicionales
 
 * [Tutorial sobre Creación de un producto configurable](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [Producto configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=es){target="_blank"}
+* [Producto configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Tutoriales de REST de Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc de REST de Adobe Commerce](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

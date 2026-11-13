@@ -7,7 +7,7 @@ role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Tutorial
 duration: 285
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 jira: KT-15161
 exl-id: 8ab5050c-61d5-4029-acb0-06043842b64f
 product_v2:
@@ -26,7 +26,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -43,10 +43,10 @@ En este tutorial se explica cómo funciona la capacidad en Adobe Commerce Cloud,
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3482039?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
 
 ## Documentación relacionada
 
-* [Commerce en la nube: información general del proyecto](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/project/overview)
-* [Directrices de pruebas de rendimiento](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [Commerce en la nube: información general del proyecto](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Directrices de pruebas de rendimiento](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [Lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
