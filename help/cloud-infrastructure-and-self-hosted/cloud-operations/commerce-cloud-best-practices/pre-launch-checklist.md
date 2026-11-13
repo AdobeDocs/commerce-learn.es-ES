@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 451
-last-substantial-update: 2024-04-17T00:00:00.000Z
+last-substantial-update: 2024-04-17
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
 TQID: 'https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE'
@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '2371'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Adobe Commerce Cloud utiliza un clúster MariaDB Galera como base de datos para 
 * [Prácticas recomendadas de configuraciones de MySQL](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Alertas administradas en Adobe Commerce: [alertas de MariaDB](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * Prácticas recomendadas para [configuración de la base de datos](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* [Replicación de clúster de Galera y control de flujo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"} (análisis más profundo)
+* [Replicación de clúster de Galera y control de flujo](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"} (análisis más profundo)
 
 1. Se recomienda la conexión esclava [MySQL](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} para mejorar el rendimiento durante cargas altas de la base de datos.
 2. Asegúrese de que el formato de fila de todas las tablas de base de datos esté establecido en [DINÁMICO en lugar de COMPACTO](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (esto es especialmente cierto para las migraciones locales a la nube).

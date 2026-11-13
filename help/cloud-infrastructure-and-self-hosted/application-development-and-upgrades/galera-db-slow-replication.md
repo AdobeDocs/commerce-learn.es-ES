@@ -3,7 +3,7 @@ title: Diagnosticar replicación de Galera DB en registros de consulta lentos de
 description: Aprenda cómo el diseño de replicación de Galera DB ralentiza las sincronizaciones de bases de datos secundarias, cómo identificar estos eventos en los registros de consultas lentas de MySQL y formas de minimizar el impacto.
 doc-type: Technical Video
 duration: 452
-last-substantial-update: 2023-07-18T00:00:00.000Z
+last-substantial-update: 2023-07-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Developer
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
