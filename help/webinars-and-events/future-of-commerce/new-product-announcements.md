@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 0%
 ---
 # Anuncios de nuevos productos
@@ -55,9 +55,9 @@ En el primero de una serie de seminarios web en cuatro partes, Adobe Commerce pr
 
 ## Tutoriales relacionados
 
-* [Comparar opciones de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
-* [Información general sobre Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Información general de Adobe Commerce Optimizer](https://experienceleague.adobe.com/es/docs/commerce-learn/adobe-commerce-optimizer/overview)
+* [Comparar opciones de Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Información general sobre Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Información general de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
 
 ## Vídeos adicionales de esta serie
 
