@@ -54,6 +54,6 @@ Los aceleradores de éxito de Adobe Commerce incluyen servicios como preparació
 
 ## Tutoriales relacionados
 
-* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Resumen de observabilidad](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Creación de una solicitud de asistencia](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Resumen de observabilidad](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Creación de una solicitud de asistencia](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

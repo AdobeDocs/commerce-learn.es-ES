@@ -86,8 +86,8 @@ Información general sobre Adobe Commerce y su serie de cuatro partes sobre plan
 
 ## Tutoriales relacionados
 
-* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Conexión de datos](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Introducción a App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Conexión de datos](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Introducción a App Builder](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

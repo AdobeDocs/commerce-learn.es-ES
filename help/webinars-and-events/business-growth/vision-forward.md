@@ -89,6 +89,6 @@ La hoja de ruta de Adobe Commerce para 2026 describe una estrategia integral par
 
 ## Tutoriales relacionados
 
-* [Conexión de datos](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Resumen de observabilidad](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Introducción a App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Conexión de datos](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Resumen de observabilidad](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introducción a App Builder](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
