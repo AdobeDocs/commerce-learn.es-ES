@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 510
-last-substantial-update: 2024-01-31T00:00:00.000Z
+last-substantial-update: 2024-01-31
 jira: KT-14877
 exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
 TQID: 'https://experienceleague.adobe.com/W0kaFd-DJAPA1kFO0hWaBZXsSarojbt5Hnv3QkW85hA'
@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Demostración sobre cómo ver, establecer y buscar valores de configuración con
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3439973?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## Algunos comandos utilizados en el tutorial
 
@@ -87,5 +87,5 @@ Para ver una página en el terminal y mostrar los números de línea `cat -n ven
 
 ## Recursos adicionales
 
-* [Herramienta Línea de comandos](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=es){target="_blank"}
-* [Configurar la seguridad de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=es){target="_blank"}
+* [Herramienta Línea de comandos](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configurar la seguridad de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

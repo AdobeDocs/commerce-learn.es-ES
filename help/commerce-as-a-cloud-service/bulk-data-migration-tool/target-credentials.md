@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 226
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22107
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -43,4 +43,4 @@ Establezca las direcciones URL de la instancia de destino, las credenciales de A
 * Recupere el ID de cliente IMS de Adobe y el secreto de cliente de **Project** > **OAuth Server-to-Server** en Adobe Developer Console.
 * Copie el ID de organización de destino y configure el host de CDMS, el puerto y el servidor local para que coincidan con su entorno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496170?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)

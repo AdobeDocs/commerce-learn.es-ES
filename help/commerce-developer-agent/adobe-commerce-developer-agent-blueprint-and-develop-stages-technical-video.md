@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 257
-last-substantial-update: 2026-08-28T00:00:00.000Z
+last-substantial-update: 2026-08-28
 jira: KT-22474
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Las fases de modelo y desarrollo son el lugar en el que una regla en inglés sin
 * Generación, prueba y autocorrección automáticas, y el agente haciendo una pausa para preguntar cuándo necesita aclaración
 * Validación de la configuración generada, el esquema de configuración empresarial y los detalles del gancho web
 
->[!VIDEO](https://video.tv.adobe.com/v/3502505?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3502479)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 

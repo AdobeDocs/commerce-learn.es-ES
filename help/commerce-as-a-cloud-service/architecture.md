@@ -4,7 +4,7 @@ description: Descubra la arquitectura de Adobe Commerce as a Cloud Service y las
 jira: KT-17220
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2025-01-30T00:00:00.000Z
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -73,4 +73,4 @@ Obtenga información acerca de la arquitectura y las funciones clave de Adobe Co
 * Amplia cobertura de API: La plataforma admite una amplia cobertura de API mediante las API de GraphQL y REST, lo que permite una integración perfecta con sistemas de terceros.
 * Arquitectura disociada: la arquitectura totalmente disociada permite a los desarrolladores utilizar varios marcos front-end, lo que ofrece flexibilidad y rendimiento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443270?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)

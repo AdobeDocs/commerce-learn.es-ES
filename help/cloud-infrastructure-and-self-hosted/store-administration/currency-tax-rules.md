@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 157
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Shopping Cart, Taxes
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -58,9 +58,9 @@ Las reglas fiscales incorporan una combinación de clase de producto, clase de c
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411832?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## Recursos adicionales
 
-* [Reglas de impuestos - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=es)
-* [Moneda - [!DNL Commerce] Guía de tiendas y de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=es)
+* [Reglas de impuestos - [!DNL Commerce] Guía de experiencia de compra y tiendas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [Moneda - [!DNL Commerce] Guía de tiendas y de experiencia de compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

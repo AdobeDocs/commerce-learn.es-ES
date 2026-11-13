@@ -11,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 427
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 jira: KT-19031
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Explore el espacio de trabajo de administración de Adobe Commerce, desde filtra
 * Cambie entre la vista predeterminada y las vistas guardadas, y actualice una vista existente.
 * Vaya a la configuración de la tienda y explore las configuraciones generales, de catálogo, de seguridad, de cliente y de ventas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473174?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## Vistas de cuadrícula guardadas
 
@@ -70,6 +70,6 @@ El menú [!UICONTROL Stores] proporciona acceso a la configuración de la tienda
 
 * [Filtros de cuadrícula de administración](admin-grids-and-filters.md)
 * [Ver y establecer configuraciones de administración mediante la línea de comandos](view-update-store-configuration-cli.md)
-* [Las herramientas de administración y el espacio de trabajo](https://experienceleague.adobe.com/es/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Controles de cuadrícula de administración](https://experienceleague.adobe.com/es/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Sitio, almacén y ámbito de visualización](https://experienceleague.adobe.com/es/docs/commerce-admin/start/setup/websites-stores-views)
+* [Las herramientas de administración y el espacio de trabajo](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Controles de cuadrícula de administración](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Sitio, almacén y ámbito de visualización](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

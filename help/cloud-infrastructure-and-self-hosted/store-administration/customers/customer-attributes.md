@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 117
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -56,9 +56,9 @@ Los atributos del cliente proporcionan la información necesaria para respaldar 
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411827?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## Recursos adicionales
 
-* [Propiedades de atributos del cliente:  [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=es)
-* [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=es)
+* [Propiedades de atributos del cliente:  [!DNL Commerce] Guía de administración del cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [Crear una cuenta de cliente individual - [!DNL Commerce] Guía de administración de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
