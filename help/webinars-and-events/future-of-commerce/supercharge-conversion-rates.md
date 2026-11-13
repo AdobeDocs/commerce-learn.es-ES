@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 816
-last-substantial-update: 2025-05-16T00:00:00.000Z
+last-substantial-update: 2025-05-16
 jira: KT-18121
 exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
 TQID: 'https://experienceleague.adobe.com/qKPOl-FmaMKvLomLiSlzzDegyZXDfKeS6Xvv1cZlEX4'
@@ -28,7 +28,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -52,13 +52,13 @@ Descubra cómo Adobe Commerce está transformando las tiendas digitales con herr
 * Componentes y SDK preparados para desarrolladores
 * Herramientas integradas de edición visual
 
->[!VIDEO](https://video.tv.adobe.com/v/3505709?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
 ## Tutoriales relacionados
 
-* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service: creación de contenido de IA generativa](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service: experimentación de tiendas](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: creación de contenido de IA generativa](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: experimentación de tiendas](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## Vídeos adicionales de esta serie
 

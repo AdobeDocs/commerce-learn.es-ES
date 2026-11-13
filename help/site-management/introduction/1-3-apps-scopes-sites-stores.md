@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Commerce] para usuarios empresariales: sitios, tiendas y vistas'
-description: Conozca los conceptos básicos de la arquitectura de [!DNL Commerce], incluidas las diferencias entre sitios web, tiendas, vistas de tiendas y ámbitos de aplicación. Comprender la indexación y el almacenamiento en caché.
+title: '[!DNL Commerce] usuarios empresariales: sitios, tiendas y vistas'
+description: 'Obtenga información sobre la arquitectura de [!DNL Commerce]: sitios web, tiendas, vistas de tiendas y ámbitos de aplicaciones. Comprenda las diferencias, además de la indexación y el almacenamiento en caché.'
 kt: 5760
-doc-type: video
+doc-type: Technical Video
 duration: 450
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -33,9 +33,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '132'
 ht-degree: 0%
 ---
 # [!DNL Commerce] para usuarios empresariales: sitios, tiendas y vistas
@@ -54,12 +54,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330067?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35945?learn=on)
 
 ## Recursos adicionales
 
-[Sitios web, tiendas y vistas:  [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=es)
+[Sitios web, tiendas y vistas:  [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Configuración del ámbito- [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=es#scope-settings)
+[Configuración del ámbito- [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

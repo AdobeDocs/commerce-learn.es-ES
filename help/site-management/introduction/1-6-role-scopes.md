@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Commerce] para usuarios empresariales - Ámbitos de funciones y permisos'
+title: '[!DNL Commerce] usuarios empresariales: ámbitos de función y permisos'
 description: Obtenga información sobre cómo definir ámbitos de función (exclusivos de Adobe Commerce) y los permisos asociados por sitio o tienda.
 kt: 5763
-doc-type: video
+doc-type: Technical Video
 duration: 290
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Security, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -35,9 +35,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 ---
 # [!DNL Commerce] para usuarios empresariales - Ámbitos de funciones y permisos
@@ -54,12 +54,12 @@ En este vídeo:
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=es).
+>El contenido del vídeo refleja la versión 2.3.1 de. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330042?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35948?learn=on)
 
 ## Recursos adicionales
 
-[Administrar cuentas de usuario de administrador:  [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=es)
+[Administrar cuentas de usuario de administrador:  [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Funciones de usuario:  [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=es)
+[Funciones de usuario:  [!DNL Commerce] Guía de sistemas de administración](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 195
-last-substantial-update: 2025-05-12T00:00:00.000Z
+last-substantial-update: 2025-05-12
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
 TQID: 'https://experienceleague.adobe.com/WU72DxFpsonlMV5EJSs6YK1nY8HeEnBrX-fFumYQib0'
@@ -36,7 +36,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -61,12 +61,12 @@ Descubra cómo Adobe y los comerciantes comparten la responsabilidad de mantener
 
 ## Documentación adicional
 
-* [Notas de revisión de seguridad](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/security-patches/overview)
+* [Notas de revisión de seguridad](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canales de notificación](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Boletines de seguridad de Adobe](https://helpx.adobe.com/es/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Proteja su sitio de comercio e infraestructura](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Boletines de seguridad de Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Proteja su sitio de comercio e infraestructura](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
 
 ## Tutoriales relacionados
 
-* [Infraestructura en la nube y alojamiento propio: implementaciones, pruebas, monitorización y seguridad](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
-* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infraestructura en la nube y alojamiento propio: implementaciones, pruebas, monitorización y seguridad](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
