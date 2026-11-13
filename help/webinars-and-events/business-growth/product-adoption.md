@@ -2,7 +2,7 @@
 title: Simplificación de la migración a Adobe Commerce con las herramientas de IA
 description: Descubra cómo Adobe Commerce optimiza la migración en la nube con herramientas de IA, adopción modular y un desarrollo más rápido para un crecimiento empresarial escalable.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # Crecimiento empresarial al simplificar la adopción de nuevos productos
@@ -64,3 +64,9 @@ Adobe Commerce facilita el crecimiento de las empresas al ayudarlas a pasar a Ad
 * Las mejoras en la tienda mejoran el rendimiento y la creación de contenido con componentes integrados y entrega de Edge.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475751?captions=spa&learn=on)
+
+## Tutoriales relacionados
+
+* [Migrar a Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Introducción a App Builder](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

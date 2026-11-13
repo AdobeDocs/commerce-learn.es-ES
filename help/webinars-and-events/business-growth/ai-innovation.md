@@ -2,7 +2,7 @@
 title: Crecimiento empresarial con innovación en IA
 description: 'Explore el crecimiento del comercio electrónico impulsado por IA con Adobe Commerce: aumente la capacidad de detección, optimice las tiendas y expanda globalmente.'
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '207'
 ht-degree: 0%
 ---
 # Crecimiento empresarial con innovación en IA
@@ -72,3 +72,9 @@ Descubra cómo Adobe Commerce está revolucionando el comercio electrónico con 
 * Mejorar La Experiencia De La Tienda A Través De Conversational Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475698?captions=spa&learn=on)
+
+## Tutoriales relacionados
+
+* [Información general de Commerce MCP](https://experienceleague.adobe.com/es/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Ruta de aprendizaje de Commerce Developer Agent](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer: modelo de datos de catálogo maquetable](https://experienceleague.adobe.com/es/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

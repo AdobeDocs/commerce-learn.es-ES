@@ -26,13 +26,11 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '217'
 ht-degree: 0%
-
 ---
-
 # Preparación técnica de Success Accelerators
 
 Los aceleradores de éxito de Adobe Commerce incluyen servicios como preparación técnica, que cubre el asesoramiento de lanzamiento, la preparación para la actualización/migración, la revisión del entorno y la resolución de problemas de la solución. Además, ofrecen revisiones de soluciones y adopciones para mejorar el uso y el rendimiento del producto. Los servicios de supervisión y planificación de eventos proporcionan orientación y asistencia las 24 horas del día, los 7 días de la semana para campañas críticas y lanzamientos de productos, lo que garantiza un rendimiento óptimo y una identificación proactiva de problemas. Estos aceleradores pretenden maximizar la eficacia y la adopción de los productos de Adobe Commerce
@@ -53,3 +51,9 @@ Los aceleradores de éxito de Adobe Commerce incluyen servicios como preparació
 * Directrices y asistencia las 24 horas del día, los 7 días de la semana para campañas críticas y lanzamientos de productos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)
+
+## Tutoriales relacionados
+
+* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Resumen de observabilidad](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Creación de una solicitud de asistencia](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

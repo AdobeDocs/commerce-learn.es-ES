@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '281'
 ht-degree: 0%
 ---
 # Anuncios de nuevos productos
@@ -52,6 +52,12 @@ En el primero de una serie de seminarios web en cuatro partes, Adobe Commerce pr
 * Las rutas de adopción flexibles e incrementales permiten a las empresas realizar la transición a su propio ritmo, con un soporte continuo para las soluciones existentes y plazos de soporte de versiones ampliados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
+
+## Tutoriales relacionados
+
+* [Comparar opciones de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Información general sobre Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Información general de Adobe Commerce Optimizer](https://experienceleague.adobe.com/es/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 ## Vídeos adicionales de esta serie
 

@@ -1,6 +1,6 @@
 ---
 title: Planificación de la implementación moderna de Adobe Commerce
-description: Este seminario web trata sobre la planificación de la implementación de un sistema de comercio moderno, específicamente de Adobe Commerce, e incluye debates sobre la fase de descubrimiento, los servicios, la arquitectura de referencia global, las prácticas de desarrollo front-end y las prácticas recomendadas.
+description: Obtenga información sobre cómo planificar una implementación de Adobe Commerce que cubra la detección, los servicios, la arquitectura de referencia global, el desarrollo front-end y las prácticas recomendadas.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -52,9 +52,9 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '457'
 ht-degree: 0%
 ---
 # Planificación de la implementación moderna de Adobe Commerce
@@ -83,5 +83,11 @@ Información general sobre Adobe Commerce y su serie de cuatro partes sobre plan
 * Importancia de una planificación, organización y priorización adecuadas de las tareas, incluyendo el inicio de las partes más difíciles del proyecto y la consideración del uso de GRA para componentes reutilizables.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## Tutoriales relacionados
+
+* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Conexión de datos](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Introducción a App Builder](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

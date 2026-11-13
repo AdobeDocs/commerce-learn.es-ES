@@ -8,7 +8,8 @@ level: Intermediate
 doc-type: Tutorial
 duration: 438
 last-substantial-update: 2026-08-28
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+jira: KT-23144
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%

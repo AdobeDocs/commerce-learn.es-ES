@@ -2,7 +2,7 @@
 title: Crecimiento empresarial con el plan de desarrollo futuro de Adobe
 description: Descubra la hoja de ruta de Adobe Commerce para tiendas B2B, personalización en tiempo real, pagos y experiencias de comerciantes y desarrolladores con tecnología de IA.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
-topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
+topic: Administration, Commerce, Development, Headless, Performance, Personalization, Security
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -62,9 +62,9 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '221'
 ht-degree: 0%
 ---
 # Crecimiento empresarial con la hoja de ruta Visión Forward de Adobe
@@ -86,3 +86,9 @@ La hoja de ruta de Adobe Commerce para 2026 describe una estrategia integral par
 * Mejoras en la experiencia y observabilidad del desarrollador
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475709?captions=spa&learn=on)
+
+## Tutoriales relacionados
+
+* [Conexión de datos](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Resumen de observabilidad](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introducción a App Builder](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
