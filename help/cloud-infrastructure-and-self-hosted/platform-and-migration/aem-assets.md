@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 223
-last-substantial-update: 2024-12-09T00:00:00.000Z
+last-substantial-update: 2024-12-09
 jira: KT-16203
 exl-id: afd2c688-8abd-47cb-a6ec-c7e2c3b44743
 TQID: https://experienceleague.adobe.com/KP8R5-oK3I1HvfQisGjFfBFeSL5i3BuuW-SnYWwH1w0
@@ -34,7 +34,7 @@ topic_v2:
     internal-label: Customer engagement
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
     internal-label: Artificial intelligence
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -55,4 +55,4 @@ Al integrar la IA con Adobe Commerce, se centraliza la administración de recurs
 * Sincronización perfecta entre productos y recursos.
 * Control del ciclo de vida completo, incluida la aprobación, la eliminación y la caducidad.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434079?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

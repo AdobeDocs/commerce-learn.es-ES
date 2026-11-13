@@ -6,13 +6,13 @@ doc-type: Technical Video
 duration: 521
 audience: all
 activity: use
-last-substantial-update: 2024-01-09T00:00:00.000Z
+last-substantial-update: 2024-01-09
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/es/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
+badgePaas: label="Solo PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Se aplica solo a proyectos de Adobe Commerce en la nube (infraestructura PaaS administrada por Adobe) y a proyectos locales."
 TQID: 'https://experienceleague.adobe.com/FMCct3iKx-UuNYvHwbqOyzcxOTebFGorL5-Sgeh8OuQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -35,7 +35,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -69,6 +69,6 @@ El siguiente vídeo trata tareas y problemas comunes de configuración del Conec
 
 ## Recursos adicionales
 
-* [Commerce Services Connector](https://experienceleague.adobe.com/es/docs/commerce/user-guides/integration-services/saas){target="_blank"}
-* [Guía de servicios de pago](https://experienceleague.adobe.com/es/docs/commerce/payment-services/guide-overview){target="_blank"}
-* [Commerce Services Connector](https://experienceleague.adobe.com/es/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Guía de servicios de pago](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}

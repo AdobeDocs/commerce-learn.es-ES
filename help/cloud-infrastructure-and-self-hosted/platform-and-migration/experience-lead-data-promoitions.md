@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 1345
-last-substantial-update: 2024-09-09T00:00:00.000Z
+last-substantial-update: 2024-09-09
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
 TQID: 'https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc'
@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Descubra las potentes herramientas de administración de catálogos de Adobe Com
 * Integración y personalización avanzadas.
 * Experiencia de compra mejorada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434067?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
@@ -93,7 +93,7 @@ Descubra las funcionalidades de búsqueda avanzada de Adobe Commerce Live Search
 * Experiencia de búsqueda personalizable: Funciones como reglas de búsqueda avanzadas, sinónimos y facetas permiten una experiencia de búsqueda adaptada y optimizada para los clientes.
 * Integración B2B: Live Search admite modelos B2B con catálogos compartidos y precios específicos, lo que mejora su versatilidad para diversas necesidades comerciales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434045?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promociones  
 
@@ -105,5 +105,5 @@ Adobe Commerce permite a los gerentes de tienda crear y administrar paquetes de 
 * Estrategias de promoción avanzadas.
 * Integración perfecta con sistemas de terceros, lo que mejora la flexibilidad y la automatización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434056?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

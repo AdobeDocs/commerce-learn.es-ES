@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -61,11 +61,11 @@ Cada instalación de Adobe Commerce y Magento Open Source admite una jerarquía 
 
 >[!NOTE]
 >
->El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-operations/release/notes/overview).
+>El contenido del vídeo refleja la versión 2.1.0. Para obtener información acerca de las actualizaciones de versiones posteriores, consulte las [notas de la versión](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507655?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Recursos adicionales
 
-* [Sitios web, tiendas y vistas:  [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/es/docs/commerce-admin/start/setup/websites-stores-views)
-* [Categoría y jerarquía raíz:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/es/docs/commerce-admin/catalog/categories/category-root)
+* [Sitios web, tiendas y vistas:  [!DNL Commerce] Guía de introducción](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Categoría y jerarquía raíz:  [!DNL Commerce] Guía de administración de catálogos](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)

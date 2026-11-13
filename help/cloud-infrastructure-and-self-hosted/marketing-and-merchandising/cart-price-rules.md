@@ -2,7 +2,7 @@
 title: Crear reglas de precio del carro
 description: Obtenga información sobre cómo crear reglas de precios de carro de compras que apliquen descuentos en el carro de compras cuando se cumplan las condiciones definidas.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Las reglas de precios del carro de compras aplican descuentos a los artículos d
 * Crear reglas de precios de carro de compras y códigos de cupones opcionales.
 * Consulte cómo aparecen los descuentos en el carro de compras y en las promociones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410803?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Problemas de visualización de precios
 
@@ -154,5 +154,5 @@ sin embargo, si soltamos el tercer decimal, mostraría que se dieron 3,98 dólar
 
 ## Recursos adicionales
 
-* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/es/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/es/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Crear una regla de precio de carro de compras:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Códigos de cupón - [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

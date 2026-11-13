@@ -4,7 +4,7 @@ description: Aprenda a crear reglas de precios de catálogo que ofrezcan product
 doc-type: Feature Video
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Personalization, Shopping Cart, Price Rules
 topic: Commerce, Administration
 role: Admin, User
@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -58,9 +58,9 @@ Las reglas de precios de catálogo se pueden utilizar para ofrecer productos a l
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410847?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## Recursos adicionales
 
-* [Crear una regla de precio de catálogo:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=es)
-* [Regla de precios de catálogo con varios SKU:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=es)
+* [Crear una regla de precio de catálogo:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [Regla de precios de catálogo con varios SKU:  [!DNL Commerce] Guía de promociones y comercialización](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

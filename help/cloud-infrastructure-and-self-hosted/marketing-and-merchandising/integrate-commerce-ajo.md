@@ -7,7 +7,7 @@ role: Admin, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 570
-last-substantial-update: 2024-01-17T00:00:00.000Z
+last-substantial-update: 2024-01-17
 jira: KT-14793
 thumbnail: 3426855.jpeg
 exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
@@ -52,14 +52,14 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 ---
 # Integración de Adobe Commerce y Adobe Journey Optimizer
 
-Aprenda a utilizar [Conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=es){target="blank"} en Adobe Commerce para desbloquear datos de Commerce y ofrecer experiencias de cliente personalizadas e integrales en tiempo real con la ayuda de Adobe Journey Optimizer.
+Aprenda a utilizar [Conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} en Adobe Commerce para desbloquear datos de Commerce y ofrecer experiencias de cliente personalizadas e integrales en tiempo real con la ayuda de Adobe Journey Optimizer.
 
 ## ¿Para quién es este vídeo?
 
@@ -76,9 +76,9 @@ Aprenda a utilizar [Conexión de datos](https://experienceleague.adobe.com/docs/
 * En Adobe Journey Optimizer, cree y active fácilmente recorridos de cliente 1:1 con eventos predeterminados disponibles con la conexión de datos
 * Interactúe con los compradores en todos los canales en tiempo real mediante las funciones de mensajería nativas de Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3452467?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
 
 ## Recursos adicionales
 
-[Información general sobre la conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=es){target="_blank"}
-[Instalar conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=es){target="_blank"}
+[Información general sobre la conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[Instalar conexión de datos](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
