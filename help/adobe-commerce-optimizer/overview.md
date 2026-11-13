@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 242
-last-substantial-update: 2025-03-06T00:00:00.000Z
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 autotag-review: '2026-08-11T18:59:26.597Z'
@@ -32,7 +32,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -53,11 +53,11 @@ Adobe Commerce Optimizer mejora las plataformas de comercio existentes al propor
 * Integración perfecta con ERP, CRM, OMS y otros sistemas existentes sin necesidad de volver a plataformas.
 * Escala operaciones digitales
 
->[!VIDEO](https://video.tv.adobe.com/v/3450466?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## Continuar aprendiendo
 
-* [Comparar opciones de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Comparar opciones de Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [Cree su primera instancia de Adobe Commerce Optimizer](./create-first-instance.md)
 * [Administrar instancias de Adobe Commerce Optimizer](./managing-instances.md)
 * [Ingesta de datos de muestra](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer mejora las plataformas de comercio existentes al propor
 
 ## Recursos adicionales
 
-[Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/es/docs/commerce/optimizer/overview){target="_blank"}
+[Guía de [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 

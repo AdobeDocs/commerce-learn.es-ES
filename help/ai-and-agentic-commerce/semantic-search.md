@@ -4,7 +4,7 @@ description: Descubra cómo la búsqueda semántica de Adobe Commerce interpreta
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21573
 duration: 192
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -40,9 +40,9 @@ La búsqueda tradicional de palabras clave coincide con palabras exactas, pero l
 * Ejemplos reales de la intención del comprador y de la relevancia de búsqueda mejorada
 * Ventajas clave: mayor relevancia, menos búsquedas sin resultados y mejores experiencias de comprador
 
->[!VIDEO](https://video.tv.adobe.com/v/3492308?captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## Recursos adicionales
 
-- Para implementaciones en Adobe Commerce en la nube, local y Adobe Commerce as a Cloud Service, consulte [[!DNL Live Search] búsqueda semántica](https://experienceleague.adobe.com/es/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} en la _Guía de Live Search_.
-- Para implementaciones que usan Adobe Commerce Optimizer, consulte [Búsqueda semántica](https://experienceleague.adobe.com/es/docs/commerce/optimizer/setup/semantic-search){target="_blank"} en la _Guía de Commerce Optimizer_.
+- Para implementaciones en Adobe Commerce en la nube, local y Adobe Commerce as a Cloud Service, consulte [[!DNL Live Search] búsqueda semántica](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} en la _Guía de Live Search_.
+- Para implementaciones que usan Adobe Commerce Optimizer, consulte [Búsqueda semántica](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"} en la _Guía de Commerce Optimizer_.
