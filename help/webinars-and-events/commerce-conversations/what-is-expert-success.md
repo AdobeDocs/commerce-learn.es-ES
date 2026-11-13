@@ -52,4 +52,4 @@ Obtenga informaciÃ³n sobre el success plan experto en Adobe Commerce. Obtenga mÃ
 * Tres canales de asistencia.
 * Destinos de nivel de servicio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505670?captions=spa&learn=on)

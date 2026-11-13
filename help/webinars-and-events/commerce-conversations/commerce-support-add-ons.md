@@ -54,4 +54,4 @@ Adobe Commerce proporciona una asistencia al cliente completa a través de vario
 * Descubra qué son los complementos disponibles.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505275?captions=spa&learn=on)
