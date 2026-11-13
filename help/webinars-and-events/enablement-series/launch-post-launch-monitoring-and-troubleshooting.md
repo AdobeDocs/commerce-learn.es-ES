@@ -1,6 +1,6 @@
 ---
-title: Monitorización y solución de problemas continuos de Adobe Commerce launch y posterior al lanzamiento
-description: Conozca las prácticas recomendadas y sugerencias para preparar e iniciar un sitio web. Obtenga información sobre cómo elegir el entorno de ensayo adecuado, proporcionar detalles relevantes en los vales de soporte y utilizar la misma herramienta de monitorización que el equipo de asistencia para mejorar la comunicación.
+title: Iniciar, monitorizar y solucionar problemas de Adobe Commerce Cloud
+description: Obtenga información sobre cómo preparar, iniciar, supervisar y solucionar problemas de Adobe Commerce Cloud mediante entornos de ensayo, vales de soporte detallados y herramientas de monitorización compartidas.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 old-role: Architect, Data Architect, Leader
@@ -41,9 +41,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '388'
 ht-degree: 0%
 ---
 # Iniciar, monitorizar y solucionar problemas de Adobe Commerce Cloud
@@ -66,5 +66,11 @@ Este seminario web proporciona varias prácticas recomendadas y sugerencias para
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428990?learn=on)
+
+## Tutoriales relacionados
+
+* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infraestructura en la nube y autoalojamiento: alertas de New Relic](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Creación de una solicitud de asistencia](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
