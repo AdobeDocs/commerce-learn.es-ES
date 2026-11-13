@@ -109,6 +109,6 @@ App Builder proporciona vídeos y documentación para desarrolladores de, inclui
 
 ## Ejemplo específico de la oferta
 
-Para una integración de Adobe Commerce Optimizer creada en App Builder, siga el [Starter Kit de Salesforce Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). La serie abarca la arquitectura, la instalación de cartuchos de Salesforce, el kit de inicio de App Builder y una demostración completa.
+Para una integración de Adobe Commerce Optimizer creada en App Builder, siga el [Starter Kit de Salesforce Commerce Cloud](https://experienceleague.adobe.com/es/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). La serie abarca la arquitectura, la instalación de cartuchos de Salesforce, el kit de inicio de App Builder y una demostración completa.
 
 {{$include /help/_includes/app-builder-related-links.md}}
