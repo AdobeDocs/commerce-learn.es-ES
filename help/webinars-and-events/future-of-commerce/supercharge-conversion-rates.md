@@ -56,9 +56,9 @@ Descubra cómo Adobe Commerce está transformando las tiendas digitales con herr
 
 ## Tutoriales relacionados
 
-* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service: creación de contenido de IA generativa](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service: experimentación de tiendas](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [tienda Commerce en Edge Delivery Services: experiencia del comprador](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: creación de contenido de IA generativa](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: experimentación de tiendas](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## Vídeos adicionales de esta serie
 

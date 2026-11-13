@@ -69,8 +69,8 @@ Este seminario web proporciona varias prácticas recomendadas y sugerencias para
 
 ## Tutoriales relacionados
 
-* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Infraestructura en la nube y autoalojamiento: alertas de New Relic](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
-* [Creación de una solicitud de asistencia](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infraestructura en la nube y alojamiento propio: lista de comprobación previa al lanzamiento](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infraestructura en la nube y autoalojamiento: alertas de New Relic](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Creación de una solicitud de asistencia](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
