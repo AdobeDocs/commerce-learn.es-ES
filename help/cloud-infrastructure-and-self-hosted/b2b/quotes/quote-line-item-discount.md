@@ -65,6 +65,6 @@ Para ver el flujo de trabajo de la API, consulte [Cotizar descuentos de elemento
 
 ## Contenido de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445588?captions=spa&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
